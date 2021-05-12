@@ -1,0 +1,4813 @@
+d
+e
+z
+i
+r
+o
+h
+t
+u
+A
+ 
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+i
+
+l
+
+i
+l
+
+b
+u
+P
+
+d
+e
+z
+i
+r
+o
+h
+t
+u
+A
+ 
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+i
+
+l
+
+i
+l
+
+b
+u
+P
+
+d
+e
+z
+i
+r
+o
+h
+
+t
+
+ 
+
+u
+A
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+i
+
+l
+
+i
+l
+
+b
+u
+P
+
+d
+e
+z
+i
+r
+o
+h
+t
+u
+A
+ 
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+i
+
+l
+
+i
+l
+
+b
+u
+P
+
+From: "Saved by Windows Internet Explorer 7"
+Subject: 
+Date: Tue, 6 Apr 2010 11:24:17 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+
+charset="Windows-1252"
+
+Content-Transfer-Encoding: quoted-printable
+Content-Location: 
+http://wbln0036.worldbank.org/85256BB4005F2262/(NotesContentView)/85256BB4005F2262852576FC0
+049AC7B?OpenDocument
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6001.18049
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; 
+charset=windows-1252">
+<META http-equiv=PRAGMA content=NO-CACHE>
+<SCRIPT language=JavaScript type=text/javascript>(cid:0)
+<!-- (cid:0)
+document._domino_target = "_self";(cid:0)
+function _doClick(v, o, t) {(cid:0)
+  var returnValue = false;(cid:0)
+  var 
+url="/__85256bb4005f2262.nsf/(NotesContentView)/85256bb4005f2262852576f
+c0049ac7b?OpenDocument&Click=" + v;(cid:0)
+  if (o.href != null) {(cid:0)
+  o.href = url;(cid:0)
+ 
+  } else {(cid:0)
+ 
+ 
+  window.open(url, t);(cid:0)
+  }(cid:0)
+  return returnValue;(cid:0)
+}(cid:0)
+// -->(cid:0)
+</SCRIPT>
+
+t = document._domino_target;(cid:0)
+
+returnValue = true;(cid:0)
+
+if (t == null)(cid:0)
+
+<META content="MSHTML 6.00.6001.18385" name=GENERATOR></HEAD>
+<BODY text=#000000 bgColor=#ffffff>
+<FORM action="">
+<SCRIPT language=JavaScript>(cid:0)
+document.domain="worldbank.org"(cid:0)
+</SCRIPT>
+<!-Table  to CENTER PAGE-!>
+<TABLE cellSpacing=0 cellPadding=0 width="90%" border=0>
+  <TBODY>
+  <TR>
+  <TD width="3%" rowSpan=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+  <TD width="97%">
+ 
+bgColor=#eeeeee 
+ 
+border=0>
+ 
+ 
+ 
+
+<TABLE class=tPad cellSpacing=0 cellPadding=0 width="90%" 
+
+<TD bgColor=#ffffff><BR><TT><FONT 
+
+<TBODY>
+<TR>
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;LOAN NUMBER 3137 
+EGT</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Loan 
+Agreement</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(Engineering and Technical Education 
+Project)</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+between</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ARAB REPUBLIC OF 
+EGYPT</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AND 
+DEVELOPMENT</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dated May 29, 
+1990</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; and</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp;INTERNATIONAL BANK FOR 
+RECONSTRUCTION</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+AND DEVELOPMENT (the Bank).</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp;LOAN NUMBER 3137 EGT</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;AGREEMENT dated May 29, 1990, between ARAB 
+
+EGYPT (the Borrower) and INTERNATIONAL BANK 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LOAN 
+AGREEMENT</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;WHEREAS the Borrower, having satisfied itself as 
+
+feasibility and priority of the Project described 
+
+to this Agreement, has requested the Bank to<BR>assist in 
+
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+REPUBLIC<BR>OF 
+ 
+FOR<BR>RECONSTRUCTION 
+ 
+ 
+&nbsp; 
+ 
+to<BR>the 
+ 
+in<BR>Schedule 2 
+ 
+the 
+ 
+ 
+&nbsp; 
+ 
+inter<BR>alia, of 
+ 
+the terms 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+to<BR>Loan 
+ 
+1985, 
+ 
+General 
+ 
+ 
+ 
+&nbsp; 
+ 
+
+financing of the Project;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;WHEREAS the Bank has agreed, on the basis, 
+
+the foregoing, to extend the Loan to the<BR>Borrower upon 
+
+and conditions set forth in 
+this<BR>Agreement;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;NOW THEREFORE the parties hereto hereby agree 
+as<BR>follows:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;ARTICLE I</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; General Conditions; 
+definitions</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 1.01. The "General Conditions Applicable 
+
+and Guarantee Agreements" of the Bank, dated January<BR>1, 
+
+with the last sentence of Section 3.02 deleted<BR>(the 
+
+Conditions) constitute an integral part of<BR>this 
+Agreement.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 1.02. Unless the context otherwise 
+
+several terms defined in the General Conditions have<BR>the 
+respective meanings therein set forth and the<BR>following 
+additional terms have the following 
+meanings:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;"MOE" means the Ministry of Education of 
+the<BR>Borrower;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;"MOHE" means the Ministry of Higher 
+
+the Borrower;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+requires,<BR>the 
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+Education<BR>of 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+
+&nbsp;(c) &nbsp;"Project Director" means either of the 
+Project<BR>Directors referred to in Parts (2) (a) and 3 (a) 
+of<BR>Schedule 5 to this Agreement;</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(d) &nbsp;"Sub-Project" means a specific 
+development<BR>project for an engineering college, approved 
+
+Part<BR>A (1) and (2) of the Project pursuant to the 
+provisions<BR>of Part (2) (b) of schedule 5 to this 
+Agreement;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(e) &nbsp;"PIU" means the Project Implementation Unit 
+
+ 
+&nbsp; 
+ 
+ 
+under 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+to<BR>be 
+ 
+the 
+ 
+ 
+ 
+&nbsp; 
+ 
+Colleges<BR>to 
+be established under Part B of the 
+ 
+Project;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(g) &nbsp;"Special Account" means the account referred 
+
+provisions of Part (1) of Schedule 5 to 
+this<BR>Agreement;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(f) &nbsp;"IECs" means the Industrial Education 
+
+established and maintained within MOHE in accordance<BR>with 
+
+size=2>&nbsp; &nbsp; &nbsp;(h) &nbsp;"EEPG" means the 
+
+to<BR>in Section 2.02 (b) of this Agreement; 
+and</FONT></TT><BR><TT><FONT 
+
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+engineering 
+ 
+Schedule 5 
+ 
+ 
+&nbsp; &nbsp; 
+
+education program<BR>group referred to in Part 2 (b) of 
+
+to this<BR>Agreement.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+ARTICLE 
+ 
+II</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;The Loan</FONT></TT><BR><TT><FONT 
+
+of<BR>the date of such withdrawal.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 2.01. The Bank agrees to lend to 
+
+the terms and conditions set forth or<BR>referred to in the 
+
+Agreement, various currencies<BR>that shall have an 
+
+equivalent to the<BR>amount of thirty million five hundred 
+
+dollars<BR>($30,500,000) as the sum of withdrawals of the 
+proceeds<BR>of the Loan with each withdrawal valued by the 
+
+ 
+&nbsp; 
+ 
+the<BR>Borrower, on 
+ 
+Loan 
+ 
+aggregate value 
+ 
+thousand 
+ 
+ 
+Bank as 
+ 
+ 
+&nbsp; 
+ 
+be<BR>withdrawn 
+ 
+of 
+ 
+if the 
+ 
+reasonable 
+ 
+described in 
+ 
+the 
+ 
+ 
+&nbsp; 
+ 
+ 
+account<BR>in 
+ 
+conditions<BR>satisfactory 
+ 
+Special 
+ 
+of 
+ 
+ 
+&nbsp; 
+ 
+30,<BR>1996, or 
+ 
+shall 
+ 
+
+&nbsp;Section 2.02. (a) The amount of the Loan may 
+
+from the Loan Account in accordance with the<BR>provisions 
+
+Schedule 1 to this Agreement for<BR>expenditures made (or, 
+
+Bank shall so agree, to be<BR>made) in respect of the 
+
+cost of goods and<BR>services required for the Project 
+
+Schedule<BR>2 to this Agreement and to be financed out of 
+
+pro-<BR>ceeds of the Loan.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;The Borrower may, for the purposes of 
+the<BR>Project, open and maintain in dollars a special 
+
+the National Bank of Egypt, on terms and 
+
+to the Bank. Deposits into, and payments out<BR>of, the 
+
+Account shall be made in accordance with<BR>the provisions 
+
+Schedule 6 to this Agreement.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 2.03. The Closing Date shall be June 
+
+such later date as the Bank shall establish. The<BR>Bank 
+
+promptly notify the Borrower of such 
+
+later<BR>date.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 2.04. The Borrower shall pay to the Bank 
+a<BR>commitment charge at the rate of three-fourths of 
+one<BR>percent (3/4 of 1%) per annum on the principal amount 
+
+of<BR>the Loan not withdrawn from time to 
+time.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 2.05. (a) The Borrower shall pay interest 
+
+principal amount of the Loan withdrawn and<BR>outstanding 
+
+to time, at a rate for each<BR>Interest Period equal to the 
+
+Qualified Borrowings<BR>determined in respect of the 
+
+Semester, plus<BR>one-half of one percent (1/2 of 1%). On 
+
+the dates<BR>specified in Section 2.06 of this Agreement, 
+
+Borrower<BR>shall pay interest accrued on the principal 
+amount<BR>outstanding during the preceding Interest 
+Period,<BR>calculated at the rate applicable during such 
+Interest<BR>Period.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;As soon as practicable after the end of 
+each<BR>Semester, the Bank shall notify the Borrower of the 
+Cost<BR>of Qualified Borrowings determined in respect of 
+such<BR>Semester.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(c) &nbsp;For the purposes of this 
+Section:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (i) &nbsp;"Interest Period" means a 
+six-month</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;period ending on the date 
+immediately</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;preceding each date 
+
+Section</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;2.06 of this Agreement, beginning 
+
+with</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the Interest Period in which 
+this</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+ 
+&nbsp; 
+ 
+ 
+ 
+
+ 
+ 
+ 
+&nbsp; 
+ 
+on<BR>the 
+ 
+from time 
+ 
+Cost of 
+ 
+preceding 
+ 
+each of 
+ 
+the 
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+specified in 
+ 
+&nbsp; &nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Agreement is 
+signed.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (ii) "Cost of Qualified Borrowings" means 
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;cost, as reasonably determined by 
+
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Bank and expressed as a 
+
+per</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;annum, of the outstanding 
+
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the Bank drawn down after June 
+
+1982,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;excluding such borrowings or 
+portions</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;thereof as the Bank has allocated 
+
+to</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;fund: (A) the Bank’s investments; 
+
+(B)</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;loans which may be made by the 
+
+after</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;July 1, 1989 bearing interest 
+rates</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;determined otherwise than as 
+
+in</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;paragraph (a) of this 
+Section.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (iii) &nbsp; &nbsp; "Semester" means the first 
+
+six</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; months or the 
+
+months of a</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+percentage 
+ 
+&nbsp; 
+ 
+borrowings 
+ 
+&nbsp; 
+ 
+30, 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+and 
+ 
+&nbsp; 
+ 
+Bank 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+provided 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+second six 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; calendar 
+year.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(d) &nbsp;On such date as the Bank may specify by no 
+less<BR>than six months’ notice to the Borrower, paragraphs 
+(a),<BR>(b) and (c) (iii) of this Section shall be amended 
+to<BR>read as follows:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; "(a) The Borrower shall pay interest on 
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+amount of the Loan withdrawn and</FONT></TT><BR><TT><FONT 
+size=2>&nbsp; &nbsp; &nbsp;outstanding from time to time, 
+
+for each</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp;principal 
+ 
+ 
+at a rate 
+ 
+&nbsp;Quarter 
+ 
+equal to the Cost of Qualified 
+Borrowings</FONT></TT><BR><TT><FONT 
+ 
+preceding 
+ 
+&nbsp;plus 
+ 
+ 
+&nbsp;of the 
+ 
+this</FONT></TT><BR><TT><FONT 
+ 
+pay 
+ 
+&nbsp; 
+ 
+ 
+&nbsp;preceding 
+ 
+Interest Period, calculated at the 
+rates</FONT></TT><BR><TT><FONT 
+ 
+
+dates specified in Section 2.06 of 
+
+size=2>&nbsp; &nbsp; &nbsp;Agreement, the Borrower shall 
+
+interest accrued</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;on the principal amount outstanding during 
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp;determined in respect of the 
+
+Quarter,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+one-half of one percent (1/2 of 1%). On 
+each</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp;applicable during such Interest 
+
+Period."</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; "(b) As soon as practicable after the end 
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+the Bank shall notify the Borrower 
+
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp;each Quarter, 
+ 
+of</FONT></TT><BR><TT><FONT 
+ 
+Borrowings 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp;the Cost of Qualified 
+
+determined in</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;respect of such Quarter."</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; "(c) (iii) ’Quarter’ means a 
+three-month</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+&nbsp;period commencing on January 1, April 1, July 1 
+or</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+a calendar year."</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(e) &nbsp;Notwithstanding the provisions of paragraph 
+(a)<BR>of this Section, the interest rate for the 
+
+commencing in the first Semester of 1990 shall be<BR>seven 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 2.06. Interest and other charges shall 
+
+semiannually on June 1 and December 1 in 
+each<BR>year.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 2.07. The Borrower shall repay the 
+
+of the Loan in accordance with the amortization<BR>schedule 
+
+forth in Schedule 3 to this 
+
+ 
+ 
+ 
+&nbsp;October 1 in 
+ 
+ 
+&nbsp; 
+ 
+ 
+Interest<BR>Period 
+ 
+and 
+sixty-five hundredths percent 
+ 
+(7.65%).</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+be<BR>payable 
+ 
+ 
+ 
+&nbsp; 
+ 
+principal<BR>amount 
+ 
+set 
+ 
+Agreement.</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; &nbsp; 
+ 
+ARTICLE 
+ 
+III</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+ 
+ 
+&nbsp; 
+ 
+its<BR>commitment to 
+ 
+to this 
+ 
+through 
+ 
+with 
+ 
+practices, 
+ 
+ 
+services and 
+ 
+ 
+ 
+&nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;Execution of the Project</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 3.01. (a) The Borrower declares 
+
+the objectives of the Project as set forth<BR>in Schedule 2 
+
+Agreement, and, to this end, shall<BR>carry out the Project 
+
+MOHE with due diligence and<BR>efficiency and in conformity 
+
+appropriate technical,<BR>financial and administrative 
+
+and shall provide<BR>by MOHE, promptly as needed, the funds 
+(including the<BR>proceeds of the Loan), facilities, 
+
+other<BR>resources required for the 
+Project.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp;(b) &nbsp;Without limitation upon the provisions 
+of<BR>paragraph (a) of this Section and except as the 
+Borrower<BR>and the Bank shall otherwise agree, the Borrower 
+
+ 
+ 
+
+shall<BR>carry out the Project in accordance with 
+the<BR>Implementation Program set forth in Schedule 5 to 
+this<BR>Agreement.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 3.02. Except as the Bank shall 
+
+procurement of the goods and consultants’ 
+
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+otherwise<BR>agree, 
+ 
+services<BR>required for 
+ 
+Loan 
+ 
+
+the Project and to be financed out of the<BR>proceeds of the 
+
+shall be governed by the provisions<BR>of Schedule 4 to this 
+
+Agreement.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; Financial Covenants</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 4.01. (a) The Borrower shall cause MOHE 
+
+records and accounts adequate to reflect in<BR>accordance 
+
+accounting practices the<BR>operations, resources and 
+
+in respect of the<BR>Project of the departments or agencies 
+
+Borrower<BR>responsible for carrying out the Project or any 
+part<BR>thereof.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;The Borrower shaLl cause MOHE 
+to:</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (i) &nbsp;have 
+
+and accounts referred to</FONT></TT><BR><TT><FONT 
+
+IV</FONT></TT><BR><TT><FONT 
+
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ARTICLE 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+to<BR>maintain 
+ 
+with sound 
+ 
+expenditures 
+ 
+of the 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+the records 
+ 
+size=2>&nbsp; 
+ 
+(a) of 
+ 
+&nbsp; 
+ 
+Special 
+ 
+&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;in paragraph 
+
+this Section</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;including those for the 
+
+Account</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;and the maintenance account. 
+
+to</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;in paragraph (2) (b) (iv) of 
+
+5</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp;to this Agreement, for each fiscal 
+year</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;audited, in accordance with 
+appropriate</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;auditing principles 
+
+applied</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;by independent auditors 
+
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Bank;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+referred 
+ 
+&nbsp; 
+ 
+Schedule 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+consistently 
+ 
+&nbsp; &nbsp; 
+ 
+acceptable to 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+than six 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+auditors, 
+ 
+&nbsp; 
+ 
+the 
+ 
+&nbsp; 
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+the audit 
+
+&nbsp; &nbsp; (ii) furnish to the Bank as soon as 
+available,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;but in any case not later 
+
+months</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;after the end Of each such year, 
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;report of such audit by said 
+
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;such scope and in such detail as 
+
+&nbsp; &nbsp; &nbsp; &nbsp;shall have reasonably requested; 
+and</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (iii) &nbsp; 
+
+furnish to the Bank such other</FONT></TT><BR><TT><FONT 
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; information concerning said 
+records</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and accounts and 
+
+Bank</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+thereof</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; as the Bank shall 
+
+time to time</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; reasonably 
+request.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(c) &nbsp;For all expenditures with respect to 
+which<BR>withdrawals from the Loan Account were made on the 
+Basis<BR>of statements of expenditure, the Borrower shall 
+cause<BR>MOHE to:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (i) &nbsp;maintain, in accordance with 
+paragraph</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(a) of this Section, 
+
+accounts</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;reflecting such 
+expenditures;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (ii) retain, until at least one year after 
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Bank has received the audit 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the fiscal year in which the 
+last</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;withdrawal from the Loan Account 
+was</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;made, all records (contracts, 
+orders,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;invoices, bills, receipts and 
+other</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;documents) evidencing such 
+expenditures;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (iii) &nbsp; &nbsp; enable the Bank’s 
+
+to</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; examine such 
+
+&nbsp; &nbsp; 
+ 
+from 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+records and 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+report 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+representatives 
+ 
+&nbsp; 
+ 
+records; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (iv) ensure that 
+
+records and accounts are</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;included in 
+
+annual audit referred to</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;in paragraph 
+
+this Section and that</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;the report of such 
+
+contains a</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;separate opinion by said 
+
+as to</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;whether the statements of 
+expenditure</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;submitted during such 
+
+year,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;together with the procedures and 
+internal</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;controls involved in their 
+preparation,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+and</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+such 
+ 
+size=2>&nbsp; 
+ 
+the 
+ 
+size=2>&nbsp; 
+ 
+(b) of 
+ 
+size=2>&nbsp; &nbsp; 
+ 
+audit 
+ 
+&nbsp; 
+ 
+auditors 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+fiscal 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+support the 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp;withdrawals.</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+
+&nbsp; &nbsp; &nbsp; 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;ARTICLE V</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; Effective Date; 
+Termination</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 5.01. The following events are specified 
+as<BR>additional conditions for the effectiveness of the 
+Loan<BR>Agreement within the meaning of Section 12.01 (c) of 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;can be relied upon to 
+
+related</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+ 
+
+the<BR>General Conditions:</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;the PIU has been established and the 
+Project<BR>Directors have been appointed pursuant to the 
+provisions<BR>of Part (1), (2) (a), and (3) (a) of Schedule 
+
+this<BR>Agreement; and</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;MOHE has acquired, for purposes of Part B 
+
+Training in Kubba.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 5.02. The date 120 days after the date 
+
+Agreement is hereby specified for the purposes of<BR>Section 
+
+of the General Conditions.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+VI</FONT></TT><BR><TT><FONT 
+
+Project, the Cairo Technical School for 
+
+&nbsp; 
+ 
+ 
+ 
+5 to 
+ 
+ 
+&nbsp; 
+ 
+of<BR>the 
+ 
+Workshop<BR>Instructors 
+ 
+ 
+&nbsp; 
+ 
+of<BR>this 
+ 
+12.04 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ARTICLE 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+Borrower; 
+ 
+ 
+&nbsp; 
+ 
+for<BR>International 
+ 
+Finance 
+ 
+Borrower 
+ 
+ 
+ 
+&nbsp; 
+ 
+specified<BR>for the 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+
+&nbsp;Section 6.01. The Minister of State 
+
+Cooperation or the First Undersecretary for<BR>International 
+
+of the Borrower is designated as<BR>representative of the 
+
+for the purposes of<BR>Section 11.03 of the General 
+Conditions.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Section 6.02. The following addresses are 
+
+purposes of Section 11.01 of the 
+General<BR>Conditions:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;For the Borrower:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; Ministry of International 
+Cooperation</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; (International Finance 
+Sector)</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp;Representative of the 
+
+Addresses</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;For the Bank:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; 8 Adly Street</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; Cairo, Egypt</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; Cable address: &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp;Telex:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ministry of International 
+
+&nbsp; &nbsp; 927-23348</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+Cooperation</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; International Bank 
+
+&nbsp; &nbsp; 
+ 
+size=2>&nbsp; &nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; 
+ 
+ 
+&nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; 
+ 
+&nbsp;Cairo</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+for</FONT></TT><BR><TT><FONT 
+ 
+ 
+Development</FONT></TT><BR><TT><FONT 
+ 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+size=2>&nbsp; &nbsp; 
+ 
+&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; United States of 
+America</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; Cable address: &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp;Telex:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;INTBAFRAD &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;197688 
+(TRT),</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Washington, D.C. &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;248423<BR>(RCA),</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;Reconstruction and 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1818 H Street, 
+N.W.</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; Washington, D.C. 20433</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp;64145 (WUI) or</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp;82987 (FTCC)</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+WITNESS WHEREOF, the parties hereto, acting<BR>through their 
+
+authorized representatives, have<BR>caused this Agreement to 
+
+signed in their respective<BR>names in the District of 
+
+United States of<BR>America, as of the day and year first 
+
+written.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ARAB REPUBLIC OF 
+EGYPT</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; 
+ 
+size=2>&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp;IN 
+ 
+duly 
+ 
+be 
+ 
+Columbia, 
+ 
+above 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+Representative</FONT></TT><BR><TT><FONT 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+
+&nbsp;Acting Regional Vice 
+
+&nbsp; &nbsp; Authorized 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;INTERNATIONAL BANK 
+FOR</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; RECONSTRUCTION AND 
+DEVELOPMENT</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;By /s/ A. 
+Stoutjesdijk</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;By /s/ E. El 
+Reedy</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; Withdrawal of the 
+
+Loan</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>1. &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp;Europe, Middle East and North 
+Africa</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+below sets forth the Categories of items<BR>to be financed 
+
+the proceeds of the Loan, the<BR>allocation of the amounts 
+
+Loan to each Category<BR>and the percentage of expenditures 
+
+items so to be<BR>financed in each 
+Category:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+of the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Loan 
+
+&nbsp; &nbsp; &nbsp; % of</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp;(Expressed in &nbsp; 
+Expenditures</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+President</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+SCHEDULE 
+1</FONT></TT><BR><TT><FONT 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+Proceeds of the 
+ 
+The table 
+ 
+out of 
+ 
+of the 
+ 
+for 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp;Amount 
+ 
+&nbsp; &nbsp; 
+ 
+Allocated 
+ 
+size=2>&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp;Category 
+ 
+ 
+of the 
+ 
+&nbsp; 
+ 
+ 
+&nbsp;(a) Goods 
+ 
+&nbsp; 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+
+Project:</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>(1) 
+
+&nbsp;Part A (1):</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12,800,000 &nbsp; &nbsp; 
+
+100% of foreign</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+expenditures,</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; Dollar Equivalent)to be 
+Financed</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>Part A 
+
+&nbsp; 
+ 
+of 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+(ex-factory 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+expenditures 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp;(b) 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp;(c) Staff 
+ 
+ 
+&nbsp;Part 
+ 
+ 
+&nbsp;Goods, 
+ 
+&nbsp; 
+ 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 100% 
+
+local</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+expenditures</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+cost)</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and 80% of 
+local</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; other items 
+
+pro-</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cured 
+locally</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+Experts’ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 700,000 &nbsp; 
+
+&nbsp; 100%</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp;services</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+training &nbsp; 1,300,000 &nbsp; &nbsp; &nbsp; 
+100%</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>(2) &nbsp; 
+
+A (2):</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+experts’ &nbsp; &nbsp; &nbsp; &nbsp;300,000 &nbsp; &nbsp; 
+
+100% of payments</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+&nbsp;services and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; 
+ 
+ 
+&nbsp;training 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; the 
+ 
+&nbsp; 
+ 
+ 
+&nbsp;(a) Goods 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 100% 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+(ex-factory 
+ 
+&nbsp; 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; made for 
+expendi-</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tures during 
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; first two 
+years<BR>of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+implementation of</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+Sub-Project</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>(3) 
+
+&nbsp;Part A (3):</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;100,000 
+
+&nbsp; &nbsp; 100% of foreign</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; expenditures,</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+of local</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+expenditures</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+cost)</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+expenditures 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and 80% of 
+local</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; other items 
+
+pro-</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cured 
+locally</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+Experts’ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 700,000 &nbsp; 
+
+&nbsp; 100%</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp;(b) 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+size=2>&nbsp;<BR>(4) &nbsp; 
+ 
+ 
+&nbsp;(a) Goods 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+of 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+(ex-factory 
+
+&nbsp;services</FONT></TT><BR><TT><FONT 
+
+&nbsp;Part (b) of the Project:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8,600,000 &nbsp; 
+
+&nbsp; 100% of foreign</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+expenditures,</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 100% 
+
+local</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+expenditures</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+expenditures 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+
+cost)</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and 80% of 
+local</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; other items 
+
+pro-</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp;(b) 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp;(c) Staff 
+ 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; For 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+means<BR>expenditures 
+ 
+supplied 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cured 
+locally</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+Experts’ &nbsp; &nbsp; &nbsp; &nbsp; 1,000,000 &nbsp; &nbsp; 
+
+100%</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+&nbsp;services</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+training &nbsp; 2,100,000 &nbsp; &nbsp; &nbsp; 
+100%</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>(5) &nbsp; 
+&nbsp;Unallocated &nbsp; &nbsp; 
+&nbsp;2,900,000</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;TOTAL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+30,500,000</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>2. 
+
+the purposes of this Schedule:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;the term "foreign expenditures" 
+means<BR>expenditures in the currency of any country other 
+than<BR>that of the Borrower for goods or services supplied 
+from<BR>the territory of any country other than that of 
+the<BR>Borrower; and</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;the term "local expenditures" 
+
+in the currency of the Borrower or for goods<BR>or services 
+
+from the territory of the Borrower.</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+of the Project</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+size=2>&nbsp;<BR>3. &nbsp; Notwithstanding the provisions 
+
+paragraph 1 above,<BR>no withdrawals shall be made in 
+
+payments made<BR>for expenditures prior to the date of this 
+Agreement.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+of 
+ 
+respect of 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+SCHEDULE 
+ 
+2</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+Description 
+ 
+ 
+&nbsp; 
+ 
+making<BR>a major 
+ 
+and the 
+ 
+ 
+ 
+&nbsp; 
+ 
+subject<BR>to 
+ 
+may agree 
+ 
+ 
+size=2>&nbsp;<BR>Part 
+ 
+
+&nbsp;The objective of the Project is to assist in 
+
+reform in the quality of university engineering<BR>education 
+
+secondary and post-secondary 
+technical<BR>education.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;The Project consists of the following parts, 
+
+such modifications thereof as the Borrower and the<BR>Bank 
+
+upon from time to time to achieve 
+such<BR>objectives:</FONT></TT><BR><TT><FONT 
+
+A: University Engineering Education</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+ 
+&nbsp; &nbsp;A 
+ 
+education 
+ 
+with 
+ 
+equipment, 
+ 
+technical 
+ 
+undertaken 
+ 
+ 
+&nbsp; 
+ 
+ 
+colleges 
+ 
+ 
+ 
+from 
+
+program for modernization of university<BR>engineering 
+
+towards a more applied orientation<BR>and strong linkage 
+
+industry, through upgrading of<BR>facilities, laboratory 
+
+updating of curricuLa<BR>and instructional materials and 
+
+assistance.<BR>Sub-Projects under such program shall be 
+
+for<BR>the following purposes:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(1) &nbsp;specialized engineering development, 
+including:<BR>(i) the preparation for adoption by the 
+
+of<BR>engineering of: (A) new academic programs to 
+accommodate<BR>emerging fields of engineering, (B) 
+interdisciplinary<BR>programs combining knowledge and skills 
+
+two or more<BR>traditional engineering areas, (C) programs 
+
+improve<BR>the skills of engineers, and (D) programs to 
+upgrade<BR>engineering laboratories and workshops; and (ii) 
+the<BR>preparation and implementation of related 
+training<BR>fellowship programs.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(2) &nbsp;Maintenance of instructional facilities and 
+the<BR>training of maintenance coordinators and 
+technicians.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(3) &nbsp;Assistance to the engineering colleges in 
+the<BR>preparation of Sub-Projects under (1) and (2) 
+above.</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>Part B: 
+
+Technical Teacher Education 
+
+to 
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+Development</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+to<BR>improve 
+ 
+two<BR>practical and 
+ 
+development 
+ 
+materials 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+
+theoretical teaching streams), improve<BR>curriculum 
+
+methods, develop and produce high<BR>quality instructional 
+
+and increase the supply<BR>of technical teachers, 
+through:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Modernization of technical education so as 
+
+teaching methods (including the merger of the 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(1) &nbsp;The establishment and equipping of two 
+new<BR>industrial education colleges (IEDs) for the training 
+
+of<BR>technical teachers in (i) Cairo on the facilities of 
+the<BR>Technical School for Workshop Instructors Training 
+in<BR>Kubba, and (ii) Beni-Suef. IECs main functions 
+shall<BR>include (a) the preparation of technical 
+teachers<BR>required for MOE’s technical schools and 
+
+in<BR>upgrading the teaching staff of post-secondary 
+technical<BR>institutions, (b) the offering of programs for 
+improving<BR>the administration of technical education, (c) 
+the<BR>provision of support in the design, development 
+and<BR>evaluation of curriculum and the development 
+and<BR>production of instructional materials, and (d) 
+the<BR>establishment and maintenance of effective links 
+with<BR>industry.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(2) &nbsp;A program to ensure the timely and 
+proper<BR>functioning of the IECs, including (a) the 
+
+of<BR>training of qualified persons to assume the positions 
+
+ 
+ 
+ 
+ 
+ 
+assistance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+selection 
+ 
+
+of<BR>technical teacher trainers at the IECs; and (b) 
+the<BR>appointment of specialists to assist in the 
+design,<BR>teaching and evaluation of programs (including 
+the<BR>modernization of curricula), the preparation of 
+teaching<BR>aids, the development of assessment system and 
+the<BR>training of managers.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; * &nbsp; *</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;The Project is expected to be completed by 
+
+1995.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+ 
+ 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp;* 
+ 
+ 
+&nbsp; 
+ 
+December<BR>31, 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+SCHEDULE 
+ 
+3</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+size=2>&nbsp;<BR>June 1, 
+ 
+&nbsp; 
+ 
+1995 &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; &nbsp; 
+ 
+
+1995 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;555,000<BR>December 1, 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; 575,000<BR>June 1, 1996 &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp;600,000<BR>December 1, 1996 &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; 625,000<BR>June 1, 1997 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp;645,000<BR>December 1, 1997 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp;Amortization Schedule</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Payment of 
+Principal<BR>Date Payment Due &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(expressed 
+in<BR>dollars)*</FONT></TT><BR><TT><FONT 
+
+670,000<BR>June 1, 1998 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;700,000<BR>December 1, 1998 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+725,000<BR>June 1, 1999 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;755,000<BR>December 1, 1999 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+780,000<BR>June 1, 2000 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;810,000<BR>December 1, 2000 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+845,000<BR>June 1, 2001 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;875,000<BR>December 1, 2001 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+910,000<BR>June 1, 2002 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;945,000<BR>December 1, 2002 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+980,000<BR>June 1, 2003 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+1,020,000<BR>December 1, 2003 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;1,060,000<BR>June 1, 2004 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+1,100,000<BR>December 1, 2004 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;1,145,000<BR>June 1, 2005 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+1,190,000</FONT></TT><BR><TT><FONT size=2>December 1, 2005 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;1,235,000<BR>June 1, 2006 &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; 1,280,000<BR>December 1, 2006 &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp;1,330,000<BR>June 1, 2007 &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+1,380,000<BR>December 1, 2007 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;1,435,000<BR>June 1, 2008 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+1,490,000<BR>December 1, 2008 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;1,550,000<BR>June 1, 2009 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+1,610,000<BR>December 1, 2009 &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;1,680,000</FONT></TT><BR><TT><FONT 
+
+&nbsp;The &nbsp;figures in this column represent 
+dollar</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+&nbsp;equivalents determined as of &nbsp;the respective 
+dates</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+withdrawal. See General Conditions, 
+Sections</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+and 4.03.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Premiums on 
+Prepayment</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Pursuant to Section 3.04 (b) of the 
+
+premium payable on the principal amount<BR>of any maturity 
+
+Loan to be prepaid shall be the<BR>percentage specified for 
+
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+size=2>&nbsp;<BR>* &nbsp; 
+ 
+ 
+ 
+ 
+&nbsp;of 
+ 
+ 
+&nbsp;3.04 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; 
+ 
+General<BR>Conditions, the 
+ 
+of the 
+ 
+the 
+ 
+below:</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+
+applicable time of<BR>prepayment 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;Time of Prepayment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; Premium</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (expressed 
+
+a</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; percentage per annum)</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; The interest 
+
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+rate</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+as 
+ 
+&nbsp; &nbsp; 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; applicable to the Loan 
+on</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; the day of prepayment</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; multiplied 
+by:</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>Not more 
+
+years &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp;0.15</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+&nbsp;before maturity</FONT></TT><BR><TT><FONT 
+
+than three years but &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;0.30</FONT></TT><BR><TT><FONT 
+size=2>&nbsp; &nbsp; &nbsp;not more than six 
+years</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+maturity</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>More 
+
+ 
+&nbsp; 
+ 
+ 
+than three 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+size=2>&nbsp;<BR>More 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp;before 
+ 
+than six 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; 
+ 
+
+years but &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp;0.55</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp;not more than 11 years</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp;<BR>More than 11 years but not &nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp;before 
+
+ 
+maturity</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp;more than 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+0.80</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Procurement and 
+Consultants’ Services</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;<BR>Section I. &nbsp;Procurement of 
+Goods</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>Part A: 
+
+International Competitive Bidding</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+16 years</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+maturity</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>More 
+
+years but not &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; 0.90</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;more than 18 years</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp;before maturity</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;<BR>More than 18 years before &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;1.00</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+&nbsp;maturity</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp;before 
+ 
+than 16 
+ 
+&nbsp; 
+ 
+&nbsp; 
+ 
+size=2>&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+SCHEDULE 
+ 
+4</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+Sections 
+ 
+IBRD<BR>Loans 
+ 
+ 
+size=2>&nbsp;<BR>Part B: 
+ 
+ 
+ 
+&nbsp; &nbsp;In 
+ 
+the<BR>procedures 
+ 
+may be 
+ 
+subject 
+ 
+Guidelines 
+ 
+ 
+&nbsp; 
+ 
+ 
+
+&nbsp;Except as provided in Part C hereof, goods shall 
+be<BR>procured under contracts awarded in accordance 
+with<BR>procedures consistent with those set forth in 
+
+I<BR>and II of the "Guidelines for Procurement under 
+
+and IDA Credits" published by the Bank in May 1985<BR>(the 
+Guidelines).</FONT></TT><BR><TT><FONT 
+
+&nbsp; Preference for Domestic 
+Manufacturers</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+the procurement of goods in accordance with 
+
+described in Part A hereof, goods manufactured<BR>in Egypt 
+
+granted a margin of preference in<BR>accordance with, and 
+
+to, the provisions of<BR>paragraphs 2.55 and 2.56 of the 
+
+and paragraphs<BR>1 through 4 of Appendix 2 
+thereto.</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>Part C: 
+
+Other Procurement Procedures</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;<BR>1. &nbsp; Items of equipment estimated to 
+
+than the<BR>equivalent of $100,000 per contract, up to an 
+aggregate<BR>amount not to exceed the equivalent of 
+
+be<BR>procured under contracts awarded on the basis of 
+price<BR>quotations obtained from a list of at least 
+three<BR>suppliers eligible under the Guidelines in 
+accordance<BR>with procedures acceptable to the 
+Bank.</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>2. &nbsp; 
+
+consisting of technical books, video training<BR>films and 
+
+and other proprietary items,<BR>estimated in the aggregate 
+
+the equivalent of not<BR>more than $900,000, may be procured 
+
+direct<BR>negotiations with the suppliers thereof, on terms 
+and<BR>conditions satisfactory to the 
+
+size=2>&nbsp;<BR>Part D: &nbsp; Review by the Bank of 
+
+Decisions</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>1. 
+
+of invitations to bid and of proposed awards<BR>and final 
+contracts:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+cost less 
+ 
+ 
+$2,600,000, may 
+ 
+ 
+ 
+ 
+ 
+Items 
+ 
+materials 
+ 
+to cost 
+ 
+through 
+ 
+ 
+Bank.</FONT></TT><BR><TT><FONT 
+ 
+Procurement 
+ 
+&nbsp; Review 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+shall 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+by<BR>the 
+ 
+in<BR>paragraphs 3 and 
+ 
+payments for 
+ 
+said 
+ 
+conformed 
+ 
+information 
+ 
+paragraph 
+ 
+
+&nbsp;(a) &nbsp;With respect to each contract estimated to 
+cost<BR>the equivalent of $100,000 or more, the procedures 
+set<BR>forth in paragraphs 2 and 4 of Appendix 1 to 
+the<BR>Guidelines shall apply. Where payments for such 
+contract<BR>are to be made out of the Special Account, 
+such<BR>procedures shall be modified to ensure that the 
+two<BR>conformed copies of the contract required to be 
+furnished<BR>to the Bank pursuant to said paragraph 2 (d) 
+
+be<BR>furnished to the Bank prior to the making of the 
+first<BR>payment out of the Special Account in respect of 
+such<BR>contract.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;With respect to each contract not governed 
+
+preceding paragraph, the procedures set forth 
+
+4 of Appendix 1 to the Guidelines shall<BR>apply. Where 
+
+such contract are to be made<BR>out of the Special Account, 
+
+procedures shall be<BR>modified to ensure that the two 
+
+copies of the<BR>contract together with the other 
+
+required to<BR>be furnished to the Bank pursuant to said 
+
+3<BR>shall be furnished to the Bank as part of the evidence 
+
+furnished pursuant to paragraph 4 of Schedule 6 to<BR>this 
+Agreement.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(c) &nbsp;The provisions of the preceding 
+
+and (b) shall not apply to contracts on account of<BR>which 
+
+has authorized withdrawals from the Loan<BR>Account on the 
+
+statements of expenditure. Such<BR>contracts shall be 
+
+accordance with Section<BR>4.01 (c)(ii) of this 
+Agreement.</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>2. 
+
+figure of 15% is hereby specified for purposes<BR>of 
+
+Appendix 1 to the Guidelines.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;<BR>Section II. &nbsp;Contracting of Experts’ 
+
+Services</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+to<BR>be 
+ 
+ 
+ 
+&nbsp; 
+ 
+subparagraphs<BR>(a) 
+ 
+the Bank 
+ 
+basis of 
+ 
+retained in 
+ 
+ 
+&nbsp; The 
+ 
+paragraph 4 of 
+ 
+ 
+
+ 
+ 
+&nbsp; &nbsp;In 
+ 
+Project, 
+ 
+
+by<BR>World Bank Borrowers and by the World Bank as 
+Executing<BR>Agency" published by the Bank in August 
+1981.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+order to assist the Borrower in the carrying out<BR>of the 
+
+the Borrower shall contract the services<BR>of experts whose 
+
+qualifications, experience and terms and<BR>conditions of 
+
+shall be satisfactory to the<BR>Bank. Such experts shall be 
+
+in accordance with<BR>principles and procedures satisfactory 
+
+Bank on the<BR>basis of the "Guidelines for the Use of 
+
+ 
+employment 
+ 
+selected 
+ 
+to the 
+ 
+Consultants 
+ 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+SCHEDULE 
+ 
+5</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+the<BR>Project 
+ 
+ 
+size=2>&nbsp;<BR>(1) 
+ 
+
+&nbsp;Project Implementation Unit 
+
+&nbsp;The Borrower shall ensure the carrying out of 
+
+in accordance with the following 
+arrangements:</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+Implementation Program</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;The PIU shall be established and maintained with 
+an<BR>adequate number of specialists in financial 
+accounting,<BR>procurement and technical assistance 
+
+(PIU):</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+ 
+coordination. 
+ 
+in<BR>the 
+ 
+of bids 
+ 
+execution of 
+ 
+with the 
+ 
+purposes of 
+ 
+ 
+prepare 
+ 
+ 
+ 
+
+The<BR>PIU shall (a) coordinate with the Project Directors 
+
+preparation of bid documents, invitation and<BR>evaluation 
+
+and award of contracts and in the<BR>supervision of 
+
+contracts for equipment and<BR>consultants, (b) coordinate 
+
+General Directorate<BR>for Physical Planning of MOHE for 
+
+the<BR>carrying out of civil works under Part B of the 
+Project,<BR>and (c) maintain the Project accounts and 
+
+and<BR>furnish to the Bank semi-annual reports on progress 
+in<BR>Project implementation.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;<BR>(2) &nbsp;Implementation of Part A of the 
+
+Project:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;The Minister of MOHE shall appoint a 
+Project<BR>Director for Part A of the Project who shall 
+have<BR>appropriate qualification and authority adequate for 
+
+ 
+
+the<BR>performance of his duties. The Project Director shall 
+
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+
+be<BR>responsible for (i) inviting applications 
+
+under Part A of the Project and<BR>administration of the 
+
+assistance required for<BR>the preparation, evaluation and 
+supervision thereof, and<BR>(ii) coordination with PIU in 
+
+administrative matters<BR>related to the implementation of 
+
+the Project.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;Arrangements and Criteria for Approval 
+of<BR>Sub-projects:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (i) &nbsp;An Engineering Education Program 
+Group</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;(EEPG) shall be formed by June 
+
+1990,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+ 
+for<BR>Sub-projects 
+ 
+technical 
+ 
+ 
+all 
+ 
+Part A of 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+30, 
+ 
+&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;by the Minister of MOHE, on 
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;recommendation of the Project 
+Director.</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;The EEPG shall include the 
+
+Project</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Director, as chairman, 
+and</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;representatives from colleges 
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;engineering, MOHE, the industry 
+
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Supreme Council Committee for 
+Engineering</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Education. EEPG shall act 
+
+technical</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;body responsible for the 
+development of</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;procedures for the 
+
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Sub-projects and for actual 
+evaluation</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;and supervision 
+thereof.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (ii) EEPG shall be assisted in the 
+development</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;of suitable policies and 
+procedures for</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;its work by an advisory 
+
+which shall</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;be established by 
+
+1990, and</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;shall consist of local and 
+
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+and 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+as a 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+management 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+panel 
+ 
+&nbsp; 
+ 
+September 30, 
+ 
+&nbsp; 
+ 
+
+foreign</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;specialists who shall advise on 
+matters</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;regarding the development and 
+
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;engineering 
+education.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (iii) &nbsp; &nbsp; A Sub-project proposed 
+
+A</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; of the Project by an 
+engineering</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; college 
+
+evaluated by EEPG</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; on 
+
+of detailed criteria,</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+to the Bank, which</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+content 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+under Part 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+shall be 
+ 
+&nbsp; 
+ 
+the basis 
+ 
+size=2>&nbsp; &nbsp; 
+ 
+satisfactory 
+ 
+&nbsp; 
+ 
+shall 
+ 
+size=2>&nbsp; 
+ 
+&nbsp; 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+include factors such as (A)</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+adequacy of the physical facilities</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+ 
+&nbsp; 
+ 
+&nbsp; &nbsp; for the proposed 
+Sub-project,</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; availability of teaching staff 
+and</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; consistency of the 
+
+proposed Sub-</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; project 
+
+ 
+&nbsp; &nbsp; 
+ 
+with the 
+
+academic priorities</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+engineering college</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; of 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+(B) responsiveness of the</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; 
+ 
+the 
+ 
+&nbsp; 
+ 
+concerned, 
+ 
+size=2>&nbsp; 
+ 
+&nbsp; 
+ 
+demonstrated</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+
+proposed Sub-project to 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; social and industrial needs, and 
+(C)</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; feasibility of the 
+
+proposed Sub-</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; project in 
+
+its cost,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+ 
+&nbsp; &nbsp; 
+ 
+terms of 
+ 
+&nbsp; 
+ 
+details, 
+ 
+&nbsp; &nbsp; 
+ 
+requirements and 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+(2) 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; technical 
+
+institutional</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+impact, and</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; management 
+arrangements.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (iv) Engineering colleges requesting 
+approval</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;of Sub-projects for the purchase 
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;laboratory equipment under Part A 
+
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the Project shall be required, 
+in</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;addition to satisfying the 
+criteria</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;referred to in the preceding 
+
+paragraph,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;to establish and maintain 
+
+separate</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;account, in accordance with 
+guidelines</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;satisfactory to the Bank, 
+
+financing</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;the maintenance of their 
+laboratories,</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;workshops and other 
+instructional</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp;facilities.</FONT></TT><BR><TT><FONT 
+
+&nbsp;Implementation of Part B of the 
+Project:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;The Minister of MOHE shall appoint a 
+Project<BR>Director for Part B of the Project, who shall 
+have<BR>adequate qualifications and authority adequate for 
+the<BR>performance of his duties. The Project Director shall 
+
+&nbsp; 
+ 
+a
+
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+for 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+size=2>&nbsp;<BR>(3) 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+
+be<BR>responsible, in coordination with the PIU, for 
+the<BR>preparation for the carrying out of said Part of 
+the<BR>Project and for the development of the IECs 
+new<BR>curriculum.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;The establishment, equipping and staffing 
+
+IECs shall be undertaken in accordance with a plan<BR>the 
+
+and time schedule of which shall be<BR>satisfactory to the 
+
+and the Bank and which shall<BR>provide, inter alia, 
+for:</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (i) &nbsp;the 
+
+of construction work with</FONT></TT><BR><TT><FONT 
+
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+of<BR>the 
+ 
+content 
+ 
+Borrower 
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+completion 
+ 
+size=2>&nbsp; 
+ 
+the IEC 
+ 
+size=2>&nbsp; &nbsp; 
+ 
+respect 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;respect to 
+
+in Cairo by September</FONT></TT><BR><TT><FONT 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1, 1990, and with 
+
+to the IEC in</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Beni-Suef by the end of 
+
+1991;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (ii) the finalization, on the basis of 
+a</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp;technical teacher training plan, 
+of</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;curriculum details for the IEC in 
+
+&nbsp; &nbsp; 
+ 
+July 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+
+Cairo</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;by August 31, 1990, for its first 
+
+and</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;second years program, by August 
+
+1991,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;for its third year program and by 
+
+August</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;31, 1992, for its fourth year 
+program;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (iii) &nbsp; &nbsp; the procurement of 
+
+July</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 31, 
+1992;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (iv) the recruitment, in accordance with 
+an</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;appropriate staffing plan, of the 
+
+staff</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;required for the IECs in Cairo by 
+
+July</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;31, 1991 and of the staff 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+ 
+&nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+31, 
+ 
+&nbsp; 
+ 
+
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+equipment by 
+ 
+&nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+
+ 
+&nbsp; 
+ 
+required 
+ 
+&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the IEC in Beni-Suef by July 31, 
+1992;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (v) &nbsp;preparation of an implementation 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;in-service training of existing 
+teachers</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;by September 1, 
+1990;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (vi) preparation, by May 31, 1993, of a 
+plan</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;for deployment of new teachers 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the carrying out of 
+related</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;administrative reforms required 
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;integration of the two practical 
+and</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+ 
+ 
+&nbsp; &nbsp; 
+ 
+plan 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+and 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; the 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+of 
+ 
+&nbsp; 
+ 
+technology 
+ 
+&nbsp; 
+ 
+shall 
+ 
+&nbsp; 
+ 
+attract and 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; established 
+
+institutes,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and which 
+
+enable the IECs to</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+adoption, by June 30, 1990, of a</FONT></TT><BR><TT><FONT 
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; remuneration system for the 
+IECs</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; comparable to that 
+
+newly</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;theoretical teaching streams; 
+and</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (vii) &nbsp; 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+retain qualified</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+staff.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(c) &nbsp;The Borrower shall establish: (i) by May 
+
+a Board of Management for the IEC in Cairo, and<BR>(ii) by 
+
+31, 1990, a Board of Management for the<BR>IEC in Beni-Suef, 
+
+representatives from MOE, MOHE and<BR>the Industry. The 
+
+provide guidance to the<BR>Project Director for Part B of 
+
+Project with regard to<BR>the formulation of the IECs’ 
+
+ensure<BR>coordination between the management of the IECs 
+
+&nbsp; 
+ 
+teaching 
+ 
+ 
+&nbsp; 
+ 
+1,<BR>1990, 
+ 
+October 
+ 
+with 
+ 
+Boards shall 
+ 
+the 
+ 
+programs and 
+ 
+and 
+ 
+MOE’s<BR>Department of Technical 
+Education.</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; &nbsp; 
+ 
+SCHEDULE 
+6</FONT></TT><BR><TT><FONT 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+in<BR>paragraph 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+time 
+ 
+ 
+ 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+ 
+be 
+ 
+Special 
+
+&nbsp;(b) &nbsp;the term "eligible expenditures" 
+means<BR>expenditures in respect of the reasonable cost of 
+goods<BR>and services required for the Project and to be 
+financed<BR>out of the proceeds of the Loan allocated from 
+
+to<BR>time to the eligible Categories in accordance with 
+the<BR>provisions of Schedule 1 to this Agreement; 
+and</FONT></TT><BR><TT><FONT 
+
+size=2>&nbsp; &nbsp; &nbsp;(c) &nbsp;the term "Authorized 
+Allocation" means an<BR>amount equivalent to $2,500,000 to 
+
+withdrawn from the<BR>Loan Account and deposited into the 
+
+size=2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; Special Account</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;<BR>1. &nbsp; For the purposes of this 
+Schedule:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;the term "eligible Categories" means 
+the<BR>Categories (1) and (2) set forth in the table 
+
+1 of Schedule 1 to this Agreement;</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+Account<BR>pursuant to paragraph 3 (a) of this 
+Schedule.</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>2. 
+
+Payments out of the Special Account shall be 
+
+eligible expenditures in accordance with<BR>the provisions 
+
+Schedule.</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>3. 
+
+the Bank has received evidence satisfactory to<BR>it that 
+
+Special Account has been duly opened,<BR>withdrawals of the 
+Authorized Allocation and subsequent<BR>withdrawals to 
+
+Special Account shall be<BR>made as 
+follows:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;For withdrawals of the Authorized 
+
+Borrower shall furnish to the Bank a request or<BR>requests 
+
+deposit or deposits which do not exceed<BR>the aggregate 
+
+the Authorized Allocation. On the<BR>basis of such request 
+
+requests, the Bank shall, on<BR>behalf of the Borrower, 
+
+from the Loan Account<BR>and deposit in the Special Account 
+
+amount or amounts<BR>as the Borrower shall have 
+requested.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;(i) &nbsp;For replenishment of the Special 
+Account,</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the Borrower shall furnish to the 
+
+ 
+&nbsp; 
+ 
+made<BR>exclusively for 
+ 
+of this 
+ 
+&nbsp; After 
+ 
+the 
+ 
+ 
+replenish the 
+ 
+ 
+ 
+&nbsp; 
+ 
+Allocation,<BR>the 
+ 
+for a 
+ 
+amount of 
+ 
+or 
+ 
+withdraw 
+ 
+such 
+ 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+
+Bank</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;requests for deposits into the 
+Special</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Account at such intervals as the 
+Bank</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+&nbsp; &nbsp; &nbsp; &nbsp;shall 
+specify.</FONT></TT><BR><TT><FONT 
+ 
+&nbsp; &nbsp; 
+ 
+ 
+&nbsp; 
+ 
+furnish 
+
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp; &nbsp; (ii) Prior to or at the time of each 
+such</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;request, the Borrower shall 
+
+to</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;the Bank the documents and other 
+evidence</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;required pursuant to paragraph 4 
+
+this</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Schedule for the payment or 
+
+in</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;respect of which replenishment 
+is</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;required. On the basis of each 
+such</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;request, the Bank shall, on 
+
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Borrower, withdraw from the Loan 
+Account</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;and deposit into the Special 
+
+such</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;amount as the Borrower shall 
+have</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;requested and as shall have been 
+
+by</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;said documents and other evidence 
+
+have</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;been made out of the Special 
+
+for</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;eligible expenditures. All such 
+deposits</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;shall be withdrawn by the Bank 
+
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;Loan Account under the 
+respective</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;eligible Categories, and 
+
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+of 
+ 
+&nbsp; 
+ 
+payments 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+behalf of 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+Account 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+shown 
+ 
+&nbsp; 
+ 
+to 
+ 
+&nbsp; 
+ 
+Account 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; &nbsp; 
+ 
+from 
+ 
+&nbsp; 
+ 
+ 
+&nbsp; 
+ 
+
+in
+
+&nbsp; 
+ 
+
+the</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;respective equivalent amounts, as 
+
+shall</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;have been justified by said 
+
+and</FONT></TT><BR><TT><FONT size=2>&nbsp; &nbsp; &nbsp; 
+
+&nbsp; &nbsp; &nbsp; &nbsp;other 
+
+ 
+&nbsp; 
+ 
+documents 
+ 
+&nbsp; 
+ 
+evidence.</FONT></TT><BR><TT><FONT 
+ 
+Borrower out 
+ 
+as 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+Schedule, 
+ 
+into the 
+ 
+ 
+&nbsp; 
+ 
+ 
+
+size=2>&nbsp;<BR>4. &nbsp; For each payment made by the 
+
+of the<BR>Special Account, the Borrower shall, at such time 
+
+the<BR>Bank shall reasonably request, furnish to the Bank 
+such<BR>documents and other evidence showing that such 
+payment<BR>was made exclusively for eligible 
+expenditures.</FONT></TT><BR><TT><FONT size=2>&nbsp;<BR>5. 
+
+Notwithstanding the provisions of paragraph 3 of<BR>this 
+
+the Bank shall not be required to make<BR>further deposits 
+
+Special Account:</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(a) &nbsp;if, at any time, the Bank shall have 
+determined<BR>that all further withdrawals should be made by 
+
+the<BR>Borrower directly from the Loan Account in 
+
+ 
+accordance<BR>with 
+ 
+
+the provisions of Article V of the General<BR>Conditions and 
+
+amount of<BR>any outstanding special commitment entered into 
+
+size=2>&nbsp; &nbsp; &nbsp;(b) &nbsp;once the total 
+
+amount of the Loan<BR>allocated to the eligible Categories 
+
+paragraph (a) of Section 2.02 of this<BR>Agreement; 
+ 
+ 
+or</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT 
+ 
+unwithdrawn 
+ 
+less the 
+ 
+by 
+ 
+ 
+of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+as 
+
+the<BR>Authorized Allocation. Thereafter, withdrawal from 
+the<BR>Loan Account of the remaining unwithdrawn amount of 
+the<BR>Loan shall follow such procedures as the Bank 
+shall<BR>specify by notice to the Borrower. Such 
+further<BR>withdrawals shall be made only after and to the 
+extent<BR>that the Bank shall have been satisfied that all 
+such<BR>amounts remaining on deposit in the Special Account 
+
+the<BR>Bank pursuant to Section 5.02 of the General 
+Conditions<BR>shall equal the equivalent of twice the amount 
+
+of<BR>the date of such notice will be utilized in 
+
+for eligible expenditures.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;<BR>6. &nbsp; (a) &nbsp;If the Bank shall 
+
+determined at any time<BR>that any payment out of the 
+
+Account: (i) was made<BR>for an expenditure or in an amount 
+
+eligible pursuant<BR>to paragraph 2 of this Schedule; or 
+
+not<BR>justified by the evidence furnished to the Bank, 
+the<BR>Borrower shall, promptly upon notice from the Bank: 
+(A)<BR>provide such additional evidence as the Bank may 
+request;<BR>or (B) deposit into the Special Account (or, if 
+
+Bank<BR>shall so request, refund to the Bank) an amount 
+
+to<BR>the amount of such payment or the portion thereof not 
+so<BR>eligible or justified. Unless the Bank shall 
+otherwise<BR>agree, no further deposit by the Bank into the 
+Special<BR>Account shall be made until the Borrower has 
+provided<BR>such evidence or made such deposit or refund, as 
+
+case<BR>may be.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(b) &nbsp;If the Bank shall have determined at any 
+time<BR>that any amount outstanding in the Special Account 
+will<BR>not be required to cover further payments for 
+eligible<BR>expenditures, the Borrower shall, promptly upon 
+notice<BR>from the Bank, refund to the Bank such 
+outstanding<BR>amount.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+&nbsp;(c) &nbsp;The Borrower may, upon notice to the 
+
+to the Bank all or any portion of the funds on<BR>deposit in 
+
+Special Account.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT><BR><TT><FONT size=2>&nbsp; 
+
+making<BR>payments 
+ 
+ 
+have 
+ 
+Special 
+ 
+not 
+ 
+(ii) was 
+ 
+ 
+ 
+ 
+the 
+ 
+equal 
+ 
+ 
+ 
+ 
+ 
+the 
+ 
+ 
+&nbsp; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+&nbsp; 
+ 
+Bank,<BR>refund 
+ 
+the 
+ 
+ 
+&nbsp; 
+ 
+paragraphs<BR>6 
+ 
+to<BR>the Loan 
+ 
+ 
+Agreement, 
+ 
+ 
+ 
+name=QUERY_STRING> 
+ 
+name=SERVER_NAME> <INPUT 
+ 
+
+&nbsp;(d) &nbsp;Refunds to the Bank made pursuant to 
+
+(a), (b) and (c) of this Schedule shall be credited 
+
+Account for subsequent withdrawal or for<BR>cancellation in 
+accordance with the relevant provisions<BR>of this 
+
+<INPUT type=hidden value=wbln0036.worldbank.org 
+
+type=hidden value=0 name=SaveOptions> <INPUT type=hidden 
+
+including the General Conditions.</FONT></TT><BR><TT><FONT 
+size=2>&nbsp;</FONT></TT> </TD></TR></TBODY></TABLE>
+
+<TABLE><BR><INPUT type=hidden value=OpenDocument 
+
+<INPUT type=hidden 
+
+name=BackURL> 
+ 
+value=domdoc/PRD/REGIONAL/MNA/ABLU-59YNGJ.nsf 
+ 
+ 
+
+name=DbPath></FORM>
+<TBODY></TBODY></TABLE></TR></TBODY></TABLE></BODY></HTML>
+
+

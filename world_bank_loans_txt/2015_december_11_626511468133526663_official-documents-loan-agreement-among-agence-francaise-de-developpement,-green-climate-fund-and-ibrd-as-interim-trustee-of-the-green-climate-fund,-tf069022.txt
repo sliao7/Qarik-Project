@@ -1,0 +1,962 @@
+OFFICAL.
+DOCUMEMt
+
+MTO NUMBER  069022
+
+AGENCE  FRANCAISE  DE DEVELOPPEMENT,
+ACTING ON BEHALF  AND  AT THE  RISK OF THE  GOVERNMENT  OF FRANCE,
+
+Loan Agreement
+
+among
+
+and
+
+GREEN CLIMATE FUND
+
+INTERNATIONAL  BANK FOR RECONSTRUCTION  AND  DEVELOPMENT,
+SERVING AS  THE  INTERIM  TRUSTEE  OF THE  GREEN CLIMATE  FUND  TRUST  FUND
+CONCERNING  THE  GREEN  CLIMATE FUND  TRUST  FUND
+(MTO NO.  069022)
+
+d
+e
+z
+i
+r
+o
+h
+t
+u
+A
+ 
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+l
+
+i
+
+i
+l
+
+b
+u
+P
+
+d
+e
+z
+i
+r
+o
+h
+t
+u
+A
+ 
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+l
+
+i
+
+i
+l
+
+b
+u
+P
+
+d
+e
+z
+i
+r
+o
+h
+
+t
+
+ 
+
+u
+A
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+i
+
+l
+
+i
+l
+
+b
+u
+P
+
+d
+e
+z
+i
+r
+o
+h
+t
+u
+A
+ 
+e
+r
+u
+s
+o
+c
+s
+D
+ 
+c
+
+i
+
+l
+
+i
+l
+
+b
+u
+P
+
+LOAN  AGREEMENT,  dated  9 December  2015,  among Agence  Franqaise de  D6veloppement,  acting
+on behalf and  at the  risk of the Government  of France  (the "Lender")  as the  lender;  the Green  Climate
+Fund  (the "Fund")  as  the  borrower;  and the  International  Bank  for  Reconstruction  and  Development
+(the "Bank"),  serving  as  the interim  trustee  ("Trustee")  of the  Green  Climate  Fund Trust Fund  (MTO
+No.  069022)  ("Trust  Fund").
+
+WHEREAS  the  Board of the Fund has  decided  that contributions  to the Trust Fund may be made in the
+form of concessional  loans to the Fund.
+
+WHEREAS  the  Government  of France  has  decided  to  contribute  to  the  Trust  Fund  through  a  loan
+provided  to  the  Fund.  To  this  end,  the  Government  of  France  has  mandated  Agence  Francaise  de
+D6veloppement  to  provide  and to  manage  this  loan,  on  behalf and  at  the risk  of the  Government  of
+France and  in  accordance  with  and  subject to  the  provisions  of this  Loan  Agreement  and the Cushion
+Contribution  Agreement.
+
+NOW, THEREFORE, the parties  hereto hereby agree  as  follows:
+
+ARTICLE 1 - DEFINITIONS,  INTERPRETATION  AND  CONSTRUCTION
+
+1.1 
+
+Unless otherwise  defined  herein, all defined terms  used herein shall have the meaning ascribed
+thereto  in the Standard  Provisions  (as  hereinafter defined)  and in  addition  the following  terms
+shall have  the following meanings:
+
+"Business  Day"  means any day (other than a Saturday  or Sunday)  when  (a) banks are  generally
+open  for  business  both  in  Washington,  D.C.,  U.S.A.  and  in  Paris,  France,  (b)  the  Bank  is
+generally open  for business in Washington,  D.C.,  U.S.A,  and (c)  the Fund is generally open  for
+business in Songdo,  Republic  of Korea;
+
+"Cushion  Contribution  Agreement"  means  the  Amendment  dated  9  December  2015  to  the
+France's  Contribution Agreement  entered  into  among  the Cushion  Contributor,  the  Fund and
+the  Trustee, in respect of France's  Cushion;
+
+"Cushion Contributor" means the Government of France, acting through the Ministry of Finance
+and Public Accounts,  as the provider  of France's  Cushion;
+
+"Drawdown"  means the drawdown and payment  of the Loan under  this Loan  Agreement;
+
+"Drawdown  Date"  means a Business  Day on which  the proceeds  of the Loan are drawn by  the
+Trustee  in  accordance  with Sections  2.2, 2.3  and  2.4;
+
+"Drawdown  Request"  means  a  request for  Drawdown  submitted  to the  Lender in  accordance
+with  Section  2.3,  substantially  in  the  form  attached  hereto  as  Annex  I (Form  of Drawdown
+Request);
+
+"France's  Contribution  Agreement"  means the  Trust Fund  Contribution  Agreement,  effective
+as of April 28, 2015,  entered into among the Government  of France,  acting through  the Ministry
+of Economy  and  Finance, as a provider of a Grant Contribution,  the Fund and  the Trustee;
+
+"France's  Cushion"  means any  Cushion  provided  by  the  Cushion  Contributor pursuant  to the
+Cushion  Contribution  Agreement  to  support  the  Loan  Contribution  provided  by  the  Lender
+under this  Loan Agreement;
+
+-1-
+
+"GCF Trust  Fund Agreement"  means  the  Amended  and  Restated  Agreement on the  Terms  and
+Conditions for the Administration  of the Green  Climate Fund Trust Fund (including all Annexes
+and  Attachments  attached  thereto,  which  constitute  an  integral  part  thereof),  dated  April  22,
+2015  between  the  Fund and  the  Trustee, as  may be  amended  from  time  to time  in accordance
+with its terms;
+
+"Individual  Lender's  Loan  Reflows"  means the  portion  of Lenders'  Loan  Reflows  determined
+by the  Secretariat  as attributable  to the Lender;
+
+"Individual  Lender's  Loan Resources"  means  the portion of Lenders'  Loan Resources that may
+be  used  to  make repayment  of the  Outstanding  Loan  Balance  at a  given  Principal  Repayment
+Date, as  determined  by the  Secretariat  in  accordance  with  Section 5.1;
+
+"Lenders'  Loan Reflows"  means  the portion of the  reflows of funds  from  loans extended  by the
+Fund, as  allocated  by the  Secretariat  for Loan Contributions  in accordance  with the  Applicable
+Policies and paragraph  3.3(e)  of the Standard  Provisions;
+
+"Lenders'  Loan  Resources"  means  the  resources  consisting  of  (a)  proceeds  from  Loan
+Contributions in the amount  determined by the  Secretariat as available  for making any principal,
+interest and other payments to be made  on the loans  under the Loan  Agreements/Arrangements,
+and (b)  Lenders'  Loan  Reflows;
+
+"Loan"  means the loan provided or to be provided to  the Fund as borrower, solely for the benefit
+of the Trust Fund, by  the Lender under this Loan Agreement;
+
+"Loan  Agreement"  means this  agreement  and  its annexes;
+
+"Non-Performing  Loan"  has the  meaning given  to it in  Section  5.2(i)(A);
+
+"Outstanding  Loan Balance"  means the principal  amount  of the Loan drawn by the Trustee  and
+outstanding from time to time;
+
+"Principal  Repayment  Amount"  means  for  each  Principal  Repayment  Date,  the  amount  of
+principal  of the  Loan payable  on  such date;
+
+"Principal  Repayment  Date"  means  each  date  on  which  all  or  any  portion  of the  principal
+amount  of the  Loan  is  payable,  as  specified  in  Section  3.2  and  as may  be  revised pursuant  to
+Section 5.2;
+
+"Standard  Provisions"  means  the  Standard  Provisions  Applicable  to the  Contributions  to the
+Green  Climate  Fund  Trust Fund, incorporated  in the GCF  Trust Fund Agreement  as  Annex  I,
+as such  standard provisions may be amended  from  time to time  in accordance  with its terms;
+
+"TARGET  Day"  means  a  day  on  which  the  Trans-European  Automated  Real-time  Gross
+Settlement  Express  Transfer  2  (TARGET2)  system,  or  any  successor  thereto,  is  open  for
+payment  settlement in Euros; and
+
+"Unpaid  Amount"  has  the meaning  given  to it  in  Section 5.2(i)(A).
+
+-2-
+
+1.2 
+
+In this  Loan  Agreement, unless the context  otherwise  requires:
+
+(a) 
+
+Headings  are  inserted  for  convenience  of  reference  only  and  do  not  affect  the
+
+interpretation  of this Loan Agreement;  and
+
+(b) 
+
+A reference to a document includes  an amendment or  supplement to, or replacement  or
+novation of, that document but disregarding  any amendment, supplement, replacement or novation made
+in breach  of this  Loan  Agreement.
+
+ARTICLE  2  - THE  LOAN
+
+2.1 
+The  Lender  irrevocably  agrees  to  lend  to  the  Fund,  on  the  terms  and  conditions  set  forth  or
+referred to in this Loan  Agreement, the Loan in the amount of two hundred and eighty-five million Euros
+(EUR 285,000,000)  for the purpose  of making a Loan  Contribution  to the Trust  Fund. For the avoidance
+of doubt,  the  Loan Contribution  does  not  constitute a  loan to  the Trust Fund.  The amount  of the  Loan,
+including the principal repayments,  shall be denominated  in Euros.
+
+2.2 
+The Loan  shall  consist  of one  Drawdown.  Upon  satisfaction  of the  condition precedent  to the
+Drawdown  specified  in  Section  4.2  and Annex  II  (Conditions  Precedent)  to this  Loan  Agreement,  the
+Lender  and  the  Fund  shall  agree  in  writing  in  advance  on  the  Drawdown  Date,  which  shall,  unless
+otherwise  agreed  between  the  Lender  and  the Fund,  fall  on a  Business  Day  between  1 February  2017
+and 30 November  2017. Notwithstanding  the  foregoing,  the parties  acknowledge  that  as  of the  date  of
+this Loan  Agreement,  the  Bank's  role as  the interim  trustee  of the  Trust Fund  terminates  on 30  April
+2018  under  paragraph  8.4  of the  GCF  Trust  Fund  Agreement.  The  Trustee  will  not  request  any
+Drawdown  of the  Loan  if the  Bank  is  not  the  Trustee of the  Trust Fund  as  of the  Drawdown  Date,  in
+which  case  the  provisions  of paragraph  8.6  of the  GCF  Trust  Fund  Agreement,  paragraph  5.4  of the
+Standard  Provisions and  Section  8.6  of this  Loan Agreement  shall apply.
+
+2.3 
+Upon  agreement  by  the Lender  and  the  Fund in  Section  2.2, the  Secretariat  shall,  by not  less
+than twenty-five  (25) Business  Days prior to the Drawdown  Date, send a Written Instruction,  specifying
+the  Drawdown  Date  to  the  Trustee.  By  sending  such  Written  Instruction  to  the  Trustee,  the  Fund
+irrevocably  and  unconditionally  authorizes  the  Trustee,  and  the Trustee  shall,  subject  to  Section  2.2,
+within  ten  (10)  Business  Days  from  its receipt  of such  instruction,  request  the  Drawdown  of the  full
+amount  of the  Loan  as  set out  in  Section 2.1  by delivering  to the  Lender  a  Drawdown  Request.  If the
+Drawdown  Request  is  not  received  by  the  Lender  as  specified  in  this  Section  2.3,  the  Lender  shall
+promptly notify the Fund and the Trustee in writing thereof. If, subsequent  to such notice, the Drawdown
+Request  shall not have been  received  by the Lender at least twenty-five  (25)  Business  Days  prior to  31
+December  2020,  unless  agreed  otherwise  by  the  Lender  and  the  Fund,  the  Loan  shall  be  deemed
+cancelled as  of 31  December  2020.
+
+2.4 
+Upon receipt  of the  Drawdown  Request,  the Lender  shall,  on the Drawdown  Date,  deposit the
+amount  in  Euros  into  the account  designated  by the  Trustee  in the  Drawdown  Request.  When  making
+such deposit, the Lender shall instruct  its bank to include  in its payment details  information  (remittance
+advice)  field  of  its  SWIFT  payment  message,  the  deposit  instructions  which  include  information
+indicating:  the  amount  paid,  that  the  payment  is made  by  the  Lender  for  MTO  No.  069022  (Green
+Climate Fund),  and the date of the  deposit. The Trustee  shall promptly  notify  the Lender  and the  Fund
+of the  amount  of the proceeds  it received  in  Euros.  Upon  receipt by  the  Fund of the notification  from
+the  Trustee  on  the  amount  of the proceeds  it  received,  the  Fund  shall  promptly  send  a  notice  to  the
+Lender and the Trustee  confirming  (i) the amount  of the  Loan  under this  Loan Agreement,  and (ii)  the
+schedule  for its repayment  in Euros in  accordance  with the terms  of this  Loan Agreement.
+
+-3-
+
+The proceeds  of the  Loan  shall be credited  to the  Trust Fund  as  the Loan  Contribution  by  the
+2.5 
+Lender to  be  used  and administered  in  accordance  with the  GCF Trust  Fund Agreement.  The  Lender
+confirms that it  has received  a  copy of the GCF Trust Fund Agreement.
+
+The Bank  shall act under  this Loan  Agreement  solely in its  capacity as trustee of the Trust Fund
+2.6 
+and neither in its individual  or personal capacity nor as borrower,  guarantor or  surety.  The Trustee shall
+be responsible only for performing those  functions specifically  set forth in this Loan Agreement  and the
+GCF Trust  Fund Agreement,  and shall not be subject to  any other duties  or responsibilities  to the Fund
+or the  Lender.  The  Trustee  shall  not  be  responsible  for  any determination  made  by  the  Fund  or  the
+Secretariat  under this  Loan  Agreement,  and may  rely in  good faith  on any instruction provided  by the
+Fund or  the  Secretariat  under this  Loan Agreement  without  further  inquiry or investigation  on its part,
+and  shall have no liability for relying in good  faith on  any such  instruction  or otherwise  for any actions
+taken,  or  omitted to  be taken,  in good  faith.  Absent any gross  negligence  or willful  misconduct  on the
+part of the Trustee,  the Trustee's liability  under this Loan Agreement  shall  in  any event be limited  to the
+extent  of the resources  made  available  in  the  Trust  Fund pursuant  to  the  GCF  Trust Fund  Agreement
+and  this Loan Agreement.
+
+ARTICLE 3 - TERM AND  PRINCIPAL  REPAYMENTS
+
+3.1 
+
+No  interest shall accrue  or be payable  on the  Loan.
+
+Subject to the provisions of Section  5.2, the Loan shall be repaid in forty (40) equal semi-annual
+3.2 
+installments  on June  15  and December  15  of each year, with  the first such  repayment occurring on June
+15  or December  15,  whichever occurs  first following sixty (60)  months  after the  Drawdown  Date.
+
+Upon  giving not less than  thirty  (30)  Business  Days'  prior  written notice  to the Lender  (with  a
+3.3 
+copy to the Trustee),  the  Fund may prepay the  Outstanding  Loan  Balance,  in whole or in part without
+penalty.
+
+Unless  otherwise  specified  in the  Standard  Provisions,  the Lender  shall  not  have  the  right  to
+
+3.4 
+demand any payment  under this Loan Agreement  in advance  of maturity.
+
+ARTICLE 4  - CUSHION
+
+The  Lender  and  the  Fund  acknowledge 
+
+that  the  Cushion  Contributor  shall  provide  a
+4.1 
+Contribution in the amount  of fifty seven million Euros (EUR 57,000,000)  to the Trust Fund to serve as
+France's Cushion,  in accordance  with the Cushion  Contribution  Agreement.
+
+The payment  of the  full  amount  of the  France's  Cushion  specified  in  Section 4.1  to  the  Trust
+4.2 
+Fund  by  the  Cushion  Contributor  is  a  condition  precedent  to  Drawdown,  as  specified  in  Annex  II
+(Conditions  Precedent).
+
+The Fund shall be responsible  for ensuring that France's  Cushion is used in accordance  with the
+4.3 
+terms  of this  Loan  Agreement,  the  Cushion  Contribution  Agreement  and  the  Applicable  Policies.
+France's Cushion  shall  only be used  to make repayments  of the Outstanding  Loan  Balance  due  by the
+Fund to the  Lender under this  Loan  Agreement,  and  not  to  any other  lenders,  as set  out in Section  5.2
+below.
+
+-4-
+
+ARTICLE 5 - LIMITED RECOURSE;  PRINCIPAL REPAYMENT  ARRANGEMENTS
+
+5.1 
+The Lender agrees that  any repayment  obligations  of the Fund hereunder  shall be limited to the
+available  Individual  Lender's  Loan  Resources  and  France's  Cushion  held  in  the  Trust  Fund, and  the
+Lender shall  not have any recourse against any other assets of the Fund or the Trust Fund. The Secretariat
+shall,  in  accordance  with  the  terms  of the  Standard  Provisions,  the  Applicable  Policies,  including
+International  Financial  Reporting  Standards,  and  this  Loan  Agreement,  determine  the  amount  of the
+Individual  Lender's  Loan  Resources  and  France's  Cushion  available  in the Trust Fund for the purpose
+of making  any repayment  of the Outstanding  Loan  Balance  under Sections  3.2,  3.3  and/or 5.2.  For the
+purpose  of this  Loan  Agreement,  the  Individual  Lender's  Loan  Resources  shall  be  determined,  in
+relation  to  each  Principal  Repayment  Date,  by  firstly,  deducting  from  the  Lenders'  Loan  Resources
+available in the Trust Fund the total amount  of resources  to be applied for the reimbursement  of France's
+Cushion  in  accordance  with  Section  5.2(ii)  and  for  the  reimbursement  of other  lenders'  respective
+Cushions  in  a  similar  manner  as  Section  5.2(ii)  at  that  Principal  Repayment  Date,  as  applicable,  and
+secondly,  calculating the pro rata share of the remaining  Lenders'  Loan Resources available  in the Trust
+Fund based  on  the amount  of the payment  payable  under  this  Loan  Agreement  to  the  Lender  at  that
+Principal  Repayment  Date,  relative  to  the  total  amounts  of  payments  payable  under  all  Loan
+Agreements/Arrangements  at that Principal  Repayment  Date.
+
+(i) 
+
+5.2 
+If two  (2)  months  prior  to  any  Principal  Repayment  Date,  the  Secretariat  determines
+that the  Individual  Lender's  Loan  Resources  available  in  the  Trust  Fund are  less than  the  amount  due
+and payable under this Loan Agreement,  the payment  on such Principal  Repayment  Date shall be  made
+only to the extent of such Individual  Lender's Loan Resources  available,  and:
+
+(A) 
+
+(B) 
+
+If the  Secretariat  determines  that  any part  or  all  of the insufficient  Individual
+Lender's  Loan Resources are due to financial  losses from non-performing loans
+extended  by  the  Fund  under  paragraph  3.3(d)  of the  Standard  Provisions  as
+determined  by the  Secretariat  ("Non-Performing  Loans"),  the  Secretariat  shall
+(a)  use  any  available  France's  Cushion  to  pay  the  amount  representing  the
+difference  between  the  Individual  Lender's  Loan  Resources  available  in  the
+Trust  Fund  and  the  scheduled  Principal  Repayment  Amount  (the  "Unpaid
+Amount"),  and  (b)  in the event of insufficient  France's  Cushion, write off any
+or  all of such  portion of the Unpaid  Amount.
+
+If the Secretariat  determines, in respect to  any Principal  Repayment  Date other
+than  a  last  scheduled  Principal  Repayment  Date,  that  any  part  or  all  of the
+insufficient  Individual  Lender's  Loan  Resources  are  due to  any reasons  other
+than  financial  losses  from  Non-Performing  Loans,  the Secretariat  shall  (a)  use
+any available  France's Cushion  to pay the Unpaid Amount  and (b) in the event
+of  insufficient  France's  Cushion,  carry  forward  any  and  all  portion  of the
+Unpaid Amount  remaining unpaid after (a)  above,  and add such amount  to  the
+scheduled  Principal  Repayment  Amount  due  and  payable  at  the  following
+Principal  Repayment  Date  and the Outstanding  Loan Balance  shall be adjusted
+by  the  Secretariat  accordingly.  The  Secretariat  shall  also  promptly  notify  the
+Lender  and  the  Trustee  of  the  revised  schedule  for  the  repayment  of  the
+Outstanding  Loan  Balance  to  reflect  such  carrying  forward  of  the  Unpaid
+Amount.
+
+-5-
+
+(C) 
+
+If the Secretariat determines,  in respect of a last scheduled  Principal Repayment
+Date, that  the  insufficient  Individual  Lender's  Loan  Resources  are  due to  any
+reasons  other than financial  losses  from  Non-Performing  Loans, and:
+
+(x) 
+
+(y) 
+
+the  Secretariat  determines  that  all  Individual  Lender's  Loan  Reflows
+(excluding  those  amounts of financial  losses from the Non-Performing
+Loans,  against which any portion of the Unpaid  Amount has been paid
+through  the  use  of  France's  Cushion  or  written  off  under  Section
+5.2(i)(A))  have  been  collected  by  the  Fund  in  accordance  with
+Applicable  Policies  approved  by  the  Board, then  any  shortfall  of the
+repayment of the Outstanding Loan  Balance shall be paid from the then
+available  France's  Cushion on the last scheduled Principal  Repayment
+Date, and to the extent there is insufficient available  France's Cushion,
+any shortfall  of the  repayment  of the  Outstanding  Loan Balance  shall
+be  written  off  by  the  Secretariat  on  the  last  scheduled  Principal
+Repayment  Date;  or
+
+the Secretariat  determines  that  any Individual  Lender's  Loan Reflows
+(excluding those amounts  of financial  losses from  the Non-Performing
+Loans,  against  which any portion of the Unpaid Amount  has been paid
+through  the  use  of France's  Cushion  or  written  off  under  Section
+5.2(i)(A))  have  not  been  collected  by  the  Fund  in  accordance  with
+Applicable  Policies  approved  by  the  Board,  then,  notwithstanding
+Section  3.2, 
+the  schedule  for  the  remaining  repayment  of  the
+Outstanding  Loan  Balance  shall  be  revised by  the  Secretariat,  taking
+into account  the amounts  and timing of when  such Individual  Lender's
+Loan Reflows  are expected  to  be collected  by the  Fund as determined
+by  the  Secretariat.  In  such  case,  the  Secretariat  shall  promptly  notify
+the  Lender  and  the  Trustee  of the  revised schedule  for the repayment
+of the  Outstanding  Loan  Balance  on  the  new  Principal  Repayment
+Dates.  For greater  clarity,  the  Secretariat  may  revise  the  schedule  for
+the  remaining  repayment  of  the  Outstanding  Loan  Balance 
+in
+accordance  with  this  Section  5.2(i)(C)(y)  until 
+the  Secretariat
+determines  that all Individual  Lender's  Loan  Reflows (excluding those
+amounts  of financial  losses  from the Non-Performing  Loans,  against
+which any portion of the Unpaid Amount has been paid through  the use
+of France's  Cushion  or  written  off under  Section  5.2(i)(A))  will  have
+been  collected  by  the  Fund  in  accordance  with  Applicable  Policies
+approved by  the Board.  Notwithstanding  the foregoing,  the Secretariat
+may  only  revise  the  payment  schedule  to  the  extent  that  the  last
+Principal  Repayment  Date  under  any new  schedule  shall  not  extend
+beyond  five (5)  years  from  the original  last  Principal  Repayment  Date
+specified  in  the  notice  from  the  Fund  to  the  Lender  and  the  Trustee
+pursuant  to  Section  2.4,  unless  otherwise  agreed  in  writing  by  the
+Lender,  the Fund  and  the  Trustee.  The provisions  of Section 5.2  shall
+apply to  the payments  to be made under  any new payment schedule.  If
+the  payment  schedule  may  not  be  revised  further  under  this  Section
+5.2(i)(C)(y),  and  if the  Secretariat  determines  two  (2)  months prior  to
+the last Principal Repayment  Date thereunder that there are insufficient
+Individual Lender's  Loan  Resources,  any shortfall  of the repayment of
+the Outstanding  Loan  Balance  shall  be  paid  from  the  then  available
+
+-6-
+
+France's  Cushion  on  the  last  Principal  Repayment  Date,  and  to  the
+extent there  is  insufficient  available  France's Cushion,  any  shortfall  of
+the repayment  of the Outstanding Loan Balance  shall be  written  off by
+the  Secretariat  on the last Principal  Repayment  Date.
+
+(ii) 
+
+In the event the Secretariat  determines  that any amount  of the Individual  Lender's Loan
+Reflows,  against  which  any  amount  of France's  Cushion  has  been  used  under  Sections  5.2(i)(B)  and
+(i)(C)(y)  for  cases  where  the  insufficient  Individual  Lender's  Loan  Resources  are  due  to any reasons
+other than  financial  losses from Non-Performing  Loans, have been collected,  such  amount of Individual
+Lender's  Loan  Reflows  as  determined  by  the  Secretariat  shall  be  applied  for  reimbursing  France's
+Cushion  at  the  immediately  following  Principal  Repayment  Date.  The  reimbursement  of  France's
+Cushion  under  this  Section  5.2(ii) may be made  up  to the date  falling five  (5)  years  from  the  original
+last  Principal  Repayment  Date  specified  in  the  notice  from  the  Fund  to  the  Lender  and  the  Trustee
+pursuant to  Section  2.4, unless otherwise  agreed  in  writing by  the Lender,  the  Fund and  the Trustee.  If
+any date of reimbursement  falls  after all payments to the Lender under this  Loan Agreement  have been
+made in full,  such  amount  of reimbursement  shall be added  to the amount  of the Grant  Contribution  in
+accordance  with paragraph  3.4 of the  Standard Provisions.
+
+(iii)  Within  twenty (20)  Business  Days prior to the Principal  Repayment  Date in relation  to
+which any repayment  of the Outstanding  Loan Balance  shall be written off, the  Secretariat  shall notify
+the  Lender  and  the Trustee  in  writing of the amount  and the  date of the  repayment  of the  Outstanding
+Loan  Balance  to be written off. The Lender  and  the Fund  acknowledge  that  any amount  so written off
+in  accordance  with the provisions  of this  Section 5.2  shall no longer  be considered  due  and payable  by
+the Fund to the  Lender under this Loan Agreement,  following such notification by the  Secretariat.
+
+Following  determination by the Secretariat of the available  resources under  Sections 5.1  and 5.2
+5.3 
+above,  and no  later than  ten  (10)  Business  Days, but  no earlier  than  thirty (30)  Business  Days, prior to
+any  Principal  Repayment  Date,  the  Secretariat  shall  deliver  to  the  Trustee  a  Written  Instruction
+instructing  the  amount  of repayment  of the  Outstanding  Loan  Balance  to  be  made  under  this  Loan
+Agreement  on  such  Principal  Repayment  Date.  With  the  Secretariat's  delivery  of such  Written
+Instruction  to  the  Trustee,  the  Fund  irrevocably  and  unconditionally  authorizes  the  Trustee,  and  the
+Trustee agrees,  to process  such  repayment of the Outstanding  Loan Balance  in accordance  with, and to
+the extent of, the Written  Instruction and in accordance  with the  provisions of Article  5.
+
+Subject  to  the  provisions  of Section  5.3,  the  Trustee  shall  transfer  to  the  Lender,  on  each
+5.4 
+Principal  Repayment  Date and  out of the Trust Fund resources  held by it,  the  amount  so  instructed  by
+the Secretariat  in the Written  Instruction,  as payments  under Sections  3.2,  3.3  and/or  5.2,  as applicable.
+
+Except  as  otherwise  agreed  by  the parties,  any payment  under this  Loan  Agreement  shall  be
+
+5.5 
+made in Euros.
+
+Any  payment  which is  due to be made  on  a day that  is  not a  Business  Day that  is a  TARGET
+
+5.6 
+Day shall be made  on the next  Business  Day that  is a  TARGET Day.
+
+All  payments by the Trustee under this Loan Agreement  shall be paid to the bank account of the
+5.7 
+Lender  designated by the  Lender to the Trustee  in  writing on the  date hereof, or to  such other  account
+designated  by  the  Lender  to  the  Trustee  in  writing  no  less  than  thirty  (30)  Business  Days  prior to  a
+relevant  Principal  Repayment  Date.
+
+-7-
+
+All  payments required to be made by the Lender or the  Trustee under this Loan  Agreement shall
+5.8 
+be  calculated  without  reference  to  any  set-off and  shall  be  made  free  and  clear  of and  without  any
+deduction  for or on account  of any set-off.
+
+5.9 
+The  Fund shall  verify,  keep  record  of and  track  the  uses  of the Lenders'  Loan  Resources,  the
+Lenders'  Loan Reflows, the Individual  Lender's  Loan Resources,  the Individual  Lender's Loan  Reflows
+and  the  France's  Cushion  under this  Loan  Agreement  and  the  Cushion  Contribution  Agreement.  The
+Fund  shall  report  to the  Lender  on  the  uses  of such  types  of resources  on  a  semi-annual  basis,  unless
+otherwise  agreed  between  the  Fund and  the  Lender.  The Trustee  shall  neither  verify, keep  record  of,
+track, nor report  on,  any uses  of such  types  of resources,  and  shall not  establish  any sub-account  in the
+Trust Fund for this purpose. The Trustee  shall process any repayment  of the Outstanding  Loan Balance
+out  of the  Trust  Fund  resources  at  the  Written  Instruction  from  the  Secretariat  in  accordance  with
+Sections  5.3  and  5.4, without  regard to types  of resources  tracked  by the  Fund,  whether Lenders'  Loan
+Resources,  Lenders'  Loan  Reflows,  Individual  Lender's  Loan  Resources,  Individual  Lender's  Loan
+Reflows,  France's  Cushion  or  otherwise  and  without  tracking  the  Contributions  made  or  reflows
+received  during  the  IRM  Period or  any subsequent  replenishment  period.
+
+The  Fund  will  provide  relevant  financial  information  to  the  Lender  in  order  to  support  any
+5.10 
+decision  that  may  be  taken  to  revise  repayment  schedule  under  Section  5.2(i)(C)(y),  as  may  be
+reasonably  requested by the Lender.
+
+ARTICLE 6  - REPRESENTATIONS  AND  WARRANTIES
+
+6.1 
+Each of the parties  to this  Loan Agreement  represents  and warrants  that:  (a)  it  is  authorized to
+enter  into this  Loan Agreement  and to perform  its  obligations  hereunder,  and (b)  its  obligations  under
+this  Loan  Agreement  constitute  valid  and  binding  obligations,  enforceable  in  accordance  with  their
+terms.
+
+ARTICLE 7  - NOTICES
+
+7.1 
+Any  notice, request  or  other communication  to  be given  or made  under  this  Loan Agreement
+shall be in writing in English language  and delivered by mail, facsimile or e-mail to the respective party's
+address  specified  below or at  any other address  as the party  notifies in writing to the other parties  from
+time to time:
+
+For the Lender:
+
+Director
+Department  of Operational  Transversal  Issues
+Agence  Franqaise  de D6veloppement
+5,  rue  Roland Barthes
+75598  Paris Cedex  12
+France
+
++33  1 53 44 45  57
+Tel: 
++33  153 44  38  66
+Fax: 
+E-mail:  pouilles-duplaixa@afd.fr
+
+-8-
+
+For the Fund:
+
+Chief Financial  Officer
+Green Climate  Fund Secretariat
+G-Tower,  175  Art Center-daero
+Yeonsu-gu,  Incheon  22004,  Republic  of Korea
+
++  82  32 458 6075
+Tel: 
++ 82  32 458  6094
+Fax: 
+E-mail:  CFO@gcfund.org
+
+For the  Trustee:
+
+Director
+Trust Funds  and Partnerships
+Development  Finance
+The World  Bank
+1818 H  Street, N.W.
+Washington, D.C.  20433
+U.S.A.
+
++1 202 473-7654
+Tel: 
++1 202 522-2447
+Fax: 
+E-mail:  gcfitrustee@worldbank.org
+
+ARTICLE  8  - AMENDMENTS  AND  WAIVERS;  SEVERABILITY;  COUNTERPARTS
+
+This  Loan  Agreement  may  be amended  only  in writing  among  the  Fund,  the Trustee  and  the
+
+8.1 
+Lender.
+
+If the Board adopts policies  and guidelines that regulate how  the Fund will manage its  financial
+8.2 
+risks  on  a  day-to-day  basis  including  liquidity,  asset-liability,  market  and  credit  risk  management
+(including the debt instruments  extended by the  Fund),  the Fund shall notify the Lender and the Trustee
+if and  to the  extent that  such policies and guidelines contradict the  terms of Sections 5.1,  5.2,  5.9  and/or
+5.10  of this  Loan Agreement.  The parties hereto  shall  discuss  in  good faith  to amend  Sections  5.1,  5.2,
+5.9 and/or  5.10  of this Loan  Agreement  as necessary  to  reflect the  adopted policies  and guidelines,  and
+such amendment  to be mutually agreed  by the parties.
+
+No failure  or delay  in exercising  any right,  power or  remedy under this Loan  Agreement  shall
+8.3 
+impair such right, power or remedy or operate, or be  construed, as a waiver or variation of it  or preclude
+its exercise  at any subsequent  time, and no single or partial  exercise of any right, power or remedy  shall
+preclude any other or further exercises  thereof or the  exercise  of any other right, power or remedy.
+
+8.4 
+unless expressly  so stated in  a notice by  the party waiving such a right to the  other parties.
+
+None of the parties shall be deemed to have  waived any of its rights under this  Loan Agreement,
+
+-9-
+
+8.5 
+This Loan  Agreement  shall  be binding upon  and enure  to  the benefit  of the Fund,  the  Trustee
+and the  Lender  and  its or  any  subsequent  successors  or  assignees;  provided  that,  any party to  this  Loan
+Agreement  may not  assign, transfer, novate  or dispose of any of its rights or obligations  under the Loan
+Agreement  without  the prior written  consent of the other parties to  the  Loan Agreement  (such consent
+not to  be unreasonably  withheld or delayed).
+
+8.6 
+
+Notwithstanding  Section  8.5  above:
+
+(a) 
+
+as set forth  in paragraph 5.3  of the Standard Provisions, the Trustee  may assign, transfer
+or novate  any of its rights or  obligations  under  this  Loan  Agreement  to  a successor  trustee of the Fund
+upon the Board's appointment  of such trustee, and the Fund and the Lender agree to  carry out necessary
+actions, if any, to effect  such assignment,  transfer or novation; and
+
+(b) 
+
+if the  Bank's role as the interim  trustee  of the Trust  Fund  shall be  terminated  pursuant
+to the terms  of the  GCF  Trust  Fund  Agreement:  (i) the Trustee  may assign,  transfer or  novate any of its
+rights  or  obligations  under  this  Loan Agreement  to  a  successor  as  directed by  the  Secretariat;  and  (ii)
+the Fund and the  Lender agree to carry out necessary actions,  if any, to effect  such assignment,  transfer
+or  novation.  The  Fund  further agrees  to  take all  necessary  actions  to  appoint  such  successor  without
+undue  delay.  If:  (i)  the  Fund  fails  to  appoint  a  successor;  or  (ii)  the successor  fails  to  agree  to such
+assignment,  transfer  or novation,  in both  cases  within  six (6)  months of termination  of the  Bank's role
+as the interim  trustee of the Trust Fund, then  the Trustee,  the Fund and the Lender  shall promptly agree
+to any other arrangement with a view  to winding up the Trustee's  affairs  in an expeditious manner while
+avoiding discontinuity  in the  operations  under this Loan  Agreement.
+
+Any  provision  of this  Loan  Agreement  which  is prohibited,  invalid  or  unenforceable  in  any
+8.7 
+jurisdiction  shall,  as  to such jurisdiction,  be ineffective  to the  extent  of such  prohibition,  invalidity  or
+unenforceability  without  invalidating  the  remaining  provisions  hereof,  and  any  such  prohibition,
+invalidity  or  unenforceability  in  any  jurisdiction  shall  not  invalidate  or  render  unenforceable  such
+provision in  any other jurisdiction.
+
+This  Loan  Agreement  may be executed  in  counterparts,  each  of which  is  an original  and  all of
+
+8.8 
+which together  shall be deemed to constitute  one and  the same instrument.
+
+8.9 
+If the Board amended  or  adopted  any Applicable  Policies, the  Fund shall notify the Lender and
+the  Trustee  if and to the extent  that  such amended  or  adopted  Applicable  Policies  contradict  with the
+terms  of  the  Loan  Agreement.  The  parties  hereto  shall  discuss  in  good  faith  to  amend  the  Loan
+Agreement as necessary,  and such  amendments  to the Loan  Agreement  are to be mutually agreed by the
+parties.  For  the avoidance  of doubt,  to the  extent  that any  Applicable  Policies  amended  or  adopted  by
+the Board relate in any way to the functions of the Trustee performed or to be performed  under this Loan
+Agreement,  the  Trustee  shall not be  bound by any such  amended  or  adopted  Applicable  Policies  in  the
+absence of the agreement  of the Trustee.
+
+ARTICLE 9  - EFFECTIVENESS AND  TERMINATION
+
+The  signature  of the  Cushion  Contribution  Agreement  by  all  parties  shall  be  the  condition
+
+9.1 
+precedent  to the execution  of this Loan Agreement,  as specified  in Annex  II  (Conditions  Precedent).
+
+This Loan Agreement  shall come into effect upon (i)  signature  by the parties and (ii) submission
+9.2 
+of a written notification  from the  Secretariat to the Lender and the Trustee  that the Board has  confirmed
+the terms  of this  Loan Agreement.
+
+-10-
+
+9.3 
+If this  Loan  Agreement  shall  not  have  come  into  effect  within  three  hundred  and  sixty (360)
+days  after the date  of this  Loan  Agreement,  any  party may  give a written  notice  to  the other parties  that
+this  Loan  Agreement  shall be deemed  never to  have been  signed  by any of the  parties,  without need  of
+any further writing or notice.
+
+9.4 
+If this  Loan Agreement  has come into effect,  this Loan  Agreement  and all rights  and obligations
+of the  parties hereunder  shall  terminate  upon  the full payment,  or write off in  accordance  with  Section
+5.2,  of all amounts due and payable under this Loan Agreement  and the completion  of the reimbursement
+of France's  Cushion in  accordance  with  Section  5.2(ii).
+
+ARTICLE  10  - ENFORCEABILITY;  ARBITRATION
+
+The rights  and obligations of the Fund, the  Trustee  and  the Lender under  this  Loan  Agreement
+10.1 
+shall  be  valid  and  enforceable  in  accordance  with  their terms  notwithstanding  the  law  of any state  or
+political  subdivision  thereof  to  the  contrary.  Neither  the  Fund,  the  Trustee  nor  the  Lender  shall  be
+entitled  in  any  proceeding  under  this  Article  to  assert  any  claim  that  any  provision  of  this  Loan
+Agreement  is invalid  or  unenforceable  because  of any  provision  of the  Articles  of Agreement  of the
+Bank.
+
+10.2 
+The terms  and  conditions of the  GCF Trust  Fund Agreement,  as may be amended  from  time to
+time  in  accordance  with  its terms,  shall  apply  to  this  Loan  Agreement.  In  case  of any  inconsistency
+between  this  Loan  Agreement  and the Standard  Provisions, the terms of the  Standard Provisions  shall
+prevail.
+
+10.3 
+Any  dispute,  controversy  or  claim  arising  out  of or  in connection  with  this  Loan  Agreement,
+which has not been  settled amicably by  the parties,  may be submitted  to  arbitration  in  accordance  with
+the  Rules  of Arbitration  of the International  Chamber  of Commerce  in  effect  on  the  date of this  Loan
+Agreement,  and the  following provisions:
+
+the place of arbitration shall be Paris,  France;  and
+
+the language  of the arbitral proceedings  shall be English.
+
+The award  of the Arbitral  Tribunal  shall be  final  and binding on the  parties  and enforceable  in
+
+10.4 
+any court of competent jurisdiction.  The parties shall  carry out the  award  without delay.
+
+The  obligations  of the  Trustee  under  this  Loan  Agreement  are  not  the  obligations  of  any
+
+10.5 
+government  or member  of the Bank.
+
+10.6  Nothing  in  this  Loan  Agreement  shall  operate  as  or  be  construed  to  constitute  a  waiver,
+renunciation  or any other modification  of any privilege  or immunity of:
+
+the Bank under its Articles  of Agreement  or under any applicable  law; or
+
+the  Fund  under  any  privilege  or  immunity  that  it  may  have  under  its  Governing
+
+Instrument or under any applicable  law, treaty or binding international agreement  or instrument.
+
+(a) 
+
+(b) 
+
+(a) 
+
+(b) 
+
+-11-
+
+IN  WITNESS  whereof, the parties  hereto,  acting  through  their  duly  authorized  representatives,  have
+caused this  Loan Agreement  to be  signed  in their respective  names  in three  (3)  original  copies.
+
+AGENCE  FRANCAISE  DE  DEVELOPPEMENT
+
+By:_ 
+
+(Authorized  Representative)
+
+_D 
+
+ate  te:&
+
+Name:  Andr6  Pouill&s-Duplaix 
+Title:  Director of Operational  Transversal  Issues
+
+(c  A 
+
+V
+
+INTERNATIONAL  BANK  FOR RECONSTRUCTION  AND  DEVELOPMENT,  SERVING  AS
+THE INTERIM TRUSTEE  OF THE GREEN CLIMATE  FUND  TRUST  FUND
+
+Date: 
+
+,/2o
+
+VA  /JOlif
+
+GREEN CLIMATE FUND
+
+By: 
+
+(Authori 
+
+epresentative)
+
+Name:  H  la  Cheikhrouhou
+Executive  Director
+Title: 
+
+By:  _\ 
+
+_ 
+
+_ 
+
+__n_Date: 
+
+(Authorized k  resentative)
+
+Name:  Mei  Leng Chang
+Title:  Acting Director
+
+Trust  Funds and  Partnerships
+Development  Finance
+
+-12-
+
+Annex  I
+Form of Drawdown  Request
+
+[Trustee's Letterhead]
+
+[insert date]
+
+To:  [Address details ofLender]
+
+Dear  [e],
+
+Re:  Drawdown  Request
+
+We  refer to  the  Loan  Agreement  (the "Loan  Agreement")  dated  [insert date] between  [insert name of
+Lender] (the "Lender")  as  the  lender;  the  Green  Climate  Fund  (the  "Fund")  as  the  borrower;  and  the
+International  Bank for Reconstruction  and Development  (the "Bank"),  serving as the interim trustee  (the
+"Trustee")  of  the  Green  Climate  Fund  Trust  Fund  (MTO  No.  069022)(the  "Trust  Fund").  Unless
+otherwise defined in this request, all capitalized  terms appearing herein shall have the meanings ascribed
+to them under the Loan  Agreement.
+
+In  accordance  with the Written  Instruction received  from the Fund (a copy attached), we hereby request
+a  Drawdown  of the  Loan  in  the  amount  of [insert loan currency and amount in words]([insert loan
+currency and amount  in figures]) on  [insert Drawdown Date], pursuant  to  Section  2.3  of the  Loan
+Agreement.
+
+Please arrange  for the proceeds  to be deposited  on [insert Drawdown Date] to  the following  account:
+
+Account Name: 
+
+Account  Number: 
+
+Bank  Name and Address: 
+
+Swift/BIC code: 
+
+[*]
+
+[]
+
+[*]
+
+[]
+
+Sincerely,
+
+International  Bank  for  Reconstruction  and  Development,  serving  as  the  interim  trustee  of the  Green
+Climate Fund Trust  Fund
+
+Attachment:  a copy of the Written  Instruction  from  the Fund
+
+-13-
+
+Annex II
+Conditions Precedent
+
+Part I - Condition  Precedent  for the  execution  of the  Loan  Agreement  as  specified  in  Section  9.1  of
+
+the Loan  Agreement:
+
+a)  Delivery by  the  Fund  to  the  Lender  of a  copy of the  Cushion  Contribution  Agreement
+
+duly executed by the  Cushion Contributor, the  Fund and the  Trustee.
+
+Part II -
+
+Condition  Precedent  to  effectiveness  of the Loan  Agreement  as  specified  in  Section  9.2 of
+the Loan  Agreement:
+
+b)  Signature  of this Loan  Agreement by the parties; and
+
+c)  Submission  of a  written  notification  from  the  Secretariat  to the  Lender  and  the Trustee
+
+that the  Board has confirmed  the terms  of this Loan  Agreement.
+
+Part  III - Condition  Precedent to the Drawdown  as specified  in Section  4.2 of the Loan Agreement:
+
+d)  Delivery  by  the  Fund to  the  Lender  of an  evidence  satisfactory  to the  Lender  that  the
+France's Cushion  in the amount  of fifty seven million  Euros  (EUR 57,000,000)  has been
+paid in  full  by the  Cushion Contributor to the Trust Fund.
+
+-14-
+
+
