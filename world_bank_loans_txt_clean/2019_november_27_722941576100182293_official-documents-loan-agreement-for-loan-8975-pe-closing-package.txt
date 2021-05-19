@@ -1,0 +1,784 @@
+World Bank Document
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8975-PE
+
+Loan Agreement
+
+(Improving the Performance of Non-Criminal Justice Services Project -
+Programa de Mejoramiento de los Servicios de Justicia no penales a travis de la
+
+implementacitn del Expediente Judicial Electr6nico (EJE))
+
+between
+
+REPUBLIC OF PERU
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+LOAN AGREEMENT
+
+AGREEMENT dated as of the Signature Date between the REPUBLIC OF PERU
+
+("Borrower") and the INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND
+
+DEVELOPMENT ("Bank"). The Borrower and the Bank hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) apply to and form
+
+part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement have
+
+the meanings ascribed to them in the General Conditions or in the Appendix to this
+
+Agreement.
+
+ARTICLE II- LOAN
+
+2.01. The Bank agrees to lend to the Borrower the amount of eighty-five million Dollars (USD
+
+85,000,000), as such amount may be converted from time to time through a Currency
+
+Conversion ("Loan"), to assist in financing the project described in Schedule I to this
+
+Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section 
+III of
+
+Schedule 2 to this Agreement. The Borrower's Representative for purposes of taking any
+
+action required or permitted to be taken pursuant to this Section is the Borrower's Minister
+
+of Economy and Finance or the Borrower's Director of Indebtedness and Public Treasury,
+
+or any person whom any of them shall designate in writing.
+
+2.03. The Front-end Fee is one quarter of one percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge is one quarter of one percent (0.25%) per annum on the
+
+Unwithdrawn Loan Balance.
+
+2.05. The interest rate is the Reference Rate plus the Variable Spread or such rate as may apply
+
+following a Conversion; subject to Section 3.02(e) of the General Conditions.
+
+2.06. The Payment Dates are March 15 and September 15 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with Schedule 3 to this
+
+Agreement.
+
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objective of the Project. To this end, the
+
+Borrower, through the UE-MINJUSDH, shall carry out Part 1.2, Part 1.3, Part 2.2, Part 2.3,
+Part 3.1 and partially Parts 4.2 and 4.3 of the Project, and through the PJ (acting through
+the UE-PJ) shall carry out Part 1.1, Part 2.1, Part 3.2, Part 4.1, and partially Parts 4.2 and
+
+4.3 of the Project, all in coordination with the Participating Institutions, and in accordance
+with Article V of the General Conditions and Schedule 2 to this Agreement.
+
+3.02. According to Section 3.01 above, the Borrower, through the UE-MINJUSDH, shall carry
+out all Project Investments related to MINJUSDH, TC and JNJ, and through the PJ (acting
+through the UE-PJ) shall carry out all Project Investments related to PJ and AMAG.
+
+ARTICLE IV - REMEDIES OF THE BANK
+
+4.01. The Additional Events of Suspension consist of the following:
+
+(a) The Borrower or any authority having jurisdiction shall have taken any action
+concerning the Participating Institutions that would materially affect, in the
+opinion of the Bank, the ability of the Participating Institutions to carry out any of
+their respective obligations under the Project.
+
+(b) The PJ shall have failed to take any action to enable the Borrower to comply with
+its obligations as applicable to the PJ.
+
+4.02. The Additional Event of Acceleration consists of the following, namely that any event
+specified in Section 4.01 of this Agreement occurs and is continuing for a period of ninety
+(90) days after notice of the event has been given by the Bank to the Borrower.
+
+ARTICLE V - EFFECTIVENESS; TERMINATION
+
+5.01. The Effectiveness Deadline is the date ninety (90) days after the Signature Date.
+
+ARTICLE VI- REPRESENTATIVE; ADDRESSES
+
+6.01. The Borrower's Representative is its Minister of Economy and Finance, provided that the
+Borrower's Director of Public Treasury, may, by him or herself, represent the Borrower to
+sign amendments and/or notices to this Agreement which are considered of an
+administrative and non-financial nature. The signing by such Director of an amendment
+and/or notice shall constitute a representation by the Borrower that any such amendment
+and/or notice is considered to be administrative and non-financial in nature.
+
+6.02. For purposes of Section 10.01 of the General Conditions: (a) the Borrower's address is:
+
+Ministry of Economy and Finance
+Jr. Junin 319
+Lima, Peru
+
+Facsimile: +51(1) 626-9921
+
+6.03. For purposes of Section 10.01 of the General Conditions: (a) the Bank's address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America; and
+
+(b) the Bank's Electronic Address is:
+
+Telex: Facsimile:
+
+248423(MCI) or 1
+477-6391
+64145(MCI)
+
+AGREED as of the Signature Date.
+
+REPUBLIC OF PERU
+
+By
+_ e eprsentative
+
+Name: 0A A N wP0 aA AM.
+Title: RIV p- i~o M2I twativ ~
+
+Date: 2 7 NOV '2D19
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By
+- Authorized presentative
+
+Name: OAKkANW6 ]EM
+
+Title: a CA[ (
+
+Date: PMeIbNMi 71 2P{'W?
+
+SCHEDULE 1
+
+Project Description
+
+The objective of the Project is to improve efficiency, access, transparency, and user
+satisfaction, in the delivery of adequate non-criminal justice services.
+
+The Project consists of the following parts:
+
+Part 1: Strengthening the institutionality of the non-criminal justice administration system
+
+Provision of support to the Participating Institutions to design and implement a new organizational
+framework and management processes for the Participating Institutions, based on the
+implementation of the EJE.
+
+1.1.Design and Implementation of EJE in the PJ.
+
+Designing and implementing the EJE, including, inter alia: (a) a comprehensive review and
+redesign of existing jurisdictional and administrative processes (including EJE pilots) based on data
+and in consultation with relevant stakeholders (judges, lawyers and citizens participating in judicial
+processes), in order to identify and eliminate existing inefficiencies; (b) design, development and
+implementation of a scale-up of the EJE to courts nationwide; (c) training programs forjudicial and
+administrative personnel on the new processes and operations of the EJE platform; (d) design and
+implementation of a legal framework for the interoperability of processes and information systems
+with other institutions; (e) carrying out an impact evaluation and user satisfaction surveys to
+measure the reform's results, including gender disaggregated information to identify gender gaps
+and inform specific actions to enhance women's experiences when seeking justice; and (f) design
+and implementation of a strategy for improving transparency and access to information in the
+Judiciary, including: (i) publication of all judicial decisions in an easily accessible format to be
+produced by the EJE; (ii) creation of an indexed and systematic body of jurisprudence; (iii)
+publication of information about judges and prosecutors such as CVs and financial and interest
+declarations; and (iv) publication of annual reports with information on the performance and
+activities of the courts.
+
+1.2. Improving processes and information systems of the TC.
+
+Provision of support to the TC to enhance its management model to adapt procedures to the EJE
+and increase the efficiency and transparency of its service delivery, including inter alia: (a) a review
+and redesign of processes and strengthening of information systems - especially the SIGE - within
+the TC to ensure interoperability with the EJE platform; and (b) a review and adaptation of
+technological infrastructure and office space in the TC according to the renewed organizational
+model and including energy efficiency improvements in existing facilities through the installation
+of more efficient lighting and equipment.
+
+1.3. Improving processes and information systems of the JNJ.
+
+Provision of support to the JNJ to enhance its management model, processes and information
+
+systems to increase its efficiency and transparency and better adapt to the reform 
+of the justice
+
+sector including, inter alia: (a) the development of management processes for the efficient,
+
+transparent and accountable operations of the JNJ; and (b) strengthening of information systems 
+of
+
+the JNJ to support the new processes.
+
+Part 2: Improving the production, analysis and use of information of the justice
+
+administration system
+
+Provision of support to the Participating Institutions to strengthen performance management,
+
+accountability, integrity and internal control mechanisms in the justice sector.
+
+2.1. Strengthening mechanisms of monitoring, control, and performance management in the
+
+justice administration system institutions.
+
+Provision of support to the PJ to strengthen its performance management processes and systems
+
+through, inter alia: (a) improving the quality of information and developing indicators to monitor
+
+and evaluate performance in the Judiciary (including allocation of budgets, human resources and
+
+infrastructure); (b) developing data analytics capacity in the PJ to use and analyze data from the
+
+EJE and other sources to inform decisions and improvements in courts and other areas; and (c)
+
+developing the operational model and processes for improved integrity and control.
+
+2.2. Strengthening performance management of the TC.
+
+Provision of support to the TC to strengthen performance management through, inter alia: (a) the
+
+design and implementation of a monitoring and evaluation system with good quality information;
+
+and (b) the enhancement of the SIGE as the supporting tool to monitor case processing and staff
+
+performance in the TC.
+
+2.3. Strengthening performance management of the JNJ.
+
+Provision of support to the JNJ to deliver on its mandate as the institution responsible for the
+
+selection, appointment, evaluation, and sanctioning of judges, and for establishing a disciplinary
+
+framework and integrity standards for the justice sector as a whole, including, inter alia: (a)
+
+provision of technical assistance on applying processes for the selection, appointment, and
+
+sanctioning ofjudges; and (b) the development and application of protocols and management tools
+
+for the performance evaluation of judges, including the use of performance information from the
+
+EJE.
+
+Part 3: Reducing socio-economic, cultural and geographic barriers to access to justice for
+
+vulnerable populations
+
+Provision of support to programs and initiatives that provide justice services to vulnerable
+
+populations.
+
+3.1. Improving the capacity of the justice administration system in the provision of free legal
+aid and representation through the ALEGRAs.
+
+Provision of support to strengthen the management and capacity to provide free legal aid and
+representation of the ALEGRAs in order to increase the coverage and quality of their services,
+including, inter alia: (a) an in-depth and detailed analysis of existing barriers and shortcomings
+affecting the coverage and quality of services, including cases of child support, gender-based
+violence, domestic violence and others; (b) the design and implementation of a demand-driven
+management model to address the barriers and shortcomings identified in the analysis above,
+including the improvement of relevant information systems and the design and implementation of
+strategies for increasing the coverage and quality of services; (c) rehabilitation or refurbishing of
+existing physical facilities to enhance services for a larger clientele, including meeting universal
+accessibility standards for persons with disabilities, making them climate-resilient and using
+energy-efficient appliances and equipment; (d) provision of training and capacity building activities
+for the ALEGRA personnel; (e) coordination and interoperability with other institutions providing
+similar services, including the centers run by the Borrower's Ministry of Women and Social
+Development and the National System of Specialized Justice for the Protection and Punishment of
+Violence against Women; and (f) an impact evaluation and user satisfaction surveys to monitor and
+enhance the quality of services.
+
+3.2. Improving the design and implementation of alternative mechanisms of justice service
+delivery.
+
+Provision of support to the Participating Institutions to improve the design and implementation of
+alternative mechanisms of justice service delivery, especially through a mobile justice delivery
+mechanism (justicia itinerante), in order to increase the coverage and improve the quality of
+services including, inter alia: (a) documenting and analyzing the ongoing initiative to improve the
+design of a national mobile justice delivery mechanism; (b) developing the normative framework,
+guidelines and tools to scale up the program and deliver more effective services; (c) providing
+training and capacity building for relevant personnel in the PJ and associated bodies; and (d)
+supporting the implementation, monitoring and evaluation of the program.
+
+Part 4: Improving efficiency and efficacy of the justice administration system institutions
+
+Provision of support to the Participating Institutions in capacity building, change management and
+program management of the reform process.
+
+4.1. Improving the training programs of the AMAG.
+
+Provision of support to the AMAG to enhance its management model and training programs
+through, inter alia: (a) a review and modernization of the AMAG's management model and
+processes to adapt to the organizational reform of the justice sector, including through improving
+the planning, monitoring and evaluation of the AMAG's activities; (b) the review, redesign and
+putting online of training and knowledge management programs, based on diagnoses and needs
+assessments aimed at all levels of staff, in both judicial and administrative functions; (c) the
+enhancement of the AMAG's information systems, technological infrastructure, and office space
+
+to deploy the renewed training programs; and (d) implementation of an impact evaluation of the
+
+training programs.
+
+4.2. Change management.
+
+Provision of support to the Participating Institutions for: (a) implementation of change management
+
+activities in the Judiciary to facilitate the implementation of the EJE; (b) implementation of change
+
+management activities in the TC and provision of training to the TC's staff on the new processes
+and the use of information systems; (c) implementation of change management activities in the
+
+AMAG; (d) implementation of change management activities and training in the JNJ to facilitate
+the reforms; and (e) support to the JNJ for the improvement of profiles ofjudges.
+
+4.3. Project management.
+
+Provision of support to the Participating Institutions for operational support to the UE-MINJUSDH
+and UE-PJ for undertaking planning, financial management, procurement, safeguards, and
+monitoring and evaluation activities.
+
+SCHEDULE 2
+
+Project Execution
+
+Section I. Implementation Arrangements
+
+A. Institutional Arrangements.
+
+1. For purposes of complying with its obligations referred to in Section 3.01 of this
+Agreement, the Borrower shall promptly transfer the proceeds of the Loan to the PJ through
+its budgetary mechanisms and in a manner acceptable to the Bank.
+
+2. Project Committee
+
+The Borrower, through the Participating Institutions, shall, not later than thirty (30) days
+after the Effective Date, create and thereafter maintain, at all times, until the completion of
+the Project, a steering committee (Steering Committee), with membership, structure,
+functions and responsibilities as set forth in the Operational Manual, which shall be
+responsible, inter alia, for: (a) providing overall policy and strategic guidance to ensure
+timely Project implementation; and (b) ensuring appropriate inter-institutional
+coordination among the Participating Institutions, and promoting the resolution of any
+issues which may affect Project implementation pursuant to the provisions of this
+Agreement.
+
+3. Project Implementing Units
+
+(a) The Borrower, through MINJUSDH, shall maintain, at all times until the
+completion of the Project, a Project executing unit (UE-MINJUSDH), within
+MINJUSDH, responsible for the implementation of MINJUSDH's, TC's and
+JNJ's respective activities under the Project, as set forth in the Operational Manual.
+
+(b) The Borrower, through MINJUSDH, shall take all necessary measures to maintain
+the UE-MINJUSDH staffed, at all times throughout Project implementation, by
+qualified and experienced technical and administrative staff in adequate numbers,
+with the core functions required for the effective implementation of the Project
+(including a Project coordinator, a procurement specialist and a financial
+management specialist), all with terms of reference satisfactory to the Bank.
+
+(c) The Borrower, through MfNJUSDH, shall ensure that, not later than ninety (90)
+days after the Effective Date, a procurement and a financial management specialist
+are hired to work full time within UE-MINJUSDH, under terms of reference
+acceptable to the Bank.
+
+(d) The Borrower, through the PJ (acting through the UE-PJ) shall maintain, at all
+times until the completion of the Project, a Project executing unit (UE-PJ), within
+the Judiciary, responsible for the implementation of PJ's and AMAG's respective
+activities under the Project, as set forth in the Operational Manual.
+
+(e) The Borrower, through the PJ (acting through the UE-PJ) shall 
+maintain the UE-
+
+PJ staffed, at all times throughout Project implementation, by qualified and
+
+experienced technical and administrative staff in adequate numbers, with the 
+core
+
+functions required for the effective implementation of the Project (including a
+
+Project coordinator, a procurement specialist and a financial management
+
+specialist), all with terms of reference satisfactory to the Bank.
+
+(f) The Borrower through the PJ (acting through the UE-PJ) shall hire, not later than
+
+ninety (90) days after the Effective Date, a procurement and a financial
+
+management specialist to work full time within UE-PJ, under terms of reference
+
+acceptable to the Bank.
+
+4. Project Operational Manual
+
+(a) The Borrower, through the UE-MINJUSDH and through the PJ (acting through
+
+the UE-PJ) shall carry out the Project in accordance with the provisions of a manual
+
+satisfactory to the Bank (the Operational Manual), which shall include, inter alia,
+
+the following provisions: (i) detailed terms of reference, procedures and timetable
+
+for the establishment and maintenance of financial management, accounting and
+
+auditing systems under the Project; (ii) procedures, requirements and standard
+
+bidding documents for the procurement of minor works, goods and consultants'
+
+services financed under the Project; (iii) institutional and administrative
+
+mechanisms established to ensure inter-institutional coordination, including the
+
+terms of reference and functions and responsibilities of the Participating
+
+Institutions and Steering Committee, the UE-MINJUSDH, and the UE-PJ; (iv)
+
+terms of reference and procedures for the monitoring and evaluation of Project
+
+implementation; (v) the Project indicators; and (vi) the EMF and the IPPF.
+
+(b) Except as the Borrower and the Bank may otherwise agree in writing, the
+
+Borrower, through the UE-MINJUSDH, and through the PJ (acting through the
+
+UE-PJ) shall not abrogate, amend, suspend, waive or otherwise fail to enforce the
+
+Operational Manual or any provision thereof.
+
+(c) In case of any conflict between the terms of the Operational Manual and 
+this
+
+Agreement, the provisions of this Agreement will prevail.
+
+B. Institutional Agreements.
+
+1. To facilitate the carrying out of Part 1.2, Part 1.3, Part 2.2, Part 2.3, Part 4.1, and partially
+
+Parts 4.2 and 4.3 of the Project, the Borrower, shall:
+
+(a) not later than ninety (90) days after the Effective Date, through MINJUSDH, enter
+into an agreement with the TC (the TC Cooperation Agreement), under terms and
+conditions acceptable to the Bank, including, inter alia, TC's responsibilities and
+
+obligations in relation to the Project.
+
+(b) not later than thirty (30) days after all the JNJ members have been appointed,
+through MINJUSDH, enter into an agreement with the JNJ (the JNJ Cooperation
+
+Agreement), under terms and conditions acceptable to the Bank, including, inter
+alia, JNJ's responsibilities and obligations in relation to the Project.
+
+(c) through MINJUSDH, exercise its rights and carry out its obligations under the TC
+and JNJ Cooperation Agreements in such manner as to protect the interests of the
+Borrower and the Bank and to accomplish the purposes of the Loan. Except as the
+Bank shall otherwise agree, the Borrower, through MINJUSDH shall not assign,
+amend, abrogate, waive, terminate or fail to enforce the TC and JNJ Cooperation
+Agreements or any of their provisions.
+
+(d) not later than ninety (90) days after the Effective Date, through the PJ (acting
+through the UE-PJ) shall enter into an agreement with the AMAG (the AMAG
+Cooperation Agreement), under terms and conditions acceptable to the Bank
+including, inter alia, AMAG's responsibilities and obligations in relation to the
+Project.
+
+(e) through the PJ (acting through the UE-PJ) shall exercise its rights and carry out its
+obligations under the AMAG Cooperation Agreement in such manner as to protect
+the interests of the Borrower and the Bank and to accomplish the purposes of the
+Loan. Except as the Bank shall otherwise agree, the Borrower through the PJ
+(acting through the UE-PJ) shall not assign, amend, abrogate, waive, terminate or
+fail to enforce the AMAG Cooperation Agreement or any of its provisions.
+
+C. Safeguards.
+
+1. The Borrower, through the UE-MINJUSDH and through the PJ (acting through the UE-
+PJ) shall implement the Project in accordance with the Environmental Management
+Framework and the Indigenous Peoples Planning Framework, and any environmental
+management plans or indigenous peoples plans as applicable.
+
+2. The Borrower, through the UE-MINJUSDH and through the PJ (acting through the UE-
+PJ) shall ensure that the terms of reference for any consultancies related to the technical
+assistance provided under the Project, shall be acceptable to the Bank and, to that end, such
+terms of reference shall require that the advice conveyed through such technical assistance
+be consistent with the requirements of the Bank's Safeguard Policies.
+
+Section II. Project Monitoring Reportin2 and Evaluation
+
+The Borrower, through the PJ (acting through the UE-PJ) shall furnish to the Bank, with a copy to
+the Borrower's Direcci6n General de Inversi6n Ptiblica del MEF, the Project Reports not later than
+forty-five (45) days after the end of each calendar semester, covering the calendar semester.
+
+Section III. Withdrawal of Loan Proceeds
+
+A. General.
+
+Without limitation upon the provisions of Article II of the General Conditions 
+and in
+
+accordance with the Disbursement and Financial Information Letter, the Borrower may
+
+withdraw the proceeds of the Loan to finance Eligible Expenditures in the amount allocated
+
+and, if applicable, up to the percentage set forth against each Category of the following
+
+table:
+
+Category Amount of the Loan Percentage of Expenditures
+Allocated to be financed
+
+(expressed in USD) (exclusive of Taxes)
+
+(1) Goods, works, non-
+consulting services, training 85,000,000 100%
+
+and consulting services for the
+
+Project
+
+TOTAL AMOUNT 85,000,000
+
+B. Withdrawal Conditions; Withdrawal Period.
+
+1. Notwithstanding the provisions of Part A above, no withdrawal shall be made for payments
+
+made prior to the Signature Date.
+
+2. The Closing Date is September 30, 2024.
+
+Section IV. Other undertakings
+
+Without limitation to the provisions of Section 5.03 of the General Conditions, the Borrower shall
+
+make available all necessary counterparts funds for the implementation of the Project activities by
+
+UE-MINJUSDH and UE-PJ.
+
+SCHEDULE 3
+
+Customized Amortization Repayment Schedule
+
+The Borrower shall repay the principal amount of the Loan as follows:
+
+Commitment Principal Repayments
+
+Principal Payment Date Installment Share
+September 15, 2025 6 %
+
+March 15, 2026 12%
+
+September 15, 2026 12%
+
+March 15, 2027 35 %
+
+September 15, 2027 35 %
+
+APPENDIX
+
+Definitions
+
+1. "Anti-Corruption Guidelines" means, for purposes of paragraph 5 of the Appendix to the
+
+General Conditions, the "Guidelines on Preventing and Combating Fraud and Corruption
+
+in Projects Financed by IBRD Loans and IDA Credits and Grants", dated October 15, 2006
+
+and revised in January 2011 and as of July 1, 2016.
+
+2. "ALEGRA" means Centros de Asistencia Legal Gratuita, the Borrower's legal aid centers
+
+administered by MINJUSDH that provide free legal, social and psychological support to
+
+low income populations.
+
+3. "AMAG" means Academia de la Magistratura, the Borrower's judicial and prosecutorial
+
+academy established and operating pursuant to the provisions of Article 151 of the
+
+Borrower's Constitution and AMAG's Organic Law (as hereinafter defined), or any
+
+successor or successors thereto acceptable to the Bank.
+
+4. "AMAG Cooperation Agreement" means the agreement referred to in Section 1.B. 1(d) of
+
+Schedule 2 to this Agreement.
+
+5. "AMAG's Organic Law" means Ley Orgdnica de la Academia de la Magistratura, the
+
+Borrower's Law No. 26335 dated July 20, 1994, duly published in the Borrower's Official
+
+Gazette dated July 21, 1994, as amended to the date of this Agreement.
+
+6. "Bank's Safeguards Policies" means the Bank operational policies and procedures set forth
+
+in the Bank's Operational Manual under OPs/BPs 4.01, 4.04, 4.09, 4.10, 4.11, 4.12, 4.36,
+and 4.37, as said manual is published under www.WorldBank.org/opmanual.
+
+7. "Category" means a category set forth in the table in Section IIl.A of Schedule 2 to this
+
+Agreement.
+
+8. "EJE" means the Expediente Judicial Electr6nico, the Borrower's justice reform initiative
+
+aiming to make justice services more efficient and transparent through the transition to
+
+electronic judicial files and reforms of management models and processes of the system of
+
+justice administration.
+
+9. "Environmental Management Framework" or "EMF" means the Borrower's Marco de
+
+Gesti6n Ambiental, acceptable to the Bank, dated December 1, 2018, setting out the
+
+principles, rules, guidelines and procedures to be followed to screen and assess the potential
+
+adverse environmental and social risks and impacts of activities under the Project,
+including the measures to avoid, reduce, mitigate or offset environmental and social, risks
+
+and impacts of such activities, and the procedural, budget and institutional arrangements
+
+and actions needed to implement these measures, and information on the agency or
+
+agencies responsible for addressing the risks and impacts; as such framework may be
+
+amended from time to time, with the prior written agreement of the Bank.
+
+10. "General Conditions" means the "International Bank for Reconstruction and Development
+General Conditions for IBRD Financing, Investment Project Financing", dated December
+14, 2018.
+
+I1. "Indigenous Peoples Planning Framework" or "IPPF" means the Borrower's Marco para
+los Pueblos Indigenas, acceptable to the Bank, dated December 1, 2018, that assesses the
+potential positive and adverse effects of the activities implemented under Part 3 of the
+Project, and proposes a set of actions to be taken to ensure that said activities are respectful
+of the rights of indigenous peoples, and that free, prior, and informed consultations with
+the affected indigenous peoples' communities take place at each stage of project
+preparation and implementation, including the preparation of indigenous peoples plans; as
+such framework may be amended from time to time, with the prior written agreement of
+the Bank.
+
+12. "IT" means information technology.
+
+13. "JNJ" means Junta Nacional de Justicia, the Borrower's National Justice Board,
+established by the JNJ Organic Law (as hereinafter defined) with the mandate of being
+responsible for the selection, appointment, evaluation, and sanctioning (including removal)
+of judges, and for establishing a disciplinary framework and integrity standards for the
+Borrower's justice sector as a whole.
+
+14. "JNJ Cooperation Agreement" means the agreement referred to in Section 3.B.1(b) of
+Schedule 2 to this Agreement.
+
+15. "JNJ's Organic Law" means the Borrower's Law No. 30916 dated February 18, 2019,
+published in the Borrower's Official Gazette on February 19, 2019, setting forth the
+organization, roles and responsibilities of the JNJ.
+
+16. "Judiciary" or "PJ" means Poder Judicial, the Borrower's judicial branch responsible for
+administering and delivering judicial services in the Borrower's territory, pursuant to the
+provisions of Chapter VIII of the Constitution, and the provisions of the Judiciary's
+Organic Law (as hereinafter defined).
+
+17. "Judiciary's Organic Law" means Texto Onico Ordenado de la Ley Orgdnica del Poder
+Judicial, the Borrower's Supreme Decree No. 017
+JUS dated May 28, 1993, published
+in the Borrower's Official Gazette on June 3, 1993, setting forth the organization, roles and
+responsibilities of the Judiciary, as amended to the date of this Agreement.
+
+18. "MEF" means Ministerio de Economia y Finanzas, the Borrower's Ministry of Economy
+and Finance, and any successor or successors thereto acceptable to the Bank.
+
+19. "MINJUSDH" means Ministerio de Justicia y Derechos Humanos, the Borrower's
+Ministry of Justice, regulated by MINJUSDH Organic Law (as hereinafter defined), or any
+successor or successors thereto acceptable to the Bank.
+
+20. "MINJUSDH's Organic Law" means Ley de Organizacidn y Funciones del Ministerio de
+
+Justicia y Derechos Humanos, the Borrower's Law No. 29809 dated December 7, 2011,
+duly published in the Borrower's Official Gazette on December 8, 2011, as amended to the
+
+date of this Agreement.
+
+21. "National System of Specialized Justice for the Protection and Punishment of Violence
+
+against Women" means Sistema Nacional Especializado de Justicia para la Proteccidn y
+
+Sanci6n de la Violencia contra las Mujeres e Integrantes del Grupo Familiar, the
+
+Borrower's integrated and specialized system formed by the Judiciary, the Attorney
+
+General's Office, the National Police, the Ministry of Justice, and the Ministry of Women
+
+and Vulnerable Populations to improve the processes, services and outcome on matters of
+
+justice related to the protection and sanction of violence against women, established under
+
+the Legislative Decree (Decreto Ley) No. 1368 dated July 29, 2018.
+
+22. "Operational Manual" means the Borrower's manual dated March 28, 2019, acceptable to
+
+the Bank, referred to in Section I.A.4 of Schedule 2 to this Agreement, as said manual may
+
+be amended from time to time, with the agreement of the Bank.
+
+23. "Participating Institution" means any of the following institutions within the Borrower's
+
+justice sector: AMAG, JNJ, the Judiciary, MINJUSDH, and TC, approved by the Bank for
+
+participation under the Project.
+
+24. "Procurement Regulations" means, for purposes of paragraph 87 of the Appendix to the
+
+General Conditions, the "World Bank Procurement Regulations for IPF Borrowers", dated
+
+July 2016, revised November 2017.
+
+25. "Project Investments" means the Project activities under the responsibility of each
+
+Participating Institution.
+
+26. "SIGE" means Sistema Integrado de Gesti6n de Expedientes, the Borrower's integrated
+case management system in the TC.
+
+27. "Signature Date" means the later of the two dates on which the Borrower and the Bank
+signed this Agreement and such definition applies to all references to "the date of the Loan
+
+Agreement" in the General Conditions.
+
+28. "Steering Committee" means Comitj Directivo del Proyecto, the committee referred to in
+Section I.A.2 of Schedule 2 to this Agreement.
+
+29. "TC" means Tribunal Constitucional, the Borrower's Constitutional Court, established and
+operating pursuant to the provisions of the Borrower's Constitution and TC's Organic Law
+(as hereinafter defined), or any successor or successors thereto acceptable to the Bank.
+
+30. "TC Cooperation Agreement" means the agreement referred to in Section I.B.1(a) of
+Schedule 2 to this agreement.
+
+31. "TC's Organic Law" means Ley Orgdnica del Tribunal Constitucional, the Borrower's
+Law No. 28301 dated July 22, 2004, duly published in the Borrower's Official Gazette
+dated July 23, 2004, as amended to the date of this Agreement.
+
+32. "UE-MINJUSDH" means the Project Executing Unit (Programa Modernizaci6n del
+Sistema de Administraci6n de Justicia, Unidad Ejecutora 003 del Ministerio de Justicia y
+Derechos Humanos) referred to in Section I.A.3(a) of Schedule 2 to this Agreement, with
+functions and responsibilities set forth in the Operational Manual, or any successor or
+successors thereto acceptable to the Bank.
+
+33. "UE-PJ" means the Project Executing Unit (Oficina de Coordinaci6n de Proyectos - UE
+PJ) within the Judiciary, referred to in Section I.A.3(d) of Schedule 2 to this
+Agreement, with functions and responsibilities set forth in the Operational Manual, or any
+successor or successors thereto acceptable to the Bank.
+
+16

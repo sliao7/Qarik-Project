@@ -1,0 +1,913 @@
+World Bank Document
+
+DOCU MENTS,
+
+LOAN NUMBER 8235-CN
+
+Loan Agreement
+
+(Beijing Rooftop Solar Photovoltaic Scale-up (Sunshine Schools) Project)
+
+between
+
+PEOPLE'S REPUBLIC OF CHINA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+Dated 10 , 2013
+
+LOAN NUMBER 8235-CN
+
+LOAN AGREEMENT
+
+AGREEMENT dated 2013, between PEOPLE'S
+REPUBLIC OF CHINA ("Borrower") and INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT ("Bank"). The Borrower and the Bank
+hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement)
+constitute an integral part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this
+
+Agreement have the meanings ascribed to them in the General Conditions or in
+the Appendix to this Agreement.
+
+ARTICLE I - LOAN
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or
+
+referred to in this Agreement, the amount of one hundred and twenty million
+
+Dollars ($120,000,000), as such amount may be converted from time to time
+
+through a Currency Conversion in accordance with the provisions of Section 2.07
+of this Agreement ("Loan"), to assist in financing the project described in
+
+Schedule 1 to this Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with
+
+Section IV of Schedule 2 to this Agreement.
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one
+
+percent (0.25%) of the Loan amount.
+
+2.04. The interest payable by the Borrower for each Interest Period shall be at a rate
+
+equal to the Reference Rate for the Loan Currency plus the Variable Spread:
+
+provided, that upon a Conversion of all or any portion of the principal amount of
+
+the Loan, the interest payable by the Borrower during the Conversion Period on
+such amount shall be determined in accordance with the relevant provisions of
+
+Article IV of the General Conditions. Notwithstanding the foregoing, if any
+
+amount of the Withdrawn Loan Balance remains unpaid when due and such non-
+
+payment continues for a period of thirty days, then the interest payable by the
+
+Borrower shall instead be calculated as provided in Section 3.02 (e) of the
+General Conditions.
+
+2.05. The Payment Dates are May 15 and November 15 in each year.
+2.06. The principal amount of the Loan shall be repaid in accordance with the
+amortization schedule set forth in Schedule 3 to this Agreement.
+
+2.07. (a) The Borrower may at any time request any of the following Conversions
+of the terms of the Loan in order to facilitate prudent debt management:
+(i) a change of the Loan Currency of all or any portion of the principal
+amount of the Loan, withdrawn or un-withdrawn, to an Approved
+Currency; (ii) a change of the interest rate basis applicable to: (A) all or
+any portion of the principal amount of the Loan withdrawn and
+outstanding from a Variable Rate to a Fixed Rate, or vice versa: or
+(B) all or any portion of the principal amount of the Loan withdrawn and
+outstanding from a Variable Rate based on a Reference Rate and the
+Variable Spread to a Variable Rate based on a Fixed Reference Rate and
+the Variable Spread, or vice versa; or (C) all of the principal amount of
+the Loan withdrawn and outstanding from a Variable Rate based on a
+Variable Spread to a Variable Rate based on a Fixed Spread; and (iii) the
+setting of limits on the Variable Rate or the Reference Rate applicable to
+all or any portion of the principal amount of the Loan withdrawn and
+
+outstanding by the establishment of an Interest Rate Cap or Interest Rate
+Collar on the Variable Rate or the Reference Rate.
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that
+is accepted by the Bank shall be considered a "Conversion", as defined
+in the General Conditions, and shall be effected in accordance with the
+
+provisions of Article IV of the General Conditions and of the Conversion
+
+Guidelines.
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or
+
+Interest Rate Collar for which the Borrower has requested that the
+
+premium be paid out of the proceeds of the Loan, the Bank shall, on
+
+behalf of the Borrower, withdraw from the Loan Account and pay to
+itself the amounts required to pay any premium payable in accordance
+
+with Section 4.05 (c) of the General Conditions up to the amount
+
+allocated from time to time for the purpose in the table in Section IV of
+
+Schedule 2 to this Agreement.
+
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objective of the Project. To this
+
+end. the Borrower shall cause the Project to be carried out by the Project
+
+Implementing Entities in accordance with the provisions of Article V of the
+
+General Conditions and the Project Agreement.
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and
+
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall
+
+ensure that the Project is carried out in accordance with the provisions of
+Schedule 2 to this Agreement.
+
+ARTICLE IV - EFFECTIVENESS; TERMINATION
+
+4.01. The Effectiveness Deadline is the date ninety (90) days after the date of this
+Agreement.
+
+ARTICLE V - REPRESENTATIVE; ADDRESSES
+
+5.01. The Borrower's Representative is its minister responsible for finance.
+
+5.02. The Borrower's Address is:
+
+Ministry of Finance
+Sanlihe
+Beijing 100820
+China
+
+Facsimile:
+
+86
+6855-1125
+
+5.03. The Bank's Address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+
+Cable address: Telex: Facsimile:
+
+INTBAFRAD 248423(MCI) or 1
+477-6391
+Washington, D.C. 64145(MCI)
+AGREED at Beijing, People's Republic of China, as of the day and year first above
+written.
+
+PEOPLE'S REPUBLIC OF CHINA
+
+By
+
+Authorized Representative
+
+Name:
+
+Title:
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By
+
+Authorized Representative
+
+Name:
+
+Title: _ __ 64 Z
+SCHEDULE1
+
+Project Description
+
+The objectives of the Project are to increase the share of clean energy in
+electricity consumption and to demonstrate the viability of the renewable energy service
+company model for scaling up the deployment of rooftop solar photovoltaic systems in
+schools and other educational institutions in Beijing Municipality.
+
+The Project consists of the following parts:
+
+1. Support to Sunshine Schools Program
+
+Installation of distributed rooftop solar photovoltaic electricity generation
+systems in selected schools and other educational institutions in Beijing
+Municipality.
+
+2. Technical Assistance
+
+Development of local capacity for scaling up of commercially viable solar energy
+deployment:
+
+(a) Demonstration of the renewable energy service company business model
+for large-scale grid-connected rooftop solar photovoltaic deployment in
+Beijing Municipality, provision of engineering and technical support in
+relation to photovoltaic systems to Beijing Yuanshen Energy Saving
+Technology Company Limited, and independent monitoring and
+evaluation of implementation and results of such model;
+
+(b) demonstration of two-way metering in Beijing Municipality;
+
+(c) establishment of an online monitoring system for rooftop photovoltaic
+systems and a solar-energy information portal in Beijing Municipality;
+and
+
+(d) improvement of renewable-energy education in schools and other
+educational institutions in Beijing Municipality.
+SCHEDULE 2
+
+Project Execution
+
+Section . Implementation Arrangements
+
+A. On-lending
+
+I. To facilitate the carrying out of the Project, the Borrower shall make the proceeds
+of the Loan available to Beijing Municipality, and shall cause Beijing
+Municipality to make such proceeds available to Beijing Yuanshen Energy
+Saving Technology Company Limited, both under terms and conditions approved
+by the Bank, which shall include the following, namely, the principal amount of
+the Loan made available shall be:
+
+(a) denominated and repayable in Dollars;
+
+(b) charged a front-end fee at the rate set forth in Section 2.03 of this
+
+Agreement;
+
+(c) charged interest on the principal amount withdrawn and outstanding
+from time to time at the rate set forth in Section 2.04 of this Agreement;
+and
+
+(d) repayable over the period set forth in Section 2.06 of this Agreement.
+
+2. The Borrower shall exercise its rights under the on-lending arrangements referred
+to in the preceding paragraph in such a manner as to protect its interests and
+those of the Bank and to accomplish the purposes of the Loan, and, except,as the
+Bank shall otherwise agree in writing, the Borrower shall not assign, amend,
+abrogate or waive, or permit to be assigned, amended, abrogated or waived, such
+rights.
+
+B. Anti-Corruption
+
+The Borrower shall ensure that the Project is carried out in accordance with the
+
+provisions of the Anti-Corruption Guidelines.
+
+C. Management Manual and Implementation and Operations Manual
+
+The Borrower shall:
+
+(a) cause the Project Implementing Entities to ensure that the Project is
+
+carried out in accordance with the provisions of the Management Manual
+
+and the Implementation and Operations Manual; and
+(b) except as the Bank shall otherwise agree in writing, not assign, amend,
+abrogate, or waive, or permit to be assigned, amended, abrogated, or
+waived, the aforementioned, or any provision thereof.
+
+2. In the event of a conflict between the provisions of either of the Management
+Manual or the Implementation and Operations Manual and those of this
+Agreement, the latter shall govern.
+
+D. Safeguards
+
+1. The Borrower shall cause the Project Implementing Entities to ensure that the
+Project is carried out in accordance with the provisions of the Environmental
+Management Plan, and, except as the Bank shall otherwise agree in writing, the
+Borrower shall not assign, amend, abrogate, or waive, or permit to be assigned,
+amended, abrogated, or waived, the aforementioned, or any provision thereof.
+
+The Borrower shall cause the Project Implementing Entities to ensure that no
+land acquisition or Involuntary Resettlement is carried out under the Project.
+
+Section II. Project Monitoring Reporting and Evaluation
+
+A. Project Reports
+
+The Borrower shall cause the Project Implementing Entities to monitor and evaluate the
+progress of their Respective Parts of the Project and prepare Project Reports for such
+Parts in accordance with the provisions of Section 5.08 of the General Conditions and on
+the basis of the indicators set forth in the Implementation and Operations Manual. Each
+Project Report shall cover the period of one (1) calendar semester, and shall be furnished
+to the Borrower and the Bank not later than sixty (60) days after the end of the period
+covered by such report.
+
+B. Financial Management, Financial Reports and Audits
+
+1. The Borrower shall maintain or cause to be maintained a financial management
+system in accordance with the provisions of Section 5.09 of the General
+Conditions.
+
+2. The Borrower shall:
+
+(a) cause the Project Implementing Entities to ensure that the Project is
+carried out in accordance with the Financial Management Manual; and
+
+(b) except as the Bank shall otherwise agree in writing, not assign, amend,
+abrogate, or waive, or permit to be assigned, amended, abrogated, or
+waived, the aforementioned, or any provision thereof.
+
+3. In the event of a conflict between the provisions of the Financial Management
+Manual and those of this Agreement, the latter shall govern.
+
+4. Without limitation on the provisions of Part A of this Section II, the Borrower
+shall cause the Project Implementing Entities to prepare and furnish to the Bank,
+as part of the Project Report, not later than sixty (60) days after the end of each
+calendar semester, interim unaudited financial reports for their Respective Parts
+
+of the Project covering the semester, in form and substance satisfactory to the
+
+Bank.
+
+5. The Borrower shall have its Financial Statements audited in accordance with the
+
+provisions of Section 5.09 (b) of the General Conditions. Each audit of the
+
+Financial Statements shall cover the period of one (1) fiscal year of the Borrower.
+
+The audited Financial Statements for each such period shall be furnished to the
+
+Bank not later than six (6) months after the end of such period.
+
+Section III. Procurement
+
+A. General
+
+1. Goods and Non-consulting Services. All goods and non-consulting services
+
+required for the Project and to be financed out of the proceeds of the Loan shall
+
+be procured in accordance with the requirements set forth or referred to in
+
+Section I of the Procurement Guidelines, and with the provisions of this Section.
+
+2. Definitions. The capitalized terms used below in this Section to describe
+
+particular procurement methods or methods of review by the Bank of particular
+
+contracts refer to the corresponding method described in Sections 11 and III of the
+
+Procurement Guidelines.
+
+B. Particular Methods of Procurement of Goods and Non-consulting Services
+
+1. International Competitive Bidding. . Except as otherwise provided 
+in
+
+paragraph 2 below, goods and non-consulting services shall 
+be procured under
+
+contracts awarded on the basis of International Competitive Bidding.
+
+2. Other Methods of Procurement of Goods and Non-consulting Services. 
+The
+
+following methods, other than International Competitive Bidding, may be used
+
+for procurement of goods and non-consulting services for those 
+contracts
+
+specified in the Procurement Plan: (a) National Competitive Bidding, subject 
+to
+
+the additional provisions set forth below; (b) Shopping; and (c) 
+Direct
+
+Contracting.
+The procedures applicable to the procurement of goods and non-consulting services
+under contracts awarded on the basis of National Competitive Bidding shall be those set
+forth in the Borrower's Law on Tendering and Bidding promulgated by its Order No. 21
+dated August 30, 1999, with the modifications set forth below in order to ensure
+economy, efficiency, transparency, and broad consistency with the provisions of
+Section I of the Procurement Guidelines, pursuant to paragraph 3.3 of said Guidelines.
+In the event of a conflict between the Borrower's procedures and the modifications set
+
+forth below, the latter shall govern.
+
+(i) All invitations to prequalify or bid shall be advertised in a newspaper of
+national circulation in the Borrower's country, except for goods contracts that
+
+are estimated to cost less than $300,000 equivalent each, which may be
+
+advertised in a provincial daily newspaper. Such advertisement shall be made
+
+in sufficient time for prospective bidders to obtain prequalification or bidding
+
+documents and prepare and submit their responses. In any event, a minimum of
+
+thirty (30) days shall be given to bidders between the date of advertisement in
+
+such newspaper and the deadline for submission of bids, and the advertisement
+
+and bidding documents shall specify the deadline for such submission.
+
+(ii) Qualification requirements of bidders and the method of evaluating the
+
+qualification of each bidder shall be specified in detail in the bidding
+documents.
+
+(iii) All bidders that meet the qualification criteria set out in the pre-qualification
+
+documents shall be allowed to bid, and there shall be no limit on the number of
+
+pre-qualified bidders.
+
+(iv) All bidders shall be required to provide security in an amount sufficient to
+
+protect the Borrower or the Project Implementing Entities, as the case may be,
+in case of breach of contract by the contractor, and the bidding documents shall
+
+specify the required form and amount of such security.
+
+(v) Bidders shall be allowed to submit bids by mail or by hand. The time for
+
+opening of all bids shall be the same as the deadline for receipt of such bids.
+
+(vi) All bids shall be opened in public; all bidders shall be offered an opportunity to
+
+be present (either in person or through their representatives) at the time 
+of bid
+
+opening, but bidders shall not be required to be present at the bid opening.
+
+(vii) All bid evaluation criteria shall be disclosed in the bidding documents and
+
+quantified in monetary terms or expressed in the form of pass / fail
+
+requirements.
+
+(viii) No bid may be rejected solely on the basis that the bid rice falls outside any
+standard contract estimate, or margin or bracket of average bids established by
+the Borrower or the Project Implementing Entities, as the case may be.
+
+(ix) Each contract shall be awarded to the lowest evaluated responsive bidder, that
+is, the bidder who meets the appropriate standards of capability and resources
+and whose bid has been determined: (A) to be substantially responsive to the
+bidding documents; and (B) to offer the lowest evaluated cost. The winning
+bidder shall not be required, as a condition of award, to undertake
+responsibilities for work not stipulated in the bidding documents or otherwise to
+modify the bid as originally submitted.
+
+(x) Each contract financed out of the proceeds of the Grant shall provide that the
+suppliers and contractors shall permit the Bank, at its request, to inspect their
+accounts and records relating to the performance of the contract and to have said
+accounts and records audited by auditors appointed by the Bank.
+
+(xi) Government-owned enterprises in the Borrower's country may be permitted to
+bid or submit a proposal of goods and works if they can establish that they: (i)
+are legally and financially autonomous; (ii) operate under commercial law; and
+(iii) are not a dependent agency of the agency conducting the procurement.
+
+(xii) Re-bidding should not be allowed solely because the number of bids is less than
+three (3), and rejection of all bids or rebidding shall not take place without the
+Bank's prior written agreement.
+
+(xiii) The results of bid evaluation and contract award shall be published in the
+national or provincial press (as provided under subparagraph (i) above) or
+official gazette or a free and open-access website and shall identify the name
+and offered price of the winning bidder, as well as the duration and summary
+scope of the awarded contract.
+
+(xiv) The Borrower or the Project Implementing Entities, as the case may be, shall
+have in place provisions for bidders to protest.
+
+C. Review by the Bank of Procurement Decisions
+
+The Procurement Plan shall set forth those contracts which shall be subject to the Bank's
+Prior Review. All other contracts shall be subject to Post Review by the Bank.
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General
+
+The Borrower may withdraw the proceeds of the Loan in accordance with the
+provisions of Article II of the General Conditions, this Section, and such
+additional instructions as the Bank shall specify by notice to the Borrower
+(including the "World Bank Disbursement Guidelines for Projects" dated
+May 2006, as revised from time to time by the Bank and as made applicable to
+this Agreement pursuant to such instructions), to finance Eligible Expenditures as
+set forth in the table in paragraph 2 below.
+
+2. The following table specifies the categories of Eligible Expenditures that may be
+financed out of the proceeds of the Loan ("Category"), the allocation of the
+amounts of the Loan to each Category, and the percentage of expenditures to be
+financed for Eligible Expenditures in each Category.
+
+Amount of the Loan Percentage of Expenditures
+Allocated to be Financed
+
+Category (expressed in USD) (inclusive of Taxes)
+
+(1) Goods and non- 110,260,000 100%
+consulting services for
+Part I of the Project
+
+(2) Front-end Fee 300,000 Amount payable pursuant to
+Section 2.03 of this Agreement
+
+in accordance with
+Section 2.07 (b) of the General
+
+Conditions
+
+(3) Interest During 9,440,000 Amount payable pursuant to
+Construction Section 2.04 of this Agreement
+
+in accordance with
+Section 2.07 (c) of the General
+
+Conditions during the
+Construction Period
+
+(4) Interest Rate Cap or 0 Amount due pursuant to
+Interest Rate Collar Section 2.07 (c) of this
+Premium Agreement
+
+TOTAL AMOUNT 120,000,000
+B. Withdrawal Conditions; Withdrawal Period
+
+I. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be
+made for payments made prior to the date of this Agreement, except that
+
+withdrawals up to an aggregate amount not to exceed $24,000,000 equivalent
+
+may be made for payments made prior to this date but on or after June 30, 2012
+
+for Eligible Expenditures, subject to fulfillment of the requirements set forth in
+
+Section I.G of the Schedule to the Project Agreement.
+
+2. The Closing Date is December 31, 2019.
+
+C. Other Withdrawal Undertakings
+
+Withdrawals for goods under Category (1) of the table set forth in Part A.2 of this
+
+Section IV shall be made upon verification by Beijing Yuanshen Energy Saving
+Technology Company Limited of the generation capacity installed under the
+
+respective activity. Amounts so withdrawn shall be based on the amount of such
+
+capacity and calculated in accordance with the formula set forth for this purpose
+
+in the Financial Management Manual.
+SCHEDULE3
+
+Amortization Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the
+percentage of the total principal amount of the Loan payable on each Principal
+Payment Date ("Installment Share"). If the proceeds of the Loan have been fully
+withdrawn as of the first Principal Payment Date, the principal amount of the
+Loan repayable by the Borrower on each Principal Payment Date shall be
+determined by the Bank by multiplying: (a) Withdrawn Loan Balance as of the
+first Principal Payment Date; by (b) the Installment Share for each Principal
+Payment Date, such repayable amount to be adjusted, as necessary, to deduct any
+amounts referred to in paragraph 4 of this Schedule, to which a Currency
+Conversion applies.
+
+Principal Payment Date Installment Share
+(Expressed as a Percentage)
+
+May 15, 2018 1.48
+November 15, 2018 1.52
+
+May 15, 2019 1.56
+November 15, 2019 1.59
+
+May 15, 2020 1.63
+November 15, 2020 1.67
+
+May 15, 2021 1.72
+November 15, 2021 1.76
+
+May 15, 2022 1.80
+November 15, 2022 1.85
+
+May 15, 2023 1.89
+November 15, 2023 1.94
+
+May 15, 2024 1.99
+November 15, 2024 2.04
+
+May 15, 2025 2.09
+November 15, 2025 2.14
+
+May 15, 2026 2.20
+November 15, 2026 2.25
+
+May 15, 2027 2.31
+November 15, 2027 2.37
+
+May 15, 2028 2.43
+November 15, 2028 2.49
+
+May 15, 2029 2.55
+November 15, 2029 2.61
+
+May 15, 2030 2.68
+November 15, 2030 2.74
+May152031 2.81
+November 15, 2031 2.88
+
+May 15,2032 2.95
+November 15, 2032 3.03
+
+May 15, 2033 3.10
+November 15, 2033 3.18
+
+May 15, 2034 3.26
+November 15, 2034 3.34
+
+May 15, 2035 3.43
+November 15, 2035 3.51
+
+May 15, 2036 3.60
+November 15, 2036 .3.69
+
+May 15, 2037 3.78
+November 15, 2037 4.14
+
+2. If the proceeds of the Loan have not been fully withdrawn as of the first Principal
+Payment Date, the principal amount of the Loan repayable by the Borrower on
+
+each Principal Payment Date shall be determined as follows:
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of
+
+the first Principal Payment Date, the Borrower shall repay the
+Withdrawn Loan Balance as of such date in accordance with paragraph I
+
+of this Schedule.
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be
+
+repaid on each Principal Payment Date falling after the date of such
+
+withdrawal in amounts determined by the Bank by multiplying the
+
+amount of each such withdrawal by a fraction, the numerator of which is
+
+the original Installment Share specified in the table in paragraph I of this
+
+Schedule for said Principal Payment Date ("Original Installment Share")
+
+and the denominator of which is the sum of all remaining Original
+
+Installment Shares for Principal Payment Dates falling on or after such
+
+date, such amounts repayable to be adjusted, as necessary, to deduct any
+
+amounts referred to in paragraph 4 of this Schedule, to which a Currency
+
+Conversion applies.
+
+3. (a) Amounts of the Loan withdrawn within two (2) calendar months prior to
+
+any Principal Payment Date shall, for the purposes solely of calculating
+
+the principal amounts payable on any Principal Payment Date, be treated
+
+as withdrawn and outstanding on the second Principal Payment Date
+
+following the date of withdrawal and shall be repayable on each
+
+Principal Payment Date commencing with the second Principal Payment
+
+Date following the date of withdrawal.
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if
+at any time the Bank adopts a due date billing system under which
+invoices are issued on or after the respective Principal Payment Date, the
+provisions of such sub-paragraph shall no longer apply to any
+withdrawals made after the adoption of such billing system.
+
+4. Notwithstanding the provisions of paragraphs I and 2 of this Schedule, upon a
+Currency Conversion of all or any portion of the Withdrawn Loan Balance to an
+Approved Currency, the amount so converted in the Approved Currency that is
+repayable on any Principal Payment Date occurring during the Conversion
+Period, shall be determined by the Bank by multiplying such amount in its
+currency of denomination immediately prior to the Conversion by either: (i) the
+exchange rate that reflects the amounts of principal in the Approved Currency
+payable by the Bank under the Currency Hedge Transaction relating to the
+Conversion; or (ii) if the Bank so determines in accordance with the Conversion
+Guidelines, the exchange rate component of the Screen Rate.
+
+If the Withdrawn Loan Balance is denominated in more than one Loan Currency,
+the provisions of this Schedule shall apply separately to the amount denominated
+in each Loan Currency, so as to produce a separate amortization schedule for
+each such amount.
+APPENDIX
+
+Section I. Definitions
+
+1. "Anti-Corruption Guidelines" means the "Guidelines on Preventing and
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA
+Credits and Grants" dated October 15, 2006 and revised in January 2011.
+
+2. "Beijing Municipality" means the Borrower's administrative subdivision of such
+name in the northeast of its territory, or a successor thereto.
+
+3. "Beijing Municipal Development and Reform Commission" means Beijing
+Municipality's commission responsible for the management of development and
+reform, or a successor thereto.
+
+4. "Beijing Energy Investment Holding Company Limited" means the enterprise
+wholly-owned by the Borrower and established and operating pursuant to the
+Borrower's Company Law of 1996 and said enterprise's Business Registration
+No. 110000007832879 and its charter dated December 8, 2004, or a successor
+thereto.
+
+5. "Beijing Yuanshen Energy Saving Technology Company Limited" means the
+wholly-owned subsidiary of Beijing Energy Investment Holding Company
+Limited established and operating pursuant to the Borrower's Company Law of
+1996 and said subsidiary's Business Registration No. 110108005069314 and its
+charter dated April 5, 1996, or a successor thereto.
+
+6. "Beneficiary" means a school or other educational institution in Beijing
+Municipality meeting specific criteria set forth in the Implementation and
+Operations Manual (as hereinafter defined) and which is a beneficiary under
+Part 1 of the Project and party to an Energy Service Performance Contract (as
+hereinafter defined).
+
+7. "Category" means a category set forth in the table in Section IV.A.2 of
+Schedule 2 to this Agreement.
+
+8. "Consultant Guidelines" means the "Guidelines: Selection and Employment of
+Consultants under IBRD Loans and IDA Credits and Grants by World Bank
+Borrowers" dated January 2011.
+
+9. "Construction Period" means the period, in relation to works under the Project,
+commencing on the Effective Date and ending on the Closing Date.
+
+10. "Energy Service Performance Contract" means a contract, referred to in
+Part G.2 (b) of the Schedule to the Project Agreement and based on the model set
+
+17-
+
+forth in the Implementation and Operations Manual, between Beijing Yuanshen
+Energy Saving Technology Company Limited and a Beneficiary, setting forth the
+terms and conditions governing the carrying out of an activity for such
+Beneficiary under Part I of the Project, and such term includes any annexes,
+appendices, or schedules to such contract.
+
+1i. "Environmental Management Plan" means the Project Implementing Entities (as
+hereinafter defined)' plan, dated August 2012, agreed with the Bank and setting
+forth mitigation, enhancement, monitoring, and institutional measures, including
+capacity building through training, to eliminate any adverse environmental and
+social impacts of activities to be implemented under the Project, offset them, or
+reduce them to acceptable levels, or enhance positive impacts, and guidelines and
+procedures for the screening of activities under Part I of the Project, as the same
+may be modified from time to time with the prior written agreement of the Bank,
+and such term includes any annexes, appendices, or schedules to such plan.
+
+12. "Financial Management Manual" means the Project Implementing Entities'
+manual, dated December 2012, agreed with the Bank and setting forth financial
+management and disbursement arrangements for purposes of Project
+implementation, as the same may be modified from time to time with the prior
+written agreement of the Bank, and such term includes any annexes, appendices,
+or schedules to such manual.
+
+13. "General Conditions" means the "International Bank for Reconstruction and
+Development General Conditions for Loans" dated March 12, 2012.
+
+14. "Implementation and Operations Manual" means Beijing Yuanshen Energy
+Saving Technology Company Limited's manual, dated October 2012, agreed
+with the Bank and setting forth implementation, organizational, administrative,
+and monitoring and evaluation arrangements for purposes of implementation of
+Part I of the Project, including criteria, procedures, and terms for activities under
+Part I of the Project and a model Energy Service Performance Contract, as the
+same may be modified from time to time with the prior written agreement of the
+Bank, and such term includes any annexes, appendices, or schedules to such
+manual.
+
+15. "Involuntary Resettlement" means the following caused on account of Project
+implementation: (a) the involuntary taking of land, resulting in (i) relocation or
+loss of shelter; (ii) loss of assets or access to assets; or (iii) loss of income sources
+or means of livelihood, whether or not the affected person must move to another
+location; or (b) the involuntary restriction of access to legally designated parks
+and protected areas resulting in adverse impacts on the livelihood of the affected
+person.
+16. "Interest During Construction" means the interest and other charges accrued
+
+during the Construction Period and payable on the Loan in accordance with the
+
+terms set forth or referred to in this Agreement and in accordance with
+
+Section 2.04 of this Agreement.
+
+17. "Management Manual" means Beijing Municipality's manual, dated
+
+October 2012, agreed with the Bank and setting forth implementation,
+
+organizational, administrative, and monitoring and evaluation arrangements for
+
+purposes of Project implementation, as the same may be modified from time 
+to
+
+time with the prior written agreement of the Bank, and such term includes any
+
+annexes, appendices, or schedules to such manual.
+
+18. "Megawatt" means one million (1,000,000) watts, a standard unit of 
+measure of
+
+electric power.
+
+19. "Procurement Guidelines" means the "Guidelines: Procurement 
+of Goods, Works
+
+and Non-consulting Services under IBRD Loans and IDA Credits and Grants 
+by
+
+World Bank Borrowers" dated January 2011.
+
+20. "Procurement Plan" means the Borrower's procurement plan 
+for the Project,
+
+dated January 18, 2013 and referred to in paragraph 1.16 of the 
+Procurement
+
+Guidelines and paragraph 1.24 of the Consultant Guidelines, as 
+the same shall be
+
+updated from time to time in accordance with the provisions 
+of said paragraphs.
+
+21. "Project Implementing Entity" means, individually: (a) 
+Beijing Municipality; and
+
+(b) Beijing Yuanshen Energy Saving Technology Company 
+Limited; and
+
+"Project Implementing Entities" means both of said entities.
+
+22. "Project Implementing Entity's Legislation" 
+means, for Beijing Yuanshen
+
+Energy Saving Technology Company Limited, the Borrower's 
+Company Law of
+
+1996 and said enterprise's Business Registration No. 110108005069314 
+and its
+
+charter dated April 5, 1996; and such term includes any other 
+legal instruments
+
+governing the organization, reorganization, restructuring, 
+and operations of the
+
+Project Implementing Entities as of the date of this Agreement.
+
+23. "Project Leading Group" means Beijing Municipality's 
+group referred to in
+
+Section I.B.2 of the Schedule to the Project Agreement, 
+or a successor thereto.
+
+24. "Project Management Office" means Beijing Municipality's 
+office, under the
+
+Project Leading Group, referred to in Section I.B.3 of the 
+Schedule to the Project
+
+Agreement, or a successor thereto.
+
+25. "Respective Part of the Project" means the 
+following: (a) for Beijing
+
+Municipality, Part 2 of the Project; and (b) for Beijing Yuanshen 
+Energy Saving
+
+Technology Company Limited, Part I of the Project.
+26. "Subsidiary Loan Agreement" means the agreement referred to in Section I.A.1of the Schedule to the Project Agreement pursuant to which Beijing Municipalityshall make the proceeds of the Loan available to Beijing Yuanshen EnergySaving Technology Company Limited, and such term includes any annexes,appendices, or schedules to such agreement.
+
+27. "Sunshine Schools Program" means Beijing Municipality's program designed tosupport the installation of (primarily rooftop) solar photovoltaic electricity
+generation systems in schools and other educational institutions, and set forth orreferred to in Beijing Municipality's Official Documents No. 1269 (2011) datedJuly 25, 2011 and No. 289 (2012) dated March 9, 2012.
+
+Section H. Modifications to the General Conditions
+
+The modification to the General Conditions is as follows, namely, thatSection 2.05 (a) is modified to read as follows (emphasis added):
+
+"(a) the payment is for the reasonable cost of goods and non-consulting
+services required for the Project, to be financed out of the proceeds of the Loan andprocured, all in accordance with the provisions of the Legal Agreements;"

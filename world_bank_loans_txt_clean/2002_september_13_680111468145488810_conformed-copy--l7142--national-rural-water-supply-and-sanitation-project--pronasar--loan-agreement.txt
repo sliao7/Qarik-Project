@@ -1,0 +1,1308 @@
+World Bank Document
+
+CONFORMED COPY
+
+LOAN NUMBER 7142-PE
+
+Loan Agreement
+
+(National Rural Water Supply and Sanitation Project - PRONASAR)
+
+between
+
+REPUBLIC OF PERU
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+Dated September 13, 2002
+
+LOAN NUMBER 7142-PE
+
+LOAN AGREEMENT
+
+AGREEMENT, dated September 13, 2002 between REPUBLIC OF PERU (the 
+Borrower) and INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT 
+(the Bank).
+
+WHEREAS (A) the Borrower, having satisfied itself as to the feasibility and priority of 
+the Project described in Schedule 2 to this Agreement (the Project), has requested the Bank to 
+assist in the financing of the Project;
+
+(B) on July 15, 1994, the Borrower’s Congress passed Law No. 26338 (the General 
+Sanitation Services Law) that sets forth the Borrower’s strategy and policy for its water supply 
+and sanitation sector;
+
+(C) on August 6, 1984, the Borrower’s Congress passed Law No. 23853 (the 
+Municipal Organic Law) that establishes the responsibilities of District Municipalities (as 
+hereinafter defined) in connection with rural water supply and sanitation services within their 
+respective jurisdictions; and
+
+(D) the Borrower intends to contract from the Canadian International Development 
+Agency (CIDA) a grant (the CIDA Grant) in an amount equivalent to five million Dollars 
+($5,000,000) to assist in financing the Project on the terms and conditions set forth in an 
+agreement (the CIDA Grant Agreement) to be entered into between the Borrower and CIDA;
+
+WHEREAS the Bank has agreed, on the basis, inter alia, of the foregoing, to extend the 
+Loan to the Borrower upon the terms and conditions set forth in this Agreement;
+
+NOW THEREFORE the parties hereto hereby agree as follows:
+
+ARTICLE I
+
+General Conditions; Definitions
+
+Section 1.01. The “General Conditions Applicable to Loan and Guarantee Agreements 
+for Fixed-Spread Loans” of the Bank dated September 1, 1999 (the General Conditions) 
+constitute an integral part of this Agreement.
+
+Section 1.02. Unless the context otherwise requires, the several terms defined in the 
+General Conditions and in the Preamble to this Agreement have the respective meanings therein 
+set forth and the following additional terms have the following meanings:
+
+(a) “Annual Implementation Program” means any of the programs referred to in 
+Section 3.11 (a) (i) of this Agreement;
+
+(b) “Autonomous Entity” means any cooperative or State company specialized in the 
+provision of water supply and sanitation services operating under the laws of the Borrower;
+
+(c) “Community” means any rural community in the territory of the Borrower that 
+meets the eligibility criteria set forth in the Operational Manual (as hereinafter defined);
+
+(d) “Community Subproject” means any investment subproject for the benefit of 
+Communities to be carried out under Parts A.1, A.2 and B.2 of the Project;
+
+(e) “Delegation Agreement” means any of the agreements referred to in Section 3.08 
+(b) (ii) of this Agreement;
+
+(f) “DGSR” means Dirección General de Saneamiento Rural, the Borrower’s Rural 
+Water Supply and Sanitation Directorate within VMCS (as hereinafter defined);
+
+(g) “District Municipality” means Municipalidad Distrital, any of the political 
+subdivisions of the territory of the Borrower established pursuant to paragraph 3 of Article 4 of 
+the Municipal Organic Law;
+
+(h) “District Municipality Agreement” means any of the agreements referred to in 
+Section 3.08 (b) (i) of this Agreement;
+
+(i) “Eligible Categories” means categories (1) through (4) set forth in the table in 
+Part A.1 of Schedule 1 to this Agreement;
+
+(j) “Eligible Expenditures” means the expenditures for goods, works and services 
+referred to in Section 2.02 of this Agreement;
+
+(k) “Expanded Project Area” means the Initial Project Area (as hereinafter defined) 
+and the area comprised by the Borrower’s Departments of Amazonas, Ancash, Cajamarca, 
+Cusco, Loreto, Madre de Dios, Puno and Ucayali, and any other Department which may be 
+acceptable to the Bank in addition to, or in substitution of, the above Departments;
+
+(l) “FMR” means each financial monitoring report prepared in accordance with 
+Section 4.02 of this Agreement;
+
+(m) “FONCODES” means Fondo Nacional de Compensación y Desarrollo Social, 
+the Borrower’s national compensation and social development fund;
+
+(n) “FONCODES Agreement” means the agreement referred to in Section 3.04 of 
+this Agreement;
+
+(o) “FONCODES Environmental Guidelines” means the environmental guidelines 
+of FONCODES for Community Subprojects set forth in Executive Director Resolution 
+073-99–FONCODES-DE dated July 16, 1999;
+
+(p) “Initial Project Area” means the area comprised by the Borrower’s Departments 
+of Apurimac, Arequipa, Ayacucho, Huancavelica, Huanuco, Junín, Lima Pasco, and Piura;
+
+(q) “JASS” means Junta Administradora de Servicios de Saneamiento, any 
+Community users’ association of water supply and sanitation services (with legal personality) 
+operating in the Initial Project Area or in the Expended  Project Area;
+
+(r) “MVCS” means Ministerio de Vivienda, Construcción  y Saneamiento, the 
+Borrower’s Ministry of Housing, Construction and Sanitation;
+
+(s) “NE” means Núcleo Ejecutor, any Project executing nucleus, including 
+Communities, that is selected by FONCODES for the implementation of Part A of the Project, in 
+
+accordance with criteria set forth in the Operational Manual (as hereinafter defined);
+
+(t) “NE Agreement” means any of the agreements referred to in Section 3.08 (a) of 
+this Agreement;
+
+(u) “NGO” means any non-governmental organization (with legal personality) 
+operating in the territory of the Borrower;
+
+(v) “Nuevo Sol” and “Nuevos Soles” means the Borrower’s currency;
+
+(w) “Operational Manual” means the Project operational manual referred to in 
+Section 3.10 (a) of this Agreement;
+
+(x) “OR” means Operador Regional, any Project regional operator, including NGOs 
+and private firms, that is selected by FONCODES for the implementation of Part A of the 
+Project, in accordance with criteria set forth in the Operational Manual;
+
+(y) “OR Agreement” means any of the agreements referred to in Section 3.07 (b) of 
+this Agreement;
+
+(z) “OR Model” means FONCODES OR model for the implementation of 
+Community Subprojects set forth in the Operational Manual;
+
+(aa) “OS” means Operador Social, any Project social operator, including NGOs and 
+private firms, that is selected by FONCODES for the implementation of Part A of the Project, in 
+accordance with criteria set forth in the Operational Manual;
+
+(bb) “OS Agreement” means any of the agreements referred to in Section 3.07 (a) of 
+this Agreement;
+
+(cc) “Performance Indicators” means the Project performance indicators set forth in 
+the letter from the Borrower to the Bank of even date herewith (Supplemental Letter No. 1);
+
+(dd) “PMU” means the Project management unit referred to in Section 3.03 (a) (ii) of 
+this Agreement;
+
+(ee) “Procurement Strengthening Action Plans” means the VMCS’s (as hereinafter 
+defined) and FONCODES’s procurement strengthening action plans for Project implementation 
+set forth in the Operational Manual;
+
+(ff) “Social Principles and Guidelines” means the social principles and guidelines for 
+the Project set forth in the letter from the Borrower to the Bank of even date herewith 
+(Supplemental Letter No. 2);
+
+(gg) “Special Account” means the account referred to in Part B.1 of Schedule 1 to 
+this Agreement;
+
+(hh) “Steering Committee” means the Project steering committee referred to in 
+Section 3.03 (a) (i) of this Agreement;
+
+(ii) “TM Model” means FONCODES traditional-improved model for the 
+implementation of Community Subprojects set forth in the Operational Manual; and
+
+(jj) “VMCS” means Viceministerio de Construcción y Saneamiento, the Borrower’s 
+Vice Ministry of Construction and Sanitation within MVCS.
+
+Section 1.03. Each reference in the General Conditions to the Project implementation 
+entity shall be deemed a reference to VMCS.
+
+ARTICLE II
+
+The Loan
+
+Section 2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set 
+forth or referred to in this Agreement, an amount equal to fifty million Dollars ($50,000,000), as 
+such amount may be converted from time to time through a Currency Conversion in accordance 
+with the provisions of Section 2.09 of this Agreement.
+
+Section 2.02. The amount of the Loan may be withdrawn from the Loan Account in 
+accordance with the provisions of Schedule 1 to this Agreement for expenditures made (or, if the 
+Bank shall so agree, to be made) in respect of the reasonable cost of goods, works and services 
+required for the Project and to be financed out of the proceeds of the Loan, and in respect of the 
+front-end fee referred to in Section 2.04 of this Agreement.
+
+Section 2.03. The Closing Date shall be December 31, 2008 or such later date as the 
+Bank shall establish. The Bank shall promptly notify the Borrower of such later date.
+
+Section 2.04. The Borrower shall pay to the Bank a fee in an amount equal to one percent 
+(1%) of the amount of the Loan.  On or promptly after the Effective Date, the Bank shall, on 
+behalf of the Borrower, withdraw from the Loan Account and pay to itself the amount of said 
+fee.
+
+Section 2.05. The Borrower shall pay to the Bank a commitment charge on the principal 
+amount of the Loan not withdrawn from time to time, at a rate equal to: (a) eighty five 
+one-hundredths of one per cent (0.85%) per annum from the date on which such charge 
+commences to accrue in accordance with the provisions of Section 3.02 of the General 
+Conditions to but not including the fourth anniversary of such date; and (b) seventy five 
+one-hundredths of one per cent (0.75%) per annum thereafter.
+
+Section 2.06. The Borrower shall pay interest on the principal amount of the Loan 
+withdrawn and outstanding from time to time, in respect of each Interest Period at the Variable 
+Rate; provided, that upon a Conversion of all or any portion of the principal amount of the Loan, 
+the Borrower shall, during the Conversion Period, pay interest on such Loan amount in 
+accordance with the relevant provisions of Article IV of the General Conditions.
+
+Section 2.07. Interest and commitment charges shall be payable semiannually in arrears 
+on January 15 and July 15 in each year.
+
+Section 2.08. The Borrower shall repay the principal amount of the Loan in accordance 
+with the provisions of Schedule 3 to this Agreement.
+
+Section 2.09. (a) The Borrower may at any time request any of the following 
+Conversions of the terms of the Loan in order to facilitate prudent debt management:
+
+(i) a change of the Loan Currency of all or any portion of the principal 
+amount of the Loan, withdrawn or unwithdrawn, to an Approved Currency;
+
+(ii) a change of the interest rate basis applicable to all or any portion of the 
+principal amount of the Loan from a Variable Rate to a Fixed 
+Rate, or vice versa; and
+
+(iii) the setting of limits on the Variable Rate applicable to all or any portion 
+of the principal amount of the Loan withdrawn and outstanding by the 
+establishment of an Interest Rate Cap or Interest Rate Collar on 
+said Variable Rate.
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that is 
+accepted by the Bank shall be considered a “Conversion”, as defined in Section 2.01 (7) of the 
+General Conditions, and shall be effected in accordance with the provisions of Article IV of the 
+General Conditions and of the Conversion Guidelines.
+
+ARTICLE III
+
+Execution of the Project
+
+Section 3.01. (a) The Borrower declares its commitment to the objectives of the Project 
+as set forth in Schedule 2 to this Agreement, and, to this end, shall carry out the Project, through 
+VMCS, with the collaboration of FONCODES, with due diligence and efficiency and in 
+conformity with appropriate engineering, managerial, technical, financial, social and 
+environmental practices, and shall provide, promptly as needed, the funds, facilities, services and 
+other resources required for the Project.
+
+(b) Without limitation or restriction to the provisions of paragraph (a) above, the 
+Borrower shall carry out the Project in accordance with: (i) the Social Principles and Guidelines; 
+and (ii) the Procurement Strengthening Action Plans.
+
+Section 3.02. Except as the Bank shall otherwise agree, procurement of the goods, works 
+and consultants’ services required for the Project and to be financed out of the proceeds of the 
+Loan shall be governed by the provisions of Schedule 4 to this Agreement.
+
+Section 3.03. (a) At all times during the execution of the Project, the Borrower (through 
+VMCS) shall maintain:
+
+(i) a Project steering committee with membership structure and 
+
+responsibilities satisfactory to the Bank, including the following 
+responsibilities: (A) to review Project implementation reports and audits; 
+and (B) to approve the Operational Manual, each Annual 
+Implementation Program, and any modification thereof; and
+
+(ii) a Project management unit within VMCS responsible for overall Project 
+planning, coordination, supervision, monitoring and evaluation, 
+including: (A) preparing Annual Implementation Programs; (B) issuing 
+Project implementation guidelines on priorities in targeted regions and 
+viable packaging of contracts; (C) providing training and guidance to 
+ORs and OSs; (D) maintaining the Project impact monitoring system; 
+(E) preparing procurement plans, terms of reference and short lists for 
+consultants’ services; and (F) supervising the procurement processes of 
+FONCODES.
+
+(b) The Borrower shall ensure that PMU is staffed, at all times during the execution 
+of the Project, by core professional staff in numbers and with experience and qualifications 
+acceptable to the Bank, operating under terms of reference satisfactory to the Bank, and selected 
+in accordance with competitive and transparent procedures satisfactory to the Bank, all as 
+prescribed in the Operational Manual.
+
+Section 3.04. With regard to Parts A and D.2 of the Project, the Borrower (through 
+VMCS) shall enter into an agreement with FONCODES, under terms and conditions satisfactory 
+to the Bank, for the purposes of ensuring the collaboration of FONCODES in the implementation 
+of such Parts of the Project, said agreement to provide, inter alia:
+
+(a) the transfer to FONCODES of the portion of the proceeds of the Loan and the 
+counterpart funding required for the implementation of Parts A and D.2 of the Project;
+
+(b) the obligation of FONCODES to collaborate in the implementation of Parts A 
+and D.2 of the Project in accordance with:
+
+(i) the Operational Manual; and
+
+(ii) the applicable Annual Implementation Program; and
+
+(c) the following functions and responsibilities of FONCODES:
+
+(i) procurement of the goods, works and consultants’ services for Parts A 
+and D.2 of the Project; and
+
+(ii) in the case of Community Subprojects to be implemented under the TM 
+Model, initial promotion, feasibility assessments, design evaluation, and 
+
+construction supervision, through FONCODES regional offices.
+
+Section 3.05. The Borrower (through VMCS), shall exercise its rights and comply with 
+its obligations under the FONCODES Agreement in such a manner as to protect the interests of 
+the Borrower and the Bank and to accomplish the purposes of the Loan and, except as the Bank 
+shall otherwise agree, the Borrower shall not assign, amend, abrogate, waive or fail to enforce 
+the FONCODES Agreement or any provision thereof.
+
+Section 3.06. (a) Prior to the approval of any proposed Community Subproject, the 
+Borrower (through VMCS), shall ensure that FONCODES applies the FONCODES 
+Environmental Guidelines, in order to:
+
+(i) carry out an environmental screening and assessment of such proposed 
+Community Subproject; and
+
+(ii) prepare recommendations for the prevention, mitigation and remediation 
+of any potential environmental damage arising from the implementation 
+of such proposed Community Subproject.
+
+(b) During the implementation of any Community Subproject, the Borrower 
+(through VMCS) shall ensure that FONCODES carries out the recommendations of the 
+environmental assessment referred to in subparagraph (a) (i) above as prescribed in the 
+Operational Manual.
+
+Section 3.07. With respect to Part A of the Project, the Borrower (through VMCS) shall 
+cause FONCODES to enter into agreements with:
+
+(a) OSs, under terms and conditions satisfactory to the Bank, for the purposes of 
+ensuring the cooperation of such OSs in the implementation of such Part of the Project by 
+providing continuous organization, training and education services to NEs for the carrying out of 
+Community Subprojects under the TM Model; and
+
+(b) ORs, under terms and conditions satisfactory to the Bank, for the purposes of 
+ensuring the cooperation of such ORs in the implementation of such Part of the Project by 
+providing the following services for the carrying out of Community Subprojects under the OR 
+Model:
+
+(i) to NEs, JASSs and Communities: (A) initial promotion; (B) feasibility 
+assessments; (C) water and sanitation systems design; (D) training 
+(including management, operation and maintenance of water and 
+sanitation systems, health and hygiene education) and community 
+promotion; (E) technical assistance during self-construction; and (F) 
+ex-post technical support; 
+
+(ii) to FONCODES regional offices: (A) design evaluation; (B) 
+
+construction supervision; and (C) hygiene education supervision; and
+
+(iii) to District Municipalities: (A) participation in the promotion and 
+supervision of the execution of Community Subprojects; (B) training on 
+monitoring and control of Community Subprojects; and (C) training in 
+connection with the provision of technical assistance and supervision 
+services to JASSs.
+
+Section 3.08. (a) With respect to Part A of the Project, the Borrower (through VMCS) 
+shall cause FONCODES to enter into agreements with NEs, under terms and conditions 
+satisfactory to the Bank, for the purposes of ensuring the participation of such NEs in the 
+implementation of such Part of the Project, with the cooperation of OSs or ORs, by carrying out:
+
+(i) pre-investment activities, including social and technical design of water 
+supply and sanitation systems, and establishment of JASSs;
+
+(ii) investment activities, including the opening of separate deposit accounts 
+for the transfer of Project resources to cover the cost of materials, skilled 
+and unskilled labor, as well as ensuring the application of the 
+FONCODES Environmental Guidelines in the carrying out of any civil 
+work under Part A of the Project; and
+
+(iii) post-investment activities, including technical assistance to JASSs for 
+the operation and maintenance of their respective water supply and 
+sanitation systems, and participatory evaluations.
+
+(b) With respect to Part B of the Project, the Borrower (through VMCS) shall:
+
+(i) enter into agreements with District Municipalities, under terms and 
+conditions satisfactory to the Bank, for the purposes of ensuring the 
+participation of such Municipalities in the implementation of such Part 
+of the Project, including the obligation of each such District 
+Municipality to monitor the application of the FONCODES 
+Environmental Guidelines by private operators or autonomous agencies 
+in the carrying out of any civil work under Part B.2 of the Project; and
+
+(ii) pursuant to the provisions of each such District Municipality Agreement 
+ensure that District Municipalities enter into agreements with private 
+operators or Autonomous Entities, under terms and conditions 
+satisfactory to the Bank, for the purposes of delegating the provision of 
+water supply and sanitation services, including the obligation of each 
+such private operator or Autonomous Entity to apply the FONCODES 
+Environmental Guidelines in the carrying out of any civil work under 
+Part B.2 of the Project.
+
+Section 3.09. The Borrower (through VMCS) shall ensure that FONCODES and the 
+District Municipalities exercise their respective rights and carry out their respective obligations 
+under each Delegation Agreement, District Municipality Agreement, NE Agreement, OR 
+Agreement and OS Agreement (as the case may be) in such a manner as to protect the interests of 
+
+the Borrower and the Bank and to accomplish the purposes of the Loan and, except as the Bank 
+shall otherwise agree, the Borrower (through VMCS) shall ensure that FONCODES and the 
+District Municipalities do not assign, amend, abrogate, waive or fail to enforce any Delegation 
+Agreement or any District Municipality Agreement or any NE Agreement or any OR Agreement 
+or any OS Agreement or any provision thereof (as the case may be).
+
+Section 3.10. (a) The Borrower (through VMCS) shall carry out the Project in 
+accordance with an operational manual, satisfactory to the Bank, said manual to provide the rules 
+and procedures for the implementation of the Project, in the areas of:
+
+(i) Project institutional setup, including organization and functions of 
+VMCS and FONCODES;
+
+(ii) disbursement, accounting, auditing and reporting procedures;
+
+(iii) procurement responsibilities, processes and internal controls;
+
+(iv) monitoring and evaluation plans for the Project; and
+
+(v) Community Subprojects cycle, including pre-investment, investment and 
+post-investment activities, roles and responsibilities of VMCS, 
+FONCODES, District Municipalities, NEs, ORs and OSs, eligibility and 
+cost-recovery requirements.
+
+(b) If any provision of the Operational Manual is inconsistent with a provision of 
+this Agreement, the provisions of this Agreement shall govern.
+
+Section 3.11. (a) The Borrower (through PMU) shall:
+
+(i) not later than November 30 of each year during Project implementation, 
+furnish to the Bank, for its review and approval, an annual 
+implementation program for the following calendar year, such program 
+to specify: (A) the activities to be financed out of the proceeds of the 
+Loan during such calendar year; and (B) the required financial and 
+human resources; and
+
+(ii) upon the Bank’s approval, carry out such Annual Implementation 
+Program in accordance with its terms.
+
+(b) The Bank may refrain from approving any Annual Implementation Program if 
+the Bank has determined that the Borrower is not carrying out the Project as provided in this 
+Agreement and no appropriate remedial actions, satisfactory to the Bank, have been taken 
+therefor.
+
+Section 3.12. The Borrower (through PMU) shall:
+
+(a) maintain policies and procedures adequate to enable it to monitor and evaluate 
+on an ongoing basis, in accordance with the Performance Indicators, the carrying out of the 
+Project and the achievement of the objectives thereof; and
+
+(b) not later than February 15 and August 15 of each year of Project implementation, 
+starting in August 15, 2003, furnish to the Bank progress reports on the execution of the Project 
+during the preceding calendar semester, of such scope and in such detail as the Bank may 
+reasonably request.
+
+Section 3.13. The Borrower (through PMU) shall:
+
+(a) not later than October 1 of each year of Project implementation, starting in 
+October 1, 2003, hold a Project annual review with the Bank, such review to be based on the 
+reports referred to in Section 3.12 (b) of this Agreement; and
+
+(b) if, as a result of any of the above reviews, the Bank shall have reasonably 
+determined that the progress in the execution of the Project or in the achievement of its 
+objectives is not satisfactory, promptly take or cause to be taken all such remedial action, 
+satisfactory to the Bank, as shall be necessary for the efficient execution of the Project or the 
+timely achievement of its objectives.
+
+Section 3.14.  With regard to Part A of the Project, the Borrower (through PMU) shall:
+
+(a) not later than September 30, 2003, contract physical audits for each year of 
+Project implementation, with independent auditors of experience and qualifications satisfactory 
+to the Bank operating under terms of reference satisfactory to the Bank, such audits to focus on a 
+sample of Community Subprojects, so as to review individual contracts, ascertain compliance 
+with their terms and conditions, inspect physical progress of civil works and reconcile it with 
+financial expenses incurred, and verify compliance with FONCODES Environmental Guidelines;
+
+(b) not later than December 31 of each year of Project implementation, starting 
+December 31, 2003, furnish to the Bank the report of such audits by said auditors; and
+
+(c) not later than March 30 of each year of Project implementation, discuss the 
+results of such audits with representatives of District Municipalities and Communities and NGOs 
+involved in Project activities, taking into account the Bank’s comments thereon.
+
+Section 3.15. The Borrower (through PMU) shall:
+
+(a) not later than March 30, 2005, contract impact evaluation studies with 
+independent consultants of experience and qualifications satisfactory to the Bank, operating 
+under terms of reference satisfactory to the Bank, such studies to assess overall Project progress 
+and outcomes, with emphasis on educational and health aspects;
+
+(b) not later than September 30, 2006, furnish to the Bank, for its review and 
+comments, the findings and recommendations of each such study by said consultants; and
+
+(c) not later than September 30, 2006, review with Communities, District 
+
+Municipalities and NGOs involved in Project activities, the results of each such impact 
+evaluation study taking into account the Bank’s comments thereon.
+
+Section 3.16. With regard to Part A of the Project, the Borrower (through VMCS) shall 
+cause FONCODES to:
+
+(a) not later than January 2, 2003 start: (i) the implementation of such Part of the 
+Project in the Initial Project Area, under the TM Model; and (ii) the implementation of a pilot of 
+the OR Model in the Initial Project Area;
+
+(b) not later than January 31, 2004, furnish to the Bank (for its review and approval), 
+a report on the implementation of such Part of the Project in the Initial Project Area and the 
+performance of the pilot of the OR Model, and a recommendation on the expansion of the 
+implementation of such Part of the Project to the Expanded Project Area under the OR Model; 
+and
+
+(c) upon the Bank’s approval of the report and recommendation referred to in 
+paragraph (b) above, expand the implementation of Part A of the Project to the Expanded Project 
+Area.
+
+Section 3.17. For the purposes of Section 9.07 of the General Conditions and without 
+limitation thereto, the Borrower (through PMU) shall:
+
+(a) prepare, on the basis of guidelines acceptable to the Bank, and furnish to the 
+Bank not later than six (6) months after the Closing Date or such later date as may be agreed for 
+this purpose between the Borrower and the Bank, a plan for the continued achievement of Project 
+objectives; and
+
+(b) afford the Bank a reasonable opportunity to exchange views with the Borrower 
+on said plan.
+
+ARTICLE IV
+
+Financial Covenants
+
+Section 4.01. (a) The Borrower (through VMCS), shall maintain or cause to be 
+maintained records and accounts adequate to reflect in accordance with sound accounting 
+practices the operations, resources and expenditures in respect of the Project of the departments 
+or agencies of the Borrower responsible for carrying out the Project or any part thereof.
+
+(b) The Borrower (through VMCS) shall:
+
+(i) have the records and accounts referred to in paragraph (a) of this Section 
+including those for the Special Account for each fiscal year audited, in 
+accordance with appropriate auditing principles consistently applied, by 
+independent auditors acceptable to the Bank;
+
+(ii) furnish to the Bank as soon as available, but in any case not later than six 
+
+(6) months after the end of each such year, the report of such audit by 
+said auditors, of such scope and in such detail as the Bank shall have 
+reasonably requested, including as a part of the information to be 
+provided in each such report a management letter concerning internal 
+controls; and
+
+(iii) furnish to the Bank such other information concerning said records and 
+accounts and the audit thereof as the Bank shall from time to time 
+reasonably request.
+
+(c) For all expenditures with respect to which withdrawals from the Loan Account 
+were made on the basis of FMRs or statements of expenditure, the Borrower (through VMCS) 
+shall:
+
+(i) maintain or cause to be maintained, in accordance with paragraph (a) of 
+this Section, records and accounts reflecting such expenditures;
+
+(ii) retain, until at least one year after the Bank has received the audit report 
+for the fiscal year in which the last withdrawal from the Loan Account 
+was made, all records (contracts, orders, invoices, bills, receipts and 
+other documents) evidencing such expenditures;
+
+(iii) enable the Bank’s representatives to examine such records; and
+
+(iv) ensure that such records and accounts are included in the annual audit 
+referred to in paragraph (b) of this Section and that the report of such 
+audit contains a separate opinion by said auditors as to whether the 
+FMRs or statements of expenditure submitted during such fiscal year, 
+together with the procedures and internal controls involved in their 
+preparation, can be relied upon to support the related withdrawals.
+
+Section 4.02.  (a) Without limitation upon the Borrower’s progress reporting obligations 
+set out in Section 3.12 (b) of this Agreement, the Borrower (through VMCS) shall prepare and 
+furnish to the Bank a financial monitoring report, in form and substance satisfactory to the Bank, 
+which:
+
+(i) sets forth sources and uses of funds for the Project, both cumulatively 
+and for the period covered by said report, showing separately funds 
+provided under the Loan, and explains variances between the actual and 
+planned uses of  such funds;
+
+(ii) describes physical progress in Project implementation, both 
+cumulatively and for the period covered by said report, and explains 
+variances between the actual and planned Project implementation; and
+
+(iii) sets forth the status of procurement under the Project, as at the end of the 
+period covered by said report.
+
+(b) The first FMR shall be furnished to the Bank not later than forty-five (45) days 
+after the end of the first calendar quarter after the Effective Date, and shall cover the period from 
+
+the incurrence of the first expenditure under the Project through the end of such first calendar 
+quarter; thereafter, each FMR shall be furnished to the Bank not later than forty-five (45) days 
+after each subsequent calendar quarter, and shall cover such calendar quarter.
+
+ARTICLE V
+
+Remedies of the Bank
+
+Section 5.01. Pursuant to Section 6.02 (p) of the General Conditions, the following 
+additional events are specified:
+
+(a) The General Sanitation Services Law or the Municipal Organic Law or any 
+provision thereof shall have been amended, suspended, abrogated, repealed or waived so as to 
+affect materially and adversely the ability of the Borrower to perform any of its obligations under 
+this Agreement.
+
+(b) The CIDA Grant Agreement shall have failed to become effective by not later 
+than January 31, 2003 or such later date as the Bank may agree; provided, however, that the 
+provisions of this paragraph shall not apply if the Borrower establishes to the satisfaction of the 
+Bank that adequate funds for the Project are available to the Borrower from other sources on 
+terms and conditions consistent with the obligations of the Borrower under this Agreement.
+
+(c) (i) Subject to subparagraph (ii) of this paragraph the right of the Borrower 
+to withdraw the proceeds of the CIDA Grant shall have been 
+suspended, cancelled or terminated in whole or in part, pursuant to the 
+terms of the CIDA Grant Agreement; and
+
+(ii) Subparagraph (i) of this paragraph shall not apply if the Borrower 
+establishes to the satisfaction of the Bank that:
+
+(A) such suspension, cancellation or termination is not caused by 
+the failure of the Borrower to perform any of its obligations 
+under the CIDA Grant Agreement; and
+
+(B) adequate funds for the Project are available to the Borrower 
+from other sources on terms and conditions consistent with the 
+obligations of the Borrower under this Agreement.
+
+Section 5.02. Pursuant to Section 7.01 (k) of the General Conditions, the following 
+additional event is specified, namely, that the event specified in paragraph (a) of Section 5.01 of 
+this Agreement shall occur.
+
+ARTICLE VI
+
+Effective Date; Termination
+
+Section 6.01. The following events are specified as additional conditions to the 
+effectiveness of the Loan Agreement within the meaning of Section 12.01 (c) of the General 
+Conditions:
+
+(a) that the Steering Committee shall have been established;
+
+(b) that the FONCODES Agreement shall have been entered into; 
+
+(c) that the Operational Manual shall have been approved; and
+
+(d) (i) that financial management arrangements, satisfactory to the Bank, shall have 
+been established by VMCS and FONCODES and become operational; and (ii) that the selection 
+process of the independent auditors referred to in Section 4.01 (b) (i) of this Agreement shall 
+have started.
+
+Section 6.02. The date December 12, 2002, is hereby specified for the purposes of 
+Section 12.04 of the General Conditions.
+
+ARTICLE VII
+
+Representative of the Borrower; Addresses
+
+Section 7.01. The Minister of Economy and Finance of the Borrower is designated as 
+representative of the Borrower for the purposes of Section 11.03 of the General Conditions.
+
+Section 7.02. The following addresses are specified for the purposes of Section 11.01 of 
+the General Conditions:
+
+For the Borrower:
+
+Ministry of Economy and Finance
+Jr. Junín 319
+Lima, Peru
+
+      Facsimile:
+
+      (511) 426-8500 or 
+      (511) 426-9822
+
+For the Bank:
+
+International Bank for
+ Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+
+Cable address: Telex: Facsimile:
+
+INTBAFRAD 248423 (MCI) (202) 477-6391
+Washington, D.C.  64145 (MCI)
+
+IN WITNESS WHEREOF, the parties hereto, acting through their duly authorized 
+representatives, have caused this Agreement to be signed in their respective names in the District 
+of Columbia, United States of America, as of the day and year first above written.
+
+REPUBLIC OF PERU
+
+By /s/ Javier Silva Ruete
+Authorized Representative
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By /s/ James D. Wolfensohn
+Authorized Representative
+
+HONORARY WITNESS
+
+/s/ Alejandro Toledo
+President of the Republic of Peru
+
+SCHEDULE 1
+
+Withdrawal of the Proceeds of the Loan
+
+Part A: General
+
+1. The table below sets forth the Categories of items to be financed out of the proceeds of 
+the Loan, the allocation of the amounts of the Loan to each Category and the percentage of 
+expenditures for items so to be financed in each Category:
+
+Amount of the
+Loan Allocated % of
+(Expressed in Expenditures
+
+Dollar to be
+Category Equivalent) Financed
+
+(1) Goods and works 19,300,000 60%
+for Community Subprojects
+
+(2) Works (other than those  3,000,000 60%
+for Community
+Subprojects)
+
+(3) Goods (other than those    500,000 100% of foreign
+for Community expenditures; 80%
+Subprojects) of local
+
+expenditures
+
+(4) Consultants’ services               26,700,000 80%
+
+(5) Fee                                              500,000 Amounts due
+under
+Section 2.04 of
+this Agreement
+
+_________
+TOTAL 50,000,000
+
+2. For purposes of this Schedule the terms:
+
+(a) “foreign expenditures” means expenditures in the currency of any country other 
+than that of the Borrower for goods supplied from the territory of any country other than that of 
+the Borrower; and
+
+(b) “local expenditures” means expenditures in the currency of the Borrower or for 
+goods supplied from the territory of the Borrower.
+
+3. Notwithstanding the provisions of paragraph 1 above, no withdrawals shall be made in 
+respect of payments made for expenditures prior to the date of this Agreement, except that 
+withdrawals, in an aggregate amount not to exceed $5,000,000, may be made in respect of 
+Categories (1) through (4) of the table set forth in Part A.1 of this Schedule, on account of 
+payments made for expenditures within twelve months immediately before that date (but in no 
+case before July 18, 2002).
+
+4. The Bank may require withdrawals from the Loan Account to be made on the basis of 
+statements of expenditure for expenditures for:
+
+(a) works (other than works for Community Subprojects) under contracts estimated 
+to cost less than $250,000 equivalent;
+
+(b) goods (other than goods for Community Subprojects) under contracts estimated 
+to cost less than $250,000 equivalent;
+
+(c) services provided by consulting firms under contracts estimated to cost less than 
+$100,000;
+
+(d) services provided by individual consultants under contracts estimated to cost less 
+than $50,000; and
+
+(e) goods and works for Community Subprojects,
+
+under such terms and conditions as the Bank shall specify by notice to the Borrower.
+
+Part B: Special Account
+
+1. The Borrower (through VMCS) shall open and maintain in Dollars a special deposit 
+account, in a commercial bank acceptable to the Bank, on terms and conditions satisfactory to the 
+Bank, including appropriate protection against set-off, seizure and attachment.
+
+2. After the Bank has received evidence satisfactory to it that the Special Account has been 
+opened, withdrawals from the Loan Account of amounts to be deposited into the Special Account 
+shall be made as follows:
+
+(a) until the Bank shall have received: (i) the first FMR referred to in Section 4.02 
+(b) of this Agreement; and (ii) a request from the Borrower for withdrawal on the basis of FMRs, 
+withdrawals shall be made in accordance with the provisions of Annex A to this Schedule 1; and
+
+(b) upon receipt by the Bank of a FMR pursuant to Section 4.02 (b) of this 
+Agreement, accompanied by a request from the Borrower for withdrawal on the basis of FMRs, 
+all further withdrawals shall be made in accordance with the provisions of Annex B to this 
+Schedule 1.
+
+3. Payments out of the Special Account shall be made exclusively for Eligible 
+Expenditures.  For each payment made by the Borrower out of the Special Account, the 
+Borrower shall, at such time as the Bank shall reasonably request, furnish to the Bank such 
+documents and other evidence showing that such payment was made exclusively for Eligible 
+Expenditures.
+
+4. Notwithstanding the provisions of Part B.2 of this Schedule, the Bank shall not be 
+required to make further deposits into the Special Account:
+
+(a) if the Bank determines at any time that any FMR does not adequately provide the 
+information required pursuant to Section 4.02 of this Agreement;
+
+(b) if the Bank determines at any time that all further withdrawals should be made 
+by the Borrower directly from the Loan Account; or
+
+(c) if the Borrower shall have failed to furnish to the Bank within the period of time 
+specified in Section 4.01 (b) (ii) of this Agreement, any of the audit reports required to be 
+furnished to the Bank pursuant to said Section in respect of the audit of: (A) the records and 
+accounts for the Special Account; or (B) the records and accounts reflecting expenditures with 
+
+respect to which withdrawals were made on the basis of FMRs.
+
+5. The Bank shall not be required to make further deposits into the Special Account in 
+accordance with the provisions of Part B.2 of this Schedule if, at any time, the Bank shall have 
+notified the Borrower of its intention to suspend in whole or in part the right of the Borrower to 
+make withdrawals from the Loan Account pursuant to Section 6.02 of the General Conditions.  
+Upon such notification, the Bank shall determine, in its sole discretion, whether further deposits 
+into the Special Account may be made and what procedures should be followed for making such 
+deposits, and shall notify the Borrower of its determination.
+
+6. (a) If the Bank determines at any time that any payment out of the Special Account 
+was made for an expenditure which is not an Eligible Expenditure, or was not justified by the 
+evidence furnished to the Bank, the Borrower shall, promptly upon notice from the Bank, provide 
+such additional evidence as the Bank may request, or deposit into the Special Account (or, if the 
+Bank shall so request, refund to the Bank) an amount equal to the amount of such payment.
+
+(b) If the Bank determines at any time that any amount outstanding in the Special 
+Account will not be required to cover payments for Eligible Expenditures during the six-month 
+period following such determination, the Borrower shall, promptly upon notice from the Bank, 
+refund to the Bank such outstanding amount.
+
+(c) The Borrower may, upon notice to the Bank, refund to the Bank all or any 
+portion of the funds on deposit in the Special Account.
+
+(d) Refunds to the Bank made pursuant to subparagraphs (a), (b) or (c) of this 
+paragraph 6 shall be credited to the Loan Account for subsequent withdrawal or for cancellation 
+in accordance with the provisions of the Loan Agreement.
+
+Annex A
+to
+
+SCHEDULE 1
+
+Operation of Special Account
+When Withdrawals Are Not Made
+
+On the Basis of FMRs
+
+1. For the purposes of this Annex the term “Authorized Allocation” means an amount of 
+$3,000,000 to be withdrawn from the Loan Account and deposited into the Special Account 
+pursuant to paragraph 2 of this Annex; provided, however, that unless the Bank shall otherwise 
+agree, the Authorized Allocation shall be limited to an amount equal to $1,000,000 until the 
+aggregate amount of withdrawals from the Loan Account, plus the total amount of all 
+outstanding special commitments entered into by the Bank pursuant to Section 5.02 of the 
+General Conditions shall equal or exceed $4,000,000.
+
+2. Withdrawals of the Authorized Allocation and subsequent withdrawals to replenish the 
+
+Special Account shall be made as follows:
+
+(a) For withdrawals of the Authorized Allocation, the Borrower shall furnish to the 
+Bank a request or requests for deposit into the Special Account of an amount or amounts which 
+in the aggregate do not exceed the Authorized Allocation.  On the basis of each such request, the 
+Bank shall, on behalf of the Borrower, withdraw from the Loan Account and deposit into the 
+Special Account such amount as the Borrower shall have requested.
+
+(b) For replenishment of the Special Account, the Borrower shall furnish to the 
+Bank requests for deposit into the Special Account at such intervals as the Bank shall specify. 
+Prior to or at the time of each such request, the Borrower shall furnish to the Bank the documents 
+and other evidence required pursuant to Part B.3 of Schedule 1 to this Agreement for the 
+payment or payments in respect of which replenishment is requested. On the basis of each such 
+request, the Bank shall, on behalf of the Borrower, withdraw from the Loan Account and deposit 
+into the Special Account such amount as the Borrower shall have requested and as shall have 
+been shown by said documents and other evidence to have been paid out of the Special Account 
+for Eligible Expenditures. Each such deposit into the Special Account shall be withdrawn by the 
+Bank from the Loan Account under one or more of the Eligible Categories.
+
+3. The Bank shall not be required to make further deposits into the Special Account, once 
+the total unwithdrawn amount of the Loan minus the total amount of all outstanding special 
+commitments entered into by the Bank pursuant to Section 5.02 of the General Conditions, shall 
+equal the equivalent of twice the amount of the Authorized Allocation. Thereafter, withdrawal 
+from the Loan Account of the remaining unwithdrawn amount of the Loan shall follow such 
+procedures as the Bank shall specify by notice to the Borrower.  Such further withdrawals shall 
+be made only after and to the extent that the Bank shall have been satisfied that all such amounts 
+remaining on deposit in the Special Account as of the date of such notice will be utilized in 
+making payments for Eligible Expenditures.
+
+Annex B
+to
+
+SCHEDULE 1
+
+Operation of Special Account
+When Withdrawals Are Made
+
+On the Basis of FMRs
+
+1. Except as the Bank may otherwise specify by notice to the Borrower, all withdrawals 
+from the Loan Account shall be deposited by the Bank into the Special Account in accordance 
+with the provisions of Schedule 1 to this Agreement. Each such deposit into the Special Account 
+shall be withdrawn by the Bank from the Loan Account under one or more of the Eligible 
+Categories.
+
+2. Each application for withdrawal from the Loan Account for deposit into the Special 
+Account shall be supported by a FMR.
+
+3. Upon receipt of each application for withdrawal of an amount of the Loan, the Bank 
+
+shall, on behalf of the Borrower, withdraw from the Loan Account and deposit into the 
+respective Special Account an amount equal to the lesser of: (a) the amount so requested; and (b) 
+the amount which the Bank has determined, based on the FMR accompanying said application, is 
+required to be deposited in order to finance Eligible Expenditures during the six-month period 
+following the date of such report; provided, however, that the amount so deposited, when added 
+to the amount indicated by said FMR to be remaining in the Special Account, shall not exceed 
+$5,000,000.
+
+SCHEDULE 2
+
+Description of the Project
+
+The objective of the Project is to increase the sustainable use of water supply and 
+sanitation facilities in rural areas and small towns in the territory of the Borrower while 
+emphasizing improvements in hygiene practices and training in operation and maintenance. 
+
+The Project consists of the following Parts, subject to such modifications thereof as the 
+Borrower and the Bank may agree upon from time to time to achieve such objectives:
+
+Part A: Water Supply and Sanitation in Rural Areas
+
+1. Rehabilitation and Expansion of Water Supply and Sanitation Systems
+
+Rehabilitation and expansion of piped water supply and sanitation systems for 
+approximately 750,000 people in approximately 2,500 Communities, and provision of on-site 
+sanitation services for approximately 300,000 people in rural areas.
+
+2. Construction of Water Supply and Sanitation Systems
+
+Construction of water supply and sanitation systems, and provision of on-site sanitation 
+services for approximately 125,000 people in approximately 600 Communities, including piped 
+networks with house connections and/or multi-family taps, improved point sources and 
+non-conventional technologies.
+
+3. Technical Assistance to District Municipalities and Communities
+
+Provision of technical assistance, through ORs and OSs, to:
+
+(a) JASSs, by: (i) posting extension agents; and (ii) providing training in the areas of 
+accounting, system repair and hygiene education; and
+
+(b) District Municipalities for the purposes of long-term administrative and technical 
+support to JASSs.
+
+Part B: Water Supply and Sanitation in Small Towns
+
+1. Provision of technical assistance to District Municipalities for the purposes of delegating 
+the provision of water supply and sanitation services to private operators or Autonomous 
+Entities.
+
+2. Rehabilitation, improvement and expansion of water supply and sanitation systems in 
+approximately 12 District Municipalities that have entered into Delegation Agreements, 
+including household latrines and other appropriate sanitation solutions.
+
+Part C: Capacity Building
+
+1. Institutional Strengthening of DGSR
+
+Provision of technical assistance and training to strengthen DGSR as the rural water 
+supply and sanitation sector leader, including the preparation of policy and sector studies.
+
+2. Sector Information, Orientation and Accreditation Services 
+
+Provision of technical assistance and training to District Municipalities, ORs, contractors 
+and skilled labor, including:
+
+(a) initial orientation and continuous strengthening of ORs;
+
+(b) accreditation of local professionals, and water supply and sanitation systems 
+operators;
+
+(c) implementation of health and hygiene education campaigns;
+
+(d) analysis of existing sewerage systems in rural areas;
+
+(e) development of pilot micro-credit schemes for rural households to make in-house 
+sanitation investments;
+
+(f) design of rural water supply and sanitation information systems;
+
+(g) evaluation of watershed protection issues on the basis of international and 
+national best practices;
+
+(h) review of infrastructure design standards and norms for rural water supply and 
+sanitation service provision; and
+
+(i) determination of household water consumption patterns.
+
+Part D: Project Management
+
+1. Operation of PMU, including external audits, and monitoring and evaluation systems.
+
+2. Provision of technical assistance and logistical support to FONCODES regional offices.
+
+* * *
+
+The Project is expected to be completed by June 30, 2008
+
+SCHEDULE 3
+
+Amortization Schedule
+
+1. The following table sets forth the Principal Payment Dates of the Loan and the 
+percentage of the total principal amount of the Loan payable on each Principal Payment Date 
+(Installment Share).  If the proceeds of the Loan shall have been fully withdrawn as of the first 
+Principal Payment Date, the principal amount of the Loan repayable by the Borrower on each 
+Principal Payment Date shall be determined by the Bank by multiplying:  (a) the total principal 
+amount of the Loan withdrawn and outstanding as of the first Principal Payment Date; by (b) the 
+Installment Share for each Principal Payment Date, such repayment amount to be adjusted, as 
+necessary, to deduct any amounts referred to in paragraph 4 of this Schedule, to which a 
+
+Currency Conversion applies.
+Installment Share
+
+Payment Date (Expressed as a %)
+
+On each January 15 and July 15 8.33%
+Beginning January 15, 2011 through
+January 15, 2016
+
+On July 15, 2016 8.37%
+
+2. If the proceeds of the Loan shall not have been fully withdrawn as of the first Principal 
+Payment Date, the principal amount of the Loan repayable by the Borrower on each Principal 
+Payment Date shall be determined as follows:
+
+(a) To the extent that any proceeds of the Loan shall have been withdrawn as of the 
+first Principal Payment Date, the Borrower shall repay the amount withdrawn and outstanding as 
+of such date in accordance with paragraph 1 of this Schedule.
+
+(b) Any withdrawal made after the first Principal Payment Date shall be repaid on 
+each Principal Payment Date falling after the date of such withdrawal in amounts determined by 
+the Bank by multiplying the amount of each such withdrawal by a fraction, the numerator of 
+which shall be the original Installment Share specified in the table in paragraph 1 of this 
+Schedule for said Principal Payment Date (the Original Installment Share) and the denominator 
+of which shall be the sum of all remaining Original Installment Shares for Principal Payment 
+Dates falling on or after such date, such repayment amounts to be adjusted, as necessary, to 
+deduct any amounts referred to in paragraph 4 of this Schedule, to which a Currency Conversion 
+applies.
+
+3. (a) Withdrawals made within two calendar months prior to any Principal Payment 
+Date shall, for the purposes solely of calculating the principal amounts payable on any Principal 
+Payment Date, be treated as withdrawn and outstanding on the second Principal Payment Date 
+following the date of withdrawal and shall be repayable on each Principal Payment Date 
+commencing with the second Principal Payment Date following the date of  withdrawal.
+
+(b) Notwithstanding the provisions of subparagraph (a) of this paragraph 3, if at any 
+time the Bank shall adopt a due date billing system under which invoices are issued on or after 
+the respective Principal Payment Date, the provisions of such subparagraph shall no longer apply 
+to any withdrawals made after the adoption of such billing system. 
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a Currency 
+Conversion of all or any portion of the withdrawn principal amount of the Loan to an Approved 
+Currency, the amount so converted in said Approved Currency that shall be repayable on any 
+Principal Payment Date occurring during the Conversion Period, shall be determined by the Bank 
+by multiplying such amount in its currency of denomination immediately prior to said 
+Conversion by either: (a) the exchange rate that reflects the amounts of principal in said 
+Approved Currency payable by the Bank under the Currency Hedge Transaction relating to said 
+Conversion; or (b) if the Bank so determines in accordance with the Conversion Guidelines, the 
+
+exchange rate component of the Screen Rate.
+
+5. If the principal amount of the Loan withdrawn and outstanding from time to time shall be 
+denominated in more than one Loan Currency, the provisions of this Schedule shall apply 
+separately to the amount denominated in each Loan Currency, so as to produce a separate 
+amortization schedule for each such amount.
+
+SCHEDULE 4
+
+Procurement
+
+Section I. Procurement of Goods and Works
+
+Part A: General
+
+Goods and works shall be procured in accordance with the provisions of Section I of the 
+“Guidelines for Procurement under IBRD Loans and IDA Credits” published by the Bank in 
+January 1995 and revised in January and August 1996, September 1997 and January 1999 (the 
+Guidelines) and the following provisions of Sections I and III of this Schedule.
+
+Part B: International Competitive Bidding
+
+Except as otherwise provided in Part C of this Section, goods and works shall be 
+procured under contracts awarded in accordance with the provisions of Section II of the 
+Guidelines and paragraph 5 of Appendix 1 thereto.
+
+Part C: Other Procurement Procedures
+
+1. National Competitive Bidding
+
+Goods estimated to cost less than $250,000 but more than $75,000 equivalent per 
+contract, and not exceeding in the aggregate $400,000 equivalent, may be procured under 
+contracts awarded in accordance with the provisions of paragraphs 3.3 and 3.4 of the Guidelines
+
+2. Shopping
+
+Goods estimated to cost $75,000 equivalent or less per contract but more than $30,000 
+equivalent per contract, and not exceeding in the aggregate: (a) $100,000 equivalent (in the case 
+of goods other than goods for Community Subprojects); and (b) $20,000,000 equivalent (in the 
+case of goods for Community Subprojects), may be procured under contracts awarded on the 
+basis of shopping procedures in accordance with the provisions of paragraphs 3.5 and 3.6 of the 
+Guidelines.
+
+3. Procurement of Small Works
+
+Works estimated to cost less than $250,000 equivalent per contract but more than 
+$60,000 equivalent per contract, up to an aggregate amount not to exceed: (a) $3,500,000 
+equivalent, in respect of Community Subprojects under Parts A.1 and A.2 of the Project; and (b) 
+$2,000,000 equivalent, in respect of Part B.2 of the Project, may be procured under lump-sum, 
+fixed-price contracts awarded on the basis of quotations obtained from three (3) qualified 
+domestic contractors in response to a written invitation. The invitation shall include a detailed 
+description of the works, including basic specifications, the required completion date, a basic 
+form of agreement acceptable to the Bank, and relevant drawings, where applicable. The award 
+shall be made to the contractor who offers the lowest price quotation for the required work, and 
+who has the experience and resources to complete the contract successfully.
+
+4. Community Participation
+
+With respect to Community Subprojects: 
+
+(a) goods estimated to cost $30,000 equivalent or less per contract; and
+
+(b) works estimated to cost $60,000 equivalent or less per contract;
+
+and costing $40,000,000 equivalent or less in the aggregate, shall be procured in 
+accordance with procedures acceptable to the Bank, as prescribed in the Operational Manual.
+
+Part D: Review by the Bank of Procurement Decisions
+
+1. Procurement Planning
+
+Prior to the issuance of any invitations to bid for contracts, the proposed procurement 
+plan for the Project shall be furnished to the Bank for its review and approval, in accordance with 
+the provisions of paragraph 1 of Appendix 1 to the Guidelines.  Procurement of all works shall be 
+undertaken in accordance with such procurement plan as shall have been approved by the Bank, 
+and with the provisions of said paragraph 1.
+
+2. Prior Review
+
+(a) With respect to:
+
+(i) each contract for goods to be procured in accordance with the 
+procedures referred to in Part B above; and
+
+(ii) the first contract for goods to be procured in accordance with the 
+procedures referred to in Part C.1 above, the procedures set forth in 
+
+paragraphs 2 and 3 of Appendix 1 to the Guidelines shall apply.
+
+(b) With respect to the first two contracts to be procured in accordance with the 
+procedures referred to in each of Parts C.2 and C.3 above, the following procedures shall apply:
+
+(i) prior to the selection of the supplier or contractor, the Borrower shall 
+provide to the Bank a report on the comparison and evaluation of 
+quotations received;
+
+(ii) prior to the execution of the contract, the Borrower shall provide to the 
+Bank a copy of the specifications and the draft contract; and
+
+(iii) the procedures set forth in paragraphs 2 (f), 2 (g) and 3 of Appendix 1 to 
+the Guidelines shall apply.
+
+3. Post Review
+
+With respect to each contract not governed by paragraph 2 of this Part, the procedures set 
+forth in paragraph 4 of Appendix 1 to the Guidelines shall apply.
+
+Section II. Employment of Consultants
+
+Part A: General
+
+Consultants’ services shall be procured in accordance with the provisions of Sections I 
+and IV of the “Guidelines:  Selection and Employment of Consultants by World Bank 
+Borrowers” published by the Bank in January 1997 and revised in September 1997, January 1999 
+and May 2002 (the Consultant Guidelines), paragraph 1 of Appendix 1 thereto, Appendix 2 
+thereto, and the following provisions of this Section and Section III of this Schedule.
+
+Part B: Quality- and Cost-based Selection
+
+1. Except as otherwise provided in Part C of this Section, consultants’ services shall be 
+procured under contracts awarded in accordance with the provisions of Section II of the 
+Consultant Guidelines, and the provisions of paragraphs 3.13 through 3.18 thereof applicable to 
+quality- and cost-based selection of consultants.
+
+2. The following provisions shall apply to consultants’ services to be procured under 
+contracts awarded in accordance with the provisions of the preceding paragraph: the short list of 
+consultants, estimated to cost less than $200,000 equivalent per contract, may comprise entirely 
+national consultants in accordance with the provisions of paragraph 2.7 and footnote 8 of the 
+Consultant Guidelines.
+
+Part C: Other Procedures for the Selection of Consultants
+
+1. Selection Based on Consultants’ Qualifications
+
+Services (other than external audits) estimated to cost $100,000 equivalent per contract 
+or less, and not exceeding in the aggregate $1,500,000 equivalent, may be procured under 
+contracts awarded in accordance with the provisions of paragraphs 3.1 and 3.7 of the Consultant 
+Guidelines.
+
+2. Least-cost Selection
+
+Services for external audits estimated to cost less than $100,000 equivalent per contract 
+may be procured under contracts awarded in accordance with the provisions of paragraphs 3.1 
+and 3.6 of the Consultant Guidelines.
+
+3. Individual Consultants
+
+Services of individual consultants for tasks that meet the requirements set forth in 
+paragraph 5.1 of the Consultant Guidelines, and not exceeding in the aggregate $2,400,000 
+equivalent, shall be procured under contracts awarded in accordance with the provisions of 
+paragraphs 5.1 through 5.3 of the Consultant Guidelines.
+
+Part D: Review by the Bank of the Selection of Consultants
+
+1. Selection Planning
+
+A plan for the selection of consultants, which shall include contract cost estimates, 
+contract packaging, and applicable selection criteria and procedures, shall be furnished to the 
+Bank, for its review and approval, prior to the issuance to consultants of any requests for 
+proposals. Such plan shall be updated every six (6) months during the execution of the Project, 
+and each such updating shall be furnished to the Bank for its review and approval.  Selection of 
+all consultants’ services shall be undertaken in accordance with such selection plan (as updated 
+from time to time) as shall have been approved by the Bank.
+
+2. Prior Review
+
+(a) With respect to each contract for the employment of consulting firms estimated 
+to cost $100,000 equivalent or more, the procedures set forth in paragraphs 2, 3, and 5 of 
+Appendix 1 to the Consultant Guidelines shall apply.
+
+(b) With respect to each contract for the employment of individual consultants 
+estimated to cost the equivalent of $50,000 or more, the report on the comparison of the 
+qualifications and experience of candidates, and the terms of reference and terms of employment 
+of the consultants shall be furnished to the Bank for its prior review and approval.  The contract 
+
+shall be awarded only after the said approval shall have been given.  The provisions of paragraph 
+3 of Appendix 1 to the Guidelines shall also apply to such contracts.
+
+3. Post Review
+
+With respect to each contract not governed by paragraph 2 of this Part, the procedures set 
+forth in paragraph 4 of Appendix 1 to the Consultant Guidelines shall apply.
+
+Section III. Special Provisions
+
+Part A: In addition and without limitation or restriction to any other provision set forth in this 
+Schedule or the Guidelines, the following provisions shall govern all procurement of goods under 
+Part C.1 of Section I of this Schedule:
+
+1. No reference value shall be required for publication in the bidding documents.
+
+2. Award of contracts shall be based exclusively on price and, whenever appropriate, shall 
+take into account factors that can be quantified objectively, and the procedure for such 
+quantification shall be disclosed in the invitation to bid.
+
+3. The Borrower shall utilize standard bidding documents satisfactory to the Bank.
+
+Part B: In addition and without limitation or restriction to any other provision set forth in this 
+Schedule or the Consultant Guidelines, the following provisions shall govern all employment of 
+consultants referred to in Section II of this Schedule:
+
+1. Foreign consultants shall not be required to be locally registered as a condition of 
+participation in the selection process.
+
+2. No reference value shall be required for publication in the proposal documents.
+
+3. No minimum number of responsive proposals shall be required prior to awarding a 
+contract for consulting services.
+
+4. Foreign consultants shall not be required to legalize their proposals or any 
+documentation related to such proposals with either Peruvian consulates, the Ministry of Foreign 
+Affairs, or any Peruvian authorities, as a pre-condition to participating in the selection process.

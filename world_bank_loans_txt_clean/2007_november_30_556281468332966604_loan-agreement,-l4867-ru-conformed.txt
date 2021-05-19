@@ -1,0 +1,527 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 4867-RU 
+
+Loan Agreement 
+
+(Second State Statistical System Development Project) 
+
+between 
+
+RUSSIAN FEDERATION 
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+Dated November 30, 2007 
+
+LOAN AGREEMENT 
+
+Agreement dated November 30, 2007, between RUSSIAN FEDERATION 
+(“Borrower”) and INTERNATIONAL BANK FOR RECONSTRUCTION AND 
+DEVELOPMENT (“Bank”).  The Borrower and the Bank hereby agree as follows: 
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS 
+ 
+1.01. The General Conditions (as defined in the Appendix to this Agreement) 
+
+constitute an integral part of this Agreement. 
+ 
+1.02. Unless the context requires otherwise, the capitalized terms used in the Loan 
+
+Agreement have the meanings ascribed to them in the General Conditions or in 
+the Appendix to this Agreement. 
+
+ARTICLE II - LOAN 
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or 
+
+referred to in this Agreement, the amount of ten million dollars ($10,000,000)  
+(“Loan”), to assist in financing the project described in Schedule 1 to this 
+Agreement (“Project”). 
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with 
+Section IV of Schedule 2 to this Agreement. 
+
+2.03. The Commitment Charge payable by the Borrower shall be equal to three-fourths 
+of one percent (3/4 of 1%) per annum on the Unwithdrawn Loan Balance, subject 
+to any waiver of a portion of such charge as may be determined by the Bank from 
+time to time. 
+
+2.04. The Front-end Fee payable by the Borrower shall be equal to one percent (1.0%) 
+
+of the Loan amount, subject to any waiver of a portion of such fee as may be 
+determined by the Bank from time to time.   
+
+2.05. The interest payable by the Borrower for each Interest Period shall be at a rate 
+equal to LIBOR for the Loan Currency plus the Variable Spread, subject to any 
+waiver of a portion of such interest as may be determined by the Bank from time 
+to time. 
+
+2.06. The Payment Dates are May 15 November 15 in each year. 
+
+2.07. The principal amount of the Loan shall be repaid in accordance with the 
+amortization schedule set forth in Schedule 3 to this Agreement. 
+
+ARTICLE III - PROJECT 
+ 
+3.01. The Borrower declares its commitment to the objectives of the Project. To this 
+
+end, the Borrower shall carry out the Project through Rosstat in accordance with 
+the provisions of Article V of the General Conditions. 
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and 
+
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall 
+ensure that the Project is carried out in accordance with the provisions of 
+Schedule 2 to this Agreement. 
+
+ARTICLE IV - REMEDIES OF THE BANK 
+
+4.01. The Additional Events of Suspension consist of the following: 
+
+(a) The Project Implementation Agreement, or any provision thereof, shall 
+have been amended, suspended, abrogated, repealed or waived in such a 
+way as to materially and adversely affect the ability of the Borrower or 
+the PIU to carry out the Project; and 
+
+(b) The PIU shall have failed to perform any of its obligations under the 
+
+Project Implementation Agreement. 
+ 
+4.02. The Additional Event of Acceleration consists of the following: any event 
+specified in paragraphs (a) and (b) of Section 4.01 of this Agreement occurs and is 
+continuing for a period of 60 days after notice of the event has been given by the Bank to 
+the Borrower. 
+
+ARTICLE V - EFFECTIVENESS 
+
+5.01. The Additional Conditions of Effectiveness consist of the following: 
+
+(a) The Project Implementation Agreement has been executed on behalf of 
+the Borrower, represented by the MOF and Rosstat, and the PIU. 
+
+(b) The IACC with a composition, resources and terms of reference 
+
+satisfactory to the Bank has been established by the Borrower. 
+
+(c)  The Project Operational Manual satisfactory to the Bank has been 
+adopted by the Borrower. 
+
+5.02. The Additional Legal Matter consists of the following: 
+
+The Project Implementation Agreement, satisfactory to the Bank, has been 
+executed between the Borrower, represented by the MOF and Rosstat, and the PIU and is 
+legally binding upon the Borrower and the PIU in accordance with its terms. 
+ 
+5.03. The Effectiveness Deadline is the date ninety (90) days after the date of this 
+Agreement. 
+
+ARTICLE VI - REPRESENTATIVE; ADDRESSES 
+
+6.01. The Borrower’s Representative is the Minister of Finance of the Borrower. 
+ 
+6.02. The Borrower’s Address is: 
+
+Ministry of Finance 
+Ilyinka Street 9 
+109097 Moscow  
+Russian Federation 
+
+Telex:    Facsimile: 
+
+112008    (7-095) 925-0889 
+
+6.03. The Bank’s Address is: 
+ 
+International Bank for Reconstruction and Development 
+1818 H Street, N.W. 
+Washington, D.C. 20433 
+United States of America 
+ 
+Cable address:  Telex:    Facsimile: 
+ 
+INTBAFRAD  248423(MCI) or  1
+477-6391 
+Washington, D.C.  64145(MCI) 
+
+AGREED at Moscow, Russian Federation, as of the day and year first above written. 
+
+RUSSIAN FEDERATION 
+
+By /s/ Vladimir L. Sokolin 
+ Authorized Representative 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By /s/ Klaus Rohland 
+ Authorized Representative 
+
+SCHEDULE 1 
+
+Project Description 
+
+The objective of the Project is to assist the government to produce reliable, 
+timely, and accurate economic, financial, socio-demographic and other data for policy 
+formulation and decision-making in line with international good practice and 
+frameworks. This will be done through strengthening the capacity of the National 
+Statistical System. The project supports the implementation of the national development 
+strategy to promote economic growth, to achieve ambitious social goals and targets, and 
+to ensure significant improvements in the efficiency of federal government agency 
+performance. The improved availability of comprehensive sets of macroeconomic, social, 
+poverty-related and labor market indicators, with regional breakdowns, will contribute to 
+the monitoring of policy implementation. 
+
+The Project constitutes phase I-b of the Program and consists of the following 
+
+parts: 
+ 
+Component A: Modernization of economic statistics methodology
+
+(a) enhancement of the System of National Accounts; 
+ 
+(b) development of the methodological basis for the compilation of the basic 
+
+Input-Output Tables; 
+ 
+(c) enhancement of price statistics; 
+ 
+(d) enhancement of trade statistics; and 
+ 
+(e) enhancement of enterprise statistics. 
+
+Component B: Development of modern design and technology for statistical data 
+
+collection, processing, and dissemination system
+
+(a) improve access to data through electronic and web-enabled technologies; 
+ 
+(b) development of a modern system of demographic data collection and 
+
+processing; 
+ 
+(c) development of a system for collection, analysis and dissemination of 
+
+household and population surveys data; 
+ 
+(d) improve integration of databases; 
+
+(e) institutional strengthening of Rosstat’s information technology policy 
+framework; 
+
+(f) review and improve information technology security planning and 
+
+requirements; 
+ 
+(g) development of Rosstat’s corporate computer and information system; 
+ 
+(h) development of data collection and interagency interaction system for 
+
+monitoring performance of budget institutions in the social sphere, 
+financial sphere and the real property sector; 
+
+(i) remote collection of data for the purposes of social and economic 
+
+statistics; and 
+ 
+(j) preparation of strategic development proposals of Rosstat’s information 
+
+technology systems. 
+ 
+Component C: Enhancement of social statistics
+
+(a) strengthen statistics of population incomes, poverty and living standards, 
+including modernization of the system of household sample surveys, and 
+improvement of administrative data collection; 
+
+(b) develop labor market statistics and propose new tasks in labor force 
+
+analysis to develop policies to support the labor market; and 
+ 
+(c) improve demographic statistics. 
+
+Component D: Human resource development
+
+(a) analysis of the current retraining system and preparation of a strategy for 
+its development; 
+
+(b) development of training programs and training materials; and 
+ 
+(c) provision of statistical training and knowledge sharing. 
+
+Component E: Project management
+
+(a) provision of logistical and secretarial support to the IACC and financing 
+of Operating Costs; and 
+
+(b) implementation of a project results framework and monitoring and 
+
+evaluation of indicators. 
+
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Institutional and Other Arrangements
+
+1. At all times during the implementation of the Project, the Borrower shall 
+maintain the IACC with a composition, resources and terms of reference satisfactory to 
+the Bank. 
+ 
+2. The Borrower shall ensure that, until the completion of the Project, the PIU at all 
+times functions in a manner, and with staff, consultants, facilities and other resources 
+necessary for the management and implementation of the Project, all satisfactory to the 
+Bank. 
+ 
+3. The Borrower, through Rosstat and with the assistance of the PIU, shall carry out 
+the Project in accordance with the requirements, criteria, organizational arrangements and 
+operational procedures set forth in the Project Operational Manual and shall not assign, 
+amend, abrogate or waive any provisions of the Project Operational Manual without a 
+prior approval of the Bank. 
+ 
+Section II. Project Monitoring, Reporting, Evaluation
+
+A. Project Reports 
+
+The Borrower shall monitor and evaluate the progress of the Project and prepare 
+Project Reports in accordance with the provisions of Section 5.08 of the General 
+Conditions and on the basis of indicators agreed with the Bank.  Each Project Report 
+shall cover the period of one calendar semester, and shall be furnished to the Bank not 
+later than forty five (45) days after the end of the period covered by such report.  
+ 
+B. Financial Management, Financial Reports and Audits 
+ 
+1. The Borrower, through the PIU, shall maintain a financial management system in 
+accordance with the provisions of Section 5.09 of the General Conditions. 
+ 
+2. Without limitation on the provisions of Part A of this Section, the Borrower shall 
+prepare and furnish to the Bank not later than forty five (45) days after the end of each 
+calendar quarter, interim un-audited financial reports for the Project covering the quarter, 
+in form and substance satisfactory to the Bank. 
+ 
+3. The Borrower shall have its Financial Statements audited in accordance with the 
+provisions of Section 5.09 (b) of the General Conditions.  Each audit of the Financial 
+Statements shall cover the period of one fiscal year of the Borrower. The first and final 
+audit may cover a period up to eighteen (18) months. The audited Financial Statements 
+
+for each such period shall be furnished to the Bank not later than six months after the end 
+of such period. 
+
+Section III. Procurement
+
+A. General
+
+1. Goods.   All goods required for the Project shall be procured in accordance with 
+the requirements set forth or referred to in Section I of the Procurement Guidelines, and 
+with the provisions of this Schedule. 
+ 
+2. Consultants’ Services.  All consultants’ services required for the Project shall be 
+procured in accordance with the requirements set forth or referred to in Sections I and IV 
+of the Consultant Guidelines and with the provisions of this Schedule.   
+ 
+3. Definitions. The capitalized terms used below in this Section to describe 
+particular procurement methods or methods of review by the Bank of particular contracts 
+refer to the corresponding method described in the Procurement Guidelines, or 
+Consultant Guidelines, as the case may be. 
+ 
+B. Particular Methods of Procurement of Goods
+
+1. International Competitive Bidding. Except as otherwise provided in paragraph 
+2 below, goods shall be procured under contracts awarded on the basis of International 
+Competitive Bidding. 
+
+2. Other Methods of Procurement of Goods. The following table specifies the 
+methods of procurement, other than International Competitive Bidding, which may be 
+used for goods.  The Procurement Plan shall specify the circumstances under which such 
+methods may be used. 
+
+Procurement Method 
+ 
+(a)  Shopping 
+
+(b)  Agreed procedures for training 
+
+C. Particular Methods of Procurement of Consultants’ Services
+
+1. Quality- and Cost-based Selection. Except as otherwise provided in paragraph 
+2 below, consultants’ services shall be procured under contracts awarded on the basis of 
+Quality and Cost-based Selection. 
+
+2. Other Methods of Procurement of Consultants’ Services. The following table 
+specifies the methods of procurement, other than Quality and Cost-based Selection, 
+which may be used for consultants’ services.  The Procurement Plan shall specify the 
+circumstances under which such methods may be used. 
+
+Procurement Method 
+ 
+(a) Selection Based on Consultant’s 
+ Qualifications 
+(b)  Selection of Individual Consultants
+(c)  Least Cost Selection 
+
+(d)  Single Source Selection 
+
+3. Eligibility of State Owned Scientific, Research and Education Institutions 
+Short lists for assignments to be procured under this Part C may, with the prior agreement 
+of the Bank, include (in case of Selection Based on Consultant’s Qualifications) or be 
+entirely composed of (in case of Quality- and Cost-based Selection or Selection Based on 
+Consultant’s Qualifications), suitable state-owned entities (scientific, research and 
+education institutions, including entities within Rosstat organizational structure), 
+provided that no entity can be included in a short list for any assignment if such an entity 
+is the direct beneficiary of the outputs of the assignment. 
+
+D. Review by the Bank of Procurement Decisions
+
+The Procurement Plan shall set forth those contracts which shall be subject to the Bank’s 
+Prior Review.  All other contracts shall be subject to Post Review by the Bank. 
+ 
+Section IV. Withdrawal of Loan Proceeds
+
+A. General.   
+ 
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the 
+provisions of Article II of the General Conditions, this Section, and such additional 
+instructions as the Bank may specify by notice to the Borrower (including the “World 
+Bank Disbursement Guidelines for Projects” dated May 2006, as revised from time to 
+time by the Bank and as made applicable to this Agreement pursuant to such 
+instructions), to finance Eligible Expenditures as set forth in the table in paragraph 2 
+below. 
+ 
+2. The following table specifies the categories of Eligible Expenditures that may be 
+financed out of the proceeds of the Loan (“Category”), the allocation of the amounts of 
+the Loan to each Category, and the percentage of expenditures to be financed for Eligible 
+Expenditures in each Category. 
+
+Category Amount of the Loan 
+Allocated 
+
+(expressed in USD) 
+
+Percentage of 
+Expenditures to be 
+
+financed 
+
+(1) Goods and consultants’ 
+services for the Project 
+
+9,380,000  20% 
+
+(2) Operating Costs 
+
+620,000  20% 
+
+TOTAL AMOUNT 
+
+10,000,000
+
+B. Withdrawal Conditions; Withdrawal Period.   
+ 
+1. Notwithstanding the provisions of Part A of this Section no withdrawal shall be 
+made for payments made prior to the date of this Agreement.   
+ 
+2. The Closing Date is August 25, 2012. 
+
+SCHEDULE 3 
+
+Amortization Schedule 
+
+Principal Payment Date 
+Principal Amount of the Loan 
+
+Payable 
+(Expressed in USD
+) 
+
+On each May 15 and November 15 
+
+beginning November 15, 2012   
+through May 15, 2022 
+
+500,000 
+
+∗  The figures in this column represent the amount in USD to be repaid, except as 
+provided in Section 3.10 of the General Conditions. 
+
+APPENDIX 
+
+Section I.  Definitions 
+ 
+1. “Category” means a category set forth in the table in Section IV of Schedule 2 to 
+
+this Agreement. 
+
+2.  “Consultant Guidelines” means the “Guidelines: Selection and Employment of 
+Consultants by World Bank Borrowers” published by the Bank in May 2004. 
+
+3. “General Conditions” means the “International Bank for Reconstruction and 
+
+Development General Conditions for Loans”, dated July 1, 2005. 
+ 
+4. “IACC” means the Inter-Agency Coordination Council to be established by the 
+
+Borrower for the purposes of overall Project steering and coordination pursuant 
+to Section 5.01 of this Agreement. 
+
+5. “MEDT” means the Ministry of Economic Development and Trade of the 
+
+Borrower or any successor thereto. 
+ 
+6. “MOF” means the Ministry of Finance of the Borrower or any successor thereto. 
+ 
+7. “Operating Costs” means incremental operating costs incurred by the PIU on 
+
+account of Project implementation, management and monitoring, including staff 
+salaries and consultancy costs, social charges, training, conferences and 
+seminars, dissemination of Project related information, office rent and utilities, 
+office and equipment insurance, maintenance and repair, vehicle maintenance 
+and repair, travel, security, communication, bank charges, and other 
+miscellaneous costs directly associated with the Project, all based on periodic 
+budgets acceptable to the Bank. 
+
+8.  “PIU” means an entity with staff, resources and terms of reference satisfactory to 
+
+the Bank and selected by the Borrower for the purposes of day to day Project 
+management and implementation and which is the party to the Project 
+Implementation Agreement. 
+
+9. “Procurement Guidelines” means the “Guidelines for Procurement under IBRD 
+
+Loans and IDA Credits” published by the Bank in May 2004. 
+ 
+10. “Procurement Plan” means the Borrower’s procurement plan for the Project, 
+
+dated May 3, 2007 and referred to in paragraph 1.16 of the Procurement 
+Guidelines and paragraph 1.24 of the Consultant Guidelines, as the same shall be 
+updated from time to time in accordance with the provisions of said paragraphs. 
+
+11. “Program” means the Statistical Capacity Building Program (STATCAP) 
+designed to increase access to assistance to strengthen National Statistical 
+Systems and increase their capacity to produce more reliable, timely and accurate 
+data and referenced in the letter dated February 7, 2005 from the Borrower to the 
+Bank. 
+
+12. “Project Implementation Agreement” means the agreement to be entered into 
+
+between the Borrower, represented by the MOF and Rosstat, and the PIU 
+pursuant to Section 5.01 of this Agreement. 
+
+13. “Project Operational Manual” means the project operational manual satisfactory 
+
+to the Bank and to be adopted by the Borrower pursuant to Section 5.01 of this 
+Agreement. 
+
+14. “Rosstat” means the Federal Service of State Statistics of the Russian Federation, 
+
+or any successor or successors thereto. 
+ 
+15. “Training” means Project related study tours, training courses, seminars, 
+
+workshops and other training activities, not included under goods or service 
+providers’ contracts, including costs of training materials, space and equipment 
+rental, travel, per diem costs of trainees and trainers and trainers’ fees.

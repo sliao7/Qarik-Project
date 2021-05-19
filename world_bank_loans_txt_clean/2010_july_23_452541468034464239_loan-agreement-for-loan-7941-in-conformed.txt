@@ -1,0 +1,729 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 7941-IN 
+
+Loan Agreement 
+
+(Mumbai Urban Transport Project-2A) 
+
+between 
+
+INDIA 
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+Dated July 23, 2010  
+
+LOAN AGREEMENT 
+
+AGREEMENT dated July 23, 2010, between INDIA (“Borrower”)  
+and INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT 
+(“Bank”).  The Borrower and the Bank hereby agree as follows: 
+
+ARTICLE I — GENERAL CONDITIONS; DEFINITIONS 
+ 
+1.01. The General Conditions (as defined in the Appendix to this Agreement) 
+
+constitute an integral part of this Agreement. 
+ 
+1.02. Unless the context requires otherwise, the capitalized terms used in this 
+
+Agreement have the meanings ascribed to them in the General Conditions or in 
+the Appendix to this Agreement. 
+
+ARTICLE II — LOAN 
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or 
+
+referred to in this Agreement, the amount of four hundred thirty million Dollars 
+($430,000,000) (“Loan”), to assist in financing the project described in  
+Schedule 1 to this Agreement. 
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with 
+
+Section IV of Schedule 2 to this Agreement. 
+ 
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one 
+
+percent (0.25%) of the Loan amount. 
+ 
+2.04. The interest payable by the Borrower for each Interest Period shall be at a rate 
+
+equal to LIBOR for the Loan Currency plus the Variable Spread; provided, that 
+upon a Conversion of all or any portion of the principal amount of the Loan, the 
+interest payable by the Borrower during the Conversion Period on such amount 
+shall be determined in accordance with the relevant provisions of Article IV of 
+the General Conditions. Notwithstanding the foregoing, if any amount of the 
+Withdrawn Loan Balance remains unpaid when due and such non-payment 
+continues for a period of thirty (30) days, then the interest payable by the 
+Borrower shall instead be calculated as provided in Section 3.02(d) of the 
+General Conditions. 
+
+2.05. The Payment Dates are June 15 and December 15 in each year. 
+ 
+2.06. The principal amount of the Loan shall be repaid in accordance with the 
+
+amortization schedule set forth in Schedule 3 to this Agreement. 
+
+2.07. (a) The Borrower may at any time request any of the following Conversions 
+of the terms of the Loan in order to facilitate prudent debt management: 
+(i) a change of the Loan Currency of all or any portion of the principal 
+amount of the Loan, withdrawn or unwithdrawn, to an Approved 
+Currency; (ii) a change of the interest rate basis applicable to all or any 
+portion of the principal amount of the Loan withdrawn and outstanding 
+from a Variable Rate to a Fixed Rate, or vice versa; and (iii) the setting 
+of limits on the Variable Rate applicable to all or any portion of the 
+principal amount of the Loan withdrawn and outstanding by the 
+establishment of an Interest Rate Cap or Interest Rate Collar on the 
+Variable Rate. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that 
+
+is accepted by the Bank shall be considered a “Conversion”, as defined 
+in the General Conditions, and shall be effected in accordance with the 
+provisions of Article IV of the General Conditions and of the Conversion 
+Guidelines.  
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or 
+
+Interest Rate Collar for which the Borrower has requested that the 
+premium be paid out of the proceeds of the Loan, the Bank shall, on 
+behalf of the Borrower, withdraw from the Loan Account and pay to 
+itself the amounts required to pay any premium payable in accordance 
+with Section 4.05(c) of the General Conditions up to the amount 
+allocated from time to time for the purpose in the table in Section IV of 
+Schedule 2 to this Agreement. 
+
+ARTICLE III — PROJECT 
+
+3.01. The Borrower declares its commitment to the objectives of the Project.  To this 
+
+end, the Borrower shall, through the MOR, carry out the relevant activities under 
+the Project and shall ensure that the relevant activities under the Project are 
+carried out by Maharashtra and the MRVC, all in accordance with the provisions 
+of Article V of the General Conditions and the Project Agreements. 
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and 
+
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall 
+ensure that the Project is carried out in accordance with the provisions of 
+Schedule 2 to this Agreement. 
+
+ARTICLE IV — EFFECTIVENESS; TERMINATION 
+
+4.01. The Additional Conditions of Effectiveness consist of the following: the 
+Maharashtra-MRVC SFA and the MOU with the ICF have been executed. 
+
+4.02. The Effectiveness Deadline is the date ninety (90) days after the date of this 
+
+Agreement. 
+
+ARTICLE V — REPRESENTATIVE; ADDRESSES 
+
+5.01. The Borrower’s Representative is the Secretary, or any Additional Secretary, 
+Joint Secretary, Director, Deputy Secretary or Under Secretary of the Department 
+of Economic Affairs in the Ministry of Finance of the Borrower.   
+
+5.02. The Borrower’s Address is: 
+
+Secretary to the Government of India 
+Department of Economic Affairs 
+Ministry of Finance 
+New Delhi, India 
+ 
+Cable:   Telex:   Facsimile: 
+ 
+ECOFAIRS  953
+66175  91
+23094075 
+New Delhi  FINE IN 
+
+5.03. The Bank’s Address is: 
+
+International Bank for Reconstruction and Development 
+1818 H Street, N.W. 
+Washington, D.C. 20433 
+United States of America 
+ 
+Cable address:  Telex:   Facsimile: 
+ 
+INTBAFRAD  248423(MCI) or 1
+477-6391 
+Washington, D.C.   64145(MCI) 
+
+AGREED at Mumbai, India, as of the day and year first above written. 
+
+INDIA 
+
+By /s/ Sudhakar Shukla 
+ Authorized Representative 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By /s/ Jerome F. Chevallier 
+ Authorized Representative 
+
+SCHEDULE 1 
+
+Project Description 
+
+The objective of the Project is to improve the passenger carrying capacity, 
+operational efficiency, level of comfort of, and the institutional capacity of entities 
+involved in, the suburban rail system of Mumbai Metropolitan area. 
+
+ The Project consists of the following components: 
+ 
+Component 1. EMU Rolling Stock Fleet Increase   
+
+Acquisition of 864 additional EMU coaches (72 12-car trains), to be 
+manufactured at the ICF.   
+
+Component 2. DC to AC Conversion 
+
+Conversion of three sections of CR located in the Mumbai Metropolitan Region 
+(Chhatrapati Shivaji Terminus Mumbai (CSTM)-Thane, CSTM-Tilaknagar and 
+Mahim-Vadala Road sections) from 1500V DC to 25KV AC traction, including: 
+(i) modification of overhead catenaries; (ii) setting up of traction power sub-
+stations at Sion, Chinchpokli, Wadala Road and Thane, along with switching 
+stations; (iii) procurement of catenary maintenance equipment; (iv) modifications 
+to signal and telecom systems; and (v) implementation of ancillary social, 
+resettlement and environmental measures, if any.   
+
+Component 3.  EMU Maintenance Facilities and Stabling Lines 
+
+Construction of new stabling lines and improvement of existing EMU 
+maintenance facilities (maintenance sheds and workshops) on CR and WR, and 
+the expansion of the maintenance shed at Virar, to accommodate the EMU trains 
+acquired under Component 1, including implementation of ancillary social, 
+resettlement and environmental measures, if any.   
+
+Component 4. Capacity Strengthening  
+
+Carrying out of strategic studies and programs for the benefit of the MOR and 
+MRVC, including studies related to sustainable expansion of Mumbai suburban 
+rail services, development of the IR long-term strategy for suburban rail, 
+improvement of the financial situation of the Mumbai suburban rail operation, 
+improvement of passenger convenience and information, safety and 
+environmental management of rail operations, increased operational efficiency, 
+and project management, implementation and monitoring. 
+
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Implementation, Institutional and Other Arrangements
+
+1. The Borrower shall carry out the relevant activities under the Project through the 
+MOR, and shall ensure the relevant activities under the Project are carried out by 
+Maharashtra, the MRVC. 
+
+2. The Borrower shall ensure that the Project is carried out in accordance with the 
+provisions of the Implementation Manual, SMF, and EMPs, and in accordance 
+with the provisions of the Anti-Corruption Guidelines, and shall ensure that the 
+Implementation Manual, SMF, and EMPs are not materially revised, amended, 
+waived, or abrogated without the prior consent of the Bank.  If any provision of 
+this Agreement is inconsistent with a provision of the Implementation Manual, 
+SMF, or EMPs, the provision of this Agreement shall prevail. 
+
+3. To facilitate the carrying out of the Project, the Borrower shall: (a) make fifty 
+percent (50%) of the proceeds of the Loan available to Maharashtra in 
+accordance with Borrower’s standard arrangements for developmental assistance 
+to the States of India, for the purpose of Maharashtra making such funds 
+available to MRVC, under the terms and conditions set out in the Maharashtra-
+MRVC SFA; and (b) acting through the MOR, make fifty percent (50%) of the 
+proceeds of the Loan available to the MRVC, in accordance with the terms and 
+conditions set out in the MOR-MRVC MOU.  The Borrower shall, acting 
+through the MOR, exercise its rights under the MOR-MRVC MOU in such 
+manner as to protect the interests of the Borrower and the Bank, and to 
+accomplish the purposes of the Project, and except as the Bank may otherwise 
+agree, shall not assign, abrogate, or waive any of the terms or provisions of the 
+MOR-MRVC MOU. 
+
+4. The Borrower shall ensure that the Project Implementing Entities implement the 
+Project in accordance with the terms and conditions set out in the respective 
+Project Agreements. 
+
+5. The Borrower shall protect the interests of the Borrower and the Bank to 
+
+accomplish the purposes of the Loan.   
+ 
+Section II. Project Monitoring Reporting and Evaluation
+
+A. Project Reports   
+
+The Borrower, through the MOR, shall, and shall ensure that Maharashtra and 
+the MRVC shall, monitor and evaluate the progress of the Project, and cause the 
+
+Project Reports to be prepared in accordance with the provisions of Section 5.08 
+of the General Conditions and on the basis of indicators agreed with the Bank.  
+Each Project Report shall cover the period of one (2) Financial Year quarter, and 
+shall be furnished to the Bank not later than forty-five (45) days after the end of 
+the period covered by such report.   
+
+B. Financial Management, Financial Reports and Audits   
+ 
+1. The Borrower shall maintain or cause to be maintained a financial management 
+
+system in accordance with the provisions of Section 5.09 of the General 
+Conditions. 
+
+2. The Borrower shall have the Financial Statements audited in accordance with the 
+
+provisions of Section 5.09(b) of the General Conditions.  Each audit of the 
+Financial Statements shall cover the period of one (1) Financial Year, 
+commencing with the Financial Year in which the first withdrawal under the 
+Project was made.  The audited Financial Statements for each such period shall 
+be furnished to the Bank not later than six (6) months after the end of such 
+period. 
+
+3. Without limitation on the provisions of Part A of this Section, the Borrower shall 
+
+cause the Project Implementing Entity to prepare and furnish to the Bank not 
+later than forty-five (45) days after the end of each Financial Year quarter, 
+interim unaudited financial reports for the Project, covering the quarter, in form 
+and substance satisfactory to the Bank. 
+
+Section III. Procurement
+
+A. General 
+
+1. Goods, Including Supply and Installation. All goods required for the Project 
+and to be financed out of the proceeds of the Loan shall be procured in 
+accordance with the requirements set forth or referred to in Section I of the 
+Procurement Guidelines, and with the provisions of this Section. 
+
+2. Consultants’ Services. All consultants’ services required for the Project and to 
+
+be financed out of the proceeds of the Loan shall be procured in accordance with 
+the requirements set forth or referred to in Sections I and IV of the Consultant 
+Guidelines and with the provisions of this Section. 
+
+3. Definitions. The capitalized terms used below in this Section to describe 
+
+particular procurement methods or methods of review by the Bank of particular 
+contracts refer to the corresponding method described in the Procurement 
+Guidelines, or Consultant Guidelines, as the case may be. 
+
+B. Particular Methods of Procurement of Goods  
+ 
+1. International Competitive Bidding. Except as otherwise provided in  
+
+paragraph 2 below, goods and works shall be procured under contracts awarded 
+on the basis of International Competitive Bidding. 
+
+2. Other Methods of Procurement of Goods. The following table specifies the 
+
+methods of procurement, other than International Competitive Bidding, which 
+may be used for goods.  The Procurement Plan shall specify the circumstances 
+under which such methods may be used. 
+
+Procurement Method 
+
+(a) National Competitive Bidding, and the additional provisions agreed 
+between the Borrower and the Bank 
+
+(b)   Shopping 
+
+(c)   Direct Contracting 
+
+C. Particular Methods of Procurement of Consultants’ Services 
+ 
+1. Quality- and Cost-based Selection. Except as otherwise provided in  
+
+paragraph 2 below, consultants’ services shall be procured under contracts 
+awarded on the basis of Quality- and Cost-based Selection. 
+
+2. Other Methods of Procurement of Consultants’ Services. The following table 
+
+specifies the methods of procurement, other than Quality- and Cost-based 
+Selection, which may be used for consultants’ services.  The Procurement Plan 
+shall specify the circumstances under which such methods may be used. 
+
+Procurement Method 
+
+(a)    Quality-Based Selection 
+
+(b)    Selection under a Fixed Budget 
+
+(c)    Least Cost Selection 
+
+(d)   Selection Based on the Consultants’ Qualifications 
+
+(e)   Single-Source Selection 
+
+(f)    Procedures set forth in paragraphs 5.2 and 5.3 of the Consultant 
+Guidelines for the Selection of Individual Consultants 
+
+(g)   Sole Source Procedures for the Selection of Individual Consultants 
+
+D. Review by the Bank of Procurement Decisions 
+
+The Procurement Plan shall set forth those contracts which shall be subject to the 
+Bank’s Prior Review.  All other contracts shall be subject to Post Review by  
+the Bank. 
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General   
+ 
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the 
+
+provisions of Article II of the General Conditions, this Section, and such 
+additional instructions as the Bank shall specify by notice to the Borrower 
+(including the “World Bank Disbursement Guidelines for Projects” dated May 
+2006, as revised from time to time by the Bank and as made applicable to this 
+Agreement pursuant to such instructions), to finance Eligible Expenditures as set 
+forth in the table in paragraph 2 below. 
+
+2. The following table specifies the categories of Eligible Expenditures that may be 
+
+financed out of the proceeds of the Loan (“Category”), the allocation of the 
+amounts of the Loan to each Category, and the percentage of expenditures to be 
+financed for Eligible Expenditures in each Category. 
+
+Category 
+
+Amount of the Loan 
+
+Allocated 
+(expressed in USD) 
+
+Percentage of 
+Expenditures to be 
+
+financed 
+(inclusive of Taxes) 
+
+(1) Goods, including Supply and 
+Installation: 
+
+(a) under Component 1 of the 
+
+Project   
+
+(b) under Component 2 of the 
+Project 
+
+(c) under Component 4 of the 
+
+Project 
+
+355,696,000 
+
+55,155,000 
+
+1,513,000 
+
+100% 
+
+100% 
+
+100% 
+
+Category 
+
+Amount of the 
+Loan Allocated 
+
+(expressed in USD)
+
+Percentage of 
+Expenditures to be 
+
+financed 
+(inclusive of Taxes) 
+
+(2)  Consultants’ Services, and Training 12,894,000 100% 
+
+(3) Front-end Fee 1,075,000 
+
+Amount payable 
+pursuant to  
+Section 2.03 of this 
+Agreement in 
+accordance with 
+Section 2.07(b) of the 
+General Conditions 
+
+(4) Premia for Interest Rate Cap or 
+Interest Rate Collar
+Amount payable 
+pursuant to  
+Section 2.07(c) of this 
+Agreement in 
+accordance with 
+Section 4.05(c) of the 
+General Conditions 
+
+(5) Unallocated 3,667,000  
+
+TOTAL AMOUNT 430,000,000  
+
+B. Withdrawal Conditions; Withdrawal Period   
+ 
+1. Notwithstanding the provisions of Part A of this Section no withdrawal shall be 
+
+made for payments made prior to the date of this Agreement, except that 
+withdrawals up to an aggregate amount not to exceed $86,000,000 equivalent 
+may be made for payments prior to this date but on or after March 1, 2010, for 
+Eligible Expenditures under Categories (1)(b), (1)(c), and (2). 
+
+2. The Closing Date is June 15, 2015. 
+
+SCHEDULE 3 
+
+Amortization Schedule 
+
+1. The following table sets forth the Principal Payment Dates of the Loan and the 
+
+percentage of the total principal amount of the Loan payable on each Principal 
+Payment Date (“Installment Share”).  If the proceeds of the Loan have been fully 
+withdrawn as of the first Principal Payment Date, the principal amount of the 
+Loan repayable by the Borrower on each Principal Payment Date shall be 
+determined by the Bank by multiplying:  (a) Withdrawn Loan Balance as of the 
+first Principal Payment Date; by (b) the Installment Share for each Principal 
+Payment Date, such repayable amount to be adjusted, as necessary, to deduct any 
+amounts referred to in paragraph 4 of this Schedule, to which a Currency 
+Conversion applies. 
+
+Principal Payment Date 
+Installment Share 
+
+(Expressed as a Percentage) 
+
+On each June 15 and December 15 
+ Beginning December 15, 2015  
+ Through June 15, 2040 
+
+2% 
+
+2.  If the proceeds of the Loan have not been fully withdrawn as of the first Principal 
+Payment Date, the principal amount of the Loan repayable by the Borrower on 
+each Principal Payment Date shall be determined as follows: 
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of 
+
+the first Principal Payment Date, the Borrower shall repay the 
+Withdrawn Loan Balance as of such date in accordance with paragraph 1 
+of this Schedule. 
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be 
+
+repaid on each Principal Payment Date falling after the date of such 
+withdrawal in amounts determined by the Bank by multiplying the 
+amount of each such withdrawal by a fraction, the numerator of which is 
+the original Installment Share specified in the table in paragraph 1 of this 
+Schedule for said Principal Payment Date (“Original Installment Share”) 
+and the denominator of which is the sum of all remaining Original 
+Installment Shares for Principal Payment Dates falling on or after such 
+date, such amounts repayable to be adjusted, as necessary, to deduct any 
+amounts referred to in paragraph 4 of this Schedule, to which a Currency 
+Conversion applies. 
+
+3. (a) Amounts of the Loan withdrawn within two (2) calendar months prior to 
+
+any Principal Payment Date shall, for the purposes solely of calculating 
+the principal amounts payable on any Principal Payment Date, be treated 
+as withdrawn and outstanding on the second Principal Payment Date 
+following the date of withdrawal and shall be repayable on each 
+Principal Payment Date commencing with the second Principal Payment 
+Date following the date of withdrawal. 
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if 
+
+at any time the Bank adopts a due date billing system under which 
+invoices are issued on or after the respective Principal Payment Date, the 
+provisions of such sub-paragraph shall no longer apply to any 
+withdrawals made after the adoption of such billing system.  
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a 
+
+Currency Conversion of all or any portion of the Withdrawn Loan Balance to an 
+Approved Currency, the amount so converted in the Approved Currency that is 
+repayable on any Principal Payment Date occurring during the Conversion 
+Period, shall be determined by the Bank by multiplying such amount in its 
+currency of denomination immediately prior to the Conversion by either: (i) the 
+exchange rate that reflects the amounts of principal in the Approved Currency 
+payable by the Bank under the Currency Hedge Transaction relating to the 
+Conversion; or (ii) if the Bank so determines in accordance with the Conversion 
+Guidelines, the exchange rate component of the Screen Rate.  
+
+5. If the Withdrawn Loan Balance is denominated in more than one (1) Loan 
+
+Currency, the provisions of this Schedule shall apply separately to the amount 
+denominated in each Loan Currency, so as to produce a separate amortization 
+schedule for each such amount. 
+
+APPENDIX 
+
+Section I. Definitions 
+ 
+1. “AC” means alternating current. 
+
+2. “Anti-Corruption Guidelines” means the “Guidelines on Preventing and 
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA 
+Credits and Grants”, dated October 15, 2006. 
+
+3. “Category” means a category set forth in the table in Section IV of Schedule 2 to 
+this Agreement. 
+
+4. “Consultant Guidelines” means the “Guidelines: Selection and Employment of 
+Consultants by World Bank Borrowers” published by the Bank in May 2004 and 
+revised in October 2006. 
+
+5. “CR” means Central Railway under the MOR, or any successor or successors 
+thereto. 
+
+6. “DC” means direct current. 
+
+7. “EMPs” means the generic and component-specific environmental management 
+plans approved by the MRVC, and satisfactory to the Bank, describing the 
+environmental management, mitigation, monitoring, reporting and institutional 
+measures to be undertaken by the MRVC during the Project, as such plans may 
+be revised from time to time with the prior no objection of the Bank. 
+
+8. “EMU” means electric multiple unit. 
+
+9. “Executing Agency” means the MMRDA, WR, CR, ICF, or RDSO, and 
+“Executing Agencies” means two or more of the above entities. 
+
+10. “Financial Year” means the Borrower’s and Project Implementing Entities’ 
+financial year beginning April 1 and ending March 31 the following year.  
+
+11. “GAAP” means the governance and accountability action plan included in the 
+
+Implementation Manual, which sets out the Project specific key actions to 
+strengthen governance, transparency, and accountability, as such plan may be 
+amended from time to time with the prior no objection of the Bank. 
+
+12. “General Conditions” means the “International Bank for Reconstruction and 
+
+Development General Conditions for Loans”, dated July 1, 2005 (as amended 
+through February 12, 2008), with the modifications set forth in Section II of this 
+Appendix. 
+
+13. “ICF” means Integral Coach Factory, Chennai, India, an entity under the MOR, 
+
+or any successor or successors thereto. 
+
+14. “Implementation Manual” means the manual dated April 30, 2010, which sets 
+out the terms, conditions, and procedures for Project implementation, and which 
+includes the Procurement Plan, and GAAP, as such manual may be revised from 
+time to time with the prior concurrence of the Bank.  
+
+15. “IR” means Indian Railways, or any successor or successors thereto. 
+
+16. “Maharashtra” means the State of Maharashtra of the Borrower, or any successor 
+
+or successors thereto.  
+ 
+17. “Maharashtra-MRVC SFA” means the subsidiary financing agreement to be 
+
+entered into between the Government of Maharashtra and MRVC, and 
+satisfactory to the Bank, describing Maharashtra and MRVC rights and 
+responsibilities under the Project, as such agreement may be revised from time to 
+time, with the prior no objection of the Bank. 
+
+18. “MMRDA” means the Mumbai Metropolitan Region Development Authority, or 
+
+any successor or successors thereto. 
+ 
+19. “MOR” means the Ministry of Railways of India, or any successor or successors 
+
+thereto. 
+
+20. “MOR-MRVC MOU” means the memorandum of understanding entered 
+between the MOR and MRVC, dated May 7, 2010, describing MRVC rights and 
+responsibilities under the Project, as such memorandum may be revised from 
+time to time, with the prior no objection of the Bank. 
+
+21. “MOU” means a memorandum of understanding entered between the MRVC and 
+any of the Executing Agencies, and the “MOUs” means two or more of such 
+memoranda, as such memoranda may be revised from time to time, with the prior 
+no objection of the Bank. 
+
+22. “MRVC” means the Mumbai Railway Vikas Corporation Limited, a public 
+
+sector undertaking jointly owned by the Borrower and Maharashtra, incorporated 
+under the Borrower’s Companies Act, 1956, or any successor or successors 
+thereto. 
+
+23. “Procurement Guidelines” means the “Guidelines: Procurement under IBRD 
+Loans and IDA Credits” published by the Bank in May 2004 and revised in 
+October 2006. 
+
+24. “Procurement Plan” means the procurement plan for the Project, dated  
+
+April 30, 2010, included in the Implementation Manual, and referred to in 
+paragraph 1.16 of the Procurement Guidelines and paragraph 1.24 of the 
+Consultant Guidelines, as the same shall be updated from time to time in 
+accordance with the provisions of said paragraphs. 
+
+25. “Project Implementing Entity” means Maharashtra or the MRVC, and “Project 
+
+Implementing Entities” means Maharashtra and the MRVC. 
+ 
+26. “RDSO” means Research, Design and Standards Organization, Lucknow, India, 
+
+of the MOR, or any successor or successors thereto. 
+
+27. “R&R Policy” means the resettlement and rehabilitation policy adopted by 
+Maharashtra on March 12, 1997 in connection with the Mumbai Urban Transport 
+Project, setting forth the policies and procedures addressing adverse temporary or 
+permanent social impacts resulting, or likely to result from, the carrying out of 
+the Project, as such policy may be revised from time to time with the prior no 
+objection of the Bank. 
+
+28. “SMF” means the social management framework adopted by the MRVC and 
+detailed under the R&R Policy, and satisfactory to the Bank, setting forth the 
+rules and procedures for carrying out any social, resettlement and rehabilitation 
+activities under the Project, including identification, assessment and mitigation of 
+potential environmental and social impacts arising from the Project, carrying out 
+consultations, processing and redressing grievances, monitoring related impacts, 
+and, if required, limited resettlement and rehabilitation action plans and other 
+development and entitlement plans for people adversely affected as result of 
+Project implementation, as such framework may be revised from time to time, 
+with the prior no objection of the Bank. 
+
+29. “Training” means reasonable and necessary costs of training related to Project 
+implementation, including the fees of educational or other institutions that 
+provide training, costs related to attendance or organization of conferences, 
+seminars, workshops, and study tours, and the trainees’ cost of travel, boarding, 
+lodging and per diem allowances.  
+
+30. “WR” means Western Railway under the MOR, or any successor or successors 
+thereto. 
+
+Section II.  Modifications to the General Conditions 
+
+The modifications to the General Conditions are as follows:   
+ 
+1. Paragraph (l) of Section 7.02 is modified to read as follows: 
+
+“Section 7.02. Suspension by the Bank  
+
+. . . .
+
+(l) Ineligibility. The Bank or the Association has declared the Borrower 
+(other than the Member Country) or the Project Implementing Entity ineligible to 
+receive proceeds of any financing made by the Bank or the Association or 
+otherwise to participate in the preparation or implementation of any project 
+financed in whole or in part by the Bank or the Association, as a result of a 
+determination by the Bank or the Association that the Borrower or the Project 
+Implementing Entity has engaged in fraudulent, corrupt, coercive or collusive 
+practices in connection with the use of the proceeds of any financing made by the 
+Bank or the Association.” 
+
+2. The definition of the term “Conversion Date” in the Appendix is modified to read 
+as follows: 
+ 
+“‘Conversion Date’ means, in respect of a Conversion, the Execution Date  
+(as herein defined) or such other date as requested by the Borrower and accepted 
+by the Bank, on which the Conversion enters into effect, and as further specified 
+in the Conversion Guidelines.”

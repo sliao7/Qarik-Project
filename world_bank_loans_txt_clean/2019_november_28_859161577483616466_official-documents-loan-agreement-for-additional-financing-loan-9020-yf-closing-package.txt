@@ -1,0 +1,495 @@
+World Bank Document
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 9020-YF
+
+Loan Agreement
+
+(Additional Financing for Real Estate Management Project)
+
+between
+
+REPUBLIC OF SERBIA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+LOAN AGREEMENT
+
+AGREEMENT dated as of the Signature Date between REPUBLIC OF SERBIA
+("Borrower") and INTERNATIONAL BANK FOR RECONSTRUCTION AND
+DEVELOPMENT ("Bank"). The Borrower and the Bank hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) apply to
+and form part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement
+have the meanings ascribed to them in the General Conditions or in the Appendix
+to this Agreement.
+
+ARTICLE II - LOAN
+
+2.01. The Bank agrees to lend to the Borrower the amount of twenty one million Euros
+(EUR 2 1,000,000), as such amount may be converted from time to time through a
+Currency Conversion ("Loan"), to assist in financing the project described in
+Schedule 1 to this Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with
+Section m of Schedule 2 to this Agreement.
+
+2.03. The Front-end Fee is one quarter of one percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge is one quarter of one percent (0.25%) per annum on the
+Unwithdrawn Loan Balance.
+
+2.05. The interest rate is the Reference Rate plus the Fixed Spread or such rate as may
+apply following a Conversion; subject to Section 3.02(e) of the General
+Conditions.
+
+2.06. The Payment Dates are May 15 and November 15 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with Schedule 3 to
+this Agreement.
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objectives of the Project. To this end,
+the Borrower, through RGA, with the support of the Ministry of Construction,
+Transport and Infrastructure, shall carry out the Project, in accordance with the
+provisions of Article V of the General Conditions and Schedule 2 to this Agreement.
+
+ARTICLE IV - EFFECTIVENESS; TERMINATION
+
+4.01. The Effectiveness Deadline is the date one hundred and eighty days (180) days
+after the Signature Date.
+
+ARTICLE V - REPRESENTATIVE; ADDRESSES
+
+5.01. The Borrower's Representative, who, inter alia, may agree to modification of the
+provisions of this Agreement on behalf of the Borrower through exchange of letters
+(unless otherwise determined by the Borrower and the Bank), is its Minister of Finance.
+
+5.02. For purposes of Section 10.01 of the General Conditions: (a) the Borrower's
+address is:
+
+Ministry of Finance
+20 Kneza Milosa St.
+11000 Belgrade
+Republic of Serbia; and
+
+(b) the Borrower's Electronic Address is:
+
+Facsimile: E-mail:
+(381-11) 3618-961 kabinet@mfin.gov.rs
+
+5.03. For purposes of Section 10.01 of the General Conditions: (a) the Bank's address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America; and
+
+(b) the Bank's Electronic Address is:
+
+Telex: Facsimile: E-mail:
+
+248423(MCI) or 1
+477-6391 sndegwa@worldbank.org
+64145(MCI)
+AGREED and signed in English as of the Signature Date.
+
+REPUBLIC OF SERBIA
+
+By
+
+Authorize ersentative
+
+Title: A1/J1); ,0VA
+
+Date: 24' 9c2/.
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DE OPMENT
+
+By
+
+uthorized Representative
+
+Name: ST--AAJ NDE(sWA
+
+Title: WOPW 6wV CotTY
+
+Date: )vambIZ-ER 2., IZo9
+SCHEDULE 1
+
+Project Description
+
+The objective of the Project is to improve the efficiency, transparency, accessibility
+and reliability of the Borrower's real property management systems.
+
+The Project consists of the following parts:
+
+Part I: Valuation and Property Taxation
+
+Carrying out of the following activities:
+
+(i) improving the system for annual property taxation through: (a) developing
+a sales price registry for real estate; (b) developing software to process
+data from the sales price registry; (c) developing and assessing a Mass
+Appraisal pilot program on property tax rolls and collection procedures in
+local government units; and (d) establishing a building registry; and
+
+(ii) improving the real estate valuation framework through improving the
+quality of education for valuers, and adopting internationally recognized
+standards for valuation.
+
+Part II:E-eovernance for Enabline Access to Real Estate Information
+
+Enabling access to real estate information through:
+
+(i) developing and implementing an integrated real estate cadaster and
+registration system based on RGA's information and communications
+technology (ICT) strategy and archive strategy;
+
+(ii) developing a business model and technical framework in line with
+international standards for the Borrower's national spatial data
+infrastructure and upgrading the necessary network services;
+
+(iii) developing a financial mechanism and a business plan for the
+sustainability of RGA's information technology department;
+
+(iv) developing and implementing a central analogue and digital archive
+management strategy, including providing necessary equipment and
+Training, and constructing a central archive building;
+
+(v) improving the quality of RGA's data standardization and carrying out a
+public outreach campaign for users to submit cadastral data; and
+(vi) developing and implementing a one-stop shop system for electronic
+issuance of construction permits.
+
+Part III: Institutional Development of the RGA
+
+Improve RGA's institutional development through:
+
+(i) developing a business plan for RGA's governance and institutional and
+corporate planning and strategy;
+
+(ii) supporting the sustainability of the National Reference System and the
+functionality of AGROS, and improving the Borrower's gravimetric
+networks and vertical reference system;
+
+(iii) carrying out the digital mapping of selected cadastral municipalities and
+transforming existing utility maps into digital form;
+
+(iv) improving registration procedures of properties, removing registration
+backlogs in the cities of Belgrade, Novi Sad, Nis and Kragujevac,
+enhancing office infrastructure in selected municipalities of the Borrower,
+and setting up mobile services at selected local RGA offices.
+
+Part IV: Project Manazement and Support Activities
+
+Carrying out Project management activities, including:
+
+(i) provision of support to PIU on Project management;
+
+(ii) monitoring and evaluation of the Project;
+
+(iii) public outreach on the Project activities to improve social inclusion;
+
+(iv) provision of Training to stakeholders in the public and private sectors
+according to a training plan set forth in the Operational Manual; and
+
+(v) studies on, inter alia, customer satisfaction, real estate administration and
+management, and based upon the results of said studies, design proposals
+for adoption of policies and regulations.
+SCHEDULE 2
+
+Project Execution
+
+Section I. Implementation Arrangements
+
+A. Institutional Arrangements
+
+1. The Borrower shall maintain at all times during Project implementation the PIU
+under the RGA, with the necessary resources and staff to carry out the Project, and
+with a composition and terms of reference satisfactory to the Bank (including a
+director, a procurement specialist, a financial management specialist, a monitoring
+and evaluation specialist, a training specialist, a valuation specialist, a safeguards
+specialist and an accountant).
+
+2. The Borrower shall implement the Project in accordance with the Operational
+Manual.
+
+3. The Borrower shall not amend or waive any provision of the Operational Manual
+without the Bank's prior written approval. In case of any conflict between the
+terms of the Operational Manual and this Agreement, the terms of this Agreement
+shall prevail.
+
+4. The Borrower shall maintain at all times during Project implementation a Project
+Council with a composition, terms of reference, and resources satisfactory to the
+Bank. The Project Council shall be responsible for making major policy decisions
+concerning Project implementation and for overall Project supervision, as well as
+approving annual work plans, training plans and reports. The Project Council shall
+be chaired by a coordinator from the MCTI and shall include representatives of the
+Borrower's following institutions: Ministry of Public Administration and Local
+Self Government, Ministry of Finance, Ministry of Justice, Ministry of Economy,
+Tax Administration, Statistical Office and the Director General of RGA. The PIU
+director shall act as secretary to the Project Council.
+
+5. The Borrower shall maintain at all times during Project implementation a Project
+Steering Committee with a composition, terms of reference, and resources
+satisfactory to the Bank. Members of the Steering Committee shall include the
+Director General of RGA, the relevant RGA Sector and Department Directors
+whose units are directly related to the Project activities, and selected experts from
+other institutions of the Borrower. The Steering Committee shall be in charge of
+supervising the regular implementation activities of the Project, and shall provide
+reports to the Project Council on a quarterly basis, or as requested by the Project
+Council, pursuant to criteria set forth in the Operational Manual.
+B. Safeguards
+
+1. The Borrower shall carry out the Project in accordance with the EMP in a manner
+acceptable to the Bank, and shall not amend, suspend, abrogate, repeal or waive
+any provision of the EMP without the prior approval of the Bank.
+
+2. In the event that, during Project implementation, the Borrower may decide to
+change the identified location of the central archive building referred to in
+Part H (iv) of the Project, the Borrower shall, prior to the carrying out of any works:
+(a) carry out an environmental assessment satisfactory to the Bank; and
+(b) prepare, adopt and implement an environmental management plan on terms and
+conditions acceptable to the Bank.
+
+3. The Borrower shall ensure that no Project activities involve Involuntary
+Resettlement.
+
+Section II. Project Monitoring, Reporting and Evaluation
+
+The Borrower shall furnish to the Bank each Project Report not later than one
+month after the end of each calendar semester, covering the calendar semester.
+
+Section III. Withdrawal of Loan Proceeds
+
+A. General
+
+Without limitation upon the provisions of Article H of the General Conditions and
+in accordance with the Disbursement and Financial Information Letter, the
+Borrower may withdraw the proceeds of the Loan to: (a) finance Eligible
+Expenditures; and (b) pay the Front-end Fee; in the amount allocated and, if
+applicable, up to the percentage set forth against each Category of the following
+table:
+Amount of the Loan Percentage of
+Category Allocated Expenditures to be
+
+(expressed in EUR) financed
+
+(1) Goods, works, non- 100% (inclusive of Taxes
+consulting services for the 17,050,000 other than Value Added
+Project (except for Part II Tax and Customs Duties)
+(vi) of the Project)
+
+(2) Consulting services,
+Training and Operating
+Costs for the Project 3,897,500 100% (inclusive of Taxes)
+(except for Part II (vi) of
+the Project)
+
+Amount payable pursuant
+to Section 2.03 of this
+
+(3) Front-end Fee 52,500 Agreement in accordance
+with Section 2.07 (b) of the
+General Conditions
+
+TOTAL AMOUNT 21,000,000
+
+For the purpose of this table the custom duties and value added tax for the
+importation and supply of goods, works and non-consulting services, within the
+Borrower's territory and for the purpose of the implementation of the Project, shall not be
+financed out of Loan proceeds. The Borrower confirms that the importation and supply of
+goods, works and non-consulting services, within the Borrower's territory and for the
+purpose of the implementation of the Project, shall be exempted from customs duties and
+value added tax.
+
+B. Withdrawal Conditions; Withdrawal Period
+
+1. Notwithstanding the provisions of Part A above, no withdrawal shall be made for
+payments made prior to the Signature Date.
+
+2. The Closing Date is December 31, 2022.
+
+Section IV. Other Covenants
+
+1. In connection with the provision of Training, the Borrower shall: (a) not later than
+December 1 of each year during Project implementation, furnish to Bank for its
+approval, a proposal for the Training plan to be carried out under the Project during
+the following calendar year, including: (i) an overview of the scope and content of
+the Training programs or activities; (ii) an explanation of how each training
+program or activity is expected to contribute to achieving the objectives of the
+Project; (iii) the budget to be made available therefore; (iv) the criteria for the
+selection of the beneficiaries and the providers of Training; and (v) the schedule
+for implementation of the Training plan; and (b) immediately thereafter, carry out
+the pertinent annual Training plan in accordance with its terms, and in a manner
+acceptable to the Bank.
+
+2. Without limitation to the provisions of Sections 5.03 and 5.06 of the General
+Conditions, the Borrower shall:
+
+(a) ensure that all RGA offices enhanced under Part In (iv) of the Project are
+provided with the necessary funds and resources, and furnished and
+equipped to provide the necessary services to the public, all in a manner
+satisfactory to the Bank; and
+
+(b) ensure that the RGA offices provided with mobile services under
+Part IH (iv) of the Project are provided with the necessary funds and
+resources (including resources for the operation and maintenance of
+vehicles) and adequately staffed, all in a manner acceptable to the Bank.
+SCHEDULE 3
+
+Commitment-Linked Amortization Repayment Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the percentage
+of the total principal amount of the Loan payable on each Principal Payment Date
+("Installment Share").
+
+Level Principal Repayments
+
+Principal Payment Date Installment Share
+
+On each May 15 and November 15
+
+Beginning May 15, 2023 5.56%
+through May 15, 2031
+
+On November 15, 2031 5.48%
+APPENDIX
+
+Definitions
+
+1. "AGROS" means Active Geodetic Reference Network of Serbia, the Borrower's
+basic infrastructure network, providing geodetic reference services to RGA and to
+public and private sector enterprises.
+
+2. "Anti-Corruption Guidelines" means, for purposes of paragraph 5 of the Appendix
+to the General Conditions, the "Guidelines on Preventing and Combating Fraud
+and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants",
+dated October 15, 2006 and revised in January 2011 and as of July 1, 2016.
+
+3. "Category" means a category set forth in the table in Section HI.A of Schedule 2
+to this Agreement.
+
+4. "EMP" means a site-specific Environmental Management Plan satisfactory to the
+Bank, prepared and adopted by the Borrower and disclosed in the Bank's external
+website on September 25, 2019, covering Project activities to be carried out in the
+Borrower's city of Belgrade (Municipality of Zemun), each comprised of an
+environmental mitigation plan and an environmental monitoring plan, and to be
+implemented in accordance with the provisions of Schedule 2, Section I of this
+Agreement, satisfactory to the Bank, wherein are set forth specific details of
+measures to manage identified or potential environmental risks and to mitigate,
+reduce and/or offset adverse environmental impacts associated with the
+implementation of activities under the Project, together with an environmental and
+social baseline, details of the relevant environmental legislative framework,
+adequate institutional, monitoring and reporting arrangements capable of ensuring
+proper implementation of, and regular feedback on compliance with, the term of
+the EMP, as the same may be amended and supplemented from time to time with
+the Bank's prior written approval.
+
+5. "General Conditions" means the "International Bank for Reconstruction and
+Development General Conditions for IBRD Financing, Investment Project
+Financing", dated December 14, 2018.
+
+6. "Involuntary Resettlement" means the impact of an involuntary taking of land
+under the Project, which taking causes affected persons to have their: (i) standard
+of living adversely affected; or (ii) right, title or interest in any house, land
+(including premises, agricultural and grazing land) or any other fixed or movable
+asset acquired or possessed, temporarily or permanently; or (iii) access to
+productive assets adversely affected, temporarily or permanently; or (iv) business,
+occupation, work or place of residence or habitat adversely affected, temporarily
+or permanently.
+7. "Mass Appraisal" means a methodology for valuing all properties in a defined
+geographical area, usually for property tax assessment purposes.
+
+8. "MCTI" means the Borrower's Ministry of Construction, Transport and
+Infrastructure, or any successor thereto.
+
+9. "National Reference System" means the Borrower's permanent network of
+stations with established and approved coordinates, as described in the Borrower's
+Law on State Survey and Cadaster, published in the Borrower's Official Gazette
+No. 72/2009, 18/2010, 65/2013, 15/2015 - CC decision, 96/2015, 47/2017 -
+authentic interpretation, 113/2017 - other Law, 27/2018 - other Law, 41/2018 -
+other Law.
+
+10. "Operating Costs" means the reasonable and incremental expenses incurred by
+RGA, on account of implementation of the Project, for office supplies and other
+consumables, office rent, internet connection and communications costs, support
+for information systems, translation costs, utilities, reasonable travel,
+transportation, per diem, accommodation costs (lodging), and other reasonable
+expenditures directly associated with the implementation of the Project, as agreed
+between the Borrower and the Bank on the basis of semi-annual budgets acceptable
+to the Bank, excluding salaries of the Borrower's civil service.
+
+1. "Operational Manual" means the Borrower's manual satisfactory to the Bank,
+describing and setting forth procedures for implementation of the Project and
+institutional arrangements, consistent with the provisions of this Agreement
+including, inter alia, timetables of actions required to be carried out under the
+Project, the respective roles and responsibilities of the Borrower's agencies
+involved in the implementation of the Project, selection criteria and list of cadastral
+municipalities to be mapped under Part III(iii) of the Project, selection criteria and
+list of municipalities in which enhancement of office infrastructure activities will
+be carried out under Part 1Il(iv) of the Project, selection criteria and list of local
+RGA offices at which mobile services will be set up under Part 1II(iv) of the
+Project, staffing, the fiduciary, technical and operational aspects and procedures
+for implementation of the Project, including the financial management procedures
+(budgeting, accounting and internal control, disbursement and flow of funds,
+financial reporting, annual reports, internal and external audit arrangements
+procedures and including the Project specific chart of accounts), procurement
+procedures, monitoring and evaluation arrangements, and other fiduciary and
+administrative arrangements and necessary terms of reference, as the same may be
+amended from time to time by agreement with the Bank.
+
+12. "PIU" means the Project Implementing Unit, referred to in Section I of Schedule 2
+of this Agreement.
+13. "Procurement Regulations" means, for purposes of paragraph 85 of the Appendix
+to the General Conditions, the "World Bank Procurement Regulations for IPF
+Borrowers", dated July 2016, revised November 2017 and August 2018.
+
+14. "Project Council" means the council specified in Section I.A.4 of Schedule 2 to
+this Agreement.
+
+15. "RGA" means Republic Geodetic Authority of the Borrower, an agency of the
+Borrower responsible for national mapping, surveying and registration of property
+rights, established pursuant to Borrower's Law on State Survey and Cadaster,
+published in the Borrower's Official Gazette No. 72/2009, 18/2010, 65/2013,
+15/2015 - CC decision, 96/2015, 47/2017 - authentic interpretation, 113/2017 -
+other Law, 27/2018 - other Law, 41/2018 - other Law, or any successor thereto.
+
+16. "Signature Date" means the later of the two dates on which the Borrower and the
+Bank signed this Agreement and such definition applies to all references to "the
+date of the Loan Agreement" in the General Conditions.
+
+17. "Statistical Office" means the Borrower's agency responsible for production,
+analysis, dissemination and publication of official statistical information,
+established pursuant to Law on Official Statistics (RS Official Gazette No.
+104/2009).
+
+18. "Steering Committee" means the committee referred to in Section I.A.5 of
+Schedule 2 to this Agreement.
+
+19. "Tax Administration" means Serbian Tax Administration, a government body
+within the Borrower's Ministry of Finance established pursuant to the Borrower's
+Law on Tax Procedures and Tax Administration, as amended, duly published in
+the RS Official Gazette No. 80/2002, 84/2002, 23/2003, 70/2003, 55/2004,
+61/2005, 85/2005, 62/2006, 63/2006, 61/2007, 20/2009, 72/2009, 53/2010,
+101/2011, 2/2012, 93/2012, 47/2013, 108/2013, 68/2014, 105/2014, 91/2015,
+112/2015, 15/2016, 108/2016, 30/2018 and 95/2018.
+
+20. "Training" means expenditures (other than for consultants' services), incurred
+during the implementation of the Project, based on periodic budgets acceptable to
+the Bank, for: (i) reasonable travel, room, board and per diem expenditures
+incurred by trainers and trainees in connection with their training; (ii) course fees;
+(iii) training/workshop facility and equipment rentals; and (iv) training material
+preparation, acquisition, reproduction and distribution expenses not otherwise
+covered under this paragraph.

@@ -1,0 +1,639 @@
+World Bank Document
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8661-CN
+
+Loan Agreement
+
+(Hunan Fiscal Sustainability Development Policy Loan)
+
+between
+
+PEOPLE'S REPUBLIC OF CHINA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMEN.T
+
+Dated T ,201
+
+LOAN NUMBER 8661-CN
+
+LOAN AGREEMENT
+
+Agreement dated A 4 ~'~J ?, 2012, entered into between PEOPLE'S REPUBLICOF CHINA ("Borrower") and INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT ("Bank") for the purpose of providing financing in support of theProgram (as defined in the Appendix to this Agreement). The Bank has decided to providethis financing on the basis, inter alia, of: (a) the actions which the Program ImplementingEntity has already taken under the Program and which are described in the Schedule to theProgram Agreement of even date herewith between the Bank and the ProgramImplementing Entity ("Program Agreement"); (b) the Borrower's maintenance of anadequate macroeconomic policy framework; and (c) the Program Implementing Entity'smaintenance of an appropriate expenditure program, sustainable debt and appropriate fiscalarrangements with the Borrower.
+
+The Borrower and the Bank therefore hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) constitutean integral part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement
+have the meanings ascribed to them in the General Conditions or in the Appendixto this Agreement.
+
+ARTICLE 1I-LOAN
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth orreferred to in this Agreement, the amount of two hundred million dollars($200,000,000), as such amount may be converted from time to time through aCurrency Conversion in accordance with the provisions of Section 2.08 of thisAgreement ("Loan").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in support of the Programin accordance with Section II of Schedule I to this Agreement.
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of onepercent (0.25%) of the Loan amount.
+
+2.04 The Commitment Charge payable by the Borrower shall be equal to one quarter ofone percent (0.25%) per annum on the Unwithdrawn Loan Balance.
+2.05. The interest payable by the Borrower for each Interest Period shall be at a rate
+
+equal to the Reference Rate for the Loan Currency plus the Variable Spread;
+
+provided, that upon a Conversion of all or any portion of the principal amount 
+of
+
+the Loan, the interest payable by the Borrower during the Conversion Period on
+
+such amount shall be determined in accordance with the relevant provisions of
+
+Article IV of the General Conditions. Notwithstanding the foregoing, if any
+
+amount of the Withdrawn Loan Balance remains unpaid when due and such non-
+
+payment continues for a period of thirty days, then the interest payable by the
+
+Borrower shall instead be calculated as provided in Section 3.02 (e) of the General
+
+Conditions.
+
+2.06. The Payment Dates are June 15 and December 15 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with the
+
+amortization schedule set forth in Schedule 2 to this Agreement.
+
+2.08. (a) The Borrower may at any time request any of the following Conversions
+
+of the terms of the Loan in order to facilitate prudent debt management:
+
+(i) a change of the Loan Currency of all or any portion of the principal
+
+amount of the Loan, withdrawn or unwithdrawn, to an Approved
+
+Currency; (ii) a change of the interest rate basis applicable to: (A) all or
+
+any portion of the principal amount of the Loan withdrawn and
+
+outstanding from a Variable Rate to a Fixed Rate, or vice versa; or (B) all
+
+or any portion of the principal amount of the Loan withdrawn and
+
+outstanding from a Variable Rate based on a Reference Rate and the
+
+Variable Spread to a Variable Rate based on a Fixed Reference Rate and
+
+the Variable Spread, or vice versa; or (C) all of the principal amount of the
+
+Loan withdrawn and outstanding from a Variable Rate based on a Variable
+
+Spread to a Variable Rate based on a Fixed Spread; and (iii) the setting of
+
+limits on the Variable Rate or the Reference Rate applicable to all or any
+
+portion of the principal amount of the Loan withdrawn and outstanding by
+
+the establishment of an Interest Rate Cap or Interest Rate Collar on the
+
+Variable Rate or the Reference Rate.
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that is
+
+accepted by the Bank shall be considered a "Conversion", as defined 
+in
+
+the General Conditions, and shall be effected in accordance with the
+
+provisions of Article IV of the General Conditions and of the Conversion
+
+Guidelines.
+
+(c) Promptly following the Execution Date for an Interest Rate 
+Cap or Interest
+
+Rate Collar for which the Borrower has requested that the premium be
+
+paid out of the proceeds of the Loan, the Bank shall, on behalf 
+of the
+
+Borrower, withdraw from the Loan Account and pay to itself the amounts
+required to pay any premium payable in accordance with Section 4.05 (c)
+of the General Conditions up to the amount allocated from time to time for
+the purpose in the table in Section II of Schedule I to this Agreement.
+
+2.09. (a) If on any given day, the Total Exposure exceeds the Standard Exposure
+Limit (as said terms are defined in sub-paragraphs (b)(ii) and (b)(iii) of
+this Section), the Borrower shall pay to the Bank a surcharge at the rate of
+one half of one percent (0.5%) per annum of the Allocated Excess
+Exposure Amount (as defined in sub-paragraph (b)(i) of this Section) for
+each said day ("Exposure Surcharge"). The Exposure Surcharge (if any)
+shall be payable semi-annually in arrears on each Payment Date.
+
+(b) For purposes of this Section the following terms have the meanings set
+forth below:
+
+(i) "Allocated Excess Exposure Amount" means for each day during
+which the Total Exposure exceeds the Standard Exposure Limit,
+the product of: (A) the total amount of said excess; and (B) the
+ratio of all (or, if the Bank so determines, a portion) of the Loan
+to the aggregate amount of all (or the equivalent portions) of the
+loans made by the Bank to the Borrower and to other borrowers
+guaranteed by the Borrower that are also subject to an exposure
+surcharge, as said excess and ratio are reasonably determined from
+time to time by the Bank.
+
+(ii) "Standard Exposure Limit" means the standard limit on the
+Bank's financial exposure to the Borrower which, if exceeded,
+would subject the Loan to the Exposure Surcharge, as determined
+from time to time by the Bank.
+
+(iii) "Total Exposure" means for any given day, the Bank's total
+financial exposure to the Borrower, as reasonably determined by
+the Bank.
+
+ARTICLE III - PROGRAM
+
+3.01. The Borrower declares its comnuitment to the Program and its implementation. Tothis end, and further to Section 5.08 of the General Conditions:
+
+(a) the Borrower and the Bank shall from time to time, at the request of either
+party, exchange views on: (i) the Borrower's macroeconomic policy
+framework and the progress achieved in carrying out the Program; (ii) the
+Program Implementing Entity's expenditure program, debt, and fiscal
+arrangements with the Borrower; and (iii) and the progress achieved by
+
+the Program Implementing Entity in carrying out the Program;
+
+(b) prior to each such exchange of views, the Borrower shall cause the
+
+Program Implementing Entity to furnish to the Bank, for its review and
+
+comment, a briefing on the progress achieved in carrying out the Program,
+in such detail as the Bank shall reasonably request; and
+
+(c) without limitation upon the provisions of paragraphs (a) and (b) of 
+this
+
+Section, the Borrower shall promptly inform the Bank of any situation that
+
+would have the effect of materially reversing the objectives of the Program
+
+or any action taken under the Program, including any action specified in
+
+the Schedule to the Program Agreement.
+
+ARTICLE IV - REMEDIES OF THE BANK
+
+4.01. The Additional Event of Suspension consists of the following, namely, that a
+
+situation has arisen which shall make it improbable that the Program, or a
+
+significant part of it, will be carried out.
+
+ARTICLE V - EFFECTIVENESS; TERMINATION
+
+5.01. The Additional Condition of Effectiveness consists of the following, namely, that
+
+the Bank is satisfied with: (i) the adequacy of the Borrower's macroeconomic
+
+policy framework; (ii) the progress achieved by the Program Implementing Entity
+in carrying out the Program; and (iii) the Program Implementing Entity's
+
+maintenance of an appropriate expenditure program, sustainable debt and fiscal
+
+arrangements with the Borrower.
+
+5.02. The Effectiveness Deadline is the date ninety (90) days after the date of this
+
+Agreement.
+
+ARTICLE VI - REPRESENTATIVE; ADDRESSES
+
+6.01. The Borrower's Representative is its Minister of Finance.
+
+6.02. The Borrower's Address is:
+
+Ministry of Finance
+Sanlihe
+Xicheng District
+Beijing 100820
+People's Republic of China
+Facsimile:
+
+(86-10) 6855-2077
+
+6.03. The Bank's Address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+
+Telex: Facsimile:
+
+248423(MCI) or 1
+477-6391
+64145(MCI)
+AGREED at Beijing, People's Republic of China, as of the day and year first above written.
+
+PEOPLE'S REPUBLIC OF CHINA
+
+By
+
+Authorized Representative
+
+Name:
+
+Title:
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By
+
+Auhorized Representative
+
+Name:
+
+Title: ^-A
+SCHEDULE 1
+
+Availability of Loan Proceeds
+
+A. General
+
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the
+provisions of this Section and such additional instructions as the Bank may specify
+by notice to the Borrower.
+
+2. The Borrower shall make available the proceeds of the Loan to the Program
+Implementing Entity under terms and conditions satisfactory to the Bank,
+including the following principal terms:
+
+(a) The principal amount shall be made available in Dollars or any other
+Currency as the Loan may be converted from time to time through a
+Currency Conversion (such principal amount determined on the date, or
+respective dates, of withdrawal from the Loan Account) of the value of the
+currency or currencies so withdrawn.
+
+(b) The principal amount so made available (including an amount equal to the
+fee paid pursuant to Section 2.03 of this Agreement and any premium for
+Interest Rate Caps or Interest Rate Collars paid pursuant to Section 2.08(c)
+of this Agreement and Section 4.05(c) of the General Conditions shall be
+recovered over a period of twenty four (24) years, inclusive of a grace
+period of five (5) years.
+
+(c) Interest shall be charged on such principal amount withdrawn and
+outstanding from time to time at a rate equal to the rate of interest
+applicable from time to time to the Loan pursuant to the provisions of
+Section 2.05 of this Agreement.
+
+(d) A Commitment Charge shall be charged equal to one quarter of one
+percent (0.25%) per annum on the Unwithdrawn Loan Balance.
+
+B. Allocation of Loan Amounts. The Loan (except for amounts required to pay the
+Front-end Fee and any Premia) is allocated in a single withdrawal tranche, from
+which the Borrower may make withdrawals of the Loan proceeds. The allocation
+of the amounts of the Loan to this end is set out in the table below:
+Allocations Amount of the Loan Allocated
+(expressed in Dollars)
+
+(1) Single Withdrawal Tranche 199,500,000
+(2) Front-end Fee 500,000
+(3) Amount due pursuant to Section 0
+
+2.08(c) of this Agreement
+TOTAL AMOUNT 200,000,000
+
+C. Withdrawal Tranche Release Conditions. No withdrawal shall be made of the
+Single Withdrawal Tranche unless the Bank is satisfied with: (a) the adequacy of
+the Borrower's macroeconomic policy framework; (b) the Program being carried
+out by the Program Implementing Entity; and (c) the Program Implementing
+Entity's maintenance of an appropriate expenditure program, sustainable debt, and
+appropriate fiscal arrangements with the Borrower.
+
+D. Deposits of Loan Amounts. Except as the Bank may otherwise agree:
+
+1. (a) all withdrawals from the Loan Account shall be deposited by the
+Bank into an account designated by the Borrower and acceptable
+to the Bank; and
+
+(b) the Borrower shall ensure that upon such deposit of an amount of
+the Loan into the account designated by the Borrower, an
+equivalent amount is deposited into the account/s designated by
+the Program Implementing Entity and acceptable to the Bank, and
+is accounted for in the Borrower's financial management system
+and the Program Implementing Entity's budget management
+system, in a manner acceptable to the Bank.
+
+E. Excluded Expenditures. The Borrower undertakes that the proceeds of the Loan
+shall not be used to finance Excluded Expenditures. If the Bank determines at any
+time that an amount of the Loan was used to make a payment for an Excluded
+Expenditure, the Borrower shall, promptly upon notice from the Bank, refund an
+amount equal to the amount of such payment to the Bank. Amounts refunded to
+the Bank upon such request shall be cancelled.
+
+F. Closing Date. The Closing Date is December 31, 2017.
+SCHEDULE 2
+
+Amortization Schedule
+
+1. The following table sets forth the Principal Payment Dates of the Loan and the
+percentage of the total principal amount of the Loan payable on each Principal
+Payment Date ("Installment Share"). If the proceeds of the Loan have been fully
+withdrawn as of the first Principal Payment Date, the principal amount of the Loan
+repayable by the Borrower on each Principal Payment Date shall be determined by
+the Bank by multiplying: (a) Withdrawn Loan Balance as of the first Principal
+Payment Date; by (b) the Installment Share for each Principal Payment Date, such
+repayable amount to be adjusted, as necessary, to deduct any amounts referred to
+in paragraph 4 of this Schedule, to which a Currency Conversion applies.
+
+Principal Payment Date Installment Share
+(Expressed as a Percentage)
+
+On each June 15 and December 15
+Beginning June 15, 2022 2.63%
+through June 15, 2040
+
+On December 15, 2040 2.69%
+
+2. If the proceeds of the Loan have not been fully withdrawn as of the first Principal
+Payment Date, the principal amount of the Loan repayable by the Borrower on
+each Principal Payment Date shall be determined as follows:
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of the
+first Principal Payment Date, the Borrower shall repay the Withdrawn
+Loan Balance as of such date in accordance with paragraph I of this
+Schedule.
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be
+repaid on each Principal Payment Date falling after the date of such
+withdrawal in amounts determined by the Bank by multiplying the amount
+of each such withdrawal by a fraction, the numerator of which is the
+original Installment Share specified in the table in paragraph I of this
+Schedule for said Principal Payment Date ("Original Installment Share")
+and the denominator of which is the sum of all remaining Original
+Installment Shares for Principal Payment Dates falling on or after such
+date, such amounts repayable to be adjusted, as necessary, to deduct any
+amounts referred to in paragraph 4 of this Schedule, to which a Currency
+Conversion applies.
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any
+Principal Payment Date shall, for the purposes solely of calculating the
+principal amounts payable on any Principal Payment Date, be treated as
+withdrawn and outstanding on the second Principal Payment Date
+following the date of withdrawal and shall be repayable on each Principal
+Payment Date commencing with the second Principal Payment Date
+following the date of withdrawal.
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if
+at any time the Bank adopts a due date billing system under which invoices
+are issued on or after the respective Principal Payment Date, the provisions
+of such sub-paragraph shall no longer apply to any withdrawals made after
+the adoption of such billing system.
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a
+Currency Conversion of all or any portion of the Withdrawn Loan Balance to an
+Approved Currency, the amount so converted in the Approved Currency that is
+repayable on any Principal Payment Date occurring during the Conversion Period,
+shall be determined by the Bank by multiplying such amount in its currency of
+denomination immediately prior to the Conversion by either: (i) the exchange rate
+that reflects the amounts of principal in the Approved Currency payable by the
+Bank under the Currency Hedge Transaction relating to the Conversion; or (ii) if
+the Bank so determines in accordance with the Conversion Guidelines, the
+exchange rate component of the Screen Rate.
+
+5. If the Withdrawn Loan Balance is denominated in more than one Loan Currency,
+the provisions of this Schedule shall apply separately to the amount denominated
+in each Loan Currency, so as to produce a separate amortization schedule for each
+such amount.
+
+APPENDIX
+
+Section I. Definitions
+
+1. "Excluded Expenditure" means any expenditure:
+
+(a) for goods or services supplied under a contract which any national or
+international financing institution or agency other than the Bank or the
+Association has financed or agreed to finance, or which the Bank or the
+Association has financed or agreed to finance under another loan, credit,
+or grant;
+
+(b) for goods included in the following groups or sub-groups of the Standard
+International Trade Classification, Revision 3 (SITC, Rev.3), published by
+the United Nations in Statistical Papers, Series M, No. 34/Rev.3 (1986)
+(the SITC), or any successor groups or subgroups under future revisions
+to the SITC, as designated by the Bank by notice to the Borrower:
+
+Group Sub-group Description of Item
+112 Alcoholic beverages
+121 Tobacco, un-
+
+manufactured, tobacco
+refuse
+
+122 Tobacco, manufactured
+(whether or not
+containing tobacco
+substitutes)
+
+525 Radioactive and
+associated materials
+
+667 Pearls, precious and
+seuprecious stones,
+unworked or worked
+
+718 718.7 Nuclear reactors, and
+parts thereof; fuel
+elements (cartridges),
+non-irradiated, for
+nuclear reactors
+
+728 728.43 Tobacco processing
+machinery
+
+897 897.3 Jewelry of gold, silver or
+platinum group metals
+(except watches and
+watch cases) and
+goldsmiths' or
+silversmiths' wares
+(including set gems)
+
+971 Gold, non-monetary
+(excluding gold ores and
+concentrates)
+
+(c) for goods intended for a military or paramilitary purpose or for luxury
+consumption;
+
+(d) for environmentally hazardous goods, the manufacture, use or import of
+which is prohibited under the laws of the Borrower or international
+agreements to which the Borrower is a party;
+
+(e) on account of any payment prohibited by a decision of the United Nations
+Security Council taken under Chapter VII of the Charter of the United
+Nations; and
+
+(f) with respect to which the Bank determines that corrupt, fraudulent,
+collusive or coercive practices were engaged in by representatives of the
+Borrower or other recipient of the Loan proceeds, without the Borrower
+(or other such recipient) having taken timely and appropriate action
+satisfactory to the Bank to address such practices when they occur.
+
+2. "General Conditions" means the "International Bank for Reconstruction and
+Development General Conditions for Loans", dated March 12, 2012, with the
+modifications set forth in Section I of this Appendix.
+
+3. "Interagency Committee for Public Investment Financing and Debt Risk
+Management" means Hunan's high-level committee charged with reviewing
+capital budgeting and financing plans for the provincial government, established
+on January 6, 2016, chaired by the Director General of the Department of Finance,
+and including high level representation from the Development Reform
+Commission, the Finance Office, and the Auditor.
+
+4. "Program" means the program of actions, objectives and policies designed to
+promote sustainable development and set forth or referred to in the letter dated
+May 20, 2016 from the Program Implementing Entity to the Bank declaring the
+Program Implementing Entity's commitment to the execution of the Program, and
+requesting assistance from the Bank in support of the Program during its execution.
+
+5. "Program Agreement" means the agreement between the Bank and the Program
+Implementing Entity of the same date herewith, as the same may be amended from
+time to time, and such terms include all schedules and agreements supplemental to
+the Program Agreement.
+
+6. "Program Implementing Entity" means the Borrower's Province of Hunan, or any
+successor thereto.
+
+7. "Single Withdrawal Tranche" means the amount of the Loan allocated to the
+category entitled "Single Withdrawal Tranche" in the table set forth in Part B of
+Schedule I to this Agreement.
+
+Section H. Modifications to the General Conditions
+
+The General Conditions are hereby modified as follows:
+
+1. In the Table of Contents, the references to Sections, Section names and Section
+numbers are modified to reflect the modifications set forth in the paragraphs below.
+
+2. The last sentence of paragraph (a) of Section 2.03 (relating to Applications for
+Withdrawal) is deleted in its entirety.
+
+3. Sections 2.04 (Designated Accounts) and 2.05 (Eligible Expenditures) are deleted
+in their entirety, and the remaining Sections in Article II are renumbered
+accordingly.
+
+4. Section 3.01. (Front-end Fee) is modified to read as follows:
+
+"Section3.01. Front-end Fee; Commitment Charge
+
+(a) The Borrower shall pay the Bank a front-end fee on the Loan amount at
+the rate specified in the Loan Agreement (the "Front-end Fee").
+
+(b) The Borrower shall pay the Bank a commitment charge on the
+Unwithdrawn Loan Balance at the rate specified in the Loan Agreement (the
+"Commitment Charge"). The Commitment Charge shall accrue from a date sixty
+days after the date of the Loan Agreement to the respective dates on which amounts
+are withdrawn by the Borrower from the Loan Account or cancelled. The
+Commitment Charge shall be payable semi-annually in arrears on each Payment
+Date."
+
+5. Sections 5.01 (Project Execution Generally), and 5.09 (Financial Management;
+Financial Statements; Audits) are deleted in their entirety, and the subsequent
+Sections in Article V are renumbered accordingly.
+6. Paragraph (a) of Section 5.05 (renumbered as such pursuant to paragraph 5 above
+and relating to Use of Goods, Works and Services) is deleted in its entirety.
+
+7. Paragraph (c) of Section 5.06 (renumbered as such pursuant to paragraph 5 above)
+is modified to read as follows:
+
+"Section 5.06. Plans; Documents; Records
+
+... (c) The Borrower shall retain all records (contracts, orders,
+invoices, bills, receipts and other documents) evidencing expenditures
+under the Loan until two years after the Closing Date. The Borrower shall
+
+enable the Bank's representatives to examine such records."
+
+8. Paragraph (c) of Section 5.07 (renumbered as such pursuant to paragraph 5 above)
+is modified to read as follows:
+
+"Section 5.07. Program Monitoring and Evaluation
+
+... (c) The Borrower shall prepare, or cause to be prepared, and
+furnish to the Bank not later than six months after the Closing Date, a
+
+report of such scope and in such detail as the Bank shall reasonably
+
+request, on the execution of the Program, the performance by the Loan
+
+Parties and the Bank of their respective obligations under the Legal
+
+Agreements and the accomplishment of the purposes of the Loan."
+
+9. In the Appendix, Definitions, all references to Section numbers and paragraphs
+are modified, as necessary, to reflect the modifications set forth above.
+
+10. The Appendix is modified by inserting a new paragraph 19 with the following
+
+definition of "Commitment Charge", and renumbering the remaining paragraphs
+
+accordingly:
+
+"19. "Commitment Charge" means the commitment charge specified in the
+
+Loan Agreement for the purpose of Section 3.01(b)."
+
+11. Renumbered paragraph 37 (originally paragraph 36) of the Appendix ("Eligible
+
+Expenditure") is modified to read as follows:
+
+"37. "Eligible Expenditure" means any use to which the Loan is put in support
+
+of the Program, other than to finance expenditures excluded pursuant to the Loan
+
+Agreement."
+
+12. Renumbered paragraph 44 (originally paragraph 43) of the Appendix ("Financial
+
+Statements") is deleted in its entirety.
+13. In paragraph 48 of the Appendix, the definition of "Front-end Fee" is modified by
+replacing the reference to Section 3.01 with Section 3.01 (a).
+
+14. In paragraph 67 of the Appendix, the definition of the term "Loan Payment" is
+modified to read as follows:
+
+"67. "Loan Payment" means any amount payable by the Loan Parties to the
+Bank pursuant to the Legal Agreements or these General Conditions, including
+(but not limited to) any amount of the Withdrawn Loan Balance, interest, the Front-
+end Fee, the Commitment Charge, interest at the Default Interest Rate (if any), any
+surcharge, any prepayment premium, any transaction fee for a Conversion or early
+termination of a Conversion, the Variable Spread Fixing Charge (if any), any
+premium payable upon the establishment of an Interest Rate Cap or Interest
+Rate Collar, and any Unwinding Amount payable by the Borrower."
+
+15. In paragraph 72 of the Appendix, the definition of "Payment Date" is modified by
+deleting the word "is" and inserting the words "and Commitment Charge are" after
+the word "interest".
+
+16. The defined term "Project" in paragraph 75 of the Appendix is modified to read
+"Program" and its definition is modified to read as follows (and all references to
+"Project" throughout these General Conditions are deemed to be references to
+"Program"):
+
+"75. "Program" means the program referred to in the Loan Agreement in
+support of which the Loan is made."
+
+17. All references to the "Project," "Project Agreement" and "Project Implementing
+Entity" throughout these General Conditions are deemed to be references to,respectively, the "Program," the "Program Agreement" and the "Program
+Implementing Entity" as defined in this Agreement.

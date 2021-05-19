@@ -1,0 +1,1009 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 7316-CH 
+
+Loan Agreement 
+
+(Santiago Urban Transport Technical Assistance Project) 
+
+between 
+
+REPUBLIC OF CHILE 
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+Dated August 19, 2005 
+
+LOAN NUMBER 7316-CH 
+
+LOAN AGREEMENT 
+
+AGREEMENT, dated August 19, 2005, between REPUBLIC OF CHILE (the 
+Borrower) and INTERNATIONAL BANK FOR RECONSTRUCTION AND 
+DEVELOPMENT (the Bank). 
+
+WHEREAS the Borrower is implementing a comprehensive plan for the 
+
+improvement of urban transport in Metropolitan Santiago, as defined hereafter, and 
+having satisfied itself as to the feasibility and priority of the project described in Schedule 
+2 to this Agreement (the Project), has requested the Bank to assist in the financing of the 
+Project; and 
+
+WHEREAS the Bank has agreed, on the basis, inter alia, of the foregoing, to 
+
+extend the Loan to the Borrower upon the terms and conditions set forth in this 
+Agreement; 
+
+NOW THEREFORE the parties hereto hereby agree as follows: 
+
+ARTICLE I 
+
+General Conditions; Definitions 
+ 
+Section 1.01. The “General Conditions Applicable to Loan and Guarantee 
+
+Agreements for Fixed-Spread Loans” of the Bank, dated September 1, 1999 (as amended 
+through May 1, 2004) with the modifications set forth below, (the General Conditions) 
+constitute an integral part of this Agreement: 
+
+(a) Section 5.08 of the General Conditions is amended to read as 
+
+follows: 
+
+“Section 5.08. Treatment of Taxes 
+ 
+Except as otherwise provided in the Loan Agreement, the 
+
+proceeds of the Loan may be withdrawn to pay for taxes levied by, or 
+in the territory of, the Borrower or the Guarantor on the goods or 
+services to be financed under the Loan, or on their importation, 
+manufacture, procurement or supply. Financing of such taxes is 
+subject to the Bank’s policy of requiring economy and efficiency in the 
+use of the proceeds of its loans. To that end, if the Bank shall at any 
+time determine that the amount of any taxes levied on or in respect of
+any item to be financed out of the proceeds of the Loan is excessive or 
+otherwise unreasonable, the Bank may, by notice to the Borrower, 
+adjust the percentage for withdrawal set forth or referred to in respect 
+of such item in the Loan Agreement as required to be consistent with 
+such policy of the Bank.”; and 
+ 
+(b) Section 6.03 (c) of the General Conditions is amended by 
+
+replacing the words “corrupt or fraudulent” with the words “corrupt, 
+fraudulent, collusive or coercive”. 
+
+Section 1.02. Unless the context otherwise requires, the several terms defined in 
+
+the General Conditions and in the Preamble to this Agreement have the respective 
+meanings therein set forth and the following additional terms have the following 
+meanings: 
+
+(a) “Committee of Ministers” means Comité de Ministros para el 
+
+Transporte Urbano de Santiago, the committee established pursuant to the Borrower’s  
+Presidential Order No. 001, dated April 7, 2003, and composed of the Borrower’s 
+Minister of Transport and Telecommunications, the Minister of Public Works, the 
+Minister of  Housing and Urban Development, the Minister of Finance, the Executive 
+Director of CONAMA, the Undersecretary of Transport, the Intendente of the 
+Metropolitan Region, the Executive Secretary of SECTRA, the Coordinator of 
+Concessions of the Ministry of Public Works and the SEREMITT-RM.  The Executive 
+Secretary of this Committee is Transantiago-SE;  
+
+(b) “EMP” means Environmental Management Plan; 
+ 
+(c) “ESTRAUS” means “Modelo de Equilibrio Oferta-Demanda para Redes 
+
+Multimodales de Transporte Urbano con Múltiples Clases de Usuario”, the locally 
+developed transport demand forecast model; 
+
+(d) “Financial Monitoring Report” or “FMR” means each report prepared in 
+
+accordance with Section 4.02 of this Agreement; 
+ 
+(e) “GEF Grant TF020392” means the grant given to the Borrower by the 
+
+Bank, acting as an Implementing Agency of the Global Environment Facility, as 
+documented in the Grant Agreement dated January 6, 2004; 
+
+(f) “Metropolitan Santiago” means the area covering the Borrower’s 
+
+province of Santiago and the territory under the jurisdiction of the Borrower’s 
+municipalities of Puente Alto and San Bernardo; 
+
+(g) “MINVU” means Ministerio de Vivienda y Urbanismo, the Borrower’s 
+
+Housing and Urban Development Ministry;
+(h) “MOP” means Ministerio de Obras Públicas,  the Borrower’s Ministry 
+of Public Works; 
+
+(i) “MTT” means Ministerio de Transportes y Telecomunicaciones, the 
+
+Borrower’s Ministry of Transport and Telecommunications; 
+ 
+(j) “MUSSA” means “Modelo de Uso de Suelo de Santiago”, the locally 
+
+developed model to forecast and evaluate interactions between land-use and transport 
+policies; 
+
+(k) “Operational Manual” means the manual referred to in Section 3.04 of 
+
+this Agreement; 
+ 
+(l) “Origin-Destination Survey” means the 2001 household survey carried 
+
+out to know the trip patterns of the inhabitants of the Metropolitan Area of Santiago; 
+ 
+(m) “PCU” means the Project coordinating unit referred to in Section 3.01 (b) 
+
+of this Agreement; 
+ 
+(n) “Performance Indicators” means the indicators set forth in a letter from 
+
+the Bank to the Borrower of even date hereof; 
+ 
+(o) “Procurement Plan” means the Borrower’s procurement plan, dated April 
+
+22, 2005, covering the initial 18 month period (or longer) of Project implementation, as 
+the same shall be updated from time to time in accordance with the provisions of Section 
+3.02 to this Agreement, to cover succeeding 18 month periods (or longer) of Project 
+implementation; 
+
+(p) “SECTRA” means Secretaría Interministerial de Planificación de 
+
+Transporte, the Borrower’s inter-ministerial transport planning agency; 
+ 
+(q) “SEISTU” means Sistema de Evaluación de Impactos sobre el Sistema 
+
+de Transporte Urbano (Impact Evaluation System for Urban Transport), a system aimed 
+at assuring that the baseline data regarding the Metropolitan Santiago transport system is 
+maintained; 
+
+(r) “SEREMITT-RM” means Secretaría Regional del Ministerio de 
+
+Transportes y Telecomunicaciones - Región Metropolitana, the Borrower’s  regional 
+offices of MTT; 
+
+(s) “SERVIU” means Servicio de Vivienda y Urbanismo, the Borrower’s 
+
+entity in charge of implementing the policies of MINVU; 
+ 
+(t) “SIVU” means Sistema de Información de la Ventanilla Única, the 
+
+information system for the “Single Window” function;
+(u) “Transantiago–SE” means  Secretaría Ejecutiva del Comité de Ministros 
+para el Transporte Urbano de la Ciudad de Santiago, the Executive Secretariat of the 
+Committee of Ministers for Urban Transport for Metropolitan Santiago; and 
+
+(v) “Transantiago” means  Plan de Transporte Urbano para Santiago, the 
+
+Borrower’s plan for the improvement of urban transport in Metropolitan Santiago. 
+
+ARTICLE II 
+
+The Loan 
+ 
+Section 2.01. The Bank agrees to lend to the Borrower, on the terms and 
+
+conditions set forth or referred to in this Agreement, an amount equal to four million 
+eight hundred thousand Dollars ($4,800,000), as such amount may be converted from 
+time to time through a Currency Conversion in accordance with the provisions of Section 
+2.09 of this Agreement. 
+
+Section 2.02.  (a) The amount of the Loan may be withdrawn from the Loan 
+
+Account in accordance with the provisions of Schedule 1 to this Agreement for 
+expenditures made (or, if the Bank shall so agree, to be made) in respect of the reasonable 
+cost of goods and services required for the Project and to be financed out of the proceeds 
+of the Loan and in respect of the front-end fee referred to in Section 2.04 of this 
+Agreement and any premium in respect of an Interest Rate Cap or Interest Rate Collar 
+payable by the Borrower in accordance with Section 4.04(c) of the General Conditions. 
+
+(b) The Borrower, through the Treasury (Tesorería General de la República)
+
+may, for the purposes of the Project open and maintain in Dollars a special deposit 
+account in its Central Bank on terms and conditions satisfactory to the Bank. Deposits 
+into, and payments out of, the Special Account shall be made in accordance with the 
+provisions of Schedule 5 to this Agreement. 
+
+Section 2.03. The Closing Date shall be December 31, 2009 or such later date as 
+the Bank shall establish. The Bank shall promptly notify the Borrower of such later date. 
+
+Section 2.04. (a) The Borrower shall pay to the Bank a front-end fee in an 
+
+amount equal to one percent (1%) of the amount of the Loan, subject to any waiver of a 
+portion of such fee as may be determined by the Bank from time to time.  On or promptly 
+after the Effective Date, the Bank shall, on behalf of the Borrower, withdraw from the 
+Loan Account and pay to itself the amount of such fee. 
+
+Section 2.05. The Borrower shall pay to the Bank a commitment charge on the 
+
+principal amount of the Loan not withdrawn from time to time, at a rate equal to: (i) 
+eighty five one-hundredths of one per cent (0.85%) per annum from the date on which
+such charge commences to accrue in accordance with the provisions of Section 3.02 of 
+the General Conditions to but not including the fourth anniversary of such date; and (ii) 
+seventy five one-hundredths of one per cent (0.75%) per annum thereafter. 
+
+Section 2.06. The Borrower shall pay interest on the principal amount of the 
+
+Loan withdrawn and outstanding from time to time, in respect of each Interest Period at 
+the Variable Rate; provided, that upon a Conversion of all or any portion of the principal 
+amount of the Loan, the Borrower shall, during the Conversion Period, pay interest on 
+such amount in accordance with the relevant provisions of Article IV of the General 
+Conditions. 
+
+Section 2.07. Interest and commitment charges shall be payable semiannually in 
+
+arrears on April 15 and October 15 in each year. 
+ 
+Section 2.08. The Borrower shall repay the principal amount of the Loan in 
+
+accordance with the provisions of Schedule 3 to this Agreement. 
+ 
+Section 2.09. (a) The Borrower may at any time request any of the following 
+
+Conversions of the terms of the Loan in order to facilitate prudent debt management: 
+
+(i) a change of the Loan Currency of all or any portion of the 
+principal amount of the Loan, withdrawn or unwithdrawn, to an 
+Approved Currency; 
+
+(ii) a change of the interest rate basis applicable to all or any portion 
+of the principal amount of the Loan from a Variable Rate to a 
+Fixed Rate, or vice versa; and 
+
+(iii) the setting of limits on the Variable Rate applicable to all or any 
+portion of the principal amount of the Loan withdrawn and 
+outstanding by the establishment of an Interest Rate Cap or 
+Interest Rate Collar on said Variable Rate. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that 
+
+is accepted by the Bank shall be considered a “Conversion”, as defined in Section 2.01(7) 
+of the General Conditions, and shall be effected in accordance with the provisions of 
+Article IV of the General Conditions and of the Conversion Guidelines.  
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or 
+
+Interest Rate Collar in respect of which the Borrower has requested that the premium be 
+paid out of the proceeds of the Loan, the Bank shall, on behalf of the Borrower, withdraw 
+from the Loan Account and pay to itself the amounts required to pay any premium 
+payable in accordance with Section 4.04 (c) of the General Conditions up to the amount 
+allocated from time to time for such purpose in the table in paragraph 1 of Schedule 1 to 
+this Agreement.
+
+ARTICLE III 
+
+Execution of the Project 
+ 
+Section 3.01. (a) The Borrower declares its commitment to the objective of the 
+
+Project, and, to this end, shall carry out: 
+
+(i) Part A.3, Part B (with the exception of B.3) Part C, Part D.2 
+(jointly with MINVU) and Part E of the Project through 
+Transantiago-SE; and 
+
+(ii) under the overall financial management, coordination and 
+
+supervision of Transantiago-SE, the remaining parts of the 
+Project with the assistance of: 
+
+(A) MTT in respect of Part B.3 and D.3 of the Project; 
+
+(B) SECTRA in respect of Parts A.1 and A.2 and D.1 
+
+(jointly with MINVU) of the Project; 
+ 
+(C) MINVU in respect of Parts D.1 (jointly with SECTRA) 
+
+and Part D.3 of the Project (jointly with MTT); 
+ 
+(D) SEREMITT-RM in respect of Part D.4 of the Project; 
+
+and 
+ 
+(E) SERVIU in respect of Part A.4 and Part F. of the Project, 
+
+all with due diligence and efficiency and in conformity with appropriate economic, 
+administrative, financial, transport, social and environmental standards and practices and 
+shall provide, promptly as needed, the funds, facilities, services and other resources 
+required for the Project. 
+
+(b) The Borrower shall, through the Committee of Ministers, during the 
+
+implementation of the Project, maintain a Project coordination unit (PCU) in  
+Transantiago-SE, with functions and responsibilities satisfactory to the Bank, at all times 
+headed by a Project coordinator and assisted by staff in adequate numbers, all with 
+qualifications and experience acceptable to the Bank. 
+
+Section 3.02. (a) Except as the Bank shall otherwise agree, procurement of the 
+
+goods and consultants’ services required for the Project and to be financed out of the 
+proceeds of the Loan shall be governed by the provisions of Schedule 4 to this 
+Agreement, as said provisions may be further elaborated in the Procurement Plan.
+(b) The Borrower shall update the Procurement Plan in accordance with 
+guidelines acceptable to the Bank, and furnish such update to the Bank not later than 12 
+months after the date of the preceding Procurement Plan, for the Bank’s approval. 
+
+Section 3.03. The Borrower shall cause Transantiago-SE to: 
+
+(a) maintain policies and procedures adequate to enable it to monitor and 
+evaluate on an ongoing basis, in accordance with the Performance Indicators, the carrying 
+out of the Project and the achievement of the objectives thereof; 
+
+(b) prepare, under terms of reference satisfactory to the Bank, and furnish to 
+the Bank, not later than twelve months after the Effective Date and yearly thereafter during 
+the period of Project implementation, a report integrating the results of the evaluation 
+activities performed pursuant to paragraph (a) of this Section, on the progress achieved in 
+the carrying out of the Project during the period preceding the date of such report and 
+setting out the measures recommended to ensure the efficient carrying out of the Project 
+and the achievement of the objectives thereof during the period following such date; and 
+
+(c) (i)  review with the Bank, within no more than two months after 
+
+each such report’s preparation, the reports referred to in 
+paragraph (b) of this Section; and 
+
+(ii) thereafter, take all measures required to ensure the efficient 
+
+completion of the Project and the achievement of the objectives 
+thereof, based on the conclusions and recommendations of the said 
+reports and the Bank's views on the matter. 
+
+Section 3.04.  The Borrower shall  carry out the Project in accordance with an 
+
+operational manual, satisfactory to the Bank, said manual to include, inter alia:
+
+(a) the procedures for the carrying out, monitoring and evaluation of the 
+Project (including the procurement, financial and disbursement requirements thereof); 
+
+(b) the  PCU staffing plan; 
+ 
+(c) for each of the studies under the Project, the composition of the technical 
+
+committees charged with, inter alia, defining and approving the bidding documents, 
+evaluating the proposal and selecting the winners and supervising or monitoring the 
+subsequent studies performed under the Project;  
+
+(d) the terms of reference to prepare a single audit opinion;  
+ 
+(e) the chart of accounts approved by the Bank; and 
+ 
+(f) the FMR format approved by the Bank.
+In case of any conflict between the terms of the Operational Manual and those of 
+this Agreement, the terms of this Agreement shall prevail. 
+
+Section 3.05.  Within 24 months from the Effective Date, the Borrower shall 
+
+ensure that SERVIU has completed the draft for the harmonization of the guidelines for 
+preparation of EMPs for urban works mentioned under Part F.2 of the Project. 
+
+Section 3.06. For the purposes of Section 9.07 of the General Conditions and 
+without limitation thereto, the Borrower shall: 
+
+(a) prepare, on the basis of guidelines acceptable to the Bank, and furnish to 
+
+the Bank not later than six (6) months after the Closing Date or such later date as may be 
+agreed for this purpose between the Borrower and the Bank, a plan designed to ensure the 
+sustainability of the Project; and 
+
+(b) afford the Bank a reasonable opportunity to exchange views with the 
+Borrower on said plan. 
+
+Section 3.07. Within sixty days from the date of this Agreement, the Project 
+Implementation Unit in Transantiago-SE shall be fully staffed.  In addition, Transantiago-
+SE shall have contracted the temporary services of a Bank procurement guidelines’ 
+specialist to assist in the preparation of the letter of invitation, packages and bid 
+documents required, under terms of reference and  criteria for selection acceptable to the 
+Bank. 
+
+ARTICLE IV 
+
+Financial Covenants 
+
+Section 4.01. (a) The Borrower, through Transantiago-SE, shall maintain a 
+financial management system, including records and accounts, and prepare financial 
+statements in accordance with consistently applied accounting standards acceptable to the 
+Bank, adequate to reflect the operations, resources and expenditures related to the 
+Project. 
+
+(b) The Borrower shall: 
+
+(i) have the financial statements referred to in paragraph (a) of this 
+
+Section for each fiscal year (or other period agreed to by the 
+Bank),  audited, in accordance with consistently applied auditing 
+standards acceptable to the Bank, by independent auditors 
+acceptable to the Bank;
+(ii) furnish to the Bank as soon as available, but in any case not later 
+than six months after the end of each such year (or such other 
+period agreed to by the Bank): (A) certified copies of the 
+financial statements referred to in paragraph (a) of this Section 
+for such year (or other period agreed to by the Bank), as so 
+audited; and (B) an opinion on such statements by said auditors, 
+in scope and detail satisfactory to the Bank; and 
+
+(iii) furnish to the Bank such other information concerning such 
+
+records and accounts, and the audit of such financial statements, 
+and concerning said auditors, as the Bank may from time to time 
+reasonably request. 
+
+(c) For all expenditures with respect to which withdrawals from the Loan 
+
+Account were made on the basis of statements of expenditure, the Borrower shall: 
+ 
+(i) retain, until at least one year after the Bank has received the 
+
+audit report for, or covering, the fiscal year in which the last 
+withdrawal from the Loan Account was made, all records 
+(contracts, orders, invoices, bills, receipts and other documents) 
+evidencing such expenditures; 
+
+(ii) enable the Bank’s representatives to examine such records; and 
+ 
+(iii) ensure that such statements of expenditure are included in the 
+
+audit for each fiscal year (or other period agreed to by the Bank), 
+referred to in paragraph (b) of this Section.  
+
+Section 4.02.  (a) Without limitation upon the Borrower’s progress reporting 
+
+obligations set out in Section 3.03 of this Agreement, the Borrower, through 
+Transantiago-SE, shall prepare, and furnish to the Bank a financial monitoring report, in 
+form and substance satisfactory to the Bank, which: 
+
+(i) sets forth sources and uses of funds for the Project, both 
+
+cumulatively and for the period covered by said report, showing 
+separately funds provided under the Loan, and explains 
+variances between the actual and planned uses of  such funds; 
+
+(ii) describes physical progress in Project implementation, both 
+
+cumulatively and for the period covered by said report, and 
+explains variances between the actual and planned Project 
+implementation; and 
+
+(iii) sets forth the status of procurement under the Project, as at the 
+
+end of the period covered by said report.
+(b)  The first FMR shall be furnished to the Bank not later than 45 days after 
+the end of the first calendar semester after the Effective Date, and shall cover the period 
+from the incurrence of the first expenditure under the Project through the end of such first 
+calendar semester; thereafter, each FMR shall be furnished to the Bank not later than 45 
+days after each subsequent calendar semester, and shall cover such calendar semester. 
+
+ARTICLE V 
+
+Effective Date; Termination 
+ 
+Section 5.01. The following events are specified as additional conditions to the 
+
+effectiveness of the Loan Agreement within the meaning of Section 12.01 (c) of the 
+General Conditions: 
+
+(a) the Borrower has adopted the Operational Manual; and 
+ 
+(b) the resettlement policy framework providing how potential resettlement 
+
+under Transantiago  would be carried out has been finalized in a manner acceptable to the 
+Bank. 
+
+Section 5.02. The date November 17, 2005 is hereby specified for the purposes of 
+
+Section 12.04 of the General Conditions. 
+
+ARTICLE VI 
+
+Representative of the Borrower; Addresses 
+ 
+Section 6.01. The Minister of Finance of the Borrower is designated as 
+
+representative of the Borrower for the purposes of Section 11.03 of the General 
+Conditions. 
+
+Section 6.02. The following addresses are specified for the purposes of Section 
+
+11.01 of the General Conditions: 
+
+For the Borrower: 
+
+ Ministry of Finance 
+ Teatinos 120 , piso 12 
+ Santiago, Chile 
+
+Facsimile:   (56-2) 698
+12 - 
+
+Copy to: 
+
+Transantiago – SE Secretaría Ejecutiva  
+Nueva York 9, piso 10 
+Santiago, Chile 
+
+Facsimile: (56 2 ) 428 79 26 
+
+For the Bank: 
+
+International Bank for 
+ Reconstruction and Development 
+ 1818 H Street, N.W. 
+ Washington, D.C. 20433 
+ United States of America 
+
+Cable address:  Telex:   Facsimile:  
+
+INTBAFRAD  248423 (MCI) or (202) 477-6391 
+ Washington, D.C.   64145 (MCI)
+IN WITNESS WHEREOF, the parties hereto, acting through their duly 
+authorized representatives, have caused this Agreement to be signed in their respective 
+names in Santiago, Chile, as of the day and year first above written. 
+
+REPUBLIC OF CHILE 
+
+By /s/ Nicolás Eyzaguirre Guzmán 
+Authorized Representative 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By /s/ Axel van Trotsenburg 
+Acting Regional Vice President 
+
+Latin America and the Caribbean 
+
+Countersigned on behalf of the 
+ Treasurer General of the Republic of Chile 
+
+By: /s/ Gianni Lambertini Maldonado 
+ Authorized Representative 
+
+Countersigned on behalf of the 
+ Controller General of the Republic of Chile 
+
+By: /s/ Gastón Astorquiza Altoner 
+ Authorized Representative
+SCHEDULE 1 
+
+Withdrawal of the Proceeds of the Loan 
+ 
+1.  The table below sets forth the Categories of items to be financed out of the 
+proceeds of the Loan, the allocation of the amounts of the Loan to each Category and the 
+percentage of expenditures for items so to be financed in each Category: 
+
+Amount of the 
+ Loan Allocated % of 
+ (Expressed in Expenditures 
+ Category Dollars) to be financed
+
+(1) Goods and 800,000 100%  
+ non-consultant 
+ services 
+ 
+(2) Consultants’   
+ services: 
+
+(a) Parts A through F 3,333,600 100% 
+
+(b) Part G 420,000 100% 
+ 
+(3) Operating Costs 18,000 100% 
+ 
+(4) Unallocated 204,400 
+ 
+(5) Front end fee 24,000 Amount due under 
+ Section 2.04 of this 
+ Agreement 
+ 
+(6) Premia for Interest
+Rate Cap/Collars 
+
+________ 
+ TOTAL 4,800,000
+
+2. For the purposes of this Schedule: 
+
+(a) the term “Operating Costs” means reasonable incremental costs, which 
+would not have been incurred absent the Project, for: (i) office equipment and related 
+maintenance of the Borrower; (ii) refurbishment of office space, office utilities and office
+supplies of the Borrower; and (iii) travel and per diem of personnel of the Borrower for 
+Project implementation activities; and 
+
+(b) the term “Training” means expenditures incurred in connection with 
+overseas, local and on-the-job training, seminars and workshops for: (i) training materials 
+and rental of training facilities; and (ii) fees, travel, and per diem of trainers, training 
+institutions and trainees. 
+ 
+3. Notwithstanding the provisions of paragraph 1 above, no withdrawals shall be 
+made in respect of: (a) payments made for expenditures prior to the date of this 
+Agreement, except that withdrawals, in an aggregate amount not exceeding $600,000, 
+may be made on account of payments made for expenditures before that date but after 
+March 11, 2005. 
+ 
+4. The Bank may require withdrawals from the Loan Account to be made on the 
+basis of statements of expenditure for expenditures under contracts not subject to prior 
+review by the Bank pursuant to Section IV of Schedule 4 to this Agreement.
+SCHEDULE 2 
+
+Description of the Project 
+ 
+The objective of the Project is to support the Borrower in achieving an efficient 
+
+and sustainable urban transport system for Metropolitan Santiago. 
+ 
+The Project consists of the following parts, subject to such modifications thereof 
+
+as the Borrower and the Bank may agree upon from time to time to achieve such 
+objective: 
+
+Part A: General Urban Transport
+
+1. Carrying out an analysis of the impact of the Project on transport demand.  
+ 
+2. Carrying out an analysis and updating of the socio-economic ESTRAUS sub-
+models and developing a sub-model to forecast the income, motorization rate and size of 
+households in Metropolitan Santiago.  
+ 
+3.  Designing of the institutional framework for Transantiago.  
+ 
+4. Carrying out a study for management of Metropolitan Santiago road 
+infrastructure maintenance.  
+
+Part B: Public Transport
+
+1. Carrying out a study for fare optimization for Transantiago’s full operation.  
+ 
+2. Designing intermodal stations for Metropolitan Santiago.  
+ 
+3. Developing a pilot to test Transantiago’s graphic information system 
+(señalética).  
+ 
+4. Carrying out the measurement of travel times associated with the Transantiago 
+system and developing proposals for an action plan to reduce such travel times. 
+ 
+5. Designing and implementing a Transantiago communication plan.  
+
+Part C: Environment
+
+Designing an environmental, air quality, noise monitoring and information 
+system focusing on public transport in Metropolitan Santiago.
+Part D: Land Use
+
+1. Updating the MUSSA based on the results of the 2001 Origin-Destination Survey 
+and the 2002 Population and Housing Census, and carrying out a social assessment of 
+three congestion pricing alternatives in the framework of Transantiago.  
+ 
+2. Carrying out an analysis and formulating recommendations for the urban 
+architectural and operational design of the area of influence of Metropolitan Santiago 
+transfer stations.  
+ 
+3. Designing tools and procedures to achieve inter-institutional coordination of 
+transport and land use decisions for Metropolitan Santiago.  
+ 
+4. Carrying out a study to: (i) update the Graphic Information System of the SIVU; 
+and (ii) upgrade the necessary legal framework to allow application of SEISTU and 
+functioning of the one-stop process (Ventanilla Única) for mainstreaming procedures.  
+ 
+Part E: Social Aspects of Transport
+
+1. Implementing the social mitigation program, identified under Part B.2 of the 
+Project financed by GEF Grant No. TF020392, addressing the needs of existing public 
+transport workers.  
+ 
+2. Carrying out a social assessment of the impact of Transantiago on low-income 
+segments of Metropolitan Santiago. 
+ 
+Part F: Mitigation of potential adverse impacts of transport infrastructure works
+
+1. Designing and carrying out an institutional strengthening program in the area of 
+involuntary resettlements, including the definition of a revised resettlement policy 
+framework.  
+ 
+2. Harmonizing provisions of the MOP and SERVIU guidelines for preparation of 
+EMPs for urban works.  
+ 
+Part G: Project Management
+
+Strengthening the PCU to carry out its obligations under the Project (including its 
+financial and procurement responsibilities) through the provision of technical assistance, 
+training, operating cost financing (as necessary) and equipment, as well as through the 
+carrying out of Project audits.  
+
+* * *
+The Project is expected to be completed by June 30, 2009. 
+
+SCHEDULE 3 
+
+Amortization Schedule 
+
+1. The following table sets forth the Principal Payment Dates of the Loan and the 
+percentage of the total principal amount of the Loan payable on each Principal Payment 
+Date (Installment Share).  If the proceeds of the Loan shall have been fully withdrawn as 
+of the first Principal Payment Date, the principal amount of the Loan repayable by the 
+Borrower on each Principal Payment Date shall be determined by the Bank by 
+multiplying: (a) the total principal amount of the Loan withdrawn and outstanding as of 
+the first Principal Payment Date; by (b) the Installment Share for each Principal Payment 
+Date, such repayment amount to be adjusted, as necessary, to deduct any amounts 
+referred to in paragraph 4 of this Schedule, to which a Currency Conversion applies. 
+
+ Installment Share 
+ Payment Date (Expressed as a %)
+
+On each October 15 and April 15 
+
+beginning October 15, 2010  
+ through April 15, 2020   5% 
+
+2. If the proceeds of the Loan shall not have been fully withdrawn as of the first 
+Principal Payment Date, the principal amount of the Loan repayable by the Borrower on 
+each Principal Payment Date shall be determined as follows: 
+
+(a) To the extent that any proceeds of the Loan shall have been withdrawn as 
+of the first Principal Payment Date, the Borrower shall repay the amount withdrawn and 
+outstanding as of such date in accordance with paragraph 1 of this Schedule. 
+
+(b) Any withdrawal made after the first Principal Payment Date shall be 
+repaid on each Principal Payment Date falling after the date of such withdrawal in 
+amounts determined by the Bank by multiplying the amount of each such withdrawal by 
+a fraction, the numerator of which shall be the original Installment Share specified in the 
+table in paragraph 1 of this Schedule for said Principal Payment Date (the Original 
+Installment Share) and the denominator of which shall be the sum of all remaining 
+Original Installment Shares for Principal Payment Dates falling on or after such date, 
+such repayment amounts to be adjusted, as necessary, to deduct any amounts referred to 
+in paragraph 4 of this Schedule, to which a Currency Conversion applies.
+3. (a) Withdrawals made within two calendar months prior to any Principal 
+Payment Date shall, for the purposes solely of calculating the principal amounts payable 
+on any Principal Payment Date, be treated as withdrawn and outstanding on the second 
+Principal Payment Date following the date of withdrawal and shall be repayable on each 
+Principal Payment Date commencing with the second Principal Payment Date following 
+the date of withdrawal. 
+
+(b) Notwithstanding the provisions of subparagraph (a) of this paragraph 3, 
+if at any time the Bank shall adopt a due date billing system under which invoices are 
+issued on or after the respective Principal Payment Date, the provisions of such 
+subparagraph shall no longer apply to any withdrawals made after the adoption of such 
+billing system.  
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a 
+Currency Conversion of all or any portion of the withdrawn principal amount of the Loan 
+to an Approved Currency, the amount so converted in said Approved Currency that shall 
+be repayable on any Principal Payment Date occurring during the Conversion Period 
+shall be determined by the Bank by multiplying such amount in its currency of 
+denomination immediately prior to said Conversion by either: (a) the exchange rate that 
+reflects the amounts of principal in said Approved Currency payable by the Bank under 
+the Currency Hedge Transaction relating to said Conversion; or (b) if the Bank so 
+determines in accordance with the Conversion Guidelines, the exchange rate component 
+of the Screen Rate. 
+
+5. If the principal amount of the Loan withdrawn and outstanding from time to time 
+shall be denominated in more than one Loan Currency, the provisions of this Schedule 
+shall apply separately to the amount denominated in each Loan Currency, so as to 
+produce a separate amortization schedule for each such amount.
+SCHEDULE 4 
+
+Procurement 
+Section I. General
+
+A. All goods and services (other than consultants’ services) shall be procured in 
+accordance with the provisions of Section I of the “Guidelines: Procurement under IBRD 
+Loans and IDA Credits” dated May 2004 (the Procurement Guidelines), and with the 
+provisions of this Schedule.  
+ 
+B. All consultants’ services shall be procured in accordance with Sections I and IV 
+of the “Guidelines:  Selection and Employment of Consultants by World Bank 
+Borrowers” dated May 2004 (the Consultant Guidelines), and with the provisions of this 
+Schedule.   
+ 
+C. The capitalized terms used below in this Schedule to describe particular 
+procurement methods or methods of review by the Bank of particular contracts, have the 
+meanings ascribed to them in the Procurement Guidelines, or Consultant Guidelines, as 
+the case may be. 
+ 
+Section II. Particular Methods of Procurement of Goods and Services (other than 
+
+Consultants’ Services)
+
+A. International Competitive Bidding. Except as otherwise provided in Part B of 
+this Section, contracts shall be awarded on the basis of International Competitive 
+Bidding.  The provisions of paragraphs 2.55 and 2.56 of the Procurement Guidelines, 
+providing for domestic preference in the evaluation of bids, shall apply to goods 
+manufactured in the territory of the Borrower . 
+ 
+B. Other Procurement Procedures
+
+1. National Competitive Bidding. Goods and non-consulting services estimated to 
+cost less than $350,000 equivalent per contract, may be procured under contracts awarded 
+on the basis of National Competitive Bidding . 
+ 
+2. Shopping. Goods and non-consulting services estimated to cost less than 
+$100,000 equivalent per contract, may be procured under contracts awarded on the basis 
+of Shopping. 
+ 
+3. Direct Contracting. Goods and non-consulting services which the Bank agrees 
+meet the requirements for Direct Contracting  may be procured in accordance with the 
+provisions of said procurement method.
+Section III. Particular Methods of Procurement of Consultants’ Services
+
+A. Quality- and Cost-based Selection. Except as otherwise provided in Part B of 
+this Section, consultants’ services shall be procured under contracts awarded on the basis 
+of Quality- and Cost-based Selection.  For purposes of paragraph 2.7 of the Consultant 
+Guidelines, the short list of consultants for services estimated to cost less than $500,000 
+equivalent per contract may comprise entirely national consultants. 
+ 
+B. Other Procedures
+
+1. Selection Under a Fixed Budget. Services for assignments which the Bank 
+agrees meet the requirements of paragraph 3.5 of the Consultant Guidelines may be 
+procured under contracts awarded on the basis of a Fixed Budget in accordance with the 
+provisions of paragraphs 3.1 and 3.5 of the Consultant Guidelines. 
+ 
+2. Least-cost Selection. Services for assignments which the Bank agrees meet the 
+requirements of paragraph 3.6 of the Consultant Guidelines may be procured under 
+contracts awarded on the basis of Least-cost Selection in accordance with the provisions 
+of paragraphs 3.1 and 3.6 of the Consultant Guidelines. 
+ 
+3. Selection Based on Consultants’ Qualifications. Services estimated to cost less 
+than $200,000 equivalent per contract may be procured under contracts awarded in 
+accordance with the provisions of paragraphs 3.1, 3.7 and 3.8 of the Consultant 
+Guidelines. 
+ 
+4. Single Source Selection. Services for tasks in circumstances which meet the 
+requirements of paragraph 3.10 of the Consultant Guidelines for Single Source Selection, 
+may, with the Bank's prior agreement, be procured in accordance with the provisions of 
+paragraphs 3.9 through 3.13 of the Consultant Guidelines. 
+ 
+5. Individual Consultants. Services for assignments that meet the requirements set 
+forth in the first sentence of paragraph 5.1 of the Consultant Guidelines may be procured 
+under contracts awarded to individual consultants in accordance with the provisions of 
+paragraphs 5.2 through 5.3 of the Consultant Guidelines.  Under the circumstances 
+described in paragraph 5.4 of the Consultant Guidelines, such contracts may be awarded 
+to individual consultants on a sole-source basis. 
+ 
+Section IV. Review by the Bank of Procurement Decisions
+
+The Procurement Plan shall set forth those contracts which shall be subject to the 
+Bank’s Prior Review.  All other contracts shall be subject to Post Review by the Bank.
+Section V. Special Provisions
+
+Part A:
+
+In addition and without limitation or restriction to any other provisions set forth 
+in this Schedule or the Procurement Guidelines, the following provision shall govern all 
+procurement of goods and services (excluding consultants’ services).  
+ 
+Part B:
+
+In addition and without limitation or restriction to any other provisions set forth 
+in this Schedule or the Consultant Guidelines, the following provisions shall govern all 
+employment of consultants: 
+
+1. Consulting firms shall be selected on the basis of short-lists and not 
+subject to an open competition selection process. 
+
+2. The evaluation process and the related documents shall be kept 
+confidential until the award of the contract is published.
+SCHEDULE 5 
+
+Special Account 
+ 
+1. For the purposes of this Schedule: 
+
+(a) the term “eligible Categories” means Categories (1) through (3) set forth 
+
+in the table in paragraph 1 of Schedule 1 to this Agreement; 
+ 
+(b) the term “eligible expenditures” means expenditures in respect of the 
+
+reasonable cost of goods and services required for the Project and to be financed out of 
+the proceeds of the Loan allocated from time to time to the eligible Categories in 
+accordance with the provisions of Schedule 1 to this Agreement; and 
+
+(c) the term “Authorized Allocation” means the amount of $500,000 to be 
+
+withdrawn from the Loan Account and deposited into the Special Account pursuant to 
+paragraph 3 (a) of this Schedule.  
+ 
+2. Payments out of the Special Account shall be made exclusively for eligible 
+expenditures in accordance with the provisions of this Schedule. 
+ 
+3. After the Bank has received evidence satisfactory to it that the Special Account 
+has been duly opened, withdrawals of the Authorized Allocation and subsequent 
+withdrawals to replenish the Special Account shall be made as follows: 
+
+(a) For withdrawals of the Authorized Allocation, the Borrower shall furnish 
+
+to the Bank a request or requests for deposit into the Special Account of an amount or 
+amounts which do not exceed the aggregate amount of the Authorized Allocation. On the 
+basis of such request or requests, the Bank shall, on behalf of the Borrower, withdraw 
+from the Loan Account and deposit into the Special Account such amount or amounts as 
+the Borrower shall have requested. 
+
+(b) (i) For replenishment of the Special Account, the Borrower shall 
+
+furnish to the Bank requests for deposits into the Special 
+Account at such intervals as the Bank shall specify. 
+
+(ii) Prior to or at the time of each such request, the Borrower shall 
+
+furnish to the Bank the documents and other evidence required 
+pursuant to paragraph 4 of this Schedule for the payment or 
+payments in respect of which replenishment is requested. On the 
+basis of each such request, the Bank shall, on behalf of the 
+Borrower, withdraw from the Loan Account and deposit into the 
+Special Account such amount as the Borrower shall have 
+requested and as shall have been shown by said documents and
+other evidence to have been paid out of the Special Account for 
+eligible expenditures. All such deposits shall be withdrawn by 
+the Bank from the Loan Account under the respective eligible 
+Categories, and in the respective equivalent amounts, as shall 
+have been justified by said documents and other evidence. 
+
+4. For each payment made by the Borrower out of the Special Account, the 
+Borrower shall, at such time as the Bank shall reasonably request, furnish to the Bank 
+such documents and other evidence showing that such payment was made exclusively for 
+eligible expenditures. 
+ 
+5. Notwithstanding the provisions of paragraph 3 of this Schedule, the Bank shall 
+not be required to make further deposits into the Special Account: 
+
+(a) if, at any time, the Bank shall have determined that all further 
+withdrawals should be made by the Borrower directly from the Loan Account in 
+accordance with the provisions of Article V of the General Conditions and paragraph (a) 
+of Section 2.02 of this Agreement; 
+
+(b) if the Borrower shall have failed to furnish to the Bank, within the period 
+
+of time specified in Section 4.01 (b) (ii) of this Agreement, any of the audit reports 
+required to be furnished to the Bank pursuant to said Section in respect of the audit of the 
+records and accounts for the Special Account; 
+
+(c) if, at any time, the Bank shall have notified the Borrower of its intention 
+
+to suspend in whole or in part the right of the Borrower to make withdrawals from the 
+Loan Account pursuant to the provisions of Section 6.02 of the General Conditions; or 
+
+(d) once the total unwithdrawn amount of the Loan allocated to the eligible 
+
+Categories, minus the total amount of all outstanding special commitments entered into 
+by the Bank pursuant to Section 5.02 of the General Conditions shall equal the equivalent 
+of twice the amount of the Authorized Allocation. 
+
+Thereafter, withdrawal from the Loan Account of the remaining unwithdrawn 
+amount of the Loan allocated to the eligible Categories shall follow such procedures as 
+the Bank shall specify by notice to the Borrower.  Such further withdrawals shall be made 
+only after and to the extent that the Bank shall have been satisfied that all such amounts 
+remaining on deposit in the Special Account as of the date of such notice will be utilized 
+in making payments for eligible expenditures. 
+ 
+6. (a) If the Bank shall have determined at any time that any payment out of the 
+Special Account: (i) was made for an expenditure or in an amount not eligible pursuant to 
+paragraph 2 of this Schedule; or (ii) was not justified by the evidence furnished to the 
+Bank, the Borrower shall, promptly upon notice from the Bank: (A) provide such 
+additional evidence as the Bank may request; or (B) deposit into the  Special Account (or,
+if the Bank shall so request, refund to the Bank) an amount equal to the amount of such 
+payment or the portion thereof not so eligible or justified. Unless the Bank shall 
+otherwise agree, no further deposit by the Bank into the Special Account shall be made 
+until the Borrower has provided such evidence or made such deposit or refund, as the 
+case may be. 
+
+(b) If the Bank shall have determined at any time that any amount 
+
+outstanding in the Special Account will not be required to cover further payments for 
+eligible expenditures, the Borrower shall, promptly upon notice from the Bank, refund to 
+the Bank such outstanding amount. 
+
+(c) The Borrower may, upon notice to the Bank, refund to the Bank all or 
+
+any portion of the funds on deposit in the Special Account. 
+ 
+(d) Refunds to the Bank made pursuant to paragraphs 6 (a), (b) and (c) of 
+
+this Schedule shall be credited to the Loan Account for subsequent withdrawal or for 
+cancellation in accordance with the relevant provisions of this Agreement, including the 
+General Conditions.

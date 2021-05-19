@@ -1,0 +1,792 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 7449-AR 
+
+Loan Agreement 
+
+(State Modernization II Project) 
+
+between 
+
+ARGENTINE REPUBLIC 
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+Dated December 28, 2007 
+
+LOAN NUMBER 7449-AR 
+
+LOAN AGREEMENT 
+
+Agreement dated December 28, 2007, between ARGENTINE REPUBLIC (“Borrower”) 
+and INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (“Bank”).  
+The Borrower and the Bank hereby agree as follows: 
+
+ARTICLE I — GENERAL CONDITIONS; DEFINITIONS 
+ 
+1.01. The General Conditions (as defined in the Appendix to this Agreement) constitute 
+
+an integral part of this Agreement. 
+ 
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement 
+
+have the meanings ascribed to them in the General Conditions or in the Appendix to this 
+Agreement. 
+
+ARTICLE II — LOAN 
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or referred 
+to in this Agreement, the amount of twenty million Dollars ($20,000,000), as such 
+amount may be converted from time to time through a Currency Conversion in 
+accordance with the provisions of Section 2.08 of this Agreement (“Loan”), to assist in 
+financing the project described in Schedule 1 to this Agreement (“Project”). 
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section IV of 
+
+Schedule 2 to this Agreement. 
+
+2.03. The Commitment Charge payable by the Borrower shall be equal to three-fourths of one 
+percent (3/4 of 1%) per annum on the Unwithdrawn Loan Balance, subject to any waiver 
+of a portion of such charge as may be determined by the Bank from time to time. 
+
+2.04. The Front-end Fee payable by the Borrower shall be equal to one percent (1.0%) of the 
+
+Loan amount, subject to any waiver of a portion of such fee as may be determined by the 
+Bank from time to time.  
+
+2.05. The interest payable by the Borrower for each Interest Period shall be at a rate equal to 
+
+LIBOR for the Loan Currency plus the Fixed Spread, subject to any waiver of a portion 
+of such interest as may be determined by the Bank from time to time; provided, that upon 
+a Conversion of all or any portion of the principal amount of the Loan, the interest 
+payable by the Borrower during the Conversion Period on such amount shall be 
+determined in accordance with the relevant provisions of Article IV of the General 
+Conditions. 
+
+2.06. The Payment Dates are January 1 and July 1 in each year. 
+
+2.07. The principal amount of the Loan shall be repaid in accordance with the amortization 
+schedule set forth in Schedule 3 to this Agreement. 
+
+2.08. (a) The Borrower may at any time request any of the following Conversions of the 
+
+terms of the Loan in order to facilitate prudent debt management: (i) a change of 
+the Loan Currency of all or any portion of the principal amount of the Loan, 
+withdrawn or unwithdrawn, to an Approved Currency; (ii) a change of the 
+interest rate basis applicable to all or any portion of the principal amount of the 
+Loan from a Variable Rate to a Fixed Rate, or vice versa; and (iii) the setting of 
+limits on the Variable Rate applicable to all or any portion of the principal 
+amount of the Loan withdrawn and outstanding by the establishment of an 
+Interest Rate Cap or Interest Rate Collar on the Variable Rate. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that is 
+
+accepted by the Bank shall be considered a “Conversion”, as defined in the 
+General Conditions, and shall be effected in accordance with the provisions of 
+Article IV of the General Conditions and of the Conversion Guidelines.  
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or Interest Rate 
+
+Collar for which the Borrower has requested that the premium be paid out of the 
+proceeds of the Loan, the Bank shall, on behalf of the Borrower, withdraw from 
+the Loan Account and pay to itself the amounts required to pay any premium 
+payable in accordance with Section 4.04 (c) of the General Conditions up to the 
+amount allocated from time to time for the purpose in the table in Section IV of 
+Schedule 2 to this Agreement. 
+
+ARTICLE III — PROJECT 
+ 
+3.01. The Borrower declares its commitment to the objectives of the Project.  To this end, the 
+
+Borrower, through CCO, shall carry out the Project in accordance with the provisions of 
+Article V of the General Conditions. 
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and except as 
+
+the Borrower and the Bank shall otherwise agree, the Borrower shall ensure that the 
+Project is carried out in accordance with the provisions of Schedule 2 to this Agreement 
+and the Operational Manual. In case of any conflict between the terms of the Operational 
+Manual and those of this Agreement, the terms of this Agreement shall prevail. 
+
+ARTICLE IV — TERMINATION 
+
+4.01. Without prejudice to the provisions of the General Conditions, the Effectiveness   
+ Deadline is the date ninety (90) days after the date of this Agreement, but in no   
+ case later than eighteen (18) months after the Bank’s approval of the Loan which   
+ expire on November 28, 2008. 
+
+ARTICLE V — REPRESENTATIVE; ADDRESSES 
+
+5.01. The Borrower’s Representative is its Minister of Economy and Production. 
+ 
+5.02. The Borrower’s Address is: 
+
+Ministerio de Economía y Producción 
+ Hipólito Yrigoyen 250 
+ C1086AAB, Buenos Aires, Argentina 
+
+Cable:   Telex:   Facsimile: 
+MINISTERIO DE         121942-AR  (54 11) 4349-8815 
+DE ECONOMIA Y  
+PRODUCCION 
+Baires    
+
+5.03. The Bank’s Address is: 
+ 
+International Bank for Reconstruction and Development 
+1818 H Street, N.W. 
+Washington, D.C. 20433 
+United States of America 
+ 
+Cable address:  Telex:   Facsimile: 
+ 
+INTBAFRAD  248423(MCI) or 1
+477-6391 
+Washington, D.C.  64145(MCI) 
+
+AGREED at Buenos Aires, Argentina, as of the day and year first above written. 
+
+ARGENTINE REPUBLIC 
+
+By/s/ Martín Lousteau 
+
+Authorized Representative 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By/s/ Pedro Alba 
+
+Authorized Representative 
+
+SCHEDULE 1 
+
+Project Description 
+
+The objectives of the Project are: (a) to support the strengthening of CCO’s capacity to: 
+(i) engage in organizational strengthening in selected public sector management areas within the 
+CCO; (ii) design a state modernization strategy, promote change management, and monitor and 
+evaluate selected Borrower’s programs and projects related to national priority policies; and 
+(iii)  promote the design and consolidation of key public sector management systems under the 
+CCO’s mandate, including e-government, procurement, human resources management, and 
+quality management; and (b) support the knowledge and capacity-building of ANDI. 
+
+The Project consists of the following parts: 
+ 
+Part 1: Institutional Strengthening of CCO
+(a) Strengthening of CCO’s organizational strategy, through, inter alia:
+
+(i) the design of an institutional strategy for the CCO, through, inter alia, the carrying 
+out of an assessment of its mandate, organizational and functional capacity, 
+processes and performance metrics; 
+
+(ii) the strengthening of its state modernization strategy, based on the carrying out of 
+
+assessments of current state modernization initiatives supported by the Project 
+and international best practices; and  
+
+(iii) the development of change management tools, through the engagement of public and 
+
+private sector institutions, civil society organizations, the Borrower’s provinces 
+and municipalities, and other relevant stakeholders, so as to promote the use of 
+public sector management systems (including e-government, procurement, 
+human resources management, and quality management) at the federal level, as 
+well as their dissemination and promotion at the provincial and municipal levels.  
+
+(b) Strengthening of CCO’s monitoring and evaluation capacity, through, inter alia:
+
+(i) the design of a technical arrangement between the CCO and the Borrower’s other 
+ministries for the coordination, monitoring and evaluation of public policies, and 
+thereafter implementation of the same;  
+
+(ii) (A) the design of systems for the monitoring and evaluation of the Borrower’s 
+
+programs and projects related to national priority policies, including the design of 
+methodologies for the identification of said programs and projects; and (B) the 
+strengthening of monitoring and  results-based management tools; 
+
+(iii) technical support to the CCO for the design and coordination of pilot programs to 
+
+promote the implementation of the monitoring tools mentioned in (ii) (B) above 
+in the Borrower’s other ministries and the Borrower’s Congress; and 
+
+(iv) institutional strengthening of the DINAPPFE, including the carrying out of an 
+assessment of the consultants hired by Bank-funded projects, and the design of a 
+strategy based on the results of said assessment. 
+
+(c) Strengthening of ANDI, through, inter alia:
+
+(i) knowledge-building and –sharing, through the development of a methodology for 
+a systematic and comparable ground assessment of selected productive sectors 
+and clusters which have significant development potential, and the carrying out 
+of assessments of each selected sectors and clusters focusing on the identification 
+of opportunities for innovation;  
+
+(ii) the promotion of Argentina as an attractive place to invest;  
+
+(iii) the strengthening of the linkages between investment promotion and innovation; 
+
+and 
+
+(iv) the strengthening of ANDI’s  staff on investment promotion. 
+ 
+Part 2: Strengthening Key Public Sector Management Systems
+(a) Strengthening of the Borrower’s E-Government system, through, inter alia:
+
+(i)  the improvement of the e-government enabling environment for public sector 
+modernization within the existing policy framework on e-government;  
+
+(ii)  the strengthening of e-government coordination mechanisms, including the 
+installation of a safe room (sala-cofre), all aimed to ensure an integrated, secure, 
+and paperless administration by digitalizing and simplifying government 
+procedures and information channels; and  
+
+(iii) the improvement of the Borrower’s portal (www.argentina.gov.ar) and the 
+
+implementation of a federal-level call center as single access point for citizens for 
+government services. 
+
+(b) Strengthening of the Borrower’s procurement system, through, inter alia:
+
+(i)  the promotion and the implementation of the SECOP throughout the Borrower’s 
+federal administration, and the strengthening of Argentina Compra;  
+
+(ii)  the carrying out of outreach and training activities aimed at increasing the base of 
+
+bidders;  
+
+(iii) the development and implementation of integrity agreements (Pactos de 
+Integridad) to be signed between the Borrower (through its relevant agencies 
+and/or entities)  and bidders  for purposes of enhancing the transparency and 
+impartiality of the procurement process and the supervision of contract 
+execution; and  
+
+(iv)  the design and implementation of cost-reduction programs through “quick gains” 
+methodologies. 
+
+(c) Strengthening of the Borrower’s human resource management systems, through, inter 
+alia:
+
+(i) the design of common rules and compensation standards throughout the federal 
+administration;  
+
+(ii) the formulation of detailed job descriptions (nomenclador de puestos) and career 
+
+paths for common federal civil service positions;  
+ 
+(iii) the expansion of the coverage of the Borrower’s centralized personnel registry 
+
+(Sistema de Información de Personal (SINFO)) to include all federal civilian 
+employees, and the definition of basic personnel information to be standardized 
+and maintained electronically in the Legajo Único de Personal Informatizado 
+(LUPI) system; and 
+
+(iv) the strengthening of the capacity of the CCO’s National Training Institute 
+
+(Instituto Nacional de la Administración Pública (INAP)) to design, implement, 
+monitor and evaluate learning courses, on the public sector management systems 
+supported under the Project. 
+
+(d) (i)  Strengthening of the Borrower’s quality management system, through, inter alia:
+
+(A)  the implementation of new mechanisms to improve the definition and 
+ dissemination of indicators, quality standards and benchmarks for the 
+ Citizens Charter Program; and 
+
+(B)  the expansion of instruments for users’ feedback, such as citizen’s report 
+ card mechanisms.  
+
+(ii) Strengthening of access to information, through, inter alia, the enhancement of  
+
+citizens’ access to information as provided by the Borrower’s Decree No. 
+1172/2003, including  the design of an electronic platform.  
+
+Part 3: Project Management
+
+Operation and maintenance of the PIU, for purposes of assisting the CCO in, inter alia,
+the coordination and implementation of the Project. 
+
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Implementation Arrangements
+
+1. (a)   The Borrower shall establish and thereafter operate and maintain, at all times 
+during Project implementation and within the State Modernization Directorate, 
+the PIU with a structure, functions and responsibilities set forth in the 
+Operational Manual. 
+
+(b)   The Borrower shall ensure that the PIU is, at all times during Project 
+
+implementation, headed by a Project coordinator (Coordinador General), and 
+comprised of professional and administrative staff, all in numbers and with terms 
+of reference, and qualifications and experience, acceptable to the Bank. 
+
+(c) The Borrower, through the PIU, shall, prior to the carrying out of any Project 
+activity which requires the participation of a given Borrower’s agency and/or 
+entity, enter into a separate arrangement (convenio marco) with such agency 
+and/or entity, the terms and conditions of which shall include, inter alia, the 
+obligation of such agency and/or entity to undertake all necessary actions to 
+enable the Borrower to fulfill its obligations under this Agreement. 
+
+(d) The Borrower shall, prior to the commencement of each calendar year during 
+Project implementation, create, and thereafter maintain throughout each said 
+calendar year of Project implementation, a specific budget line entry in the 
+relevant annual budget in order to keep track of the corresponding expenditures 
+incurred during Project implementation. 
+
+2. (a)  The Borrower, through the CCO, shall, prior to the carrying out of the small 
+ works under Part 2 (a) (ii) of the Project, carry out an environmental screening of 
+ said works, in a manner and on terms acceptable to the Bank; and 
+
+(b)  immediately thereafter, implement and/or cause to be implemented, all 
+environmental mitigatory measures identified in said environmental screening, if 
+any, all in a manner acceptable to the Bank. 
+
+Section II. Project Monitoring Reporting and Evaluation
+
+A. Project Reports   
+ 
+1. The Borrower shall monitor and evaluate the progress of the Project and prepare Project 
+
+Reports in accordance with the provisions of Section 5.08 of the General Conditions and 
+on the basis of Project indicators set forth in the Operational Manual. Each Project Report 
+shall cover the period of one calendar semester, and shall be furnished to the Bank not 
+later than 45 days after the end of the first calendar semester of each year (starting with 
+
+the first calendar semester of the year 2008) and 60 days after the end of the second 
+calendar semester of each year. 
+
+B. Financial Management, Financial Reports and Audits   
+ 
+1. The Borrower shall maintain or cause to be maintained a financial management system in 
+
+accordance with the provisions of Section 5.09 of the General Conditions. 
+ 
+2. Without limitation on the provisions of Part A of this Section and as part of the 
+
+information to be included in the Project Report, the Borrower shall prepare and furnish 
+to the Bank not later than 45 days after the end of first calendar semester of each year 
+(starting with the first calendar semester of the year 2008) and 60 days after the end of 
+the second calendar semester of each year, interim un-audited financial reports for the 
+Project covering the pertinent semester, in form and substance satisfactory to the Bank.  
+
+3. The Borrower shall have its Financial Statements audited in accordance with the 
+provisions of Section 5.09 (b) of the General Conditions.  Each audit of the Financial 
+Statements shall cover the period of one fiscal year of the Borrower. The audited 
+Financial Statements for each such period shall be furnished to the Bank not later than six 
+months after the end of such period. 
+
+Section III. Procurement
+
+A. General 
+
+1. Goods, Works and Non-Consultant Services.   All goods, works and Non-Consultant 
+Services required for the Project and to be financed out of the proceeds of the Loan shall 
+be procured in accordance with the requirements set forth or referred to in Section I of the 
+Procurement Guidelines, and with the provisions of this Section. 
+
+2. Consultants’ Services.  All consultants’ services required for the Project and to be 
+
+financed out of the proceeds of the Loan shall be procured in accordance with the 
+requirements set forth or referred to in Sections I and IV of the Consultant Guidelines and 
+with the provisions of this Section.   
+
+3. Definitions. The capitalized terms used below in this Section to describe particular 
+
+procurement methods or methods of review by the Bank of particular contracts refer to 
+the corresponding method described in the Procurement Guidelines, or Consultant 
+Guidelines, as the case may be. 
+
+4.  Special Provisions.   Without limitation to the other provisions of this Section III, the 
+following additional provisions shall also govern the procurement of goods, works and 
+Non-Consultant Services and consultants’ services under the Project (as the case may be): 
+
+(a) procurement of goods, works, Non-Consultant Services and consultants’ services 
+ (in respect of firms) shall be carried out using standard bidding documents  and 
+ standard requests for quotations/proposals, all acceptable to the Bank, which 
+ shall all include, inter alia, a settlement of dispute provision; 
+
+(b) a two-envelope bidding procedure shall not be allowed in the procurement of 
+ goods and Non-Consultant Services;  
+
+(c) after the public opening of bids for goods and Non-Consultant Services, 
+ information relating to the examination, clarification and evaluation of bids and 
+ recommendations concerning awards, shall not be disclosed to bidders or other 
+ persons not officially concerned with this process until the publication of contract 
+ award. In addition, bidders and/or other persons not officially concerned with 
+ said process shall not be allowed to review or make copies of other bidders’ bids; 
+
+(d) after the public opening of consultants’ proposals, information relating to the 
+ examination, clarification and evaluation of proposals and recommendations 
+ concerning awards, shall not be disclosed to consultants or other persons not 
+ officially concerned with this process until the publication of contract award 
+ (except as provided in paragraphs 2.20 and 2.27 of the Consultant Guidelines). In 
+ addition, consultants and/or other persons not officially concerned with said 
+ process shall not be allowed to review or make copies of other consultants’ 
+ proposals; 
+
+(e)    bidders or consultants shall not, as a condition for submitting bids or proposals 
+ and/or for contract award: (i) be required to be registered in Argentina; (ii) have a 
+ representative in Argentina; and (iii) be associated or subcontract with Argentine 
+ suppliers, contractors or consultants; 
+
+(f)  the invitations to bid, bidding documents, minutes of bid openings, requests for 
+ expressions of interest and the pertinent summary of the evaluation reports of 
+ bids and proposals of all goods, Non-Consultant Services and consultants’ 
+ services, as the case may be, shall be published in the web page of the 
+ Borrower’s Office of National Procurement (Oficina Nacional de 
+ Contrataciones), and in a manner acceptable to the Bank. The bidding period 
+ shall be counted from the date of publication of the invitation to bid or the date of 
+ the availability of the bidding documents, whichever is later, to the date of bid 
+ opening;  
+
+(g) the provisions set forth in paragraphs 2.49, 2.50, 2.52, 2.53, 2.54 and 2.59 of the 
+ Procurement Guidelines shall also be applicable to contracts for goods and Non-
+ Consultant Services to be procured under National Competitive Bidding 
+ procedures; 
+
+(h) references to bidders in one or more specialized magazines shall not be used by 
+ the Borrower in determining if the bidder in respect of goods and Non-Consultant 
+ Services whose bid has been determined to be the lowest evaluated bid has the 
+ capability and resources to effectively carry out the contract as offered in the bid, 
+ as referred to in the provision set forth in paragraph 2.58 of the Procurement 
+ Guidelines. The provision set forth in paragraph 2.58 of the Procurement 
+ Guidelines (including the limitation set forth herein) shall also be applicable to 
+
+contracts for goods and Non-Consultant Services to be procured under National 
+ Competitive Bidding procedures;  
+
+(i) witness prices shall not be used as a parameter for bid evaluation, bid rejection or 
+ contract award; 
+
+(j) the Borrower shall: (i) supply the Bank’s publicly accessible Procurement Plans 
+ Execution System (SEPA) with the information contained in the initial 
+ Procurement Plan within 30 days after such plan has been approved by the Bank; 
+ and (ii) update the Procurement Plan at least biannually, or as required by the 
+ Bank, to reflect the actual Project implementation needs and progress and shall 
+ supply the Bank’s Procurement Plans Execution System with the information 
+ contained in the updated Procurement Plan immediately thereafter; 
+
+(k) consultants shall not be required to submit bid or performance securities; and 
+
+(l) the types of contracts described in Section IV of the Consultant Guidelines shall 
+ be the only types of contracts to be used by the Borrower in connection with the 
+ contracting of consultants’ services provided by a firm and to be financed with 
+ the proceeds of the Loan. 
+
+B. Particular Methods of Procurement of Goods, Works and Non-Consultant Services  
+ 
+1. International Competitive Bidding. Except as otherwise provided in paragraphs A.4 
+
+above and B.2 below, goods, works and Non-Consultant Services shall be procured under 
+contracts awarded on the basis of International Competitive Bidding procedures. 
+
+2. Other Methods of Procurement. The following table specifies the methods of 
+procurement, other than International Competitive Bidding, which may be used for 
+goods, works and Non-Consultant Services. The Procurement Plan shall specify the 
+circumstances under which such methods may be used. 
+
+Procurement Method
+
+(a) National Competitive Bidding 
+(b) Shopping 
+
+C. Particular Methods of Procurement of Consultants’ Services 
+ 
+1. Quality- and Cost-based Selection. Except as otherwise provided in paragraph 2 below, 
+
+consultants’ services shall be procured under contracts awarded on the basis of Quality 
+and Cost-based Selection. 
+
+2. Other Methods of Procurement of Consultants’ Services. The following table 
+specifies the methods of procurement, other than Quality and Cost-based Selection, 
+which may be used for consultants’ services. The Procurement Plan shall specify the 
+circumstances under which such methods may be used. 
+
+Procurement Method
+(a) Least Cost Selection 
+(b) Single Source Selection 
+(c) Procedures set forth in paragraphs 5.1 through 5.3 of the Consultant Guidelines 
+(d) Procedures set forth in paragraphs 5.4 of the Consultant Guidelines for the 
+
+selection of individual consultants 
+
+D. Review by the Bank of Procurement Decisions 
+
+The Procurement Plan shall set forth those contracts which shall be subject to the Bank’s 
+Prior Review.  All other contracts shall be subject to Post Review by the Bank. 
+ 
+Section IV. Withdrawal of Loan Proceeds
+
+A. General   
+ 
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the provisions 
+
+of Article II of the General Conditions, this Section, and such additional instructions as 
+the Bank shall specify by notice to the Borrower (including the “World Bank 
+Disbursement Guidelines for Projects” dated May 2006, as revised from time to time by 
+the Bank and as made applicable to this Agreement pursuant to such instructions), to 
+finance Eligible Expenditures as set forth in the table in paragraph 2 below. 
+
+2. The following table specifies the categories of Eligible Expenditures that may be 
+ financed out of the proceeds of the Loan (“Category”), the allocation of the amounts of 
+ the Loan to each Category, and the percentage of expenditures to be financed for Eligible 
+ Expenditures in each Category. 
+
+Category Amount of the Loan 
+Allocated 
+
+(expressed in USD) 
+
+Percentage of Expenditures 
+to be financed 
+
+(1) Goods, works, Operating 
+Costs, Non-Consultant 
+Services, consultants’ services  
+and Training for Parts 1 and 2 
+of the Project 
+
+ 16,200,000 90% of Eligible Expenditures 
+paid by the Borrower during 
+the calendar year 2008; 80% 
+of Eligible Expenditures paid 
+by the Borrower during the 
+calendar year 2009; 73% of  
+Eligible Expenditures paid by 
+the Borrower during the 
+calendar year 2010; and 70% 
+of Eligible Expenditures paid 
+by the Borrower during the 
+calendar year 2011 
+
+Category Amount of the Loan 
+Allocated 
+
+(expressed in USD) 
+
+Percentage of Expenditures 
+to be financed 
+
+(2) Goods, Non-Consultant 
+Services, Operating Costs, 
+consultants’ services provided 
+by a firm and Training for Part 
+3 of the Project 
+
+ 200,000 90% of Eligible Expenditures 
+paid by the Borrower during 
+the calendar year 2008; 80% 
+of Eligible Expenditures paid 
+by the Borrower during the 
+calendar year 2009; 73% of  
+Eligible Expenditures paid by 
+the Borrower during the 
+calendar year 2010; and 70% 
+of Eligible Expenditures paid 
+by the Borrower  during the 
+calendar year 2011 
+
+(3) Consultants’ services 
+provided by individuals for 
+Part 3 of the Project 
+
+1,500,000  
+ 100% 
+
+(4) Premium for Interest-Rate 
+Caps and Collars 
+
+0 Amount payable pursuant to 
+Section 2.08 (c) of this 
+Agreement 
+
+(5) Front-end Fee  0 Amount payable pursuant to 
+Section 2.04 of this 
+Agreement in accordance with 
+Section 2.07 (b) of the General 
+Conditions 
+
+(6) Unallocated  2,100,000 
+
+TOTAL AMOUNT  20,000,000  
+
+For purposes of this table: 
+
+(a)  the term “Operating Costs” means reasonable recurrent expenditures, based on an 
+ annual budget previously approved by the Bank, that would not have been 
+ incurred by the Borrower absent the Project, for Project administration costs of 
+ the PIU (including office rent), operation and maintenance of office equipment, 
+ non-durable goods; and 
+
+(b)  the term “Training” means expenditures (other than those for consultants’ 
+services) incurred by the Borrower, as approved by the Bank on the basis of an 
+annual budget acceptable to the Bank, to finance reasonable transportation costs 
+and per-diem of trainees and trainers (if applicable), training registration fees, 
+and rental of training facilities and equipment under the Project. 
+
+B. Withdrawal Conditions; Withdrawal Period   
+ 
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be made for 
+ payments made prior to the date of this Agreement, except that withdrawals up to an 
+ aggregate amount not to exceed $4,000,000 equivalent may be made for payments made 
+ prior to the date of this Agreement but on or after January 1, 2008 (but in no case more 
+ than one year prior to the date of this Agreement) for Eligible Expenditures for 
+ Categories (1), (2) and (3).  
+ 
+2. The Closing Date is December 31, 2011. 
+
+SCHEDULE 3 
+
+Amortization Schedule 
+
+1. The following table sets forth the Principal Payment Dates of the Loan and the 
+percentage of the total principal amount of the Loan payable on each Principal Payment 
+Date (“Installment Share”).  If the proceeds of the Loan have been fully withdrawn as of 
+the first Principal Payment Date, the principal amount of the Loan repayable by the 
+Borrower on each Principal Payment Date shall be determined by the Bank by 
+multiplying:  (a) Withdrawn Loan Balance as of the first Principal Payment Date; by (b) 
+the Installment Share for each Principal Payment Date, such repayable amount to be 
+adjusted, as necessary, to deduct any amounts referred to in paragraph 4 of this Schedule, 
+to which a Currency Conversion applies. 
+
+Principal Payment Date Installment Share 
+(Expressed as a Percentage) 
+
+On each January 1 and July 1 
+ Beginning July 1, 2012  
+ through January 1, 2022 
+
+5% 
+
+2.  If the proceeds of the Loan have not been fully withdrawn as of the first Principal 
+Payment Date, the principal amount of the Loan repayable by the Borrower on each 
+Principal Payment Date shall be determined as follows: 
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of the first 
+
+Principal Payment Date, the Borrower shall repay the Withdrawn Loan Balance 
+as of such date in accordance with paragraph 1 of this Schedule. 
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be repaid on 
+
+each Principal Payment Date falling after the date of such withdrawal in amounts 
+determined by the Bank by multiplying the amount of each such withdrawal by a 
+fraction, the numerator of which is the original Installment Share specified in the 
+table in paragraph 1 of this Schedule for said Principal Payment Date (“Original 
+Installment Share”) and the denominator of which is the sum of all remaining 
+Original Installment Shares for Principal Payment Dates falling on or after such 
+date, such amounts repayable to be adjusted, as necessary, to deduct any amounts 
+referred to in paragraph 4 of this Schedule, to which a Currency Conversion 
+applies. 
+
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any 
+Principal Payment Date shall, for the purposes solely of calculating the principal 
+amounts payable on any Principal Payment Date, be treated as withdrawn and 
+outstanding on the second Principal Payment Date following the date of 
+withdrawal and shall be repayable on each Principal Payment Date commencing 
+with the second Principal Payment Date following the date of withdrawal. 
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if at any 
+time the Bank adopts a due date billing system under which invoices are issued 
+on or after the respective Principal Payment Date, the provisions of such sub-
+paragraph shall no longer apply to any withdrawals made after the adoption of 
+such billing system.  
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a Currency 
+
+Conversion of all or any portion of the Withdrawn Loan Balance to an Approved 
+Currency, the amount so converted in the Approved Currency that is repayable on any 
+Principal Payment Date occurring during the Conversion Period, shall be determined by 
+the Bank by multiplying such amount in its currency of denomination immediately prior 
+to the Conversion by either: (i) the exchange rate that reflects the amounts of principal in 
+the Approved Currency payable by the Bank under the Currency Hedge Transaction 
+relating to the Conversion; or (ii) if the Bank so determines in accordance with the 
+Conversion Guidelines, the exchange rate component of the Screen Rate. 
+
+5. If the Withdrawn Loan Balance is denominated in more than one Loan Currency, the 
+
+provisions of this Schedule shall apply separately to the amount denominated in each 
+Loan Currency, so as to produce a separate amortization schedule for each such amount. 
+
+APPENDIX 
+
+Definitions 
+
+1.  “ANDI” means the National Investment Development Agency (Agencia Nacional de 
+Desarrollo de Inversiones), a decentralized bureau within the Borrower’s Ministry of 
+Economy and Production. 
+
+2. “Argentina Compra” means the procurement portal of SECOP 
+(www.argentinacompra.gov.ar). 
+
+3. “Category” means a category set forth in the table in Section IV of Schedule 2 to this 
+Agreement. 
+
+4. “CCO” means the Borrower’s Chief of Cabinet Office (Jefatura de Gabinete de 
+Ministros). 
+
+5. “Citizen’s Charter Program” or “CCP” means the Citizen’s Charter Program (Carta 
+Compromiso con el Ciudadano) established pursuant to the Borrower’s Decree No. 
+229/2000 dated March 8, 2000 published in the Borrower’s National Official Bulletin on 
+March 14, 2000, to set quality standards for the provision of public services by 
+participating government agencies. 
+
+6.  “Consultant Guidelines” means the “Guidelines: Selection and Employment of 
+Consultants by World Bank Borrowers” published by the Bank in May 2004. 
+
+7. “DINAPPFE” means the Dirección Nacional de Programas y Proyectos con 
+
+Financiamiento Externo, the CCO’s National Directorate of Programs and Projects with 
+External Financing. 
+
+8. “General Conditions” means the “International Bank for Reconstruction and 
+
+Development General Conditions for Loans”, dated July 1, 2005. 
+ 
+9. “Non-Consultant Services” means services under the Project to be bid and contracted 
+
+on the basis of performance of measurable physical outputs, including (without 
+limitation) logistics, organization of seminars, workshops, travel, printing services. 
+
+10. “Operational Manual” means the Borrower’s manual, acceptable to the Bank, dated 
+April 27, 2007 which sets forth, inter alia: (i) the institutional and administrative 
+structure of the PIU, including its functions and responsibilities; (ii) the Project’s chart of 
+accounts, internal controls, and budgeting, accounting and financial reporting systems; 
+(iii) the format of: (A) the unaudited interim financial reports referred to in Section II. B. 
+2 of Schedule 2 to this Agreement; and (B) the Financial Statements; (iv) the terms of 
+reference for carrying out the Project audits under Section II.B.3 of Schedule 2 to this 
+Agreement; (v) the Project’s flow of funds structure; (vi) the Project indicators; and (vii) 
+the Project’s administrative and procurement procedures, as said manual may be 
+amended from time to time with the agreement of the Bank. 
+
+11. “PIU” means the Project Implementation Unit referred to in paragraph 1(a) of 
+Section I of Schedule 2 to this Agreement. 
+
+12. “Procurement Guidelines” means the “Guidelines: Procurement under IBRD Loans 
+
+and IDA Credits” published by the Bank in May 2004. 
+ 
+13. “Procurement Plan” means the Borrower’s procurement plan for the Project, dated 
+
+April 16, 2007 and referred to in paragraph 1.16 of the Procurement Guidelines and 
+paragraph 1.24 of the Consultant Guidelines, as the same shall be updated from time to 
+time in accordance with the provisions of said paragraphs. 
+
+14. “SECOP” means the electronic procurement system set forth in the Borrower’s 
+
+Presidential Decree No. 1818 of December 6, 2006, published in the Borrower’s National 
+Official Bulletin on December 11, 2006. 
+
+15. “State Modernization Directorate” means the Dirección Nacional Alterna del 
+
+Proyecto de Modernización del Estado established within CCO pursuant to the 
+Borrower’s Decree No. 1723/2005 dated December 29, 2005 published in the Borrower’s 
+National Official Bulletin on January 18, 2006.

@@ -1,0 +1,647 @@
+World Bank Document
+
+OFFICIAL
+BOCUMENTS'
+
+LOAN NUMBER 8261-RO
+
+Loan Agreement
+
+(Revenue Administration Modernization Project)
+
+between
+
+ROMANIA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+Dated CtCuj ,2013
+
+LOAN AGREEMENT
+
+Agreement dated Q1CA, , 2013 between ROMANIA ("Borrower") and
+INTERNATIONAL BANK FOR RdCONSTRUCTION AND DEVELOPMENT ("Bank"). The
+Borrower and the Bank hereby agree as follows:
+
+ARTICLE I-GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) constitute an integral part
+of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement have the
+meanings ascribed to them in the General Conditions or in the Appendix to this Agreement.
+
+ARTICLE II-LOAN
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or referred to in
+this Agreement, the amount of seventy million Euro (E70,000,000) ("Loan"), to assist in
+financing the project described in Schedule I to this Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section IV of Schedule
+2 to this Agreement.
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one percent (0.25%)
+of the Loan amount. The Borrower shall pay the Front-end Fee not later than 60 days after the
+Effective Date.
+
+2.04. The interest payable by the Borrower for each Interest Period shall be at a rate equal to the
+Reference Rate for the Loan Currency plus the Fixed Spread; provided, that upon a Conversion of
+all or any portion of the principal amount of the Loan, the interest payable by the Borrower
+during the Conversion Period on such amount shall be determined in accordance with the relevant
+provisions of Article IV of the General Conditions. Notwithstanding the foregoing, if any amount
+of the Withdrawn Loan Balance remains unpaid when due and such non-payment continues for a
+period of thirty days, then the interest payable by the Borrower shall instead be calculated as
+provided in Section 3.02 (e) of the General Conditions.
+
+2.05. The Payment Dates are April I and October 1 in each year.
+
+2.06. The principal amount of the Loan shall be repaid in accordance with the amortization schedule set
+forth in Schedule 3 to this Agreement.
+
+2.07. (a) The Borrower may at any time request any of the following Conversions of the terms of
+the Loan in order to facilitate prudent debt management: (i) a change of the Loan
+Currency of all or any portion of the principal amount of the Loan, withdrawn or
+unwithdrawn, to an Approved Currency; (ii) a change of the interest rate basis applicable
+to: (A) all or any portion of the principal amount of the Loan withdrawn and outstanding
+
+from a Variable Rate to a Fixed Rate, or vice versa; or (B) all or any portion of the
+principal amount of the Loan withdrawn and outstanding from a Variable Rate based on a
+Reference Rate and the Variable Spread to a Variable Rate based on a Fixed Reference
+Rate and the Variable Spread, or vice versa; or (C) all of the principal amount of the Loan
+withdrawn and outstanding from a Variable Rate based on a Variable Spread to a
+Variable Rate based on a Fixed Spread; and (iii) the setting of limits on the Variable Rate
+or the Reference Rate applicable to all or any portion of the principal amount of the Loan
+withdrawn and outstanding by the establishment of an Interest Rate Cap or Interest Rate
+Collar on the Variable Rate or the Reference Rate.
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that is accepted by the
+Bank shall be considered a "Conversion", as defined in the General Conditions, and shall
+be effected in accordance with the provisions of Article IV of the General Conditions and
+of the Conversion Guidelines.
+
+ARTICLE III-PROJECT
+
+3.01. The Borrower declares its commitment to the objectives of the Project. To this end, the Borrower
+shall cause the Project to be carried out by the National Agency for Fiscal Administration
+(NAFA) in accordance with the provisions of Article V of the General Conditions.
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and except as the
+Borrower and the Bank shall otherwise agree, the Borrower shall cause NAFA to ensure that the
+Project is carried out in accordance with the provisions of Schedule 2 to this Agreement.
+
+ARTICLE IV-REMEDIES OF THE BANK
+
+4.01. The Additional Events of Suspension consist of the following:
+
+(a) The NAFA's Legislation has been amended, suspended, abrogated, repealed or waived so
+as to affect materially and adversely the ability of the NAFA to perform any of its
+obligations under the Project.
+
+(b) A situation has arisen which shall make it improbable that the Project Implementation
+Plan, or a significant part of it, will be carried out.
+
+4.02. The Additional Events of Acceleration consist of the following: (a) any event specified in
+paragraph (a) of Section 4.01 of this Agreement occurs and is continuing for a period of 120 days
+after notice of the event has been given by the Bank to the Borrower; and (b) any event specified
+in paragraph (b) of Section 4.01 of this Agreement occurs and is continuing for a period of 60
+days after notice of the event has been given by the Bank to the Borrower.
+ARTICLE V-TERMINATION
+
+5.01 The Effectiveness Deadline is the date one hundred and fifty (150) days after the date of this
+
+Agreement.
+
+ARTICLE VI- REPRESENTATIVE; ADDRESSES
+
+6.01. Except as provided in Section 2.02 of this Agreement, the Borrower's Representative is the
+Borrower's Minister of Public Finance.
+
+6.02. The Borrower's Address is:
+
+Ministry of Public Finance
+17, Apolodor Street
+Bucharest
+Romania
+
+Facsimile:
+
++(402) 131 21630
+
+6.03. The Bank's Address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+
+Cable address: Telex: Facsimile:
+
+INTBAFRAD 248423(MCI) or 1
+477-6391
+Washington, D.C. 64145(MCI)
+AGREED at BUCHAREST , as of the day and year first
+above written.
+
+ROMANIA
+
+By
+
+Authorized Representative
+
+Name: DANIEL CHITOIU
+
+VICE PRIME MINISTER
+Title: MINISTER OF PUBLIC FINANCE
+
+By
+
+Authorized Representative
+
+Name: LIVIU VOINEA
+
+Title: MINISTER DELEGATE FOR BUDGET
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTIONAND DEVELOPMENT
+
+By
+
+Authorized Representative
+
+MAMTA MURTHI
+Name:
+
+COUNTRY DIRECTOR
+Title:
+
+CENTRAL EUROPE AND THE BALTIC
+COUNTRIES
+SCHEDULE1
+
+Project Description
+
+The objectives of the Project are to: (a) increase effectiveness and efficiency in collection of taxes
+and social contributions; (b) increase tax compliance; and (c) reduce the burden on taxpayers to comply.
+
+The Project consists of the following parts:
+
+Part A: Institutional Development
+
+1. Provision of Goods, Consultants' services, non-consulting services and Training to support
+NAFA's organizational development by improving its management systems and analytical
+processes.
+
+2. Provision of Goods, Consultants' services, non-consulting services and Training to support and
+strengthen NAFA's internal control, internal public audit and integrity function in line with the
+objectives of the National Anticorruption Strategy already under implementation within NAFA.
+
+3. Provision of Consultants' services and Training to support and strengthen NAFA's human
+resources and training systems and strategies with regard to, among others, recruitment, selection
+and hiring procedures, performance incentive systems, workforce strategic planning, management
+development, curriculum project, short- and long-term needs, and provide training infrastructure
+to meet the operational and technical needs of NAFA.
+
+4. Provision of Consultants' services, non-consulting services and Training to assist NAFA to: (a)
+examine existing legislation and regulations to promote compliance with taxation and social
+contribution legislation and regulations while recognizing the taxpayers'/contributors' rights and
+obligations and propose to MOPF and other governmental bodies improvements in the legal and
+institutional framework; (b) promote uniformity in the application of tax legislation, and (c)
+institute an improved administrative appeals process for NAFA.
+
+5. Provision of Consultants' services and Training to support and strengthen NAFA's business
+process re-engineering in line with a significant business process re-engineering effort, taking full
+advantage of the functionality of the market solutions for revenue management, quality assurance
+approach, and the balanced score card system designed by the MOPF.
+
+Part B: Increasing Operational Effectiveness and Efficiency
+
+1. Provision of Goods, Consultants' services, non-consulting services and Training to improve
+NAFA's operational functions with regard to tax audit, documentary control, anti-fraud, business
+fiscal intelligence, enforcement, registration, declaration and payment processing, and high-
+volume revenue processing in line with international best practices, particularly those followed in
+the European Union member states, and business process reengineering.
+
+2. Provision of Goods, Consultants' services and non-consulting services to support the
+modernization and enhancement of businesses processes and workflows through: (a) the
+development, installation and implementation of appropriate revenue management systems; (b)
+the carrying out of an evaluation of the NAFA's existing and planned IT assets, applications,
+communications and networking infrastructure, and physical facilities, the development of an
+effective comprehensive long term information system and communication technology
+architecture and strategy for NAFA, and the development of appropriate hardware and software
+requirements; (c) the development, improvement and implementation of a core revenue
+management system, data warehouse, and backup, security and disaster recovery capacity; (d) the
+provision of management software; and (e) provision of train-the-trainers Training on the new
+software applications.
+
+3. Provision of Goods, Consultants' services, non-consulting services and Training to develop and
+implement information technology infrastructure.
+
+Part C: Taxpayer Services and Corporate Communication
+
+Provision of Goods, Consultants' services, non-consulting services and Training to: (a) modernize
+taxpayer services; (b) implement mechanisms for transparency and accountability, such as consultative
+technical panel and community surveys, to ensure fair community input; (c) modernize service delivery
+channels to provide advanced services to taxpayers; (d) promote community understanding of revenue
+laws, procedures and rights and obligations of taxpayers; (e) promote taxpayer efficiency through
+simplification and provision of electronic services; and (f) strengthen external and internal
+communication.
+
+Part D: Project Coordination and Management
+
+Provision of Goods, Consultants' services, including external audit, Training and Operating Costs for the
+PMU to carry out Project management activities of the Project.
+SCHEDULE2
+
+Project Execution
+
+Section I. Implementation Arrangements
+
+A. Institutional Arrangements
+
+1. The Borrower shall cause NAFA to establish by not later than 120 days following the Effective
+Date and thereafter maintain, throughout the implementation of the Project, a Coordination
+Council (CC), chaired by the Minister of Public Finance of the Borrower and including high-level
+representatives of NAFA and the Social Houses, with terms of reference, composition and
+resources satisfactory to the Bank, which shall, among other functions, be responsible for
+providing overall strategic guidance for the Project.
+
+2. The Borrower shall cause NAFA to be responsible for the: (a) overall management, coordination
+and facilitation of the implementation of the Project; (b) submission of the progress reports for
+the Project prepared by the PMU; (c) follow-up on the orientations and recommendations of the
+CC; and (d) ensure coordination among the various stakeholders of the Project.
+
+3. The Borrower shall cause NAFA to establish by not later than 120 days following the Effective
+Date and thereafter maintain throughout the implementation of the Project, a Consultative
+Technical Panel (CTP), with terms of reference, composition and resources satisfactory to the
+Bank, which shall meet at least twice a year and shall be responsible for providing feedback to
+NAFA on institutional changes supported by the Project and facilitate external accountability.
+
+4. Upon the start of the Project activities, the Borrower, shall cause NAFA to establish and
+thereafter maintain throughout the implementation of the Project, a Project Implementation
+Committee (PIC), with terms of reference, composition and resources satisfactory to the Bank,
+which shall be responsible for: (a) providing monitoring with regard to the implementation of the
+Project Implementation Plan and the impact of institutional changes carried out under the Project;
+and (b) validating the progress reports prepared by the PMU's administration team.
+
+5. The Borrower shall cause NAFA to maintain, throughout the implementation of the Project, the
+Project Management Unit (PMU) with terms of reference, composition and resources satisfactory
+to the Bank, which shall be responsible, inter alia, for the: (a) day-to-day financial management
+of the Project, including audits; (b) monitoring and evaluation of Project activities; (c) carrying
+out of the procurement of the Project and prepare the updates to the procurement plan; (d)
+provide oversight of any Training activity carried out under the Project; (e) overall coordination
+and facilitation of the implementation of the Project; (f) preparation of the draft annual budget
+proposal of the Project; (g) preparation of the progress reports for the Project; and (h) follow-up
+on the orientations and recommendations of the CC. As part of the PMU, the Borrower shall
+cause NAFA to establish a Project administration team and a change management team each with
+terms of reference, composition and resources satisfactory to the Bank.
+
+6. The Borrower shall cause NAFA to establish by not later than the start of the respective Project
+activities, and thereafter maintain throughout the implementation of said activities of the Project,
+an implementation team for each one of the components of the Project (except for Part D of the
+Project) within NAFA, each with terms of reference, composition and resources satisfactory to
+the Bank, which shall be responsible for assisting NAFA in the day-to-day implementation of the
+activities of the Project in the following areas: organization development, human resources
+management and training, management information system (MIS) and strategic management,
+audit and enforcement, internal public audit and internal control, taxpayer services and
+communications, business process reengineering, revenue management system, information
+technology and infrastructure, and legal and appeal processes.
+
+B. Anti-Corruption
+
+The Borrower shall cause NAFA to ensure that the Project is carried out in accordance with the
+provisions of the Anti-Corruption Guidelines.
+
+C. Project Operational Manual
+
+1. Except as the Bank shall otherwise agree, the Borrower shall cause the Project to be carried out
+by NAFA in accordance with the Project Operational Manual, and except as the Bank shall
+otherwise agree, not amend, abrogate, waive, or permit to be amended, abrogated, or waived, the
+aforementioned, or any provision thereof, without the prior written agreement of the Bank.
+
+2. In the event of any conflict between the provisions of the Operational Manual and those of this
+Agreement, the provisions of this Agreement shall prevail.
+
+D. Project Implementation Plan
+
+1. Except as the Bank shall otherwise agree, the Borrower shall cause the Project to be carried out
+by NAFA in accordance with the Project Implementation Plan, and except as the Bank shall
+otherwise agree, not amend, abrogate, waive, or permit to be amended, abrogated, or waived, the
+aforementioned, or any provision thereof, without the prior written agreement of the Bank.
+
+2. In the event of any conflict between the provisions of the Project Implementation Plan and those
+of this Agreement, the provisions of this Agreement shall prevail.
+
+Section II. Project Monitoring Reporting and Evaluation
+
+A. Project Reports
+
+1. The Borrower shall monitor and evaluate the progress of the Project and cause NAFA to prepare
+Project Reports in accordance with the provisions of Section 5.08 of the General Conditions and
+on the basis of indicators acceptable to the Bank as follows: (a) a semi-annual Project Report
+covering the period of the first calendar semester of each year throughout the implementation of
+the Project; (b) an annual Project Report covering the period of the calendar year, each year
+throughout the implementation of the Project (except for the first year of the Project which shall
+cover the period from the signing of this Agreement to December 31, 2013), and which shall all
+be furnished to the Bank not later than forty-five days after the end of the period covered by such
+report.
+2. The Borrower shall:
+
+(a) at the request of the Bank, exchange views with the Bank with regard to the progress of
+the Project, the performance of its obligations under this Agreement, and promptly
+inform the Bank of any condition which interferes or threatens to interfere with the
+progress of the Project, the accomplishment of the objectives of the Project, or the
+performance of its obligations under this Agreement;
+
+(b) on or about thirty (30) months after the Effective Date, carry out jointly with the Bank, a
+midterm review of the progress made in carrying out the Project (the Midterm Review),
+to cover, amongst other matters, progress made in meeting the Project's objective; and
+overall Project performance against Project performance indicators;
+
+(c) cause NAFA to prepare and, at least four weeks prior to the Midterm Review, furnish to
+the Bank a report describing the status of implementation of each component of the
+Project and a summary report of Project implementation generally; and
+
+(d) no later than four weeks after the Midterm Review, cause NAFA to prepare and submit to
+the Bank an action program, acceptable to the Bank, for the further implementation of the
+Project having regard to the findings of the Midterm Review and, thereafter, implement
+such action program.
+
+B. Financial Management, Financial Reports and Audits
+
+1 . The Borrower shall cause NAFA to maintain a financial management system in accordance with
+
+the provisions of Section 5.09 of the General Conditions.
+
+2. Without limitation on the provisions of Part A of this Section, the Borrower shall cause NAFA to
+prepare and furnish to the Bank not later than forty five days after the end of each calendar
+quarter, interim unaudited financial reports for the Project covering the quarter, in form and
+substance satisfactory to the Bank.
+
+3. The Borrower shall cause NAFA to have its Financial Statements audited in accordance with the
+provisions of Section 5.09 (b) of the General Conditions. Each audit of the Financial Statements
+shall cover the period of one fiscal year of the Borrower, commencing with the fiscal year in
+which the first withdrawal was made under the Project. The audited Financial Statements for
+each such period shall be furnished to the Bank not later than six months after the end of such
+period.
+
+Section III. Procurement
+
+A. General
+
+1. Goods and Non-consulting Services. All Goods and non-consulting services required for the
+Project and to be financed out of the proceeds of the Loan shall be procured in accordance with
+the requirements set forth or referred to in Section I of the Procurement Guidelines, and with the
+provisions of this Section.
+2. Consultants' Services. All Consultants' services required for the Project and to be financed out
+of the proceeds of the Loan shall be procured in accordance with the requirements set forth or
+referred to in Sections I and IV of the Consultant Guidelines and with the provisions of this
+Section.
+
+3. Definitions. The capitalized terms used below in this Section to describe particular procurement
+methods or methods of review by the Bank of particular contracts refer to the corresponding
+methods described in Sections II and III of the Procurement Guidelines, or Sections II, III, IV and
+V of the Consultant Guidelines, as the case may be.
+
+B. Particular Methods of Procurement of Goods and Non-consulting Services
+
+1. International Competitive Bidding. Except as otherwise provided in paragraph 2 below, Goods
+and non-consulting services shall be procured under contracts awarded on the basis of
+International Competitive Bidding procedures.
+
+2. Other Methods of Procurement of Goods and Non-consulting Services. The following
+methods, other than International Competitive Bidding, may be used for procurement of Goods
+and non-consulting services for those contracts specified in the Procurement Plan: (a) National
+Competitive Bidding subject to the following additional provisions: goods and non-consulting
+services contracts may be procured in accordance with the Borrower's national law and
+regulations to the extent they are acceptable to the Bank; (b) Shopping; and (c) Direct
+Contracting.
+
+C. Particular Methods of Procurement of Consultants' Services
+
+1. Quality- and Cost-based Selection. Except as otherwise provided in paragraph 2 below,
+Consultants' services shall be procured under contracts awarded on the basis of Quality and Cost-
+based Selection.
+
+2. Other Methods of Procurement of Consultants' Services. The following methods, other than
+Quality and Cost-based Selection, may be used for procurement of Consultants' services for those
+contracts which are specified in the Procurement Plan: (a) Quality-based Selection; (b) Selection
+under a Fixed Budget; (c) Least Cost Selection; (d) Selection based on Consultants'
+Qualifications; (e) Single-source Selection of consulting firms; (f) Procedures set forth in
+paragraphs 5.2 and 5.3 of the Consultant Guidelines for the Selection of Individual Consultants;
+and (g) Single-source procedures for the Selection of Individual Consultants.
+
+D. Review by the Bank of Procurement Decisions
+
+The Procurement Plan shall set forth those contracts which shall be subject to the Bank's Prior
+Review. All other contracts shall be subject to Post Review by the Bank.
+Section IV. Withdrawal of Loan Proceeds
+
+A. General
+
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the provisions of
+Article II of the General Conditions, this Section, and such additional instructions as the Bank
+shall specify by notice to the Borrower (including the "World Bank Disbursement Guidelines for
+Projects" dated May 2006, as revised from time to time by the Bank and as made applicable to
+this Agreement pursuant to such instructions), to finance Eligible Expenditures as set forth in the
+table in paragraph 2 below.
+
+2. The following table specifies the categories of Eligible Expenditures that may be financed out of
+the proceeds of the Loan ("Category"), the allocation of the amounts of the Loan to each
+Category, and the percentage of expenditures to be financed for Eligible Expenditures in each
+Category.
+
+Category Amount of the Loan Percentage of Expenditures to
+Allocated be financed
+
+(expressed in Euro) (inclusive of Taxes)
+(1) Goods, non-consulting 70,000,000 100%
+services, Consultants' services,
+including audit, Training and
+Operating Costs of the Project
+
+TOTAL AMOUNT 70,000,000
+
+B. Withdrawal Conditions; Withdrawal Period
+
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be made:
+
+(a) from the Loan Account until the Bank has received payment in full of the Front-end Fee;
+and
+
+(b) for payments made prior to the date of this Agreement, except that withdrawals up to an
+aggregate amount not to exceed one million euro (E1,000,000) equivalent may be made
+for payments made prior to this date but on or after March 30, 2013 for Eligible
+Expenditures.
+
+2. The Closing Date is March 31, 2019.
+
+SCHEDULE 3
+
+Amortization Schedule
+
+1. The following table sets forth the Principal Payment Dates of the Loan and the percentage of the
+total principal amount of the Loan payable on each Principal Payment Date ("Installment Share").
+If the proceeds of the Loan have been fully withdrawn as of the first Principal Payment Date, the
+principal amount of the Loan repayable by the Borrower on each Principal Payment Date shall be
+determined by the Bank by multiplying: (a) Withdrawn Loan Balance as of the first Principal
+Payment Date; by (b) the Installment Share for each Principal Payment Date, such repayable
+amount to be adjusted, as necessary, to deduct any amounts referred to in paragraph 4 of this
+Schedule, to which a Currency Conversion applies.
+
+Principal Payment Date Installment Share
+(Expressed as a Percentage)
+
+On each April l and October 1
+beginning October 1, 2018
+through October 1, 2024 7.140%
+
+On April 1, 2025 7.180%
+
+2. If the proceeds of the Loan have not been fully withdrawn as of the first Principal Payment Date,
+the principal amount of the Loan repayable by the Borrower on each Principal Payment Date
+shall be determined as follows:
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of the first Principal
+Payment Date, the Borrower shall repay the Withdrawn Loan Balance as of such date in
+accordance with paragraph I of this Schedule.
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be repaid on each
+Principal Payment Date falling after the date of such withdrawal in amounts determined
+by the Bank by multiplying the amount of each such withdrawal by a fraction, the
+numerator of which is the original Installment Share specified in the table in paragraph I
+of this Schedule for said Principal Payment Date ("Original Installment Share") and the
+denominator of which is the sum of all remaining Original Installment Shares for
+Principal Payment Dates falling on or after such date, such amounts repayable to be
+adjusted, as necessary, to deduct any amounts referred to in paragraph 4 of this Schedule,
+to which a Currency Conversion applies.
+
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any Principal
+Payment Date shall, for the purposes solely of calculating the principal amounts payable
+on any Principal Payment Date, be treated as withdrawn and outstanding on the second
+Principal Payment Date following the date of withdrawal and shall be repayable on each
+Principal Payment Date commencing with the second Principal Payment Date following
+the date of withdrawal.
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if at any time the
+Bank adopts a due date billing system under which invoices are issued on or after the
+respective Principal Payment Date, the provisions of such sub-paragraph shall no longer
+apply to any withdrawals made after the adoption of such billing system.
+
+4. Notwithstanding the provisions of paragraphs I and 2 of this Schedule, upon a Currency
+Conversion of all or any portion of the Withdrawn Loan Balance to an Approved Currency, the
+amount so converted in the Approved Currency that is repayable on any Principal Payment Date
+occurring during the Conversion Period, shall be determined by the Bank by multiplying such
+amount in its currency of denomination immediately prior to the Conversion by either: (i) the
+exchange rate that reflects the amounts of principal in the Approved Currency payable by the
+Bank under the Currency Hedge Transaction relating to the Conversion; or (ii) if the Bank so
+determines in accordance with the Conversion Guidelines, the exchange rate component of the
+Screen Rate.
+
+5. If the Withdrawn Loan Balance is denominated in more than one Loan Currency, the provisions
+of this Schedule shall apply separately to the amount denominated in each Loan Currency, so as
+to produce a separate amortization schedule for each such amount.
+APPENDIX
+
+Section I. Definitions
+
+1. "Anti-Corruption Guidelines" means the "Guidelines on Preventing and Combating Fraud and
+Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants", dated October 15,
+2006 and revised in January 2011.
+
+2. "Category" means a category set forth in the table in Section IV of Schedule 2 to this Agreement.
+
+3. "Consultants" means the consultants described in the Consultant Guidelines (as defined
+hereinafter) including a variety of private and public entities such as consulting firms, engineering
+firms, management firms, auditors, multinational organizations, investment and merchant banks,
+universities, research institutions, government agencies, nongovernmental organizations (NGOs),
+and individuals.
+
+4. "Consultant Guidelines" means the "Guidelines: Selection and Employment of Consultants under
+IBRD Loans and IDA Credits and Grants by World Bank Borrowers" dated January 2011.
+
+5. "Consultative Technical Panel" or "CTP" means the Borrower's committee to be established
+pursuant to and as described in Part A.3 of the Schedule 2 to this Agreement.
+
+6. "Coordination Council" or "CC" means the Borrower's committee to be established pursuant to
+and as described in Part A.2 of the Schedule 2 to this Agreement.
+
+7. "Fiscal Year" means the period between January I and December 31 for each calendar year
+throughout the implementation of the Project.
+
+8. "General Conditions" means the "International Bank for Reconstruction and Development
+General Conditions for Loans", dated March 12, 2012.
+
+9. "Goods" means the goods described in the Procurement Guidelines (as defined hereinafter)
+including commodities, raw material, machinery, equipment, vehicles, and industrial plant.
+
+10. "Ministry of Public Finance" or "MOPF" means the Borrowers' Ministry of Public Finance or its
+successor thereof.
+
+I1. "NAFA" means the Borrower's National Agency for Fiscal Administration established pursuant
+to the NAFA Legislation (as described hereunder).
+
+12. "NAFA's Legislation" means the Borrower's National Agency for Fiscal Administration
+established pursuant to the Government Ordinance No. 86/2003 concerning fiscal and financial
+measures and published in the Official Gazette No. 624 dated August 31, 2003, subsequently
+amended, and Government Decision No. 109/2009 on the organization and functioning of the
+National Agency for Fiscal Administration, published in the Borrower's Official Gazette No. 126
+dated March 2, 2009, as subsequently amended, or any successor thereof
+13. "National Anticorruption Strategy" means the Borrower's national strategy to fight corruption,
+approved by the Borrower's Government Decision No. 215 dated March 27, 2012.
+
+14. "Non-Consultant Services" means the non-consultant services described in the Procurement
+Guidelines (as defined hereinafter) including the non-consulting services for which the physical
+aspects of the activity predominate, are bid and contracted on the basis of performance of a
+measurable physical output, and for which performance standards can be clearly identified and
+consistently applied, such as drilling, aerial photography, satellite imagery, mapping, and similar
+operations.
+
+15. "Operating Costs" means the incremental expenses incurred by the Borrower on account of
+Project implementation, management, and monitoring, for office space rental, utilities, and
+supplies, bank charges, communications, vehicle operation, maintenance, and insurance, building
+and equipment maintenance, advertising expenses, translation, travel and supervision (including
+supervision activities in connection with the Project, salaries of contractual and temporary staff,
+but excluding salaries, fees, and bonuses of members of the Borrower's civil service).
+
+16. "Procurement Guidelines" means the "Guidelines: Procurement of Goods, Works and Non-
+consulting Services under IBRD Loans and IDA Credits and Grants by World Bank Borrowers"
+dated January 2011.
+
+17. "Procurement Plan" means the Borrower's procurement plan for the Project, dated March 19,
+2013 and referred to in paragraph 1.18 of the Procurement Guidelines and paragraph 1.25 of the
+Consultant Guidelines, as the same shall be updated from time to time in accordance with the
+provisions of said paragraphs.
+
+18. "Project Implementation Committee" or "PIC" means the Borrower's committee to be established
+pursuant to and as described in Section I, Part A.4 of Schedule 2 to this Agreement.
+
+19. "Project Implementation Plan" means the NAFA's plan dated March 29, 2013 to delineate the
+various milestones and steps that need to be accomplished under the Project, under Section I.D of
+Schedule 2 to this Agreement.
+
+20. "Project Management Unit" or "PMU" means the unit established within the NAFA pursuant to
+the NAFA's Orders 837 dated November 27, 2012 and NAFA's Order 301 dated March 18, 2013,
+as described in Section I, Part A.5 of the Schedule 2 to this Agreement.
+
+21. "Project Operational Manual" means the manual dated March 29, 2013 outlining, inter alia,
+responsibilities, procurement and contracting procedures, and procedures for preparation of
+annual Training plans for the implementation of the Project, and such term includes any
+schedules to the manual, under Section I.C of Schedule 2 to this Agreement.
+
+22. "Social Houses" means the Borrower's: (a) National House for Public Pension established
+pursuant to Law No. 263 /2010 regarding the public pension unitary system, published in the
+Borrower's Official Gazette No. 852 dated December 20, 2010 as subsequently amended, or any
+successor thereto; (b) the Health Insurance National House established pursuant to the Law No.
+95/2006 regarding the health sector reform, published in the Borrower's Official Gazette No. 372
+dated April 28, 2006, as subsequently amended, or any successor thereto, and (c) the National
+Agency for Employment respectively established pursuant to Law No. 202/2006 on the
+organization and functioning of the National Agency for Employment, as subsequently amended,
+republished in the Borrower's Official Gazette No. 294 dated May 6, 2009, or any successor
+thereto.
+
+23. "Training" means the training and training-related activities, including seminars, workshops and
+study tours, travel and subsistence allowances for training participants, trainers' fees, rental of
+training facilities, preparation and reproduction of training materials and other activities
+incidental to the preparation and implementation of training activities.

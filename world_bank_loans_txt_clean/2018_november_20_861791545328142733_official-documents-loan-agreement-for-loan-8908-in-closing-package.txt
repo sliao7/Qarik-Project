@@ -1,0 +1,561 @@
+World Bank Document
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8908-IN
+
+Loan Agreement
+
+(Jharkhand Power System Improvement Project)
+
+between
+
+INDIA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+LOAN AGREEMENT
+
+AGREEMENT dated as of the Signature Date between INDIA ("Borrower") and
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT ("Bank"). The
+Borrower and the Bank hereby agree as follows:
+
+ARTICLE I- GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) apply to and form
+part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement have
+the meanings ascribed to them in the General Conditions or in the Appendix to this
+Agreement.
+
+ARTICLE II - LOAN
+
+2.01. The Bank agrees to lend to the Borrower the amount of three hundred and ten million
+United States dollars, (USD3 10.000,000), as such amount may be converted from time to
+time through a Currency Conversion ("Loan"), to assist in financing the project described
+in Schedule 1 to this Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section III of
+Schedule 2 to this Agreement.
+
+2.03. The Front-end Fee is one quarter of one percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge is one quarter of one percent (0.25%) per annum on the
+Unwithdrawn Loan Balance.
+
+2.05. The interest rate is the Reference Rate plus the Variable Spread or such rate as may apply
+following a Conversion; subject to Section 3.02(e) of the General Conditions.
+
+(a) If on any given day, the Total Exposure exceeds the Standard Exposure Limit (as
+said terms are defined in sub-paragraphs (b)(ii) and (b)(iii) of this Section), the
+Borrower shall pay to the Bank a surcharge at the rate of one half of one percent
+(0.5%) per annum of the Allocated Excess Exposure Amount (as defined in sub-
+paragraph (b)(i) of this Section) for each said day ("Exposure Surcharge"). The
+Exposure Surcharge (if any) shall be payable semi-annually in arrears on each
+Payment Date.
+
+(b) For purposes of this Section the following terms have the meanings set forth below:
+
+(i) "Allocated Excess Exposure Amount" means for each day during which
+the Total Exposure exceeds the Standard Exposure Limit, the product of:
+(A) the total amount of said excess: and (B) the ratio of all (or, if the Bank
+so determines, a portion) of the Loan to the aggregate amount of all (or the
+equivalent portions) of the loans made by the Bank to the Borrower, and
+to other borrowers guaranteed by the Borrower that are also subject to an
+exposure surcharge, as said excess and ratio are reasonably determined
+from time to time by the Bank.
+
+(ii) "Standard Exposure Limit" means the standard limit on, the Bank's
+financial exposure to the Borrower which, if exceeded, would subject the
+Loan to the Exposure Surcharge, as determined from time to time by the
+Bank.
+
+(iii) "Total Exposure" means for any given day, the Bank's total financial
+exposure to the Borrower, as reasonably determined by the Bank.
+
+2.06. The Payment Dates are June 15and December15 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with Schedule 3 to this
+Agreement.
+
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objective of the Project. To this end, the
+Borrower shall ensure that the Project Implementing Entity causes JUSNL and JBVNL
+(the "Implementing Agencies") to carry out their Respective Parts of the Project in
+accordance with the provisions of Article V of the General Conditions, Schedule 2 to this
+Agreement, and the Project Agreement.
+
+ARTICLE IV - REMEDIES OF THE BANK
+
+4.01. The Additional Event of Suspension is that any of the Implementing Agencies' Legal
+Frameworks has been amended, suspended, abrogated, repealed or waived so as to affect
+materially and adversely the ability of the relevant Implementing Agency to perform any
+of its obligations under the Project Agreement.
+
+4.02. The Additional Event of Acceleration is that the event specified in Section 4.01 of this
+Agreement occurs and is continuing for a period of 60 days after notice of the event has
+been given by the Bank to the Borrower.
+
+ARTICLE V - EFFECTIVENESS; TERMINATION
+
+5.01. The Additional Condition of Effectiveness is that the Subsidiary Agreements have been
+executed on behalf of the Project Implementing Entity and the Implementing Agencies and
+all conditions precedents for their effectiveness have been met.
+
+5.02. The Effectiveness Deadline is the date ninety (90) days after the Signature Date.
+ARTICLE VI - REPRESENTATIVE; ADDRESSES
+
+6.01. The Borrower's Representative is any of the following officials, acting severally: the
+Secretary, Additional Secretary, Joint Secretary, Director, Deputy Secretary or Under
+Secretary of the Department of Economic Affairs in the Ministry of Finance of the
+Borrower.
+
+6.02. For purposes of Section 10.01 of the General Conditions:
+
+(a) the Borrower's Address is:
+
+Secretary
+Department of Economic Affairs
+Ministry of Finance
+Government of India
+North Block
+New Delhi 110 001, India, and
+
+(b) the Borrower's Electronic Address is:
+
+Facsimile:
+
+-91 (11)23092883
+
+6.03. For purposes of Section 10.01 of the General Conditions:
+
+(a) the Bank's address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America; and
+
+(b) the Bank's Electronic Address is:
+
+Telex: Facsimile:
+
+248423(MCI) or 1
+477-6391
+64145(MCI)
+AGREED as of the Signature Date.
+
+INDIA
+
+By
+
+Auforized Representative
+
+Name: 5&" C-6g-wS k#lAPC
+
+Title: A1 7StOrroArkL
+
+Date:
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+Byy _
+
+Authorized Representative
+
+Name: ~ k~A 4k
+
+Title: 4P0AJI*V/Ah
+
+Date: A)0Vo56-1'6~&
+SCHEDULE 1
+
+Project Description
+
+The objective of the Project is to increase the transmission capacity of the electricity
+network in the State of Jharkhand and strengthening the institutional capacity of the state-owned
+power transmission and distribution utilities.
+
+The Project consists of the following parts:
+
+Component L. Intra-State Transmission System Strengthening
+
+1 Expanding and strengthening intra-state transmission system to increase its capacity and
+reliability through the construction of 132 kV, and 220 kV substations and associated
+transmission lines, and carrying out emergency restoration measures.
+
+2. Strengthening the State Load Dispatch Center and its operations, by financing, among
+others, availability-based-tariff meters, software solutions, optical ground wire and
+communications equipment.
+
+Component 2 Technical Assistance for Institutional Development and Capacity Building of
+JUSAL
+
+1. Improving the organization structure and delegation of financial powers of JUSNL
+
+2. Strengthening project planning, procurement and contract management practices within
+JUSNL, through inter alia, developing works and procurement policies and procedures
+(i.e. detailed procedures for procurement and contract management).
+
+3. Strengthening JUSNL's financial management framework by, inter alia, improving the
+financial management and corporate governance practices, strengthening internal control
+mechanism, and automating financial systems.
+
+4. Automating JUSNL's internal business functions (e.g. inventory management, payroll
+management) by, inter aba, deploying IT solutions.
+
+5. Appointing a Project management consultant to assist JUSNL in supervising and
+monitoring sub-projects under Component I of the Project.
+
+6. Strengthening the capacity of JUSNL staff through, inter aba, the provision of Training
+and Workshops, and knowledge exchange visits.
+Component 3: Improving operational efficiency and developine institutional capacity ofJBVNL
+
+1. Installing smart meters, including back-end system integration, in selected geographical
+areas and for selected consumers within JBVNL's service delivery jurisdiction.
+
+2. Upgrading JBVNL's commercial IT systems and business processes for billing, collection
+and customer relationship. management.
+
+3. (i) Improving JBVNtL's human resource management by standardizing practices and
+policies and developing business review frameworks; (ii) implementing business process
+reengineering focused on commercial processes and capital investments; (iii) deploying
+software tools and developing business processes to optimize power procurement costs;
+(iv) strengthening JBVNL's financial management framework and improving corporate
+governance practices and strengthening internal controls; and (v) strengthening the
+capacity of JBVNL staff through. inter alia, the provision of Training and Workshops, and
+study tours.
+SCHEDULE 2
+
+Project Execution
+
+Section I. Implementation Arran2ements
+
+A. On-lending Arrangements
+
+I. To facilitate the Project Implementing Entity's carrying out the Project through the
+Implementing Agencies, the Borrower shall make the proceeds of the Loan available to the
+Project Implementing Entity in accordance with the Borrower's standard arrangements for
+developmental assistance to the States of India.
+
+2. Notwithstanding paragraph I above, in the event that any provision of this Agreement,
+including the instructions that the Bank shall have specified by notice to the Borrower
+pursuant to Section 2.01(b) of the General Condition (including the Disbursement and
+Financial Information Letter), were to be found inconsistent with the Borrower's standard
+arrangements for development assistance to the States of India, the provisions of this
+Agreement and related instructions shall prevail.
+
+3. The Borrower shall protect its own interests and the interests of the Bank to accomplish
+the purpose of the Loan.
+
+Section II. Project Monitoring Reporting and Evaluation
+
+The Borrower shall cause the Project Implementing Entity to ensure that the Implementing
+Agencies furnish to the Bank each Project Report not later than forty-five (45) days after
+the end of each calendar quarter, covering the calendar quarter.
+
+Section III. Withdrawal of Loan Proceeds
+
+A. General.
+
+Without limitation upon the provisions of Article II of the General Conditions and in
+accordance with the Disbursement and Financial Information Letter, the Borrower may
+withdraw the proceeds of the Loan to: (a) finance Eligible Expenditures; and (b) pay: (i)
+the Front-end Fee; and [(ii) each Interest Rate Cap or Interest Rate Collar premium; in the
+amount allocated and, if applicable, up to the percentage set forth against each Category of
+the following table:
+Category Amount of the Loan Percentage of Expenditures
+Allocated to be financed
+
+(expressed in USD) (inclusive of Taxes)
+
+(1) Goods, works, non-consulting
+services, consulting services,
+Training and Workshops, and
+Incremental Operating Costs
+for Components I and 2 of the
+Project
+
+(2) Goods, works, non-consulting
+services, consulting services
+Training and Workshops, and 25,000,000 up to 70%
+Incremental Operating Costs
+for Component 3 of the Project
+
+Amount payable pursuant to
+Section 2.03 of this
+
+(3) Front-end Fee 775,000 Agreement in accordance with
+Section 2.07 (b) of the General
+Conditions]
+
+(4) Interest Rate Cap or Interest Amount due pursuant to
+(4)e 0 Section 4.05 (c) of the General
+Rate Collar premiumCodtns
+
+Conditions]
+
+TOTAL AMONT 310,000,000
+
+B. Withdrawal Conditions; Withdrawal Period.
+
+I. Notwithstanding the provisions of Part A above, no withdrawal shall be made:
+
+(a) for payments made prior to the Signature Date, except that withdrawals up to an
+aggregate amount not to exceed fifty million United States Dollars (USD
+50,000,000) may be made for payments made prior to this date but on or after
+December 1, 2017, for Eligible Expenditures under Categories (1) and (2) above;
+or
+
+(b) under Category (1) above, until and unless, JUSNL has prepared and adopted the
+Operations Manual set forth in Section I.E. of the Schedule to the Project
+Agreement, in a manner and substance acceptable to the Bank.
+
+2. The Closing Date is May 31, 2024.
+C. Ineligible Expenditures
+
+The following expenditures shall not be considered Eligible Expenditures for purposes of
+this Loan, and the Borrower shall ensure, and cause the Project Implementing Entity and
+the Implementing Agencies to ensure that such expenditures are financed exclusively out
+of the Project Implementing Entity's or the Implementing Agencies' own resources, as the
+case may be, and not out of the proceeds of the Loan, namely:
+
+(a) all land acquisition required for the purpose of the Project;
+
+(b) any compensation, resettlement and rehabilitation payment to Affected
+Persons in accordance with the provision of the RAP(s) or CPTD(s) and
+TPDP.
+
+(c) any compensatory afforestation payments, including as required by the
+ESMF, or the investment-specific ESMP;
+
+(d) any interest during construction;
+
+(e) any retention money deducted from contract payments, and not released
+by Closing Date; and
+
+(f) any expenditures objected or considered ineligible by the World Bank
+internal auditors, or the independent auditors in the Project's Financial
+Statements prepared pursuant to Section 5.09 of the General Conditions.
+SCHEDULE 3
+
+The following table sets forth the Principal Payment Dates of the Loan and the percentage of the
+total principal amount of the Loan payable on each Principal Payment Date ("Installment Share").
+
+Level Principal Repayments
+Principal Payment Date Installment Share
+
+On each December 15 and June 15
+
+Beginning December 15, 2023 2.50%
+
+through June 15, 2043
+APPENDIX
+
+Section I. Definitions
+
+1I "Affected Persons" means persons who, on account of the execution of the Project, have
+experienced or would experience direct economic and social impacts caused by: (a) the
+involuntary taking of land, resulting in: (i) relocation or loss of shelter (ii) loss of assets or
+access to assets; or (iii) loss of income sources or means of livelihood, whether or not such
+persons must move to another location; or (b) the involuntary restriction of access to legally
+designated parks and protected areas, resulting in adverse impact on the livelihoods of such
+persons.
+
+2. "Anti-Corruption Guidelines" means, for purposes of paragraph 5 of the Appendix to the
+General Conditions, the "Guidelines on Preventing and Combating Fraud and Corruption
+in Projects Financed by IBRD Loans and IDA Credits and Grants", dated October 15, 2006
+and revised in January 2011 and as of July 1, 2016.
+
+3. "Bank Safeguard Policies" means the Bank's operational policies and procedures set forth
+in the Bank's operational manual under OP'BPs 4.01, 4.04, 4.09, 4.10, 4.11, 4.12 and 4.36,
+or any successor thereof, as said manual is published under
+www.WorldBank.org/opmanual.
+
+4. "Category" means a category set forth in the table in Section Ill.A of Schedule 2 to this
+Agreement.
+
+5. "CPTD" means each investment-specific compensatory plan for temporary disturbance (to
+be) prepared, adopted and publicly disclosed by the JUSNL pursuant to Section I.H.2 of
+the Schedule to the Project Agreement, in accordance with the provision of the ESMF,
+setting forth the entitlement matrix for the payment of compensations for temporary
+disturbance to Affected Persons on account of the erection of towers and right of way for
+the power transmission lines under the Component I of the Project in a manner and
+substance satisfactory to the Bank, as such plans may be revised/updated from time to time
+with the prior written agreement of the Bank.
+
+6. "E&S Cell" means the cell to be established by JUSNL pursuant to Section I.C.l(a) of the
+Schedule to the Project Agreement.
+
+7. "ESMF" means JUSNL's environmental and social management framework, dated
+September, 2017, disclosed by the Bank on December 27, 2017, setting forth the guiding
+policies/principles, acceptable standards and procedures for: (a) screening of Project
+investment activities and the identification of any adverse or positive social and
+environmental impacts caused, or expected to be caused, on account of their
+implementation., including the identification of any Affected Persons arising as a
+consequence thereof, as well as the appropriate mitigation and/or compensatory measures
+(entitlements) therefor; (b) ensuring that Tribal Groups and their communities affected by
+the Project receive culturally appropriate social and economic benefits, and if any potential
+adverse effects on such communities were identified, the measures to ensure that their
+effects are avoided, minimized, mitigated, or compensated; and (c) preparing the
+prescribed ESMP(s), the RAP(s). the CPTD(s) and the TPDP(s), as applicable; as such
+framework may be revised, updated or supplemented from time to time with the prior
+written concurrence of the Bank-
+
+8. "ESMP" means each investment-specific environmental and social management plan (to
+be) prepared adopted and publicly disclosed by JUSNL pursuant to Section I.H.2 of
+Schedule to Project Agreement, pursuant to the provisions of the ESMF, setting out
+mitigation, enhancement, monitoring and institutional measures, including capacity
+building through training, required to: (i) eliminate adverse environmental and social
+impacts of activities to be implemented under Project; (ii) provide compensation for them,
+and offset them or reduce them to acceptable levels; (iii) enhance any positive impacts
+thereof through; and (iv) ensure meaningful participation of stakeholder, in particularly
+vulnerable groups; as such plan may be revised, updated or supplemented from time to
+time with the prior written concurrence of the Bank.
+
+9. "General Conditions" means the "International Bank for Reconstruction and Development
+General Conditions for IBRD Financing, Investment Project Financing", dated July 14,
+2017, with the modifications set forth in Section H1 of this Appendix.
+
+10. "Implementing Agencies" means collectively JBVNL and JUSNL.
+
+I1. "Implementing Agencies' Legal Frameworks" means
+
+(a) in respect of JBVNL: the Memorandum and Articles of Association of JBVNL,
+dated l' October, 2013, as amended to the date of this Agreement; and
+
+(b) in respect of JUSNL: the Memorandum and Articles of Association of JUSNL,
+dated of l" October, 2013, as amended to the date of this Agreement.
+
+12. "Incremental Operating Costs" means the incremental expenses incurred by the
+Implementing Agencies on account of the management, implementation, monitoring
+and/or evaluation of their Respective Parts of the Project, including, but no limited to:
+incremental co-terminus staff salaries, per diem and allowances, office rent, office supplies,
+utilities, conveyance, travel and boarding/lodging allowances, operating and maintenance
+expenditures of office equipment and vehicles, bank charges, insurance, advertising, media
+projections, newspaper subscriptions, periodicals, and printing and stationary costs
+incurred for the purposes of Project activities; but excluding salaries, fees, honoraria,
+bonuses, and any other salary supplements of members of the Borrower's and the Project
+Implementing Entity's civil service or the Implementing Agencies regular (open ended)
+staff
+
+13. "IT" means information technology.
+
+14. "JBVNI" means Jharkhand Bijli Vitran Nigam Limited company, a state-owned power
+distribution utility, registered under the Borrower's Companies Act (1956) pursuant to
+Certificate of Incorporation No. U40108JH2013SGC001702, having its registered offices
+at Engineering Building, H.E.C Dhurwa, P.S. Hatia, Ranchi, Jharkhand, India.
+
+15. "JBVNL PMC" means the Project management consulting firm selected by JBVNL
+pursuant to contract dated 25"' January 2018 between JBVNL and Tata Power Delhi
+Distribution Ltd. and referred to in Section I.D of the Schedule to the Project Agreement.
+16. "JUSNL" means Jharkhand Urja Sancharan Nigam Limited company. a state-owned power
+transmission utility, registered under the Borrower's Companies Act (1956) pursuant to
+Certificate of Incorporation No. U40108JH2013SGC001603, having its registered offices
+at JUSNL Building, Kusai Colony, Doranda, Ranchi, Jharkhand, India.
+
+17. "JUSNL PMC" means the Project management consulting firm to be selected and hired by
+JUSNL pursuant to Section I.C. 1.(b) of the Schedule to the Project Agreement.
+
+18. "kV" means kilo-volts.
+
+19. "kW" means kilo-watts.
+
+20. "Operations Manual" means the manual to be prepared and adopted by JUSNL for the
+implementation of its Respective Parts of the Project, pursuant to Section I.E. 1 of the
+Schedule to the Project Agreement.
+
+21. "P[U" means each of the Project implementation units established within each
+Implementing Agency in order to carry out its Respective Parts of the Project, and referred
+to in Section I.B.2(a) of the Schedule to the Project Agreement.
+
+22. "Procurement Regulations" means, for purposes of paragraph 85 of the Appendix to the
+General Conditions, the "World Bank Procurement Regulations for IPF Borrowers", dated
+July 2016, revised November 2017.
+
+23. "Project Implementing Entity" means the Borrower's State of Jharkhand.
+
+24. "RAP" means each of the resettlement action plans (to be) prepared., adopted and publicly
+disclosed by JUSNL pursuant to Section I.H.2 of the Schedule to the Project Agreement,
+in accordance with the provisions of the respective ESMF, setting forth any compensation,
+rehabilitation and resettlement assistance to be provide to Affected Persons on account of
+permanent land taking .under Component 1 of the Project in a manner and substance
+satisfactory to the Bank, as such plans may be revised/updated from time to time with the
+prior written agreement of the Bank.
+
+25. "Respective Parts of the Project" means:
+
+(a) in respect of JBVNL: Component 3 of the Project; and
+
+(b) in respect of JUSNL: Components 1 and 2 of the Project.
+
+26. "Safeguard Documents" means, collectively, the ESMF and every investment-specific
+ESMP(s), RAP(s), CPTD(s) and TPDP(s).
+
+27. "Signature Date" means the later of the two dates on which the Borrower and the Bank
+signed this Agreement and such definition applies to all references to "the date of the Loan
+Agreement" in the General Conditions.
+
+28. "State Load Dispatch Center" means JUSNL's State Load Dispatch Center established
+pursuant to Borrower's Unified Load Dispatch Scheme as well as state of Jharkhand's State
+Load Dispatch Center established pursuant to subsection (1) of Section 31 of the
+Borrower's Electricity Act, 2003 and being implemented by Power Grid Corporation
+Limited of India pursuant to the agreement dated March 17, 2009
+
+29. "State of Jharkhand" or "Jharkhand" means the Borrower's State of Jharkhand.
+
+30. "Subsidiary Agreement" means, each of the agreements referred to in Section I.A of the
+Schedule to the Project Agreement pursuant to which the Project Implementing Entity shall
+make the proceeds of the Loan available to the Implementing Agencies for the carrying out
+of their Respective Parts of the Project.
+
+31. "TPDP" means each of the tribal people's development plans (to be) prepared, adopted and
+publicly disclosed by JUSNL pursuant to Sections I.H.2 of Schedule to the Project
+Agreement, in accordance with the provisions of the ESMF, setting forth the principles and
+procedures designed to ensure meaningful consultation with, and informed participation
+of, Tribal Groups and their communities in the design and implementation of the
+
+Component I of the Project, as well as their participation in the envisioned culturally
+appropriate and socially inclusive benefits thereof, all in a manner and substance
+satisfactory to the Bank, as such plans may be amended from time to time with the prior
+written concurrence of the Bank.
+
+32. "Training and Workshops" means the reasonable costs of training, workshops and
+conferences required by the Implementing Agencies for their Respective Parts of the
+Project, and conducted in the territory of the Borrower or, subject to the Bank's prior
+approval, overseas, including: (i) training, institutional and course fees; (ii) logistics
+expenses; (iii) rental of training facilities; (iv) purchase and publication of training
+
+materials; and (v) travel and subsistence allowance for trainers andior trainees.
+
+33. "Tribal Groups" means any distinct, vulnerable, social and cultural group within the
+territory of Jharkhand that: (i) self-identifies as such and claims, and is recognized by others
+as, having a distinguishable cultural identity; (ii) has collective attachment to
+geographically distinct habitats or ancestral territories in the Project area, and to the natural
+
+resources in these habitat and territories; (iii) has customary cultural, economic, social and
+
+political institutions that are separate from those of the dominant society and culture; and
+(iv) has an indigenous language, often different from the official languages of the Borrower
+
+and/or of Jharkhand.
+
+Section H. Modifications to the General Conditions
+
+The General Conditions are hereby modified as follows:
+
+1 . Any reference to the "Project Implementing Entity" throughout the General Conditions
+shall be construed, for purposes of this Agreement and/or the Project Agreement, as a
+reference to the "Project Implementing Entity and the Implementing Agencies."
+
+2. Any reference to the "Project Implementing Entity's Representative" throughout the
+
+General Conditions shall be construed, for purposes of this Agreement and/or the Project
+Agreement, a reference to each of the "Implementing Agencies' Representatives."
