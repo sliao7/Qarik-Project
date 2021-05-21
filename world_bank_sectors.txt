@@ -1,0 +1,86 @@
+Agriculture
+Agricultural Extension, Research, and Other Support Activities
+Crops
+Fisheries
+Forestry
+Irrigation and Drainage
+Livestock
+Other Agriculture, Fishing and Forestry
+Public Administration - Agriculture, Fishing and Forestry
+
+Education
+Adult, Basic and Continuing Education
+Early Childhood Education
+Other Education
+Primary Education
+Public Administration - Education
+Secondary Education
+Tertiary Education
+Workforce Development/Skills
+
+Energy and Extractives
+Energy Transmission and Distribution
+Mining
+Non-Renewable Energy Generation
+Oil and Gas
+Other Energy and Extractives
+Public Administration - Energy and Extractives
+Renewable Energy Biomass
+Renewable Energy Geothermal
+Renewable Energy Hydro
+Renewable Energy Solar
+Renewable Energy Wind
+
+Financial Sector
+Banking Institutions
+Capital Markets
+Insurance and Pension
+Other Non-bank Financial Institutions
+Public Administration - Financial Sector
+
+Health
+Health
+Health Facilities and Construction
+Public Administration - Health
+
+Industry and Trade/Services
+Agricultural markets, commercialization and agri-business
+Housing Construction
+Manufacturing
+Other Industry, Trade and Services
+Public Administration - Industry, Trade and Services
+Services
+Tourism
+Trade
+
+Info and Communication
+ICT Infrastructure
+ICT Services
+Other Information and Communications Technologies
+Public Administration - Information and Communications Technologies
+
+Public Admin
+Central Government (Central Agencies)
+Law and Justice
+Other Public Administration
+Sub-National Government
+
+Social Protection
+Public Administration - Social Protection
+Social Protection
+
+Transportation
+Aviation
+Other Transportation
+Ports/Waterways
+Public Administration - Transportation
+Railways
+Rural and Inter-Urban Roads
+Urban Transport
+
+Water/Sanitation/Waste
+Other Water Supply, Sanitation and Waste Management
+Public Administration - Water, Sanitation and Waste Management
+Sanitation
+Waste Management
+Water Supply
