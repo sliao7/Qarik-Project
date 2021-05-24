@@ -1,0 +1,2731 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 7204-PH 
+
+Loan Agreement 
+
+(Rural Power Project) 
+
+between 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+and 
+
+DEVELOPMENT BANK OF THE PHILIPPINES 
+
+Dated December 8, 2003  
+
+LOAN NUMBER 7204-PH 
+
+LOAN AGREEMENT 
+
+AGREEMENT, dated December 8, 2003, between INTERNATIONAL BANK 
+FOR RECONSTRUCTION AND DEVELOPMENT (the Bank) and DEVELOPMENT 
+BANK OF THE PHILIPPINES (the Borrower). 
+
+WHEREAS (A) the Bank has received a letter from the Republic of the 
+Philippines (the Guarantor), dated March 7, 2003, describing a program designed to 
+promote rural power sector reforms and acceleration of universal access to power supply 
+and services throughout the Republic of the Philippines (the Program) and declaring the 
+Guarantor’s commitment to the execution of such Program; 
+
+(B) the Guarantor has requested that the Bank support the Program through a 
+series of loans to the Guarantor, the Borrower, or other financial institutions to be agreed 
+between the Guarantor and the Bank, over a period of approximately fourteen years, the 
+proceeds of which loans are to be utilized in the implementation of the Program; 
+
+(C) the Guarantor and the Borrower, having been satisfied as to the 
+feasibility and priority of the project described in Schedule 2 to this Agreement (the 
+Project), which Project forms a part of the first phase of the Program, have requested the 
+Bank to assist in the financing of Part A of the Project (except Part A.4 of the Project); 
+
+(D) by an agreement (the Guarantee Agreement) of even date herewith 
+between the Guarantor and the Bank, the Guarantor has agreed to guarantee the 
+obligations of the Borrower in respect of the loan provided for in Article II of this 
+Agreement (the Loan) and to undertake such other obligations as set forth in the 
+Guarantee Agreement; 
+
+(E) by an agreement of even date herewith between the Guarantor (in such 
+capacity, the Recipient) and the Bank acting as an implementing agency of the Global 
+Environment Facility (GEF) (the Bank-GEF Grant Agreement) and an agreement of even 
+date herewith between the Bank acting as an implementing agency of the GEF and the 
+Borrower (the GEF Project Agreement), the Recipient has requested assistance from the 
+resources of the GEF Trust Fund for funding Parts A.4 and C of the Project and, said 
+request having been approved in accordance with the provisions of the Instrument for the 
+Establishment of the Restructured Global Environment Facility approved under 
+Resolution 94-2, and to be funded from contributions to the GEF Trust Fund under 
+Resolution No. 2002-0005, which may include funds carried over from the second 
+replenishment of the GEF Trust Fund under Resolution No. 98-2, the Bank acting as an 
+implementing agency of the GEF has agreed to extend a grant (the Bank-GEF Grant) to
+the Recipient in an amount equivalent to nine million Dollars ($9,000,000) on the terms 
+and conditions set forth in the Bank-GEF Grant Agreement and GEF Project Agreement; 
+and 
+
+(F) by an agreement of even date herewith between the Recipient and the 
+United Nations Development Programme (UNDP) acting as an implementing agency of 
+the GEF (the UNDP-GEF Grant Agreement), the Recipient has requested assistance from 
+the resources of the GEF Trust Fund for funding Part B of the Project and, said request 
+having been approved in accordance with the provisions of the Instrument for the 
+Establishment of the Restructured Global Environment Facility approved under 
+Resolution 94-2, the UNDP acting as an implementing agency of the GEF has agreed to 
+extend a grant (the UNDP-GEF Grant) to the Recipient in an amount equivalent to one 
+million Dollars ($1,000,000) on the terms and conditions set forth in the UNDP-GEF 
+Grant Agreement; and 
+
+WHEREAS the Bank has agreed, on the basis, inter alia, of the foregoing, to 
+extend the Loan to the Borrower upon the terms and conditions set forth in this 
+Agreement; 
+
+NOW, THEREFORE, the parties hereto hereby agree as follows:
+ARTICLE I 
+
+General Conditions; Definitions 
+
+Section 1.01. The “General Conditions Applicable to Loan and Guarantee 
+Agreements for Fixed-Spread Loans” of the Bank dated September 1, 1999, with the 
+modification set forth below (the General Conditions), constitute an integral part of this 
+Agreement: 
+
+Paragraph (c) of Section 9.07 of the General Conditions is modified to read as 
+follows: 
+
+ “(c) Not later than six months before the Closing Date or such later 
+date as may be agreed for this purpose between the Borrower and the Bank, the 
+Borrower shall prepare and furnish to the Bank a report, of such scope and in 
+such detail as the Bank shall reasonably request, on the execution and initial 
+operation of the Project, its cost and the benefits derived and to be derived from 
+it, the performance by the Borrower and the Bank of their respective obligations 
+under the Loan Agreement, and the accomplishment of the purposes of the 
+Loan.” 
+
+Section 1.02. Unless the context otherwise requires, the several terms defined in 
+the General Conditions and in the Preamble to this Agreement have the respective 
+meanings therein set forth, and the following additional terms have the following 
+meanings wherever used in this Agreement: 
+
+i. “Bangko Sentral ng Pilipinas” means the Central Bank of the 
+Republic of the Philippines, and any successor thereto. 
+
+ii. “Bank-GEF Grant” means the grant provided for in the 
+Bank-GEF Grant Agreement. 
+
+iii. “Bank-GEF Grant Agreement” means the agreement of even 
+date herewith entered into between the Guarantor and the Bank for the carrying out of 
+Parts A.4 and C of the Project, as such agreement may be amended from time to time; 
+and such term includes the “General Conditions Applicable to Loan and Guarantee 
+Agreements for Fixed-Spread Loans” of the Bank, dated September 1, 1999, as applied to 
+such agreement, and all schedules and agreements supplemental to the Bank-GEF Grant 
+Agreement. 
+
+iv. “Barangay” means the lowest political subdivision of the 
+Guarantor, which covers a defined geographical area and includes as members all the 
+residents of its territory, and which may exercise powers as a political subdivision of the
+Republic of the Philippines and as a corporate entity representing its members, and 
+“Barangays” means, collectively, the plural thereof. 
+
+v. “Beneficiary” means any Type A Beneficiary, Type B 
+Beneficiary, Type C Beneficiary, or Type D Beneficiary, and “Beneficiaries” means, 
+collectively, all Type A Beneficiaries, Type B Beneficiaries, Type C Beneficiaries, and 
+Type D Beneficiaries. 
+
+vi. “Category” means a category of items set forth in the table in 
+paragraph 1 of Schedule 1 to this Agreement, and “Categories” means, collectively, the 
+plural thereof.   
+
+vii. “DBM” means the Guarantor’s Department of Budget and 
+Management and any successor thereto. 
+
+viii. “DBP Charter” means the charter of the Development Bank 
+of the Philippines, dated December 3, 1986, as amended to the date of this Agreement. 
+
+ix. “DBP-GEF Memorandum of Agreement” means the 
+agreement, satisfactory to the Bank, to be entered into between the Borrower and the 
+Guarantor for implementing Part C.1 of the Project, including all schedules, and 
+supplemental agreements, as said memorandum may be amended from time to time with 
+the prior agreement of the Bank. 
+
+x. “DBP Memorandum of Agreement” means the agreement, 
+satisfactory to the Bank, to be entered into between the Borrower and the Guarantor in 
+accordance with the provisions of Section 3.01(c) of this Agreement and Section 4.01(a) 
+of the Guarantee Agreement, as said memorandum may be amended from time to time 
+with the prior agreement of the Bank. 
+
+xi. “DBP Operational Manual” means the manual, satisfactory 
+to the Bank, to be adopted by the Borrower in accordance with paragraph 6 of Schedule 4 
+to this Agreement, which manual shall provide, inter alia, for: (i) environmental 
+requirements for Subprojects; (ii) eligibility criteria for the carrying out of Subprojects; 
+(iii) the procedures and criteria for appraisal and selection of Beneficiaries and 
+Subprojects, including those set forth in paragraphs 1(iv)-(v) of Annex A to Schedule 4 to 
+this Agreement, paragraph 1(iv) of Annex B to Schedule 4 to this Agreement, and 
+paragraphs 1(iv)-(v) of Annex D to Schedule 4 to this Agreement; (iv) terms and 
+conditions governing Subloans and Subloan Agreements, including those set forth in 
+paragraphs 1(i)-(iii) and (vi) of Annex A to Schedule 4 to this Agreement, paragraphs 
+1(i)-(iii) and (v) of Annex B to Schedule 4 to this Agreement, and paragraphs 1(i)-(iii) 
+and (vi) of Annex D to Schedule 4 to this Agreement; (v) procurement procedures for 
+goods, works and services under Subprojects, including those set forth in paragraphs 
+1(vi)(C)-(F) of Annex A to Schedule 4 to this Agreement, paragraphs 1(vi)(C)-(F) of 
+Annex B to Schedule 4 to this Agreement, paragraphs 1(vii)(C)-(F) of Annex D to
+Schedule 4 to this Agreement, Annex E to Schedule 4 to this Agreement, and Schedule 5 
+to this Agreement; (vi) the procedures and criteria for appraisal and selection of 
+Participating Financial Intermediaries, including those set forth in paragraphs 1(i) and 
+(iv) of Annex C to Schedule 4 to this Agreement; (vii) terms and conditions governing 
+Subsidiary Loans and Subsidiary Loan Agreements, including those set forth in 
+paragraphs 1(ii)-(iii) and (v) of Annex C to Schedule 4 to this Agreement; (viii) financial 
+management and disbursement arrangements; (ix) the DBP Project Implementation Plan; 
+(x) the Environmental Policy Framework; (xi) the Policy Framework: Land Acquisition, 
+Resettlement and Rehabilitation of Project-Affected Persons; and (xii) the Project Policy 
+Framework on Indigenous Peoples, as said manual may be amended from time to time 
+with the prior agreement of the Bank. 
+
+xii. “DBP Project Implementation Plan” means the time-bound 
+action plan adopted by the Borrower on September 1, 2003, satisfactory to the Bank, for 
+the carrying out of Part A of the Project (except Part A.4 of the Project), as such plan may 
+be amended from time to time with the prior agreement of the Bank. 
+
+xiii. “DBP Project Management Office” and the acronym “DBP-
+PMO” mean the Project management office established by the Borrower in July 2002, 
+and to be maintained pursuant to paragraph 3 of Schedule 4 to this Agreement. 
+
+xiv. “Displaced Person” means a person who, on account of the 
+execution of the Project, has experienced or would experience direct economic and social 
+impacts caused by: (i) the involuntary taking of land, resulting in (A) relocation or loss of 
+shelter; (B) loss of assets or access to assets or (C) loss of income sources or means of 
+livelihood, whether or not such person must move to another location; or (ii) the 
+involuntary restriction to access to legally designated parks and protected areas, resulting 
+in adverse impacts on the livelihood of such person, and “Displaced Persons” means, 
+collectively, the plural thereof. 
+
+xv. “DOE” means the Guarantor’s Department of Energy and 
+any successor thereto. 
+
+xvi. “DOF” means the Guarantor’s Department of Finance and 
+any successor thereto. 
+
+xvii. “Electric Cooperative” and the acronym “EC” mean a 
+private-sector-owned corporation which is (i) organized pursuant to Chapter III of the 
+NEA Charter, Guarantor’s Presidential Decree No. 269, or (ii) if formed or registered 
+under the Philippine non-Agricultural Co-operative Act prior to the NEA Charter, 
+Guarantor’s Presidential Decree No. 269, converted into an Electric Cooperative pursuant 
+to Chapter III of the NEA Charter, for the purposes of supplying, and of promoting and 
+encouraging the fullest use of, electric service on area coverage basis at the lowest cost 
+consistent with sound economy and the prudent management of  the business of such
+corporation, and “Electric Cooperatives” and the acronym “ECs” mean, collectively, the 
+plural thereof. 
+
+xviii. “Electric Power Industry Reform Act” and the acronym 
+“EPIRA” mean the Republic Act No. 9136, also known as the Electric Power Industry 
+Reform Act of 2001. 
+
+xix. “Eligible Categories” means Categories (1) and (2) set forth 
+in the table in paragraph 1 of Schedule 1 to this Agreement. 
+
+xx. “Eligible Expenditures” means the expenditures in respect of 
+the reasonable cost of goods, works, and services required for Part A of the Project 
+(except Part A.4 of the Project) and to be financed out of the proceeds of the Loan 
+allocated from time to time to the Eligible Categories in accordance with the provisions 
+of Schedule 1 to this Agreement. 
+
+xxi. “Environmental Policy Framework” means the framework, 
+satisfactory to the Bank, which was adopted by the Guarantor on June 30, 2003, and by 
+the Borrower on June 19, 2003, describing the rules, guidelines and procedures to assess 
+environmental impacts under Part A of the Project and defining measures to reduce, 
+mitigate or offset adverse environmental impacts and enhance positive impacts of Part A 
+of the Project, as such framework may be amended from time to time with the prior 
+agreement of the Bank. 
+
+xxii. “EPIRA-IRR” means the Implementing Rules and 
+Regulations of Republic Act No. 9136, promulgated by DOE on February 27, 2002, 
+pursuant to Sections 37 and 77 of the EPIRA, to implement the provisions of the EPIRA. 
+
+xxiii. “Financial Management Unit” means the financial 
+management unit established by the Borrower in July 2002, and to be maintained 
+pursuant to paragraph 3 of Schedule 4 to this Agreement. 
+
+xxiv. “Financial Monitoring Report” and the acronym “FMR” 
+mean each report prepared in accordance with Section 4.02 of this Agreement. 
+
+xxv. “Fiscal Year” and the acronym “FY” mean the twelve (12)-
+month period corresponding to any of the Borrower’s financial years, which period 
+commences on January 1 and ends on December 31 in each calendar year, and the term 
+“Fiscal Years” means, collectively, the plural thereof. 
+
+xxvi. “GEF-Assisted Subproject” means a specific renewable 
+energy technology project to be carried out by a GEF Beneficiary utilizing the proceeds 
+of a GEF Subgrant, in accordance with the provisions of Schedule 5 to the Bank-GEF 
+Grant Agreement, and “GEF-Assisted Subprojects” means, collectively, the plural 
+thereof.
+xxvii. “GEF Beneficiary” means an individual, LGU, or other legal 
+entity which meets the eligibility criteria set forth in paragraph 5 of Schedule 4 to the 
+Bank-GEF Grant Agreement, to receive a GEF Sub-grant from DOE, out of the proceeds 
+of the Bank-GEF Grant, for purposes of market development, sales, and installation of 
+RET systems, and “GEF Beneficiaries” means, collectively, the plural thereof. 
+
+xxviii. “GEF Project Agreement” means the agreement of even date 
+herewith entered into between the Borrower and the Bank for the carrying out of Part C.1 
+of the Project, as such agreement may be amended from time to time; and such term 
+includes all schedules and agreements supplemental to said agreement. 
+
+xxix. “GEF Sub-grant” means a grant made or proposed to be 
+made by the Guarantor to a GEF Beneficiary, out of the proceeds of the Bank-GEF 
+Grant, through a GEF Sub-grant Agreement, satisfactory to the Bank, to finance the 
+carrying out of a GEF-Assisted Subproject, in accordance with the relevant provisions of 
+the GEF Operational Manual. 
+
+xxx. “GEF Sub-grant Agreement” means the agreement to be 
+entered into between the Guarantor and a GEF Beneficiary for purposes of providing a 
+GEF Sub-grant, as the same may be amended from time to time with the prior agreement 
+of the Bank, and “GEF Sub-grant Agreements” means, collectively, the plural thereof. 
+
+xxxi. “Indigenous Peoples” means social groups with a distinct 
+social and cultural identity that makes them vulnerable to being disadvantaged in the 
+development process, including the presence in varying degrees of the following 
+characteristics: (i) a close attachment to ancestral territories and to the natural resources 
+in these areas; (ii) self-identification and identification by others as members of a distinct 
+cultural group; (iii) an indigenous language, often different from Pilipino, the Guarantor’s 
+national language; (iv) presence of customary social and political institutions; and 
+(v) primarily subsistence-oriented production. 
+
+xxxii. “Local Government Unit” and the acronym “LGU” mean a 
+local government unit which is a political subdivision of the Republic of the Philippines 
+at the provincial, city, municipal, or Barangay level, and “Local Government Units” and 
+the acronym “LGUs” mean, collectively, the plural thereof. 
+
+xxxiii. “NEA” means the National Electrification Administration, a 
+government-owned and controlled corporation established under the NEA Charter, and 
+any successor thereto. 
+
+xxxiv. “NEA Charter” means the charter of the NEA, Guarantor’s 
+Presidential Decree No. 269 of August 6, 1973, as amended to the date of this 
+Agreement.
+xxxv. “NEDA” means the Guarantor’s National Economic and 
+Development Authority and any successor thereto. 
+
+xxxvi. “NGO” means a non-governmental organization, including 
+an NGO that provides credit (credit NGO), established and operating under the laws of 
+the Guarantor. 
+
+xxxvii. “Participating Financial Intermediary” and the acronym 
+“PFI” mean a financial intermediary established, organized, and operating in accordance 
+with the laws of the Guarantor, including a micro-finance institution, commercial bank, 
+rural bank, thrift bank, credit cooperative, credit NGO, and leasing company, eligible to 
+receive a Subsidiary Loan in accordance with the policies and procedures set forth in 
+paragraph 1 of Annex C to Schedule 4 to this Agreement, and “Participating Financial 
+Intermediaries” and the acronym “PFIs” mean, collectively, the plural thereof. 
+
+xxxviii. “Pesos” means the currency of the Republic of the 
+Philippines. 
+
+xxxix. “Policy Framework: Land Acquisition, Resettlement and 
+Rehabilitation of Displaced Persons” means the framework, satisfactory to the Bank, 
+which was adopted by the Guarantor on June 30, 2003, and by the Borrower on June 19, 
+2003, providing procedures, rules, and guidelines for: (i) the involuntary taking of land 
+and other assets from Displaced Persons, (ii) resettlement and rehabilitation of, and 
+compensation to, Displaced Persons, and (iii) reporting and monitoring arrangements to 
+ensure compliance with such framework, as such framework may be amended from time 
+to time with the prior agreement of the Bank. 
+
+xl. “Procurement Unit” means the procurement unit established 
+by the Borrower on July 31, 2002, and to be maintained pursuant to paragraph 3 of 
+Schedule 4 to this Agreement. 
+
+xli. “Project Policy Framework on Indigenous Peoples” means 
+the framework, satisfactory to the Bank, which was adopted by the Guarantor on June 30, 
+2003, and by the Borrower on June 19, 2003, providing procedures, rules, and guidelines 
+for: (i) the informed involvement of Indigenous Peoples, through a process of informed 
+consultation, in the design and implementation of Part A of the Project in locations in 
+which such people reside or which they use for their livelihood, and (ii) designing and 
+implementing measures to provide benefits which are socially and culturally acceptable 
+to them, and reduce, mitigate and offset adverse impacts, under Part A of the Project, as 
+such framework may be amended from time to time with the prior agreement of the 
+Bank. 
+
+xlii. “Project Supervisory Committee” and the acronym “PSC” 
+mean the committee to be established and maintained in accordance with the provisions 
+of Section 3.03 of the Guarantee Agreement, to be responsible for the overall policy
+direction, guidance, and supervision of policy and institutional reforms under the 
+Program. 
+
+xliii. “Qualified Third Party” and the acronym “QTP” mean an 
+alternative electric service provider authorized to serve remote and unviable areas 
+pursuant to Section 59 of the EPIRA and Rule 14 of the EPIRA-IRR, and “Qualified 
+Third Parties” means, collectively, the plural thereof. 
+
+xliv. “Renewable Energy Technologies” and the acronym “RET” 
+mean an energy system using renewable energy resources including wind, hydro, 
+biomass, and solar energy. 
+
+xlv. “Report-Based Disbursement” means a withdrawal of funds 
+from the Loan Account made on the basis of reports as referred to in Part A.4 of Schedule 
+1 to this Agreement, and “Report-Based Disbursements” means, collectively, the plural 
+thereof. 
+
+xlvi. “RESCO” means a rural energy service company 
+established, organized, and operating under the laws of the Guarantor. 
+
+xlvii. “Special Account” means the account referred to in Section 
+2.02(b) of this Agreement. 
+
+xlviii. “Subloan” means any Type A Subloan, Type B Subloan, 
+Type C Subloan, or Type D Subloan, and “Subloans” means, collectively, the plural 
+thereof. 
+
+xlix. “Subloan Agreement” means any Type A Subloan 
+Agreement, Type B Subloan Agreement, Type C Subloan Agreement, or Type D Subloan 
+Agreement, and “Subloans” means, collectively, the plural thereof. 
+
+l. “Subproject” means any Type A Subproject, Type B 
+Subproject, Type C Subproject, or Type D Subproject, and “Subprojects” means, 
+collectively, the plural thereof. 
+
+li. “Subsidiary Loan” means a loan made or proposed to be 
+made by the Borrower to a Participating Financial Intermediary out of the proceeds of the 
+Loan, under the provisions of a Subsidiary Loan Agreement, to finance the provision of 
+Type B Subloans, and “Subsidiary Loans” means, collectively, the plural thereof. 
+
+lii. “Subsidiary Loan Agreement” means an agreement to be 
+entered into between the Borrower and a Participating Financial Intermediary for 
+purposes of providing a Subsidiary Loan, in accordance with the provisions of paragraph 
+1(v) of Annex C to Schedule 4 to this Agreement, and “Subsidiary Loan Agreements” 
+means, collectively, the plural thereof.
+liii. “Technical Working Group” means the group to be 
+established and maintained by the Guarantor in accordance with the provisions of Section 
+3.04 of the Guarantee Agreement, to serve as a secretariat to the Project Supervisory 
+Committee and to be responsible for the overall coordination and supervision of the 
+implementation of the Project. 
+
+liv. “Type A Beneficiary” means a RESCO, QTP, NGO, 
+cooperative other than an EC, or LGU, which meets the eligibility criteria set forth in 
+paragraph 1 of Annex A to Schedule 4 to this Agreement to receive a Type A Subloan for 
+purposes of carrying out a Type A Subproject, and “Type A Beneficiaries” means, 
+collectively, the plural thereof. 
+
+lv. “Type A Subloan” means a loan made or proposed to be 
+made by the Borrower to a Type A Beneficiary out of the proceeds of the Loan to finance 
+in part the carrying out of a Type A Subproject, all in accordance with the terms and 
+conditions of a Type A Subloan Agreement, and “Type A Subloans” means, collectively, 
+the plural thereof. 
+
+lvi. “Type A Subloan Agreement” means an agreement to be 
+entered into between the Borrower and a Type A Beneficiary for purposes of financing in 
+part the carrying out of a Type A Subproject through the provision of a Type A Subloan, 
+and “Type A Subloan Agreements” means, collectively, the plural thereof. 
+
+lvii. “Type A Subproject” means a small-scale energy generation 
+and mini-grid rural electrification project, to be carried out by a Type A Beneficiary 
+utilizing the proceeds of a Type A Subloan, in accordance with the provisions of 
+paragraph 1 of Annex A to Schedule 4 to this Agreement, and “Type A Subprojects” 
+means, collectively, the plural thereof. 
+
+lviii. “Type B Beneficiary” means an RET system purchaser 
+(which may be an individual, household, group of households, enterprise, school, LGU, 
+or community organization) or an RET system supplier, each of which meets the 
+eligibility criteria set forth in paragraph 1 of Annex B to Schedule 4 to this Agreement to 
+receive a Type B Subloan for purposes of carrying out a Type B Subproject, and “Type B 
+Beneficiaries” means, collectively, the plural thereof. 
+
+lix. “Type B Subloan” means a loan made or proposed to be 
+made by a Participating Financial Intermediary to a Type B Beneficiary out of the 
+proceeds of a Subsidiary Loan to finance in part the carrying out of a Type B Subproject, 
+all in accordance with the terms and conditions of a Type B Subloan Agreement, and 
+“Type B Subloans” means, collectively, the plural thereof. 
+
+lx. “Type B Subloan Agreement” means an agreement to be 
+entered into between a Participating Financial Intermediary and a Type B Beneficiary for 
+purposes of financing in part the carrying out of a Type B Subproject through the
+provision of a Type B Subloan, and “Type B Subloan Agreements” means, collectively, 
+the plural thereof. 
+
+lxi. “Type B Subproject” means a stand-alone renewable energy 
+technology system rural electrification project, including the marketing, sale, purchase, 
+and installation of RET systems, to be carried out by a Type B Beneficiary utilizing the 
+proceeds of a Type B Subloan, in accordance with the provisions of paragraph 1 of 
+Annex B to Schedule 4 to this Agreement, and “Type B Subprojects” means, collectively, 
+the plural thereof.  
+
+lxii. “Type C Beneficiary” means an Electric Cooperative which 
+meets the eligibility criteria set forth in paragraph 1 of Annex A to Schedule 4 to this 
+Agreement to receive a Type C Subloan for purposes of carrying out a Type C 
+Subproject, and “Type C Beneficiaries” means, collectively, the plural thereof. 
+
+lxiii. “Type C Subloan” means a loan made or proposed to be 
+made by the Borrower to a Type C Beneficiary out of the proceeds of the Loan to finance 
+in part the carrying out of a Type C Subproject, all in accordance with the terms and 
+conditions of a Type C Subloan Agreement, and “Type C Subloans” means, collectively, 
+the plural thereof. 
+
+lxiv. “Type C Subloan Agreement” means an agreement to be 
+entered into between the Borrower and a Type C Beneficiary for purposes of financing in 
+part the carrying out of a Type C Subproject through the provision of a Type C Subloan, 
+and “Type C Subloan Agreements” means, collectively, the plural thereof. 
+
+lxv. “Type C Subproject” means a rural electrification project for 
+(i) improving power supply system safety, reliability, efficiency and power service 
+quality for existing customers, through rehabilitation and capacity upgrades of the 
+existing supply system (including purchase of secondhand subtransmission facilities), 
+(ii) removing supply system constraints, (iii) encouraging institutional development of 
+Electric Cooperatives, and (iv) providing the necessary hardware, software, motor 
+vehicles, tools, and equipment to improve employee productivity, safety, and efficiency 
+of customer service provision, to be carried out by a Type C Beneficiary utilizing the 
+proceeds of a Type C Subloan, in accordance with the provisions of paragraph 1 of 
+Annex A to Schedule 4 to this Agreement, and “Type C Subprojects” means, collectively, 
+the plural thereof. 
+
+lxvi. “Type D Beneficiary” means a beneficiary which meets the 
+eligibility criteria set forth in paragraph 1 of Annex D to Schedule 4 to this Agreement to 
+receive a Type D Subloan for purposes of carrying out a Type D Subproject, and “Type 
+D Beneficiaries” means, collectively, the plural thereof. 
+
+lxvii. “Type D Subloan” means a loan made or proposed to be 
+made by the Borrower to a Type D Beneficiary out of the proceeds of the Loan to finance
+in part the carrying out of a Type D Subproject, all in accordance with the terms and 
+conditions of a Type D Subloan Agreement, and “Type D Subloans” means, collectively, 
+the plural thereof. 
+
+lxviii. “Type D Subloan Agreement” means an agreement to be 
+entered into between the Borrower and a Type D Beneficiary for purposes of financing in 
+part the carrying out of a Type D Subproject through the provision of a Type D Subloan, 
+and “Type D Subloan Agreements” means, collectively, the plural thereof. 
+
+lxix. “Type D Subproject” means a rural electrification project 
+other than a Type A Subproject, Type B Subproject, or Type C Subproject, that meets the 
+eligibility criteria set out in the DBP Operational Manual, to be carried out by a Type D 
+Beneficiary utilizing the proceeds of a Type D Subloan, in accordance with the 
+provisions of paragraph 1 of Annex D to Schedule 4 to this Agreement, and “Type D 
+Subprojects” means, collectively, the plural thereof.
+ARTICLE II 
+
+The Loan 
+
+Section 2.01. The Bank agrees to lend to the Borrower, on the terms and 
+conditions set forth or referred to in this Agreement, an amount equal to one billion, one 
+hundred eighty-eight million, two hundred thousand Yen (JPY1,188,200,000), as such 
+amount may be converted from time to time through a Currency Conversion in 
+accordance with the provisions of Section 2.09 of this Agreement. 
+
+Section 2.02. (a) The amount of the Loan may be withdrawn from the Loan 
+Account in accordance with the provisions of Schedule 1 to this Agreement for: 
+
+1. amounts paid (or, if the Bank shall 
+so agree, to be paid) by the Borrower on account of a Type A 
+Subloan, Type C Subloan, or Type D Subloan made, 
+respectively, under Parts A.1, A.3, and A.5 of the Project to meet 
+the reasonable cost of goods, works, and services required for the 
+respective Type A Subproject, Type C Subproject, or Type D 
+Subproject, and in respect of which the withdrawal from the 
+Loan Account is requested; 
+
+2. amounts paid (or, if the Bank shall 
+so agree, to be paid) by the Borrower on account of a Subsidiary 
+Loan made under Part A.2 of the Project to meet the reasonable 
+cost of goods, works, and services required for one or more Type 
+B Subprojects and in respect of which the withdrawal from the 
+Loan Account is requested; and 
+
+3. expenditures in respect of the front-
+end fee referred to in Section 2.04 of this Agreement. 
+
+(b) The Borrower may, for the purposes of Part A of the Project (except Part 
+A.4 of the Project), open and maintain in Dollars a special deposit account in a 
+commercial bank specifically authorized for this purpose by Bangko Sentral ng Pilipinas 
+on terms and conditions satisfactory to the Bank, including appropriate protection against 
+set-off, seizure and attachment.  Deposits into, and payments out of, the Special Account 
+shall be made in accordance with the provisions of Schedule 1 to this Agreement. 
+
+(c) On each of the semiannual interest payment dates specified in Section 
+2.07 of this Agreement, the Bank shall, on behalf of the Borrower, withdraw from the 
+Loan Account and pay to itself the amounts required to pay, on such date, interest and 
+other charges on the Loan accrued and payable on or before the date set forth, and up to
+the amount allocated, in Schedule 1 to this Agreement, as such Schedule may be 
+amended from time to time by agreement between the Borrower and the Bank. 
+
+Section 2.03. The Closing Date shall be December 31, 2009, or such later date as 
+the Bank shall establish. The Bank shall promptly notify the Borrower and the Guarantor 
+of such later date. 
+
+Section 2.04. The Borrower shall pay to the Bank a front-end fee in an amount 
+equal to one percent (1%) of the amount of the Loan.  On or promptly after the Effective 
+Date, the Bank shall, on behalf of the Borrower, withdraw from the Loan Account and 
+pay to itself the amount of such fee. 
+
+Section 2.05. The Borrower shall pay to the Bank a commitment charge on the 
+principal amount of the Loan not withdrawn from time to time, at a rate equal to: 
+(i) eighty-five one-hundredths of one percent (0.85%) per annum from the date on which 
+such charge commences to accrue in accordance with the provisions of Section 3.02 of 
+the General Conditions to but not including the fourth anniversary of such date; and (ii) 
+seventy-five one-hundredths of one percent (0.75%) per annum thereafter. 
+
+Section 2.06. The Borrower shall pay interest on the principal amount of the 
+Loan withdrawn and outstanding from time to time, in respect of each Interest Period at 
+the Variable Rate; provided, that upon a Conversion of all or any portion of the principal 
+amount of the Loan, the Borrower shall, during the Conversion Period, pay interest on 
+such amount in accordance with the relevant provisions of Article IV of the General 
+Conditions. 
+
+Section 2.07. Interest and commitment charges shall be payable semiannually in 
+arrears on February 1 and August 1 in each year. 
+
+Section 2.08. The Borrower shall repay the principal amount of the Loan in 
+accordance with the provisions of Schedule 3 to this Agreement. 
+
+Section 2.09. (a) The Borrower may at any time request any of the following 
+Conversions of the terms of the Loan in order to facilitate prudent debt management: 
+
+(i) a change of the Loan Currency of all or any portion of the 
+principal amount of the Loan, withdrawn or unwithdrawn, to an 
+Approved Currency;
+(ii) a change of the interest rate basis applicable to all or any portion 
+of the principal amount of the Loan from a Variable Rate to a 
+Fixed Rate, or vice versa; and 
+
+(iii) the setting of limits on the Variable Rate applicable to all or any 
+portion of the principal amount of the Loan withdrawn and 
+outstanding by the establishment of an Interest Rate Cap or 
+Interest Rate Collar on said Variable Rate. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that 
+is accepted by the Bank shall be considered a “Conversion,” as defined in Section 2.01(7) 
+of the General Conditions, and shall be effected in accordance with the provisions of 
+Article IV of the General Conditions and of the Conversion Guidelines.  
+
+Section 2.10. Without limitation upon the provisions of paragraph (a) of  Section 
+2.09 of this Agreement and unless otherwise notified by the Borrower to the Bank in 
+accordance with the provisions of the Conversion Guidelines, the interest rate basis 
+applicable to the aggregate principal amount of the Loan withdrawn during each Interest 
+Period shall be changed from the initial Variable Rate to a Fixed Rate for the full maturity 
+of such amount in accordance with the provisions of Article IV of the General Conditions 
+and of the Conversion Guidelines.
+ARTICLE III 
+
+Execution of the Project 
+
+Section 3.01. (a) The Borrower declares its commitment to the objectives of the 
+Project, and, to this end, shall carry out Part A (except Part A.4 of the Project) and C.1 of 
+the Project with due diligence and efficiency and in conformity with appropriate 
+financial, economic, administrative, management, banking, and engineering practices, 
+and sound environmental and social standards acceptable to the Bank, and shall provide, 
+promptly as needed, the funds, facilities, services and other resources required for the 
+carrying out of Parts A (except Part A.4 of the Project) and C.1 of the Project. 
+
+(b) Without limitation upon the provisions of paragraph (a) of this Section 
+and except as the Borrower and the Bank shall otherwise agree, the Borrower shall:  
+
+(i) carry out Part A of the Project (except Part A.4 of the Project) in 
+accordance with the Implementation Program set forth in 
+Schedule 4 to this Agreement; 
+
+(ii) carry out Part C.1 of the Project in accordance with the 
+Implementation Program set forth in Schedule 2 to the GEF 
+Project Agreement; 
+
+(iii) make Type A Subloans and Type C Subloans under terms and 
+conditions satisfactory to the Bank, which shall include those set 
+forth in paragraph 1 of Annex A to Schedule 4 to this 
+Agreement;  
+
+(iv) make Type D Subloans under terms and conditions satisfactory 
+to the Bank, which shall include those set forth in paragraph 1 of 
+Annex D to Schedule 4 to this Agreement; and 
+
+(v) onlend to each PFI an amount out of the proceeds of the Loan 
+allocated from time to time to Category (1), under a Subsidiary 
+Loan Agreement to be entered into between the Borrower and 
+each PFI under terms and conditions satisfactory to the Bank, 
+which shall include those set forth in the DBP Operational 
+Manual and in paragraph 1 of Annex C to Schedule 4 to this 
+Agreement, and the following principal onlending terms and 
+conditions:
+(A) the principal amount of the Subsidiary Loan shall be: 
+(i) equivalent to the aggregate amount of the principal of 
+all Type B Subloans made out of the proceeds thereof by 
+the PFI; and (ii) onlent in Pesos and repaid by the PFI in 
+Pesos in an amount equivalent at the time of withdrawal 
+to the amounts withdrawn from time to time from the 
+Loan Account under Category (1) in respect of such 
+Subsidiary Loan;  
+
+(B) interest on the principal amount withdrawn and 
+outstanding of a Subsidiary Loan made in Pesos shall be 
+payable at a per annum rate of interest established in 
+accordance with the relevant provisions of the DBP 
+Operational Manual; 
+
+(C) commitment charges shall be payable on the amount so 
+on-lent but not yet withdrawn from time to time at the 
+rate payable by the Borrower under Section 2.07 of this 
+Agreement; and 
+
+(D) the principal amount of such Subsidiary Loan shall be 
+repaid in accordance with an amortization schedule 
+which corresponds to the composite of the amortization 
+schedules of such Type B Subloans. 
+
+(c) For purposes of: (i) the fees to be paid by the Borrower to the Guarantor 
+in respect of the loan guarantee and foreign exchange risk cover provided by the 
+Guarantor pursuant to the Guarantee Agreement, and (ii) the method for the 
+determination of lending rates, including a floor lending rate, acceptable to the Bank, for 
+onlending of the proceeds of the Loan through Type A Subloans, Type C Subloans, Type 
+D Subloans, and Subsidiary Loans, the Borrower shall enter into a DBP Memorandum of 
+Agreement with the Guarantor, under terms and conditions acceptable to the Bank.  
+
+(d) The Borrower shall: (i) exercise its rights under the DBP Memorandum 
+of Agreement in such manner as to: (A) protect the interests of the Borrower, the 
+Guarantor, and the Bank; (B) comply with its respective obligations under the DBP 
+Memorandum of Agreement; and (C) accomplish the purposes of the Project; and 
+(ii) except as the Bank shall otherwise agree, not abrogate, amend, assign, repeal, suspend 
+or waive the DBP Memorandum of Agreement or any provision thereof without the prior 
+agreement of the Bank. 
+
+Section 3.02. Except as the Bank shall otherwise agree procurement of the goods, 
+works, and services required for Subprojects under Part A of the Project (except Part A.4 
+of the Project) and to be financed out of the proceeds of Subloans shall be governed by
+the provisions of paragraphs 1(vi)(C)-(F) of Annex A to Schedule 4 (for Type A 
+Beneficiaries and Type C Beneficiaries), paragraphs 1(v)(C)-(F) of Annex B to Schedule 
+4 (for Type B Beneficiaries), paragraphs 1(vi)(C)-(F) of Annex D to Schedule 4 (for 
+Type D Beneficiaries), and Annex E to Schedule 4 and Schedule 5 (for LGUs) to this 
+Agreement. 
+
+Section 3.03. For the purposes of Section 9.07 of the General Conditions and 
+without limitation thereto, the Borrower shall: 
+
+(a) prepare, on the basis of guidelines acceptable to the Bank, and furnish to 
+the Bank not later than six (6) months before the Closing Date or such later date as may 
+be agreed for this purpose between the Borrower and the Bank, a plan designed to ensure 
+the continued achievement of the objectives of Part A of the Project (except Part A.4 of 
+the Project); and 
+
+ (b) afford the Bank a reasonable opportunity to exchange views with the 
+Borrower on said plan.
+ARTICLE IV 
+
+Financial Covenants 
+
+Section 4.01.  (a) The Borrower shall maintain a financial management system, 
+including records and accounts, and prepare financial statements in accordance with 
+consistently applied accounting standards, acceptable to the Bank, adequate to reflect its 
+operations and financial condition and to register separately the operations, resources and 
+expenditures related to Part A of the Project (except Part A.4 of the Project). 
+
+(b) The Borrower shall: 
+
+(i) commencing with the fiscal year in which the Effective Date 
+falls, to and including the fiscal year in which the last withdrawal 
+from the Loan Account is made, have the financial statements 
+referred to in paragraph (a) of this Section for each fiscal year, or 
+other period agreed to by the Bank, audited, in accordance with 
+consistently applied auditing standards acceptable to the Bank, 
+by independent auditors acceptable to the Bank; 
+
+(ii) furnish to the Bank as soon as available, but in any case not later 
+than six months after the end of each such year or such other  
+period agreed to by the Bank, (A) certified copies of the financial 
+statements referred to in paragraph (a) of this Section for such 
+year, or such other period agreed to by the Bank, as so audited, 
+and (B) an opinion on such statements by said auditors,  in  
+scope and  detail  satisfactory to the Bank; and 
+
+(iii) furnish to the Bank such other information concerning such 
+records and accounts, and the audit  of such financial statements, 
+and concerning said auditors, as the Bank may from time to time 
+reasonably request. 
+
+(c) For all expenditures with respect to which withdrawals from the Loan 
+Account were made on the basis of reports referred to in Part A.4 of Schedule 1 to this 
+Agreement (Report-based Disbursements) or on the basis of statements of expenditure, 
+the Borrower shall: 
+
+(i) retain, until at least one year after the Bank has received the 
+audit report for, or covering, the fiscal year in which the last 
+withdrawal from the Loan Account was made, all records 
+(contracts, orders, invoices, bills, receipts and other documents) 
+evidencing such expenditures; 
+
+(ii) enable the Bank’s representatives to examine such records; and
+(iii) ensure that such reports and statements of expenditures are 
+included in the audit for each fiscal year or other period agreed 
+to by the Bank, referred to in paragraph (b) of this Section. 
+
+Section 4.02. (a) Without limitation upon the Borrower’s progress reporting 
+obligations set out in paragraph 9 of Schedule 4 to this Agreement, the Borrower shall 
+prepare and furnish to the Bank a Financial Monitoring Report, in form and substance 
+satisfactory to the Bank, which: 
+
+(i) sets forth sources and uses of funds for Part A of the Project 
+(except Part A.4 of the Project), both cumulatively and for the 
+period covered by said report, showing separately funds 
+provided under the Loan, and explains variances between the 
+actual and planned uses of such funds; 
+
+(ii) describes physical progress in the implementation of Part A of 
+the Project (except Part A.4 of the Project), both cumulatively 
+and for the period covered by said report, and explains 
+variances between the actual and planned Project 
+implementation; and 
+
+(iii) sets forth the status of procurement under Part A of the Project 
+(except Part A.4 of the Project), as at the end of the period 
+covered by said report. 
+
+(b) The first FMR shall be furnished to the Bank not later than 60 days after 
+the end of the first calendar quarter after the Effective Date, and shall cover the period 
+from the incurrence of the first expenditure under Part A of the Project (except Part A.4 
+of the Project) through the end of such first calendar quarter; thereafter, each FMR shall 
+be furnished to the Bank not later than 60 days after each subsequent calendar quarter, 
+and shall cover such calendar quarter. 
+
+Section 4.03.  The Borrower shall take all actions within its powers to protect 
+itself against risk of loss resulting from changes in the rates of exchange between the 
+currencies (including the currency of the Guarantor) used in its operations. 
+
+Section 4.04.  The Borrower shall take all actions within its powers to distribute 
+annual cash dividends on its common shares only after adequate provisions have been 
+made for, inter alia:  (a) taxes; (b) loan loss provisions; and (c) adjustments to its equity 
+caused by within-year inflation.
+Section 4.05.  The Borrower shall, by December 31, 2003, take all steps 
+necessary to reduce the percentage of the net past due loans in its retail loan portfolio to a 
+level not exceeding the industry average of the past three consecutive fiscal years for 
+commercial banks in the Philippines and, thereafter, the Borrower shall take all actions as 
+shall be necessary to maintain such percentage at or below such level.  For purposes of 
+this Section 4.05, the term “net past due loans” means loans deemed past due as said term 
+is defined by Bangko Sentral ng Pilipinas, minus provisions for loan losses. 
+
+Section 4.06.  (a) Except as the Bank shall otherwise agree, the Borrower shall 
+achieve positive profitability in real terms and shall take all actions as shall be necessary 
+to maintain the following financial ratios for each Fiscal Year commencing in Fiscal Year 
+2004: (i) ratio of risk assets to equity of not more than the ratio prescribed by BSP, as 
+may be amended from time to time, and (ii) ratio of liquid assets to short-term liabilities 
+of not less than 45%. 
+
+(b) For purposes of this Section 4.06 of this Agreement: 
+
+(i) The term “profitability in real terms” means audited net profits at 
+the end of the Fiscal Year minus the equity net of fixed assets at 
+the beginning of the same Fiscal Year, multiplied by the annual 
+inflation rate. 
+
+(ii) The term “risk assets” shall mean the assets defined as risk assets 
+by Bangko Sentral ng Pilipinas, as such definition may be 
+amended from time to time by Bangko Sentral ng Pilipinas. 
+
+(iii) The term “equity” means the sum total unimpaired paid-up 
+capital, retained earnings, and reserves of the Borrower not 
+allocated to cover specific liabilities. 
+
+(iv) The term “liquid assets” means cash, short-term deposits in 
+banks, and investment in government securities up to one year. 
+
+(v) The term “short-term liabilities” means short-term deposits, debt 
+service to be paid within one year, and short-term debts to 
+suppliers.
+ARTICLE V 
+
+Remedies of the Bank 
+
+Section 5.01. Pursuant to Section 6.02(p) of the General Conditions, the 
+following additional events are specified: 
+
+(a) (i) Subject to subparagraph (ii) of this paragraph, the right 
+of the Guarantor to withdraw the proceeds of the Bank-GEF 
+Grant shall have been suspended, canceled or terminated in 
+whole or in part, pursuant to the terms of the Bank-GEF Grant 
+Agreement. 
+
+(ii) Subparagraph (i) of this paragraph (a) shall not apply if the 
+
+Guarantor establishes to the satisfaction of the Bank that: (A) 
+such suspension, cancellation, or termination is not caused by the 
+failure of the Guarantor to perform any of its obligations under 
+the Bank-GEF Grant Agreement; and (B) adequate funds for 
+Parts A.4 and C of the Project are available to the Guarantor 
+from other sources on terms and conditions consistent with the 
+obligations of the Guarantor under such agreement. 
+
+(b) The Guarantor shall have failed to perform any of its obligations under 
+
+the Guarantee Agreement, or the DBP Memorandum of Agreement, or the Bank-GEF 
+Grant Agreement, or the DBP-GEF Memorandum of Agreement.  
+
+(c) The Borrower shall have failed to perform any of its obligations under 
+the DBP Memorandum of Agreement, or the GEF Project Agreement, or the DBP-GEF 
+Memorandum of Agreement.  
+
+(d) The legal framework or the principal corporate and organizational 
+documents governing the Borrower, including the DBP Charter, shall have been 
+abrogated, amended, repealed, suspended, or waived, so as to affect materially and 
+adversely the operations or the financial condition of the Borrower or its ability to carry 
+out Parts A (except Part A.4 of the Project) or C.1 of the Project or to perform any of its 
+obligations under this Agreement. 
+
+(e) The Guarantor or any other authority having jurisdiction shall have taken 
+any action for the dissolution or disestablishment of the Borrower or for the suspension of 
+its operations, so as to affect materially and adversely the operations or the financial 
+condition of the Borrower or its ability to carry out Parts A (except Part A.4 of the 
+Project) or C.1 of the Project or to perform any of its obligations under this Agreement.
+(f) The DBP Memorandum of Agreement, or the DBP-GEF Memorandum 
+of Agreement, shall have been abrogated, amended, repealed, suspended, or waived so as 
+to affect materially and adversely the operations or the financial condition of the 
+Borrower or its ability to carry out Part A (except Part A.4 of the Project) or Part C.1 of 
+the Project or to perform any of its obligations under this Agreement. 
+
+(g) As a result of events which have occurred after the date of this 
+Agreement, an extraordinary situation shall have arisen which shall make it improbable 
+that the Borrower will be able to perform its obligations under this Agreement, the DBP 
+Memorandum of Agreement, the GEF Project Agreement, or the DBP-GEF 
+Memorandum of Agreement. 
+
+Section 5.02. Pursuant to Section 7.01(k) of the General Conditions, the 
+following additional events are specified:  
+
+(a) any of the events specified in paragraphs (b), (c), (d), (e) and (f) of 
+Section 5.01 of this Agreement shall occur and shall continue for a period of thirty days 
+after notice thereof shall have been given by the Bank to the Borrower; and 
+
+(b) any of the events specified in subparagraph (a)(i), subject to the proviso 
+of subparagraph (a)(ii), of Section 5.01 of this Agreement shall occur. 
+
+ARTICLE VI 
+
+Effective Date; Termination 
+
+Section 6.01. The following events are specified as additional conditions to the 
+effectiveness of the Loan Agreement within the meaning of Section 12.01(c) of the 
+General Conditions: 
+
+(a) the Bank-GEF Grant Agreement has been executed and delivered and all 
+conditions precedent to its effectiveness or to the right of the Guarantor to make 
+withdrawals thereunder, except only the effectiveness of the Loan Agreement, have been 
+fulfilled; 
+
+(b) the UNDP-GEF Grant Agreement has been executed and delivered and 
+all conditions precedent to its effectiveness or to the right of the Guarantor to make 
+withdrawals thereunder, except only the effectiveness of the Loan Agreement, have been 
+fulfilled;
+(c) the Guarantee Agreement has been executed and delivered and all 
+conditions precedent to its effectiveness, except only the effectiveness of the Loan 
+Agreement, have been fulfilled; 
+
+(d) the Borrower has adopted the DBP Operational Manual in accordance 
+with the provisions of paragraph 6 of Schedule 4 to this Agreement;  
+
+(e) the DBP Memorandum of Agreement has been entered into between the 
+Borrower and the Guarantor in accordance with Section 3.01(c) of this Agreement and 
+Section 4.01(a) of the Guarantee Agreement;  
+
+(f) the Borrower has adopted a financial management manual satisfactory to 
+the Bank in accordance with the provisions of paragraph 5(a) of Schedule 4 to this 
+Agreement;
+
+(g) the Project Supervisory Committee has been established in accordance 
+with the provisions of paragraph 1 of Schedule 4 to this Agreement and Section 3.03 of 
+the Guarantee Agreement; and 
+
+(h) the Technical Working Group has been established in accordance with 
+the provisions of paragraph 2 of Schedule 4 to this Agreement and Section 3.04 of the 
+Guarantee Agreement. 
+
+ Section 6.02. The date ninety (90) days after the date of this Agreement is hereby 
+specified for the purposes of Section 12.04 of the General Conditions.
+ARTICLE VII 
+
+Representative of the Borrower; Addresses 
+
+Section 7.01. The President and Chief Executive Officer of the Borrower is 
+designated as representative of the Borrower for the purposes of Section 11.03 of the 
+General Conditions. 
+
+Section 7.02. The following addresses are specified for the purposes of Section 
+11.01 of the General Conditions: 
+
+ For the Bank: 
+
+International Bank for  
+ Reconstruction and Development 
+
+ 1818 H Street, N.W. 
+ Washington, D.C. 20433 
+ United States of America 
+
+Cable address:     Telex:    Facsimile:  
+
+INTBAFRAD     248423 (MCI) or   (202) 477-6391 
+ Washington, D.C.    64145 (MCI) 
+
+For the Borrower: 
+
+Development Bank of the Philippines 
+Sen. Gil Puyat Avenue Corner 
+Makati Avenue 
+Makati, Metro Manila 
+Republic of the Philippines 
+
+Cable address:  Telex:    Facsimile:  
+
+PHILDEBANK  PHILCOM 22197 DBP PH  (6-32) 815-1611 
+
+ 22197   GLOBE TELECOM 45128 (6-32) 893-5350 
+Manila   DBP PM EASTERN  
+
+TELECOMS 63771 DBP PN
+IN WITNESS WHEREOF, the parties hereto, acting through their duly 
+authorized representatives, have caused this Agreement to be signed in their respective 
+names in Manila, Republic of the Philippines, as of the day and year first above written. 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By /s/ Robert Vance Pulley 
+
+Authorized Representative 
+
+DEVELOPMENT BANK OF THE PHILIPPINES 
+
+By /s/ Simon R. Paterno 
+
+Authorized Representative
+SCHEDULE 1 
+
+Withdrawal of the Proceeds of the Loan 
+
+Part A: General
+
+1. The table below sets forth the Categories of items to be financed out of the 
+proceeds of the Loan, the allocation of the amounts of the Loan to each Category and the 
+percentage of expenditures for items so to be financed in each Category: 
+
+ Amount of the 
+ Loan Allocated % of 
+ (Expressed in Expenditures 
+ Category Yen) to be financed
+
+(1) Type A Subloans, 1,176,318,000 100% of amounts 
+ Type C Subloans,  disbursed 
+ Type D Subloans, and 
+ Subsidiary Loans 
+
+(2) Front-end fee 11,882,000 Amount due under 
+ Section 2.04 of this 
+ Agreement 
+ __________ 
+ TOTAL 1,188,200,000
+
+2. Notwithstanding the provisions of paragraph 1 above, no withdrawals shall be 
+made in respect of payments made for expenditures prior to the date of this Agreement, 
+except that withdrawals, in an aggregate amount not to exceed $1,000,000, may be made 
+in respect of Categories (1) and (2) on account of payments for expenditures incurred 
+before that date but after March 1, 2003; provided, however, that no withdrawals shall be 
+made in respect of:  
+
+(a) a Type A Subloan or a Type C Subloan, under Category (1), unless the 
+Borrower shall have: (i) entered into a Type A Subloan Agreement or Type C Subloan 
+Agreement, respectively, with a Type A Beneficiary or Type C Beneficiary, in 
+accordance with paragraph 1(vi) of Annex A to Schedule 4 to this Agreement, providing 
+for such Type A Subloan or Type C Subloan; and (ii) the respective Type A Subloan or 
+Type C Subloan has been made in accordance with the procedures and on the terms and 
+conditions set forth or referred to in paragraph 1 of Annex A to Schedule 4 to this 
+Agreement;
+(b) a Type D Subloan, under Category (1), unless the Borrower shall have: 
+(i) entered into a Type D Subloan Agreement with a Type D Beneficiary in accordance 
+with paragraph 1(vi) of Annex D to Schedule 4 to this Agreement, providing for such 
+Type D Subloan; and (ii) the Type D Subloan has been made in accordance with the 
+procedures and on the terms and conditions set forth or referred to in paragraph 1 of 
+Annex D to Schedule 4 to this Agreement; and 
+
+(c) a Subsidiary Loan under Category (1), unless: (i) the relevant PFI shall 
+have entered into a Subsidiary Loan Agreement with the Borrower in accordance with 
+paragraph 1(v) of Annex C to Schedule 4 to this Agreement providing for such 
+Subsidiary Loan; (ii) the PFI shall have entered into a Type B Subloan Agreement with 
+the respective Type B Beneficiary, in accordance with paragraph 1(v) of Annex B to 
+Schedule 4 to this Agreement, providing for such Type B Subloan out of the proceeds of 
+the Subsidiary Loan for which disbursements are being made; and (iii) the Subsidiary 
+Loan has been made in accordance with the procedures and on the terms and conditions 
+set forth or referred to in paragraph 1 of Annex C to Schedule 4 to this Agreement. 
+
+3. The Bank may require withdrawals from the Loan Account to be made on the 
+basis of statements of expenditure for expenditures for Type A Subloans, Type C 
+Subloans, Type D Subloans, and Subsidiary Loans; all under such terms and conditions 
+as the Bank shall specify by notice to the Borrower. 
+
+4. The Borrower may request withdrawals from the Loan Account to be made on 
+the basis of reports to be submitted to the Bank, in form and substance satisfactory to the 
+Bank, such reports to include the FMR and any other information as the Bank shall 
+specify by notice to the Borrower (Report-Based Disbursements).  In the case of the first 
+such request submitted to the Bank before any withdrawal has been made from the Loan 
+Account, the Borrower shall submit to the Bank only a statement with the projected 
+sources and applications of funds for Part A of the Project (except Part A.4 of the Project) 
+for the six-month period following the date of such request. 
+
+Part B: Special Account
+
+1. The Borrower may, for the purposes of Part A of the Project (except Part A.4 of 
+the Project), open and maintain in Dollars a special deposit account in a commercial bank 
+specifically authorized for this purpose by Bangko Sentral ng Pilipinas on terms and 
+conditions satisfactory to the Bank, including appropriate protection against set-off, 
+seizure and attachment. 
+
+2. After the Bank has received evidence satisfactory to it that the Special Account 
+has been duly opened, withdrawals of the Authorized Allocation and subsequent 
+withdrawals to replenish the Special Account shall be made as follows:
+(a) if the Borrower is not making Report-Based Disbursements, withdrawals 
+shall be made in accordance with the provisions of Annex A to this Schedule 1; and 
+
+(b) if the Borrower is making Report-Based Disbursements, withdrawals 
+shall be made in accordance with the provisions of Annex B to this Schedule 1. 
+
+3. Payments out of the Special Account shall be made exclusively for Eligible 
+Expenditures.  For each payment made by the Borrower out of the Special Account, the 
+Borrower shall, at such time as the Bank shall reasonably request, furnish to the Bank 
+such documents and other evidence showing that such payment was made exclusively for 
+Eligible Expenditures. 
+
+4. Notwithstanding the provisions of Part B.2 of this Schedule 1, the Bank shall not 
+be required to make further deposits into the Special Account: 
+
+(a) if, at any time, the Bank is not satisfied that the reports referred to in Part 
+A.4 of this Schedule 1 adequately provide the information required for Report-Based 
+Disbursements;  
+
+(b) if, at any time, the Bank shall have determined that all further 
+withdrawals for payment of Eligible Expenditures should be made by the Borrower 
+directly from the Loan Account in accordance with the provisions of Article V of the 
+General Conditions and paragraph (a) of Section 2.02 of this Agreement; or 
+
+(c) if the Borrower shall have failed to furnish to the Bank, within the period 
+of time specified in Section 4.01(b)(ii) of this Agreement, any of the audit reports 
+required to be furnished to the Bank pursuant to said Section in respect of the audit of 
+(A) the records and accounts for the Special Account; or (B) the records and accounts 
+reflecting expenditures with respect to which withdrawals were made on the basis of 
+statements of expenditure or Report-Based Disbursements, as the case may be. 
+
+5. The Bank shall not be required to make further deposits into the Special Account 
+in accordance with the provisions of Part B.2 of this Schedule 1 if, at any time, the Bank 
+shall have notified the Borrower and the Guarantor of its intention to suspend in whole or 
+in part the right of the Borrower to make withdrawals from the Loan Account pursuant to 
+Section 6.02 of the General Conditions.  Upon such notification, the Bank shall 
+determine, in its sole discretion, whether further deposits into the Special Account may 
+be made and what procedures should be followed for making such deposits, and shall 
+notify the Borrower and the Guarantor of its determination. 
+
+6. (a) If the Bank determines at any time that any payment out of the Special 
+Account was made for an expenditure which is not an Eligible Expenditure, or was not
+justified by the evidence furnished to the Bank, the Borrower shall, promptly upon notice 
+from the Bank, provide such additional evidence as the Bank may request, or deposit into 
+the Special Account (or, if the Bank shall so request, refund to the Bank) an amount equal 
+to the amount of such payment.  Unless the Bank shall otherwise agree, no further deposit 
+by the Bank into the Special Account shall be made until the Borrower has provided such 
+evidence or made such deposit or refund, as the case may be. 
+
+(b) If the Bank determines at any time that any amount outstanding in the 
+Special Account will not be required to cover payments for Eligible Expenditures during 
+the six-month period following such determination, the Borrower shall, promptly upon 
+notice from the Bank, refund to the Bank such outstanding amount. 
+
+(c) The Borrower may, upon notice to the Bank, refund to the Bank all or 
+any portion of the funds on deposit in the Special Account. 
+
+(d) Refunds to the Bank made pursuant to subparagraph (a), (b) or (c) of this 
+paragraph 6 shall be credited to the Loan Account for subsequent withdrawal or for 
+cancellation in accordance with the provisions of the Loan Agreement.
+Annex A to Schedule 1 
+
+Operation of Special Account  
+When Withdrawals Are Not Report-based Disbursements 
+
+1. For the purposes of this Annex A, the term “Authorized Allocation” means the 
+amount of $1,000,000 to be withdrawn from the Loan Account and deposited into the 
+Special Account pursuant to paragraph 2 of this Annex A to Schedule 1, provided, 
+however, that unless the Bank shall otherwise agree, the Authorized Allocation shall be 
+limited to the amount of $500,000 until the aggregate amount of withdrawals from the 
+Loan Account plus the total amount of all outstanding special commitments entered into 
+by the Bank pursuant to Section 5.02 of the General Conditions shall be equal to or 
+exceed the equivalent of $3,000,000. 
+
+2. Withdrawals of the Authorized Allocation and subsequent withdrawals to 
+replenish the Special Account shall be made as follows:  
+
+(a) For withdrawals of the Authorized Allocation, the Borrower shall furnish 
+to the Bank a request or requests for deposit into the Special Account of an amount or 
+amounts which in the aggregate do not exceed the Authorized Allocation.  On the basis of 
+each such request, the Bank shall, on behalf of the Borrower, withdraw from the Loan 
+Account and deposit into the Special Account such amount as the Borrower shall have 
+requested.  
+
+(b) For replenishment of the Special Account, the Borrower shall furnish to 
+the Bank requests for deposit into the Special Account at such intervals as the Bank shall 
+specify.  Prior to or at the time of each such request, the Borrower shall furnish to the 
+Bank the documents and other evidence required pursuant to Part B.3 of Schedule 1 to 
+this Agreement for the payment or payments in respect of which replenishment is 
+requested.  On the basis of each such request, the Bank shall, on behalf of the Borrower, 
+withdraw from the Loan Account and deposit into the Special Account such amount as 
+the Borrower shall have requested and as shall have been shown by said documents and 
+other evidence to have been paid out of the Special Account for Eligible Expenditures. 
+Each such deposit into the Special Account shall be withdrawn by the Bank from the 
+Loan Account under the Eligible Categories. 
+
+3. The Bank shall not be required to make further deposits into the Special Account, 
+once the total unwithdrawn amount of the Loan minus the total amount of all outstanding 
+special commitments entered into by the Bank pursuant to Section 5.02 of the General 
+Conditions shall equal the equivalent of twice the amount of the Authorized Allocation. 
+Thereafter, withdrawal from the Loan Account of the remaining unwithdrawn amount of 
+the Loan shall follow such procedures as the Bank shall specify by notice to the
+Borrower.  Such further withdrawals shall be made only after and to the extent that the 
+Bank shall have been satisfied that all such amounts remaining on deposit in the Special 
+Account as of the date of such notice will be utilized in making payments for Eligible 
+Expenditures.
+Annex B to Schedule 1 
+
+Operation of Special Account  
+When Withdrawals Are Report-based Disbursements 
+
+1. Withdrawals from the Loan Account shall be deposited by the Bank into the 
+Special Account in accordance with the provisions of Schedule 1 to this Agreement.  
+Each such deposit into the Special Account shall be withdrawn by the Bank from the 
+Loan Account under the Eligible Categories.  
+
+2. Upon receipt of each application for withdrawal of an amount of the Loan, the 
+Bank shall, on behalf of the Borrower, withdraw from the Loan Account and deposit into 
+the Special Account an amount equal to the lesser of: (a) the amount so requested; or 
+(b) the amount that the Bank has determined, based on the reports referred to in 
+paragraph 4 of this Schedule 1 applicable to such withdrawal application, is required to 
+be deposited in order to finance Eligible Expenditures during the six-month period 
+following the date of such reports.
+SCHEDULE 2 
+
+Description of the Project 
+
+The objective of the Project is to support the implementation of the first phase of 
+the Program aimed at supporting reforms and priority investments to improve quality of 
+life in rural areas through the provision of adequate, affordable and reliable energy 
+services, in partnership with the private sector.   
+
+The Project consists of the following parts, subject to such modifications thereof 
+as the Guarantor, the Borrower, and the Bank may agree upon from time to time to 
+achieve such objectives: 
+
+Part A: Rural Electrification Subprojects
+
+1. Carrying out of Type A Subprojects through the provision of Type A Subloans. 
+
+2. Carrying out of Type B Subprojects through the provision of Type B Subloans. 
+
+3. Carrying out of Type C Subprojects through the provision of Type C Subloans. 
+
+4. Carrying out of GEF-Assisted Subprojects through the provision of GEF Sub-
+grants. 
+
+5. Carrying out of Type D Subprojects through the provision of Type D Subloans. 
+
+Part B: Partial Credit Guarantee Fund
+
+Provision of grant funds to RET system financiers to partially cover loan losses 
+incurred in the provision of loans to RET system purchasers and RET system suppliers. 
+
+Part C: Capacity Building
+
+1. Fostering the reduction of market barriers to the commercialization of renewable 
+energy technologies suitable for off-grid electrification by building capacity on selected 
+renewable energy technology matters, including appraisal, selection, procurement, and 
+supervision related to renewable energy technology subprojects, within the Borrower. 
+
+2. Fostering the reduction of market barriers to the commercialization of renewable 
+energy technologies suitable for off-grid electrification by building capacity on selected
+renewable energy technology matters, including appraisal, selection, procurement, and 
+supervision related to renewable energy technology subprojects, in selected public and 
+private sector entities including Department of Energy, Participating Financial 
+Intermediaries, RET system suppliers, ECs, and NGOs, and excluding the Borrower. 
+
+3. Fostering the reduction of investment risks in the rural power sector by carrying 
+out surveys and assessments of the rural electricity services market including renewable 
+energy technologies, and applying the findings of such surveys and assessments. 
+
+4. Developing and implementing policies on energy tariffs and subsidies, 
+regulation, and integration of renewable energy technologies in the missionary 
+electrification program pursuant to the Guarantor’s Electric Power Industry Reform Act 
+of 2001, Republic Act No. 9136, including the provision of computer hardware and 
+software. 
+
+* * *
+
+The Project is expected to be completed by June 30, 2009.
+SCHEDULE 3 
+
+Amortization Schedule 
+
+1. The following table sets forth the Principal Payment Dates of the Loan and the 
+percentage of the total principal amount of the Loan payable on each Principal Payment 
+Date (Installment Share).  If the proceeds of the Loan shall have been fully withdrawn as 
+of the first Principal Payment Date, the principal amount of the Loan repayable by the 
+Borrower on each Principal Payment Date shall be determined by the Bank by 
+multiplying:  (a) the total principal amount of the Loan withdrawn and outstanding as of 
+the first Principal Payment Date; by (b) the Installment Share for each Principal Payment 
+Date, such repayment amount to be adjusted, as necessary, to deduct any amounts 
+referred to in paragraph 4 of this Schedule, to which a Currency Conversion applies. 
+
+Installment Share 
+Payment Date (Expressed as a %)
+
+On each February 1 and August 1 
+Beginning February 1, 2012, through February 1, 2023 4.17 % 
+ 
+On August 1, 2023 4.09 % 
+
+2.  If the proceeds of the Loan shall not have been fully withdrawn as of the first 
+Principal Payment Date, the principal amount of the Loan repayable by the Borrower on 
+each Principal Payment Date shall be determined as follows: 
+
+(a) To the extent that any proceeds of the Loan shall have been withdrawn as 
+of the first Principal Payment Date, the Borrower shall repay the amount withdrawn and 
+outstanding as of such date in accordance with paragraph 1 of this Schedule. 
+
+(b) Any withdrawal made after the first Principal Payment Date shall be 
+repaid on each Principal Payment Date falling after the date of such withdrawal in 
+amounts determined by the Bank by multiplying the amount of each such withdrawal by 
+a fraction, the numerator of which shall be the original Installment Share specified in the 
+table in paragraph 1 of this Schedule for said Principal Payment Date (the Original 
+Installment Share) and the denominator of which shall be the sum of all remaining 
+Original Installment Shares for Principal Payment Dates falling on or after such date, 
+such repayment amounts to be adjusted, as necessary, to deduct any amounts referred to 
+in paragraph 4 of this Schedule, to which a Currency Conversion applies.
+3. (a) Withdrawals made within two calendar months prior to any Principal 
+Payment Date shall, for the purposes solely of calculating the principal amounts payable 
+on any Principal Payment Date, be treated as withdrawn and outstanding on the second 
+Principal Payment Date following the date of withdrawal and shall be repayable on each 
+Principal Payment Date commencing with the second Principal Payment Date following 
+the date of withdrawal. 
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph 3, 
+if at any time the Bank shall adopt a due date billing system under which invoices are 
+issued on or after the respective Principal Payment Date, the provisions of such sub-
+paragraph shall no longer apply to any withdrawals made after the adoption of such 
+billing system.  
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a 
+Currency Conversion of all or any portion of the withdrawn principal amount of the Loan 
+to an Approved Currency, the amount so converted in said Approved Currency that shall 
+be repayable on any Principal Payment Date occurring during the Conversion Period, 
+shall be determined by the Bank by multiplying such amount in its currency of 
+denomination immediately prior to said Conversion by either: (i) the exchange rate that 
+reflects the amounts of principal in said Approved Currency payable by the Bank under 
+the Currency Hedge Transaction relating to said Conversion; or (ii) if the Bank so 
+determines in accordance with the Conversion Guidelines, the exchange rate component 
+of the Screen Rate. 
+
+5. If the principal amount of the Loan withdrawn and outstanding from time to time 
+shall be denominated in more than one Loan Currency, the provisions of this Schedule 
+shall apply separately to the amount denominated in each Loan Currency, so as to 
+produce a separate amortization schedule for each such amount.
+SCHEDULE 4 
+
+Implementation Program 
+
+Project Management
+
+1. The Borrower shall take all necessary actions to form part of and participate in 
+the Project Supervisory Committee to be established and maintained by the Borrower 
+jointly with DOE and other relevant national ministries of the Guarantor, as set forth in 
+Section 3.03 of the Guarantee Agreement, to be responsible for the overall policy 
+direction, guidance, and supervision of policy and institutional reforms under the 
+Program. 
+
+2. The Borrower shall take all necessary actions to form part of and participate in 
+the Technical Working Group to be established and maintained by the Borrower jointly 
+with DOE and other relevant national ministries of the Guarantor, as set forth in 
+Section 3.04 of the Guarantee Agreement, to serve as a secretariat to the Project 
+Supervisory Committee and to be responsible for overall coordination and supervision of 
+the implementation of the Project. 
+
+3. The Borrower shall maintain until completion of the Project the DBP Project 
+Management Office (DBP-PMO), Financial Management Unit, and Procurement Unit, 
+each of which shall be headed by a qualified and experienced manager, assigned with 
+qualified staff in adequate numbers, and which are provided with such powers, 
+responsibilities, organization and funding as shall be required to enable them to carry out 
+the administration, coordination, supervision, procurement, disbursement, accounting, 
+financial and project management, and monitoring of the implementation of Parts A 
+(except Part A.4 of the Project) and C.1 of the Project. 
+
+4. The DBP-PMO shall report periodically to the Project Supervisory Committee 
+and Technical Working Group in the carrying out of its responsibilities under the Project. 
+
+5. The Borrower shall: 
+
+(a) adopt a financial management manual, satisfactory to the Bank, and shall 
+not amend, delete, suspend, or waive such manual or any provision thereof without the 
+prior consent of the Bank; and 
+
+(b) prepare and furnish to the Bank a financial management staffing plan for 
+the DBP-PMO, satisfactory to the Bank, by September 30, 2004, and carry out such plan 
+by November 30, 2004.
+Project Implementation
+
+6. The Borrower shall adopt the DBP Operational Manual, satisfactory to the Bank, 
+and thereafter carry out Part A of the Project (except Part A.4 of the Project) in 
+accordance with such manual; and shall not amend, delete, suspend, or waive the DBP 
+Operational Manual or any provision thereof without the prior consent of the Bank.  
+
+7. The Borrower shall carry out Part A of the Project (except Part A.4 of the 
+Project) in accordance with the DBP Project Implementation Plan, satisfactory to the 
+Bank. 
+
+8. In the carrying out of Part A of the Project (except Part A.4 of the Project), the 
+Borrower shall:  
+
+(a) take all such actions as shall be necessary to apply and cause to be 
+applied:  
+
+(i) the Environmental Policy Framework;  
+
+(ii) the Policy Framework: Land Acquisition, Resettlement and 
+Rehabilitation of Displaced Persons; and  
+
+(iii) the Project Policy Framework on Indigenous Peoples; and 
+
+(b) not amend, delete, suspend, or waive any of such frameworks, or any 
+provision thereof, without the prior consent of the Bank. 
+
+Monitoring and Evaluation
+
+9. The Borrower shall: 
+
+(a) maintain policies and procedures adequate to enable it to monitor and 
+evaluate on an ongoing basis, in accordance with indicators satisfactory to the Bank as set 
+forth in Schedule 1 to the Guarantee Agreement, the carrying out of Part A of the Project 
+(except Part A.4 of the Project) and the achievement of the objectives thereof; 
+
+(b) prepare, in scope and format satisfactory to the Bank, and furnish to the 
+Bank: (i) a quarterly progress report pertaining to the three-month period ending on 
+March 31, June 30, September 30, and December 31 of each calendar year, each such 
+report to be furnished to the Bank within sixty (60) days after the end of the period
+reported upon, commencing December 31, 2003, and (ii) a mid-term report on or about 
+March 31, 2006, in each case integrating the results of the monitoring and evaluation 
+activities performed pursuant to subparagraph (a) of this paragraph 9, reporting on the 
+progress achieved in the carrying out of Part A of the Project (except Part A.4 of the 
+Project) during the period preceding the date of said report and setting out the measures 
+recommended to ensure the efficient carrying out of Part A of the Project (except Part 
+A.4 of the Project) and the achievement of the objectives thereof during the period 
+following such date; and 
+
+ (c) review with the Bank, by April 30, 2006, or such later date as the Bank 
+shall request, the report referred to in subparagraph (b)(ii) of this paragraph 9, and, 
+thereafter, take all measures required to ensure the efficient completion of Part A of the 
+Project (except Part A.4 of the Project) and the achievement of the objectives thereof, 
+based on the conclusions and recommendations of the said report and the Bank’s views 
+on the matter.
+Annex A to Schedule 4 
+
+Type A Subloans and Type C Subloans  
+
+1. Except as the Bank shall otherwise agree, the Borrower shall: 
+
+ (a) appraise and approve Type A Subprojects and Type C Subprojects that 
+are technically feasible, financially viable, and environmentally sound in accordance with 
+the pertinent eligibility criteria set forth in the DBP Operational Manual; and 
+
+ (b) make Type A Subloans and Type C Subloans to Type A Beneficiaries 
+and Type C Beneficiaries, respectively, that meet the pertinent eligibility criteria set forth 
+in the DBP Operational Manual and in accordance with the Borrower’s credit criteria and 
+procedures and on the terms and conditions set forth in the DBP Operational Manual, 
+including: 
+
+Terms of Type A Subloans and Type C Subloans
+
+(i) The principal amount of a Type A Subloan or Type C Subloan 
+shall not exceed ninety percent (90%) of the total costs of the 
+related Type A Subproject or Type C Subproject; and the equity 
+contribution that each Type A Beneficiary or Type C Beneficiary 
+shall be required to contribute from internally generated 
+revenues or from its internal revenue allocation to meet the non-
+financed portion of the costs of the related Subproject shall be 
+determined by the Borrower on the basis of its review of the 
+relevant Subproject proposal and the financial situation of the 
+respective Beneficiary, but in each case shall be at least ten 
+percent (10%) of the total costs for such Subproject. 
+
+(ii) Repayment of the principal amount of each Type A Subloan or 
+Type C Subloan shall be made over a period not exceeding 
+fifteen (15) years, inclusive of a maximum of five (5) years 
+grace. 
+
+(iii) Interest shall accrue on the principal amount disbursed and 
+outstanding on each Type A Subloan or Type C Subloan at a per 
+annum rate freely negotiated between the Borrower and the Type 
+A Beneficiary or Type C Beneficiary, in accordance with the 
+method for the determination of lending rates as set forth in the 
+DBP Memorandum of Agreement, as provided in Section 3.01(c) 
+of this Agreement.  Interest shall be payable on a monthly,
+quarterly, or semi-annual basis as agreed between the Borrower 
+and the respective Beneficiary; provided, however, that the 
+interest rate per annum on the principal amount disbursed and 
+outstanding on each Type C Subloan to an EC shall accrue at an 
+interest rate per annum (variable or fixed) calculated in 
+accordance with the relevant provisions of the DBP Operational 
+Manual.  
+
+Procedure, Terms and Conditions
+
+(iv) A Type A Subloan or Type C Subloan may be approved to a 
+Type A Beneficiary or Type C Beneficiary only if such 
+Beneficiary:  
+
+(A) has prepared an initial environmental examination, 
+including an environmental management plan, on the 
+basis of standards satisfactory to the Bank and in 
+accordance with the Environmental Policy Framework; 
+
+(B) has prepared a resettlement action plan satisfactory to 
+the Bank and in accordance with the Policy Framework: 
+Land Acquisition, Resettlement and Rehabilitation of 
+Displaced Persons, in the event the Type A Subproject 
+or Type C Subproject will involve resettlement of 
+Displaced Persons; 
+
+(C) has carried out consultations with and a process of 
+informed participation by Indigenous Peoples, 
+satisfactory to the Bank and in accordance with the 
+Project Policy Framework on Indigenous Peoples, in the 
+event that the Type A Subproject or Type C Subproject 
+will impact such people and to ensure that the design and 
+implementation of the Type A Subproject or Type C 
+Subproject will adequately address the needs and 
+cultural preferences of such people; and 
+
+(D) has prepared and furnished to the Bank the following 
+documents, satisfactory to the Bank: 
+
+(i) where the proposed Subproject is likely to have 
+a significant adverse environmental impact, an 
+environmental assessment;
+(ii) where the proposed Subproject will involve 
+resettlement of Displaced Persons, a 
+resettlement action plan; and 
+
+(iii) where the proposed Subproject will affect 
+Indigenous Peoples, an Indigenous Peoples 
+development plan. 
+
+(iv) The first three (3) Type A Subproject or Type C 
+Subproject proposals endorsed by the Borrower 
+shall be subject to prior review by the Bank.  
+The Borrower shall furnish to the Bank, in 
+sufficient time for its review, the proposals and 
+any relevant supporting materials from the 
+prospective Type A Beneficiaries or Type C 
+Beneficiaries.  The Borrower shall approve each 
+of these first three Type A Subloans or Type C 
+Subloans only after receiving a “no objection” 
+from the Bank to the relevant Subproject 
+proposal. 
+
+Type A Subloan Agreements and Type C Subloan Agreements
+
+(v) In respect of each Type A Subloan and Type C Subloan, the 
+Borrower shall  enter into a Type A Subloan Agreement or Type 
+C Subloan Agreement with the relevant Type A Beneficiary or 
+Type C Beneficiary whereby the Borrower shall obtain rights 
+adequate to protect its own interests and the interests of the 
+Bank, including without limitation the rights to: 
+
+(A) require the Type A Beneficiary or Type C Beneficiary to 
+carry out its Type A Subproject or Type C Subproject 
+with due diligence and efficiency and in accordance with 
+sound technical, financial, managerial, social, and 
+environmental standards and practices satisfactory to the 
+Bank, and to maintain adequate records; 
+
+(B) require the Type A Beneficiary or Type C Beneficiary to 
+establish prior to approval of its Type A Subloan or 
+Type C Subloan, and thereafter maintain, arrangements 
+satisfactory to the Borrower and the Bank to manage the
+implementation of its Type A Subproject or Type C 
+Subproject; 
+
+(C) require that goods and works to be financed out of the 
+proceeds of the Type A Subloan or Type C Subloan shall 
+be procured:  
+
+(i) under contracts estimated to cost the equivalent 
+of $1,000,000 or more per contract, in 
+accordance with procedures consistent with 
+those set forth in Sections I and II of the 
+“Guidelines for Procurement under IBRD Loans 
+and IDA Credits” published by the Bank in 
+January 1995 and revised in January and August 
+1996, September 1997 and January 1999 (the 
+Guidelines), provided, however, that the 
+provisions of paragraphs 2.54 and 2.55 of the 
+Guidelines and Appendix 2 thereto shall apply to 
+goods manufactured in the territory of the 
+Borrower; and 
+
+(ii) under contracts other than those set forth in 
+subparagraph (I) above, at a reasonable price 
+following established commercial procedures, 
+account being taken also of other relevant 
+factors such as, in the case of goods, timely 
+delivery and efficiency and reliability of the 
+goods and availability of maintenance facilities 
+and spare parts therefor, and in the case of 
+works, the technical quality and the competitive 
+cost therefor; 
+
+provided, however, that in each case where the 
+Type A Beneficiary is an LGU, goods and works 
+to be financed out of the proceeds of such Type 
+A Subloan shall be procured in accordance with 
+Section I of Annex E to this Schedule 4, and in 
+each case where the contract is for the 
+acquisition of secondhand subtransmission 
+facilities by a Type C Beneficiary out of the 
+proceeds of a Type C Subloan, such facilities 
+shall be procured at a reasonable price 
+determined in accordance with the revenue
+potential of such facilities and the relevant 
+provisions of the EPIRA and excluding the 
+financing of any facilities previously financed 
+by the Bank and the financing of the cost of 
+land; 
+
+(D) require that consultants’ services to be financed out of 
+the proceeds of the Type A Subloan or Type C Subloan 
+shall be procured at a reasonable price following 
+established commercial procedures, account being taken 
+also of other relevant factors such as the quality of such 
+services and the competence of the parties rendering 
+them; provided, however, that in each case where the 
+Type A Beneficiary is an LGU, consultants’ services to 
+be financed out of the proceeds of such Type A Subloan 
+shall be procured in accordance with Section II of Annex 
+E to this Schedule 4; 
+
+(E) require each Type A Beneficiary and Type C 
+Beneficiary to submit the following contracts to the 
+Borrower for its prior review and approval: 
+
+(i) each contract for goods or works estimated to 
+cost the equivalent of $1,000,000 or more; 
+
+(ii) each contract for consultants’ services estimated 
+to cost the equivalent of $100,000 or more for 
+firms or estimated to cost the equivalent of 
+$50,000 or more for individuals; and 
+
+(iii) each contract for the purchase by a Type C 
+Beneficiary of secondhand subtransmission 
+facilities, regardless of its estimated contract 
+cost;  
+
+provided, however, that in each case where the 
+Type A Beneficiary is an LGU, contracts 
+procured under such Type A Subloan shall be 
+subject to prior review and approval in 
+accordance with Part D of Section I, and Part D 
+of Section II, of Annex E to this Schedule 4;
+(F) require that each contract for goods, works, and services 
+to be financed out of the proceeds of a Type A Subloan 
+or Type C Subloan shall be subject to post review by the 
+Bank, and each contract not subject to prior review in 
+accordance with subparagraph (E) of this paragraph 
+1(c)(vi) shall be subject to post review by the Borrower, 
+in each case in accordance with the procedures set forth 
+in paragraph 4 of Appendix 1 to the Guidelines, in the 
+case of goods or works, and paragraph 4 of Appendix 1 
+to the “Guidelines:  Selection and Employment of 
+Consultants by World Bank Borrowers” published by 
+the Bank in January 1997 and revised in September 
+1997, January 1999 and May 2002 (the Consultant 
+Guidelines), in the case of consultants’ services; 
+provided, however, that in each case where the Type A 
+Beneficiary is an LGU, contracts procured under such 
+Type A Subloan shall be subject to post review in 
+accordance with Part D of Section I, and Part D of 
+Section II, of Annex E to this Schedule 4; 
+
+(G) require that the Type A Beneficiary or Type C 
+Beneficiary implement its environmental management 
+plan, resettlement action plan, and program of 
+consultation with and informed participation by 
+Indigenous Peoples, as the case may be, in a manner 
+satisfactory to the Borrower and the Bank; 
+
+(H) inspect, by itself or jointly with representative(s) of the 
+Bank, such goods and the sites, works, plans, and 
+construction included in the Type A Subproject or Type 
+C Subproject, the operation thereof, and any relevant 
+records and documents; 
+
+(I) require each Type A Beneficiary and Type C 
+Beneficiary to: (i) establish and maintain a financial 
+management system, including records and accounts, 
+and prepare financial statements in a format acceptable 
+to the Borrower and the Bank, adequate to reflect the 
+operations, resources, and expenditures related to its 
+Subproject; (ii) have the records, accounts, and financial 
+statements referred to in clause (i) above for each fiscal 
+year audited, in accordance with auditing standards 
+acceptable to the Borrower and the Bank, consistently 
+applied, by independent auditors acceptable to the
+Borrower and the Bank; and (iii) upon the Borrower’s 
+request, furnish to the Borrower copies of the financial 
+statements referred to in clause (I) above as so audited 
+together with an opinion on such statements, records, 
+and accounts and report of such audit by said auditors; 
+
+(J) require that each Type A Beneficiary and Type C 
+Beneficiary shall not incur any debt, except as the Bank 
+shall otherwise agree, unless the net revenues of the 
+Type A Beneficiary or Type C Beneficiary for the fiscal 
+year immediately preceding the date of such incurrence 
+or for a later twelve-month period ended prior to the date 
+of such incurrence, whichever is the greater, shall be at 
+least 1 time the estimated maximum debt service 
+requirements of the Type A Beneficiary or Type C 
+Beneficiary for any succeeding fiscal year on all debt of 
+the Type A Beneficiary or Type C Beneficiary, including 
+the debt to be incurred.  For the purposes of this 
+subparagraph (J):  
+
+(i) the term “debt” means any indebtedness of the 
+Type A Beneficiary or Type C Beneficiary 
+maturing by its terms more than one year after 
+the date on which it is originally incurred; 
+
+(ii) debt shall be deemed to be incurred: (A) under a 
+
+loan contract or agreement or other instrument 
+providing for such debt or for the modification 
+of its terms of payment, on the date of such 
+contract, agreement or instrument; and (B) under 
+a guarantee agreement, on the date the 
+agreement providing for such guarantee has 
+been entered into; 
+
+(iii) the term “net revenues” means the difference 
+
+between: 
+
+(a) the sum of revenues from all sources 
+related to operations adjusted to take 
+account of the pertinent rates and prices 
+of the Type A Beneficiary or Type C 
+Beneficiary in effect at the time of the 
+incurrence of debt even though they 
+were not in effect during the
+twelve-month period to which such 
+revenues relate and net non-operating 
+income; and 
+
+(b) the sum of all expenses related to 
+operations including administration, 
+adequate maintenance, taxes and 
+payments in lieu of taxes, but excluding 
+provision for depreciation, other 
+non-cash operating charges and interest 
+and other charges on debt; 
+
+(iv) the term "net non-operating income" means the 
+difference between: 
+
+(a) revenues from all sources other than 
+
+those related to operations; and 
+
+(b) expenses, including taxes and payments 
+in lieu of taxes, incurred in the 
+generation of revenues in (A) above. 
+
+(K) require that in the case of each Type A Beneficiary that 
+is an LGU, the municipal council and mayor of the LGU 
+shall have passed resolutions to participate in the Project 
+and to execute a Type A Subloan Agreement with the 
+Borrower, satisfactory to the Borrower; 
+
+(L) require that each Type C Beneficiary shall have obtained  
+the approval and certification of the NEA, pursuant to 
+Section 16(i) of the NEA Charter, to enable the Type C 
+Beneficiary to receive a Type C Subloan pursuant to the 
+terms of a Type C Subloan Agreement with the 
+Borrower; 
+
+(M) where operations and maintenance of facilities 
+established under a Type A Subproject or Type C 
+Subproject is necessary, require the Type A Beneficiary 
+or Type C Beneficiary to establish, and maintain until 
+completion of the Subproject, an operations and 
+maintenance account with sufficient initial capital and an 
+established mechanism for replenishment of the account
+to cover the recurrent costs of the relevant Subproject 
+during and after implementation; 
+
+(N) require that the Type A Beneficiary or Type C 
+Beneficiary provide to the Borrower and the Bank all 
+such information as the Borrower and the Bank may 
+reasonably request relating to the foregoing and to the 
+administration, operations, and financial condition of the 
+Type A Beneficiary or Type C Beneficiary and to the 
+benefits to be derived from its respective Type A 
+Subproject or Type C Subproject; and 
+
+(O) suspend or terminate the right of the Type A Beneficiary 
+or Type C Beneficiary to the use of the proceeds of the 
+Type A Subloan or Type C Subloan upon failure by such 
+Type A Beneficiary or Type C Beneficiary to perform its 
+obligations under the relevant Type A Subloan 
+Agreement or Type C Subloan Agreement. 
+
+2. The Borrower: 
+
+(a) shall exercise its right in relation to each Type A Subloan Agreement and 
+Type C Subloan Agreement in such manner as to protect its interests and the interests of 
+the Bank, comply with its obligations under this Agreement, and achieve the purposes of 
+the Project; and 
+
+(b) shall not, except as the Bank shall otherwise agree, take or concur in any 
+action that would have the effect of assigning, amending, abrogating, or waiving any 
+Type A Subloan Agreement or Type C Subloan Agreement or any provision thereof.
+Annex B to Schedule 4 
+
+Type B Subloans 
+
+1. Except as the Bank shall otherwise agree, the Borrower shall cause Participating 
+Financial Intermediaries to: (a) appraise and approve Type B Subprojects that are 
+technically feasible, financially viable, and environmentally sound in accordance with the 
+pertinent eligibility criteria set forth in the DBP Operational Manual; and (b) make Type 
+B Subloans to Type B Beneficiaries that meet the pertinent eligibility criteria set forth in 
+the DBP Operational Manual and in accordance with the Participating Financial 
+Intermediaries’ credit criteria and procedures and on the terms and conditions set forth in 
+the DBP Operational Manual including: 
+
+Terms of Type B Subloans
+
+(i) The principal amount of a Type B Subloan shall not exceed ninety 
+percent (90%) of the total costs of the related Type B Subproject; and the 
+equity contribution that each Type B Beneficiary shall be required to 
+contribute from internally generated revenues or from its internal 
+revenue allocation to meet the non-financed portion of the costs of the 
+related Subproject shall be determined by the PFI on the basis of its 
+review of the relevant Subproject proposal and the financial situation of 
+the Beneficiary, but in each case shall be at least ten percent (10%) of the 
+total costs for such Subproject. 
+
+(ii) Repayment of the principal amount of each Type B Subloan shall be 
+made over a period not exceeding six (6) years, inclusive of a maximum 
+of six (6) months grace. 
+
+(iii) Interest shall accrue on the principal amount disbursed and outstanding 
+on each Type B Subloan at a per annum rate freely negotiated between 
+the PFI and the Type B Beneficiary.  Interest shall be payable on a 
+monthly, quarterly, or semi-annual basis as agreed between the Borrower 
+and the Beneficiary. 
+
+Procedure, Terms and Conditions
+
+(iv) A Type B Subloan may be approved to each Type B Beneficiary only if 
+such Type B Beneficiary:
+(A) if an RET system supplier, has prepared an initial environmental 
+examination, including an environmental management plan, on 
+the basis of standards satisfactory to the Bank and in accordance 
+with the Environmental Policy Framework; 
+
+(B) has prepared a resettlement action plan satisfactory to the Bank 
+and in accordance with the Policy Framework: Land Acquisition, 
+Resettlement and Rehabilitation of Displaced Persons, in the 
+event the Type B Subproject will involve resettlement of 
+Displaced Persons;  
+
+(C) has carried out consultations with a process of informed 
+participation by Indigenous Peoples, satisfactory to the Bank and 
+in accordance with the Project Policy Framework on Indigenous 
+Peoples, in the event that the Type B Subproject will impact such 
+people and to ensure that the design and implementation of the 
+Type B Subproject will adequately address the needs and 
+cultural preferences of such people; and 
+
+(D) has prepared and furnished to the Bank the following documents, 
+satisfactory to the Bank: 
+
+(i) where the proposed Subproject is likely to have a 
+significant adverse environmental impact, an 
+environmental assessment; 
+
+(ii) where the proposed Subproject will involve resettlement 
+of Displaced Persons, a resettlement action plan; and 
+
+(iii) where the proposed Subproject will affect Indigenous 
+Peoples, an Indigenous Peoples development plan. 
+
+Type B Subloan Agreements
+
+(v) In respect of each Type B Subloan, the PFI shall  enter into a Type B 
+Subloan Agreement with the Type B Beneficiary whereby the PFI shall 
+obtain rights adequate to protect its own interests and the interests of the 
+Bank, including without limitation the rights to: 
+
+(A) require the Type B Beneficiary to carry out its Type B 
+Subproject with due diligence and efficiency and in accordance
+with sound technical, financial, managerial, social, and 
+environmental standards and practices satisfactory to the Bank, 
+and to maintain adequate records; 
+
+(B) require the Type B Beneficiary to establish prior to approval of a 
+Type B Subloan, and thereafter maintain, arrangements 
+satisfactory to the PFI and the Bank to manage the 
+implementation of its Type B Subproject; 
+
+(C) require that goods and works to be financed out of the proceeds 
+of the Type B Subloan shall be procured:  
+
+ (i) under contracts estimated to cost the equivalent of 
+$500,000 or more per contract, in accordance with 
+procedures consistent with those set forth in Sections I 
+and II of the Guidelines, provided, however, that the 
+provisions of paragraphs 2.54 and 2.55 of the Guidelines 
+and Appendix 2 thereto shall apply to goods 
+manufactured in the territory of the Borrower; and 
+
+ (ii) under contracts other than those set forth in 
+subparagraph (I) above, at a reasonable price following 
+established commercial procedures, account being taken 
+also of other relevant factors such as, in the case of 
+goods, timely delivery and efficiency and reliability of 
+the goods and availability of maintenance facilities and 
+spare parts therefor, and in the case of works, the 
+technical quality and the competitive cost therefor; 
+
+provided, however, that in each case where the Type B 
+Beneficiary is an LGU, goods and works to be financed 
+out of the proceeds of such Type B Subloan shall be 
+procured in accordance with Section I of Annex E to this 
+Schedule 4; 
+
+(D) require that consultants’ services to be financed out of the 
+proceeds of the Type B Subloan shall be procured at a 
+reasonable price following established commercial procedures, 
+account being taken also of other relevant factors such as the 
+quality of such services and the competence of the parties 
+rendering them; provided, however, that in each case where the 
+Type B Beneficiary is an LGU, consultants’ services to be 
+financed out of the proceeds of such Type B Subloan shall be
+procured in accordance with Section II of Annex E to this 
+Schedule 4; 
+
+(E) require each Type B Beneficiary to submit the following 
+contracts to the PFI for the PFI’s prior review and approval: 
+
+(i) each contract for goods or works estimated to cost the 
+equivalent of $500,000 or more; and 
+
+(ii) each contract for consultants’ services estimated to cost 
+the equivalent of $100,000 or more for firms or 
+estimated to cost the equivalent of $50,000 or more for 
+individuals; 
+
+provided, however, that in each case where the Type B 
+Beneficiary is an LGU, contracts procured under such 
+Type B Subloan shall be subject to prior review and 
+approval in accordance with Part D of Section I, and Part 
+D of Section II, of Annex E to this Schedule 4; 
+
+(F) require that each contract for goods, works, and services to be 
+financed out of the proceeds of a Type B Subloan shall be 
+subject to post review by the Bank, and each contract not subject 
+to prior review in accordance with subparagraph (E) of this 
+paragraph 1(vi) shall be subject to post review by the PFI, in 
+each case in accordance with the procedures set forth in 
+paragraph 4 of Appendix 1 to the Guidelines, in the case of 
+goods or works, and paragraph 4 of Appendix 1 to the 
+Consultant Guidelines, in the case of consultants’ services; 
+provided, however, that in each case where the Type B 
+Beneficiary is an LGU, contracts procured under such Type B 
+Subloan shall be subject to post review in accordance with Part 
+D of Section I, and Part D of Section II, of Annex E to this 
+Schedule 4; 
+
+(G) inspect, by itself or jointly with representative(s) of the Bank, 
+such goods and the sites, works, plans, and construction included 
+in the Type B Subproject, the operation thereof, and any relevant 
+records and documents; 
+
+(H) require that each Type B Beneficiary (that is an RET system 
+supplier) implement its environmental management plan,
+resettlement action plan, and program of consultation with an 
+informed participation by Indigenous Peoples, as the case may 
+be, in a manner satisfactory to the PFI and the Bank; 
+
+(I) require that each Type B Beneficiary that is an RET system 
+supplier shall not incur any debt, except as the PFI shall 
+otherwise agree, unless the net revenues of such Type B 
+Beneficiary for the fiscal year immediately preceding the date of 
+such incurrence or for a later twelve-month period ended prior to 
+the date of such incurrence, whichever is the greater, shall be at 
+least one (1) time the estimated maximum debt service 
+requirements of such Type B Beneficiary for any succeeding 
+fiscal year on all debt of the Type B Beneficiary, including the 
+debt to be incurred.  For the purposes of this subparagraph (I),  
+
+(i) the term “debt” means any indebtedness of such Type B 
+Beneficiary maturing by its terms more than one year 
+after the date on which it is originally incurred; 
+
+(ii) debt shall be deemed to be incurred: (A) under a loan 
+
+contract or agreement or other instrument providing for 
+such debt or for the modification of its terms of 
+payment, on the date of such contract, agreement or 
+instrument; and (B) under a guarantee agreement, on the 
+date the agreement providing for such guarantee has 
+been entered into; 
+
+(iii) the term “net revenues” means the difference between: 
+
+(a) the sum of revenues from all sources related to 
+
+operations adjusted to take account of the 
+pertinent prices of the Type B Beneficiary in 
+effect at the time of the incurrence of debt even 
+though they were not in effect during the 
+twelve-month period to which such revenues 
+relate and net non-operating income; and 
+
+(b) the sum of all expenses related to operations 
+including administration, adequate maintenance, 
+taxes and payments in lieu of taxes, but 
+excluding provision for depreciation, other 
+non-cash operating charges and interest and 
+other charges on debt;
+(iv) the term "net non-operating income" means the 
+difference between: 
+
+(a) revenues from all sources other than those 
+
+related to operations; and 
+
+(b) expenses, including taxes and payments in lieu 
+of taxes, incurred in the generation of revenues 
+in (A) above. 
+
+(J) require that in the case of each Type B Beneficiary that is an 
+LGU, the municipal council and mayor of the LGU shall have 
+passed resolutions to participate in the Project and to execute a 
+Type B Subloan Agreement with the PFI, satisfactory to the PFI; 
+
+(K) require that the Type B Beneficiary provide to the PFI and the 
+Bank all such information as PFI and the Bank may reasonably 
+request relating to the foregoing and to the financial condition of 
+the Type B Beneficiary and to the benefits to be derived from its 
+respective Type B Subproject; and 
+
+(L) suspend or terminate the right of the Type B Beneficiary to the 
+use of the proceeds of the Type B Subloan upon failure by such 
+Type B Beneficiary to perform its obligations under the relevant 
+Type B Subloan Agreement. 
+
+2. Each PFI in relation to the Type B Subloans it has made: 
+
+(a) shall exercise its right in relation to each Type B Subloan Agreement to 
+which it is a party in such manner as to protect its interests and the interests of the Bank, 
+comply with its obligations under its respective Subsidiary Loan Agreement, and achieve 
+the purposes of the Project; and 
+
+(b) shall not, except as the Bank shall otherwise agree, take or concur in any 
+action that would have the effect of assigning, amending, abrogating, or waiving any 
+Type B Subloan Agreement or any provision thereof.
+Annex C to Schedule 4 
+
+Subsidiary Loans 
+
+1. Except as the Bank shall otherwise agree, the Borrower shall make Subsidiary 
+Loans: 
+
+ (a) to PFIs that meet the pertinent accreditation criteria set forth in the DBP 
+Operational Manual; and 
+
+ (b) in accordance with the Borrower’s credit criteria and procedures and on 
+the terms and conditions set forth in the Operational Manual, including: 
+
+ Criteria
+
+(i)  The accreditation criteria to be used by the Borrower in 
+appraising and selecting PFIs to receive Subsidiary Loans shall 
+include the following: 
+
+(B) the PFI has experience in managing and implementing a 
+micro-finance program; 
+
+(C) the PFI has qualified and experienced management and 
+personnel in sufficient numbers, and adequate systems 
+and procedures, to enable the PFI to be an efficient and 
+reliable purveyor of retail credit; 
+
+(D) the PFI has adopted an audit manual or other written 
+internal controls adequate to ensure its sound financial 
+management; and 
+
+(E) the PFI has met pertinent financial criteria, as set forth in 
+the DBP Operational Manual, that reflect its 
+performance in terms including solvency, liquidity, and 
+profitability.
+Terms of Subsidiary Loans
+
+(ii) Repayment of the principal amount of each Subsidiary Loan 
+shall be made over a period not exceeding ten (10) years, 
+inclusive of a maximum of six (6) months grace. 
+
+(iii) Interest shall accrue on the principal amount disbursed and 
+outstanding on each Subsidiary Loan at a per annum rate freely 
+negotiated between the Borrower and the PFI in accordance with 
+the method for the determination of lending rates as set forth in 
+the DBP Memorandum of Agreement, as provided in Section 
+3.01(c) of this Agreement.  Interest shall be payable on a 
+monthly, quarterly or semi-annual basis as agreed between the 
+Borrower and the PFI. 
+
+ Procedure, Terms and Conditions
+
+(iv) The first three (3) Subsidiary Loans endorsed by the Borrower 
+shall be subject to prior review by the Bank.  The Borrower shall 
+furnish to the Bank, in sufficient time for its review, the 
+proposals and any relevant supporting materials from the PFI.  
+The Borrower shall approve each of these first three Subsidiary 
+Loans only after receiving a “no objection” from the Bank to the 
+relevant proposal. 
+
+ Subsidiary Loan Agreements
+
+(v) In respect of each Subsidiary Loan made by the Borrower to a 
+PFI out of the proceeds of the Loan, the Borrower shall enter 
+into a Subsidiary Loan Agreement with the PFI whereby the 
+Borrower shall obtain rights adequate to protect the interests of 
+the Borrower and the Bank, including without limitation the 
+rights to: 
+
+ (A) require the PFI to onlend the proceeds of the Subsidiary 
+Loan as one or more Type B Subloans to Type B 
+Beneficiaries for the financing of Type B Subprojects, in 
+each case (I) pursuant to a Type B Subloan Agreement 
+with the Type B Beneficiary whereby the PFI shall 
+obtain rights adequate to protect its interests and the 
+interests of the Bank and (II) in accordance with the 
+PFI’s credit criteria and procedures and on terms and
+conditions acceptable to the Bank and the Borrower, all 
+as set forth in Annex B to Schedule 4 of this Agreement 
+and the DBP Operational Manual; 
+
+ (B) require the PFI to exercise its right in relation to each 
+Type B Subloan Agreement to which it is a party in such 
+manner as to protect the interests of the PFI, the 
+Borrower, and the Bank, to comply with its obligations 
+under the Subsidiary Loan Agreement, and achieve the 
+purposes of the Project; 
+
+(C) require the PFI to refrain, except as Borrower and the 
+Bank shall otherwise agree, from taking or concurring in 
+any action that would have the effect of assigning, 
+amending, abrogating, or waiving any Type B Subloan 
+Agreement to which it is a party or any provision 
+thereof; 
+
+(D) require the PFI to conduct its operations and affairs in 
+accordance with sound administrative, commercial 
+banking, environmental, social, and financial standards 
+and practices satisfactory to the Bank, with qualified and 
+experienced management and personnel in sufficient 
+numbers, and provide, promptly as needed, the funds, 
+facilities, services, and other resources required to carry 
+out its respective lending operations for Type B 
+Subloans to Type B Beneficiaries; 
+
+(E) require the PFI to (i) establish and maintain a financial 
+management system, including records and accounts, 
+and prepare financial statements in a format acceptable 
+to the Borrower and the Bank, adequate to reflect the 
+operations, resources, and expenditures related to its 
+Subsidiary Loan and Type B Subloans; (ii) have the 
+records, accounts, and financial statements referred to in 
+clause (I) above for each fiscal year audited, in 
+accordance with auditing standards acceptable to the 
+Borrower and the Bank, consistently applied, by 
+independent auditors acceptable to the Borrower and the 
+Bank; and (iii) upon request, furnish to the Borrower 
+copies of the financial statements referred to in clause (I) 
+above as so audited together with an opinion on such
+statements, records, and accounts and report of such 
+audit by said auditors; 
+
+(F) require that the PFI take out and maintain with 
+responsible insurers such insurance, against such risks 
+and in such amounts, as shall be consistent with sound 
+business practice; 
+
+(G) require that the PFI provide to the Borrower and the 
+Bank all such information as the Borrower and the Bank 
+may reasonably request relating to the foregoing and to 
+the administration, operations, and financial condition of 
+the PFI and to the benefits to be derived from the 
+proceeds of the Subsidiary Loan; and 
+
+(H) suspend or terminate the right of the PFI to the use of the 
+proceeds of the Subsidiary Loan upon failure by such 
+PFI to perform its obligations under the relevant 
+Subsidiary Loan Agreement. 
+
+2. The Borrower:  
+
+(a) shall exercise its right in relation to each Subsidiary Loan Agreement in 
+such manner as to protect the interests of the Borrower and the Bank, comply with the 
+requirements of this Agreement, and achieve the purposes of the Project; and 
+
+ (b) shall not, except as the Bank shall otherwise agree, take or concur in any 
+action that would have the effect of assigning, amending, abrogating, or waiving any 
+Subsidiary Loan Agreement or any provision thereof.
+Annex D to Schedule 4 
+
+Type D Subloans 
+
+1. Except as the Bank shall otherwise agree, the Borrower shall: 
+
+ (a) appraise and approve Type D Subprojects that are technically feasible, 
+financially viable, and environmentally sound in accordance with the pertinent eligibility 
+criteria set forth in the DBP Operational Manual; and 
+
+ (b) make Type D Subloans to Type D Beneficiaries that meet the pertinent 
+eligibility criteria set forth in the DBP Operational Manual and in accordance with the 
+Borrower’s credit criteria and procedures and on the terms and conditions set forth in the 
+DBP Operational Manual, including: 
+
+Terms of Type D Subloans
+
+(i) The principal amount of a Type D Subloan shall not exceed 
+ninety percent (90%) of the total costs of the related Type D 
+Subproject; and the equity contribution that each Type D 
+Beneficiary shall be required to contribute from internally 
+generated revenues or from its internal revenue allocation to 
+meet the non-financed portion of the costs of the related 
+Subproject shall be determined by the Borrower on the basis of 
+its review of the relevant Subproject proposal and the financial 
+situation of the respective Beneficiary, but in each case shall be 
+at least ten percent (10%) of the total costs for such Subproject. 
+
+(ii) Repayment of the principal amount of each Type D Subloan 
+shall be made over a period not exceeding fifteen (15) years, 
+inclusive of a maximum of five (5) years grace. 
+
+(iv) Interest shall accrue on the principal amount disbursed and 
+outstanding on each Type D Subloan at a per annum rate freely 
+negotiated between the Borrower and the Type D Beneficiary, in 
+accordance with the method for the determination of lending 
+rates as set forth in the DBP Memorandum of Agreement, as 
+provided in Section 3.01(c) of this Agreement.  Interest shall be 
+payable on a monthly, quarterly, or semi-annual basis as agreed 
+between the Borrower and the Beneficiary; provided, however, 
+that the interest rate per annum on the principal amount 
+disbursed and outstanding on any Type D Subloan to an EC shall
+accrue at an interest rate per annum (variable or fixed) calculated 
+in accordance with the relevant provisions of the DBP 
+Operational Manual.  
+
+Procedure, Terms and Conditions
+
+(iv) A Type D Subloan may be approved to a Type D Beneficiary 
+only if such Beneficiary:  
+
+(A) has prepared an initial environmental examination, 
+including an environmental management plan, on the 
+basis of standards satisfactory to the Bank and in 
+accordance with the Environmental Policy Framework; 
+
+(B) has prepared a resettlement action plan satisfactory to 
+the Bank and in accordance with the Policy Framework: 
+Land Acquisition, Resettlement and Rehabilitation of 
+Displaced Persons, in the event the Type D Subproject 
+will involve resettlement of Displaced Persons; 
+
+(C) has carried out consultations with and a process of 
+informed participation by Indigenous Peoples, 
+satisfactory to the Bank and in accordance with the 
+Project Policy Framework on Indigenous Peoples, in the 
+event that the Type D Subproject will impact such 
+people and to ensure that the design and implementation 
+of the Type D Subproject adequately address the needs 
+and cultural preferences of such people; and 
+
+(D) has prepared and furnished to the Bank the following 
+documents, satisfactory to the Bank: 
+
+(i) where the proposed Subproject is likely to have 
+a significant adverse environmental impact, an 
+environmental assessment; 
+
+(ii) where the proposed Subproject will involve 
+resettlement of Displaced Persons, a 
+resettlement action plan; and
+(iii) where the proposed Subproject will affect 
+Indigenous Peoples, an Indigenous Peoples 
+development plan. 
+
+(iv) Each Type D Subproject proposal endorsed by 
+the Borrower shall be subject to prior review by 
+the Bank.  The Borrower shall furnish to the 
+Bank, in sufficient time for its review, the 
+proposals and any relevant supporting materials 
+from the prospective Type D Beneficiary.  The 
+Borrower shall approve a Type D Subloan only 
+after receiving a “no objection” from the Bank 
+to the relevant Subproject proposal. 
+
+Type D Subloan Agreements
+
+(v) In respect of each Type D Subloan, the Borrower shall  enter into 
+a Type D Subloan Agreement with the relevant Type D 
+Beneficiary whereby the Borrower shall obtain rights adequate to 
+protect its own interests and the interests of the Bank, including 
+without limitation the rights to: 
+
+(A) require the Type D Beneficiary to carry out its Type D 
+Subproject with due diligence and efficiency and in 
+accordance with sound technical, financial, managerial, 
+social, and environmental standards and practices 
+satisfactory to the Bank, and to maintain adequate 
+records; 
+
+(B) require the Type D Beneficiary to establish prior to 
+approval of its Type D Subloan, and thereafter maintain, 
+arrangements satisfactory to the Borrower and the Bank 
+to manage the implementation of its Type D Subproject; 
+
+(C) require that goods and works to be financed out of the 
+proceeds of the Type D Subloan shall be procured:  
+
+(i) under contracts estimated to cost the equivalent 
+of $500,000 or more per contract, in accordance 
+with procedures consistent with those set forth in 
+Sections I and II of the Guidelines, provided, 
+however, that the provisions of paragraphs 2.54
+and 2.55 of the Guidelines and Appendix 2 
+thereto shall apply to goods manufactured in the 
+territory of the Borrower; and 
+
+(ii) under contracts other than those set forth in 
+subparagraph (i) above, at a reasonable price 
+following established commercial procedures, 
+account being taken also of other relevant 
+factors such as, in the case of goods, timely 
+delivery and efficiency and reliability of the 
+goods and availability of maintenance facilities 
+and spare parts therefor, and in the case of 
+works, the technical quality and the competitive 
+cost therefor; 
+
+provided, however, that in any case where the 
+Type D Beneficiary is an LGU, goods and works 
+to be financed out of the proceeds of such Type 
+D Subloan shall be procured in accordance with 
+Section I of Annex E to this Schedule 4; 
+
+(D) require that consultants’ services to be financed out of 
+the proceeds of the Type D Subloan shall be procured at 
+a reasonable price following established commercial 
+procedures, account being taken also of other relevant 
+factors such as the quality of such services and the 
+competence of the parties rendering them; provided, 
+however, that in any case where the Type D Beneficiary 
+is an LGU, consultants’ services to be financed out of 
+the proceeds of such Type D Subloan shall be procured 
+in accordance with Section II of Annex E to this 
+Schedule 4; 
+
+(E) require each Type D Beneficiary to submit the following 
+contracts to the Borrower for the Borrower’s prior 
+review and approval: 
+
+(i) each contract for goods or works estimated to 
+cost the equivalent of $500,000 or more; and 
+
+(ii) each contract for consultants’ services estimated 
+to cost the equivalent of $100,000 or more for
+firms or estimated to cost the equivalent of 
+$50,000 or more for individuals; 
+
+provided, however, that in each case where the 
+Type D Beneficiary is an LGU, contracts 
+procured under such Type D Subloan shall be 
+subject to prior review and approval in 
+accordance with Part D of Section I, and Part D 
+of Section II, of Annex E to this Schedule 4; 
+
+(F) require that each contract for goods, works, and services 
+to be financed out of the proceeds of a Type D Subloan 
+shall be subject to post review by the Bank, and each 
+contract not subject to prior review in accordance with 
+subparagraph (E) of this paragraph 1 (b)(vi) shall be 
+subject to post review by the Borrower, in each case in 
+accordance with the procedures set forth in paragraph 4 
+of Appendix 1 to the Guidelines, in the case of goods or 
+works, and paragraph 4 of Appendix 1 to the Consultant 
+Guidelines, in the case of consultants’ services; 
+provided, however, that in each case where the Type D 
+Beneficiary is an LGU, contracts procured under such 
+Type D Subloan shall be subject to post review in 
+accordance with Part D of Section I, and Part D of 
+Section II, of Annex E to this Schedule 4; 
+
+(G) require that the Type D Beneficiary implement its 
+environmental management plan, resettlement action 
+plan, and program of consultation with and informed 
+participation by Indigenous Peoples, as the case may be, 
+in a manner satisfactory to the Borrower and the Bank; 
+
+(H) inspect, by itself or jointly with representative(s) of the 
+Bank, such goods and the sites, works, plans, and 
+construction included in the Type D Subproject, the 
+operation thereof, and any relevant records and 
+documents; 
+
+(I) require each Type D Beneficiary to (i) establish and 
+maintain a financial management system, including 
+records and accounts, and prepare financial statements in 
+a format acceptable to the Borrower and the Bank, 
+adequate to reflect the operations, resources, and
+expenditures related to its Subproject; (ii) have the 
+records, accounts, and financial statements referred to in 
+clause (i) above for each fiscal year audited, in 
+accordance with auditing standards acceptable to the 
+Borrower and the Bank, consistently applied, by 
+independent auditors acceptable to the Borrower and the 
+Bank; and (iii) upon the Borrower’s request, furnish to 
+the Borrower copies of the financial statements referred 
+to in clause (i) above as so audited together with an 
+opinion on such statements, records, and accounts and 
+report of such audit by said auditors; 
+
+(J) require that each Type D Beneficiary shall not incur any 
+debt, except as the Borrower shall otherwise agree, 
+unless the net revenues of the Type D Beneficiary for the 
+fiscal year immediately preceding the date of such 
+incurrence or for a later twelve-month period ending 
+prior to the date of such incurrence, whichever is the 
+greater, shall be at least one (1) time the estimated 
+maximum debt service requirements of the Type D 
+Beneficiary for any succeeding fiscal year on all debt of 
+the Type D Beneficiary, including the debt to be 
+incurred.  For the purposes of this subparagraph (J):  
+
+(i) the term “debt” means any indebtedness of the 
+Type D Beneficiary maturing by its terms more 
+than one year after the date on which it is 
+originally incurred; 
+
+(ii) debt shall be deemed to be incurred: (a) under a 
+
+loan contract or agreement or other instrument 
+providing for such debt or for the modification 
+of its terms of payment, on the date of such 
+contract, agreement or instrument; and (b) under 
+a guarantee agreement, on the date the 
+agreement providing for such guarantee has 
+been entered into; 
+
+(iii) the term “net revenues” means the difference 
+
+between: 
+
+(a) the sum of revenues from all sources 
+related to operations adjusted to take 
+account of the pertinent rates and prices
+of the Type D Beneficiary in effect at 
+the time of the incurrence of debt even 
+though they were not in effect during the 
+twelve-month period to which such 
+revenues relate and net non-operating 
+income; and 
+
+(b) the sum of all expenses related to 
+operations including administration, 
+adequate maintenance, taxes and 
+payments in lieu of taxes, but excluding 
+provision for depreciation, other 
+non-cash operating charges and interest 
+and other charges on debt; 
+
+(iv) the term “net non-operating income” means the 
+difference between: 
+
+(a) revenues from all sources other than 
+
+those related to operations; and 
+
+(b) expenses, including taxes and payments 
+in lieu of taxes, incurred in the 
+generation of revenues in (A) above. 
+
+(K) require that in the case of each Type D Beneficiary that 
+is an LGU, the municipal council and mayor of the LGU 
+shall have passed resolutions to participate in the Project 
+and to execute a Type D Subloan Agreement with the 
+Borrower, satisfactory to the Borrower; 
+
+(L) require that any Type D Beneficiary that is an EC shall 
+have obtained  the approval and certification of the 
+NEA, pursuant to Section 16(i) of the NEA Charter, to 
+enable such EC to receive a Type D Subloan pursuant to 
+the terms of a Type D Subloan Agreement with the 
+Borrower; 
+
+(M) where operations and maintenance of facilities 
+established under a Type D Subproject is necessary, 
+require the Type D Beneficiary to establish, and 
+maintain until completion of the Subproject, an
+operations and maintenance account with sufficient 
+initial capital and an established mechanism for 
+replenishment of the account to cover the recurrent costs 
+of the relevant Subproject during and after 
+implementation; 
+
+(N) require that the Type D Beneficiary provide to the 
+Borrower and the Bank all such information as the 
+Borrower and the Bank may reasonably request relating 
+to the foregoing and to the administration, operations, 
+and financial condition of the Type D Beneficiary and to 
+the benefits to be derived from its respective Type D 
+Subproject; and 
+
+(O) suspend or terminate the right of the Type D Beneficiary 
+to the use of the proceeds of the Type D Subloan upon 
+failure by such Type D Beneficiary to perform its 
+obligations under the relevant Type D Subloan 
+Agreement. 
+
+2. The Borrower: 
+
+(a) shall exercise its right in relation to each Type D Subloan Agreement in 
+such manner as to protect its interests and the interests of the Bank, comply with its 
+obligations under this Agreement, and achieve the purposes of the Project; and 
+
+(b) shall not, except as the Bank shall otherwise agree, take or concur in any 
+action that would have the effect of assigning, amending, abrogating, or waiving any 
+Type D Subloan Agreement or any provision thereof.
+Annex E to Schedule 4 
+
+Procurement by Beneficiaries Which Are LGUs 
+
+Section I. Procurement of Goods and Works
+
+Part A: General
+
+Goods and works shall be procured in accordance with the provisions of Section 
+I of the “Guidelines for Procurement under IBRD Loans and IDA Credits” published by 
+the Bank in January 1995 and revised in January and August 1996, September 1997 and 
+January 1999 (the Guidelines) and the following provisions of Section I of this Schedule. 
+
+Part B: International Competitive Bidding
+
+Except as otherwise provided in Part C of this Section, goods and works shall be 
+procured under contracts awarded in accordance with the provisions of Section II of the 
+Guidelines and paragraph 5 of Appendix 1 thereto. 
+
+Part C: Other Procurement Procedures
+
+1. National Competitive Bidding
+
+Goods and works estimated to cost less than $500,000 equivalent per contract, up 
+to an aggregate amount not to exceed $1,000,000 equivalent per Subproject, may be 
+procured under contracts awarded in accordance with the provisions of paragraphs 3.3 
+and 3.4 of the Guidelines and Schedule 5 to this Agreement. 
+
+2. National Shopping
+
+Goods estimated to cost less than $50,000 equivalent per contract, up to an 
+aggregate amount not to exceed $400,000 equivalent per Subproject, may be procured 
+under contracts awarded on the basis of national shopping procedures in accordance with 
+the provisions of paragraphs 3.5 and 3.6 of the Guidelines. 
+
+3. Procurement of Small Works
+
+Works estimated to cost less than $50,000 equivalent per contract, up to an 
+aggregate amount not to exceed $400,000 equivalent per Subproject, may be procured 
+under lump-sum, fixed-price contracts awarded on the basis of quotations obtained from
+three (3) qualified domestic contractors in response to a written invitation. The invitation 
+shall include a detailed description of the works, including basic specifications, the 
+required completion date, a basic form of agreement acceptable to the Bank, and relevant 
+drawings, where applicable. The award shall be made to the contractor who offers the 
+lowest price quotation for the required work, and who has the experience and resources to 
+complete the contract successfully. 
+
+Part D: Review by the Bank, the Borrower, and PFIs of Procurement Decisions
+
+1. Procurement Planning
+
+Prior to the issuance of any invitations to bid for contracts, the proposed 
+procurement plan for each Subproject shall be furnished to the Borrower, or in the case of 
+a Type B Subproject, to the PFI that has made the relevant Subloan, for its review and 
+approval, and after any comments from the Borrower or the PFI have been taken into 
+account, to the Bank for its review and approval in accordance with the provisions of 
+paragraph 1 of Appendix 1 to the Guidelines. Procurement of all goods and works shall 
+be undertaken in accordance with such procurement plan as shall have been approved by 
+the Bank, and with the provisions of said paragraph 1. 
+
+2. Prior Review
+
+The LGU shall submit the following contracts to the Borrower, or in the case of a 
+Type B Subproject, to the PFI that has made the relevant Subloan, for its prior review and 
+approval: (i) each contract for goods or works to be procured in accordance with the 
+procedures referred to in Part B of this Section I; (ii) the first contract for goods or works 
+to be procured under each Subproject in accordance with the procedures referred to in 
+paragraph 1 of Part C of this Section I; (iii) each contract for goods or works estimated to 
+cost the equivalent of $200,000 or more; and (iv) the first contract under each Subproject 
+for goods to be procured in accordance with the procedures referred to in paragraph 2 of 
+Part C of this Section I or works to be procured in accordance with the procedures 
+referred to in paragraph 3 of Part C of this Section I. 
+
+3. Post Review
+
+Each contract for goods and works to be procured by an LGU shall be subject to 
+post review by the Bank, and each contract not governed by paragraph 2 of this Part shall 
+be subject to post review by the Borrower or, in the case of a Type B Subproject, by the 
+PFI that has made the relevant Subloan, in each case in accordance with the procedures 
+set forth in paragraph 4 of Appendix 1 to the Guidelines.
+Section II. Employment of Consultants
+
+Part A: General
+
+Consultants’ services shall be procured in accordance with the provisions of 
+Sections I and IV of the “Guidelines:  Selection and Employment of Consultants by 
+World Bank Borrowers” published by the Bank in January 1997 and revised in 
+September 1997, January 1999 and May 2002 (the Consultant Guidelines), paragraph 1 
+of Appendix 1 thereto, Appendix 2 thereto and the following provisions of Section II of 
+this Schedule. 
+
+Part B: Selection Based on Consultants’ Qualifications
+
+Except as otherwise provided in Part C of this Section, consultants’ services shall 
+be procured under contracts awarded in accordance with the provisions of paragraphs 3.1 
+and 3.7 of the Consultant Guidelines. 
+
+Part C: Other Procedures for the Selection of Consultants
+
+1. Single Source Selection
+
+Services for subproject preparation and implementation under Parts A.1, A.2, and 
+A.5 of the Project which are estimated to cost less than $100,000 equivalent per contract 
+may, with the prior agreement of the Borrower, or in the case of a Type B Subproject, of 
+the PFI that has made the relevant Subloan, and of the Bank, be procured in accordance 
+with the provisions of paragraphs 3.8 through 3.11 of the Consultant Guidelines. 
+
+2. Individual Consultants
+
+Services of individual consultants for subproject preparation and implementation 
+under Parts A.1, A.2, and A.5 of the Project that meet the requirements set forth in 
+paragraph 5.1 of the Consultant Guidelines shall be procured under contracts awarded in 
+accordance with the provisions of paragraphs 5.1 through 5.3 of the Consultant 
+Guidelines.
+Part D: Review by the Bank, the Borrower, and PFIs of the Selection of Consultants
+
+1. Prior Review
+
+(a) With respect to each contract for the employment of consulting firms 
+estimated to cost the equivalent of $100,000 or more, the LGU shall submit such 
+contracts to the Borrower, or in the case of a Type B Subproject, to the PFI that has made 
+the relevant Subloan, for its prior review and approval. 
+
+ (b) With respect to each contract for the employment of individual 
+consultants estimated to cost the equivalent of $50,000 or more, the report on the 
+comparison of the qualifications and experience of candidates, terms of reference and 
+terms of employment of the consultants shall be furnished to the Borrower, or in the case 
+of a Type B Subproject, to the PFI that has made the relevant Subloan, for its prior 
+review and approval. 
+
+3. Post Review
+
+Each contract for consultants’ services to be procured by an LGU shall be subject 
+to post review by the Bank, and each contract not governed by paragraph 2 of this Part 
+shall be subject to post review by the Borrower or, in the case of a Type B Subproject, by 
+the PFI that has made the relevant Subloan, in each case in accordance with the 
+procedures set forth in paragraph 4 of Appendix 1 to the Consultant Guidelines.
+SCHEDULE 5 
+
+National Competitive Bidding Procedures 
+
+With respect to goods and works to be procured by LGUs in accordance with the 
+procedures referred to in paragraph 1 of Part C of Section I of Annex E to Schedule 4, the 
+National Competitive Bidding (NCB) procedures of the Guarantor shall apply, except 
+that, unless otherwise agreed by the Bank in writing, the following procedures shall 
+apply: 
+
+1. National Competitive Bidding (NCB) opportunities shall be advertised in 
+national newspapers of general circulation, with sufficient time for bidders to prepare 
+offers, which shall not be less than 30 days, unless a different time is specifically agreed 
+upon by the Bank.  Posting shall also be done in the Government Electronic Procurement 
+System (GEPS) or the Procuring Entity’s website.  
+
+2. Foreign suppliers and contractors from eligible countries shall be allowed to 
+participate, if interested, without first being required to associate with, or enter into joint 
+ventures with, local firms.  However, joint ventures will be encouraged. 
+
+3. Except for major or complex works, as defined in this Loan Agreement, where 
+prequalification is required, prequalification of contractors shall only be undertaken upon 
+prior Bank approval. 
+
+4. Eligibility screening may be carried out prior to bidding with the prior 
+concurrence of the Bank. 
+
+5. If any bidder is to be denied access to the bidding process for reasons unrelated 
+to its financial and technical qualifications to perform the contract, prior concurrence of 
+the Bank shall be sought. 
+
+6. A ceiling may be applied to bid prices, with the prior concurrence of the Bank in 
+advance of bidding.  The Approved Budget Estimate may be disclosed in the 
+advertisement or in the bidding documents. 
+
+7. The Bank’s domestic preferences shall not be applied in the evaluation of bids, 
+and other preferences in effect in the Republic of the Philippines shall also not be used, 
+except with the prior concurrence of the Bank. 
+
+8. Price negotiation shall not be allowed.  However, in the case of a budget 
+limitation, an adjustment in the quantities of goods or the scope of work may be agreed 
+upon, subject to the prior concurrence of the Bank.
+9. Bid opening shall be open to those who wish to attend, and the deadline for 
+submission of bids shall be the same as that for bid opening.  All bids received on time 
+shall be opened and read publicly. 
+
+10. Within 72 hours from bid opening, but prior to bid evaluation, a copy of the 
+certified minutes of bid opening shall be furnished to the Bank, which shall contain the 
+following: (a) names of the bidders provided with bid documents; (b) original amount 
+(unevaluated) of the bid of each bidder, as read; (c) date, time and place of bid opening; 
+(d) summary of bid proceedings; and (e) names of the bidders’ representatives and other 
+persons present. 
+
+11. Suppliers and contractors shall not be required to purchase only local goods or 
+supplies, or to hire local labor, except for unskilled labor. 
+
+12. Explicit bid evaluation criteria shall be set forth in the bid documents based on 
+monetarily quantifiable elements.  
+
+13. Modifications exceeding 15% of the contract amount and material changes in the 
+conditions during implementation require prior concurrence of the Bank. 
+
+14. For foreign suppliers and contractors, prior registration (such as with the Bureau 
+of Food and Drugs for the registration for drugs, agency accreditation, etc.), licensing 
+(such as licensing by the Philippine Contractors Accreditation Board, etc.), and/or other 
+government authorizations (such as a Mayor’s permit, etc.), shall not be a requirement for 
+purposes of participating in bidding competitions. Such registration, licensing and/or 
+other government authorizations may, however, be required from the selected bidder as a 
+condition of signing of the contract, and the Borrower shall not be estopped from 
+asserting such requirement where this is mandated under national law.  
+
+15. Bid and performance securities shall be specified in the bidding documents, 
+which may be in the form of a certified check, letter of credit, or bank guarantee from a 
+reputable bank.  
+
+16. To obtain the best market prices available, open competitive bidding shall be 
+maximized.  For this purpose, requirements shall not include restrictive importation 
+permits from private associations or protective preferences for Philippine Flag vessels.  
+
+17. Two-envelope system procedures shall not be used unless prior concurrence by 
+the Bank has been obtained. 
+
+18. Privileges granted to Provincial bidders to match the lowest bid submitted by a 
+contractor with the principal office address outside the province in which the project is 
+located, shall not be allowed. 
+
+19. The use of GEPS for procurement of goods may be allowed with the prior 
+concurrence of the Bank.

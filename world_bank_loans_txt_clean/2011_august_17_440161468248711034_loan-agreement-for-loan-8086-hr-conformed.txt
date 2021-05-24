@@ -1,0 +1,759 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 8086-HR 
+
+Loan Agreement 
+
+(Integrated Land Administration System Project) 
+
+between 
+
+REPUBLIC OF CROATIA 
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+Dated August 17, 2011  
+
+LOAN NUMBER 8086-HR 
+
+LOAN AGREEMENT 
+
+Agreement dated August 17, 2011, between REPUBLIC OF CROATIA 
+(“Borrower”) and INTERNATIONAL BANK FOR RECONSTRUCTION AND 
+DEVELOPMENT (“Bank”).  The Borrower and the Bank hereby agree as follows: 
+
+ARTICLE I — GENERAL CONDITIONS; DEFINITIONS 
+ 
+1.01. The General Conditions (as defined in the Appendix to this Agreement) 
+
+constitute an integral part of this Agreement. 
+ 
+1.02. Unless the context requires otherwise, the capitalized terms used in this 
+
+Agreement have the meanings ascribed to them in the General Conditions or in 
+the Appendix to this Agreement. 
+
+ARTICLE II — LOAN 
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or 
+
+referred to in this Agreement, the amount of sixteen million five hundred 
+thousand Euro (¼������������� DV� VXFK� DPRXQW�PD\� EH� FRQYHUWHG� IURP� WLPH� WR�
+time through a Currency Conversion in accordance with the provisions of Section 
+2.07 of this Agreement (“Loan”), to assist in financing the project described in 
+Schedule 1 to this Agreement (“Project”). 
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with 
+
+Section IV of Schedule 2 to this Agreement. 
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one 
+percent (0.25%) of the Loan amount.    
+
+2.04. The interest payable by the Borrower for each Interest Period shall be at a rate 
+
+equal to the Reference Rate for the Loan Currency plus the Fixed Spread; 
+provided, that upon a Conversion of all or any portion of the principal amount of 
+the Loan, the interest payable by the Borrower during the Conversion Period on 
+such amount shall be determined in accordance with the relevant provisions of 
+Article IV of the General Conditions. Notwithstanding the foregoing, if any 
+amount of the Withdrawn Loan Balance remains unpaid when due and such non-
+payment continues for a period of thirty days, then the interest payable by the 
+Borrower shall instead be calculated as provided in Section 3.02 (e) of the 
+General Conditions. 
+
+2.05. The Payment Dates are May 15 and November 15 in each year. 
+ 
+2.06. The principal amount of the Loan shall be repaid in accordance with the 
+
+provisions of Schedule 3 to this Agreement. 
+ 
+2.07. (a) The Borrower may at any time request any of the following Conversions 
+
+of the terms of the Loan in order to facilitate prudent debt management, 
+namely a change of the interest rate basis applicable to all or any portion 
+of the principal amount of the Loan withdrawn and outstanding from a 
+Variable Rate to a Fixed Rate, or vice versa, or from a Variable Rate 
+based on a Variable Spread to a Variable Rate based on a Fixed Spread. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that 
+
+is accepted by the Bank shall be considered a “Conversion”, as defined 
+in the General Conditions, and shall be effected in accordance with the 
+provisions of Article IV of the General Conditions and of the Conversion 
+Guidelines.  
+
+ARTICLE III — PROJECT 
+
+3.01. The Borrower declares its commitment to the objectives of the Project.  To this 
+
+end, the Borrower shall carry out the Project in accordance with the provisions of 
+Article V of the General Conditions. 
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and 
+
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall 
+ensure that the Project is carried out in accordance with the provisions of 
+Schedule 2 to this Agreement. 
+
+ARTICLE IV — REMEDIES OF THE BANK 
+
+4.01. The Co-financing Deadline for the effectiveness of the Co-financing Agreement 
+is June 30, 2012. 
+
+ARTICLE V — EFFECTIVENESS; TERMINATION 
+
+5.01. The Additional Conditions of Effectiveness consist of the following, namely that 
+the Project Operational Manual has been adopted by the Borrower, in form and 
+substance satisfactory to the Bank. 
+
+5.02. The Effectiveness Deadline is the date ninety (90) days after the date of this 
+Agreement. 
+
+ARTICLE VI — REPRESENTATIVE; ADDRESSES 
+
+6.01. The Borrower’s Representative is Minister of Finance. 
+ 
+6.02. The Borrower’s Address is: 
+
+Ministry of Finance 
+KatanþLüHYD�� 
+10000 Zagreb 
+Republic of Croatia 
+
+Telex:   Facsimile: 
+ 
+862-21215  (385-1) 4922-598 
+862-21833 
+
+6.03. The Bank’s Address is: 
+
+International Bank for Reconstruction and Development 
+1818 H Street, N.W. 
+Washington, D.C. 20433 
+United States of America 
+ 
+Cable address:  Telex:   Facsimile: 
+ 
+INTBAFRAD  248423(MCI) or 1
+477-6391 
+Washington, D.C.  64145(MCI) 
+
+AGREED at Zagreb, Republic of Croatia, as of the day and year first above 
+written. 
+
+REPUBLIC OF CROATIA 
+
+By /s/ Martina Dalic 
+
+Authorized Representative 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By /s/ Hongjoo Hahm 
+
+Authorized Representative 
+
+SCHEDULE 1 
+
+Project Description 
+
+The objective of the Project is to modernize the land administration and 
+management system to improve the efficiency, transparency and cost effectiveness of 
+government services. 
+
+The Project consists of the following parts: 
+ 
+Part A.  Land Registration System Development 
+ 
+1. Scanning of LRO archives, through the provision of Technical Services and 
+goods. 
+ 
+2. Preparation of a land registration strategy and associated draft amendments to the 
+legal framework for land registration, through the provision of consultants’ services. 
+ 
+3. Development of software application and a data entry process to re-create land 
+book information; and processing of backlogged land registry cases, through the 
+provision of consultants’ services and Technical Services. 
+ 
+4. Training of MOJ staff to prepare for the JIS roll out. 
+ 
+Part B.  Spatial Information and Cadastre System Modernization 
+ 
+1. Construction of a scan center for digital archiving of cadastre documents; and 
+scanning and indexing of cadastre documents, through the provision of works, goods and 
+consultants’ services. 
+ 
+2. Restructuring of the SGA’s regional offices, through: the acquisition of new 
+office space in Bjelovar and Sibenik; renovation works of existing office space; and 
+consultants’ services for strategic planning. 
+ 
+3. Modernization of the cadastre system, through the provision of: consultants’ 
+services for studies and preparation of technical specifications; and hardware for further 
+development of the Geoportal. 
+ 
+4. Preparation of draft by-laws and regulations on the utility line cadastre;  piloting 
+of SGA data transfer to digital form; development of a central solution for running and 
+maintaining the utility line cadastre; and establishment of scale maps, model 
+specifications and a cartographic database, through the provision of consultants’ services, 
+Technical Services and goods. 
+
+Part C.  Improving Digital Services   
+ 
+1. Homogenization of cadastre maps; and harmonization of cadastre data, through 
+the provision of Technical Services. 
+ 
+2. Development and system roll-out of the JIS, through the provision of Training, 
+Technical Services, consultants’ services and goods.  
+ 
+3. Establishment of a permanent organizational structure to manage the JIS 
+operation over the long term; and strengthening of the institutional capacity to manage 
+the JIS, through the provision of consultants’ services and goods. 
+ 
+Part D.  Project Management, Training and Public Awareness 
+ 
+1. Support to the PIU for the implementation of the Project, through the provision 
+of goods, consultants’ services, Training and Operating Costs, including audit. 
+ 
+2. Development of a curriculum and on-going professional training for licensed 
+land registry clerks and other LRO staff, through the provision of consultants’ services 
+and goods. 
+ 
+3. Development of a professional training program for SGA and cadastre office 
+staff, through the provision of Training, consultants’ services and goods. 
+ 
+4. Improving public awareness of the real property registration and cadastre system 
+reform, through the provision of consultants’ services and goods. 
+
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Implementation Arrangements
+
+A. Institutional Arrangements 
+
+1. The LRMS shall be solely responsible for implementation of Part A of the 
+Project and shall have joint responsibility, together with the SGA, for implementation of 
+Parts C and D of the Project, as further specified in the Project Implementation Plan.  The 
+Project Coordinator within the LRMS shall be responsible for day-to-day coordination, 
+flow of information and decision-making related to the activities under the Project for 
+which LRMS is responsible.  To this end, the Borrower shall ensure that the Project 
+Coordinator position within the LRMS is filled and adequately funded throughout the 
+duration of the Project, in a manner acceptable to the Bank. 
+
+2. The SGA shall be responsible for implementation of Part B of the Project and 
+shall have joint responsibility, together with LRMS, for Parts C and D of the Project, as 
+further specified in the Project Implementation Plan.   The Project Coordinator within the 
+SGA shall be responsible for day-to-day coordination, flow of information and decision-
+making related to the activities under the Project for which SGA is responsible.  To this 
+end, the Borrower shall ensure that the Project Coordinator position within the SGA is 
+filled and adequately funded throughout the duration of the Project, in a manner 
+acceptable to the Bank. 
+
+3. The PIU shall be responsible for procurement, financial management, 
+disbursement, monitoring and evaluation and safeguards compliance under the Project.  
+To this end, the Borrower shall maintain, adequately fund and staff the PIU, with terms of 
+reference and in a manner acceptable to the Bank. 
+
+4. The Borrower shall, throughout the duration of the Project, maintain the Project 
+Steering Committee with a composition and terms of reference acceptable to the Bank.  
+The Project Steering Committee shall be responsible for inter-ministerial coordination 
+and strategic and policy decisions related to Project implementation. 
+
+B. Implementation Covenants 
+
+1. The Borrower shall ensure that the Project is implemented in accordance with the 
+terms of the Agreement on the Implementation of the Integrated Land Administration 
+System Project, the Project Implementation Plan and the Project Operational Manual, and 
+shall not amend, suspend, abrogate, repeal or waive any provision in the Agreement on 
+the Implementation of the Integrated Land Administration System  Project, the Project 
+
+Implementation Plan or the Project Operational Manual without prior written approval by 
+the Bank. 
+
+2. The Borrower shall, not later than December 31, 2013, establish a permanent 
+management organization for the JIS, in a manner satisfactory to the Bank. 
+
+3. The Borrower, through the PIU, shall: (i) not later than September 1, 2011, 
+submit to the Bank for review and approval an annual training plan for the Project for the 
+remainder of calendar year 2011; and (ii) on December 1 of each year, starting on 
+December 1, 2011, submit to the Bank for review and approval an annual training plan 
+for the Project for the following calendar year. 
+ 
+C. Anti-Corruption 
+
+ The Borrower shall ensure that the Project is carried out in accordance with the 
+provisions of the Anti-Corruption Guidelines. 
+
+D. Safeguards. 
+
+1. The Borrower shall carry out its obligations in accordance with the 
+Environmental Management Framework and shall not amend, suspend, abrogate, repeal 
+or waive any provision of the Environmental Management Framework without prior 
+approval by the Bank. 
+
+2. For purposes of Parts B.1 and B.2 of the Project and prior to the commencement 
+of works on each proposed site, the Borrower shall submit to the Bank for the Bank’s 
+approval: (a) the site-specific environmental management plan and checklist, said site-
+specific plan and checklist to be in form and substance satisfactory to the Bank; and (b) 
+the proposed contract for said works in order to ensure that the provisions of the site-
+specific environmental management plan and checklist are adequately included in the 
+respective contract. 
+
+Section II. Project Monitoring Reporting and Evaluation
+
+A. Project Reports   
+
+The Borrower shall monitor and evaluate the progress of the Project and prepare 
+Project Reports in accordance with the provisions of Section 5.08 of the General 
+Conditions and on the basis of indicators acceptable to the Bank.  Each Project Report 
+shall cover the period of one calendar quarter, and shall be furnished to the Bank not later 
+than one month after the end of the period covered by such report.  
+ 
+B. Financial Management, Financial Reports and Audits   
+
+1. The Borrower shall maintain or cause to be maintained a financial management 
+system in accordance with the provisions of Section 5.09 of the General Conditions. 
+ 
+2. Without limitation on the provisions of Part A of this Section, the Borrower shall 
+prepare and furnish to the Bank not later than forty five (45) days after the end of each 
+calendar quarter, interim unaudited financial reports for the Project covering the quarter, 
+in form and substance satisfactory to the Bank. 
+ 
+3. The Borrower shall have the Project’s Financial Statements audited in 
+accordance with the provisions of Section 5.09 (b) of the General Conditions. Each audit 
+of the Financial Statements shall cover the period of one (1) fiscal year of the Borrower, 
+commencing with the fiscal year in which the first withdrawal was made under the 
+Preparation Advance for the Project.  The audited Financial Statements for each such 
+period shall be: (a) furnished to the Bank not later than six (6) months after the end of 
+such period; and (b) made publicly available in a timely fashion and in a manner 
+acceptable to the Bank. 
+ 
+Section III. Procurement
+
+A. General 
+
+1. Goods, Works and Non-consulting Services.   All goods, works and non-
+consulting services required for the Project and to be financed out of the proceeds of the 
+Loan shall be procured in accordance with the requirements set forth or referred to in 
+Section I of the Procurement Guidelines, and with the provisions of this Section. 
+ 
+2. Consultants’ Services.  All consultants’ services required for the Project and to 
+be financed out of the proceeds of the Loan shall be procured in accordance with the 
+requirements set forth or referred to in Sections I and IV of the Consultant Guidelines and 
+with the provisions of this Section.   
+ 
+3. Definitions. The capitalized terms used below in this Section to describe 
+particular procurement methods or methods of review by the Bank of particular contracts 
+refer to the corresponding method described in the Procurement Guidelines, or 
+Consultant Guidelines, as the case may be. 
+ 
+B. Particular Methods of Procurement of Goods, Works and Non-consulting 
+Services 
+ 
+1. International Competitive Bidding. Except as otherwise provided in paragraph 
+2 below, goods, works and non-consulting services shall be procured under contracts 
+awarded on the basis of International Competitive Bidding procedures. 
+
+2. Other Methods of Procurement of Goods, Works and Non-consulting 
+Services. The following table specifies the methods of procurement, other than 
+
+International Competitive Bidding, which may be used for goods, works and non-
+consulting services.  The Procurement Plan shall specify the circumstances under which 
+such methods may be used. 
+
+Procurement Method 
+ 
+(a) National Competitive Bidding, subject to the additional procedures 
+ stipulated in the Annex to this Schedule 
+ 
+(b) Direct Contracting under procedures set forth in paragraph 3.7 of the 
+ Procurement Guidelines 
+ 
+(c)  Shopping 
+
+C. Particular Methods of Procurement of Consultants’ Services 
+ 
+1. Quality- and Cost-based Selection. Except as otherwise provided in paragraph 
+2 below, consultants’ services shall be procured under contracts awarded on the basis of 
+Quality- and Cost-based Selection. 
+
+2. Other Methods of Procurement of Consultants’ Services. The following table 
+specifies the methods of procurement, other than Quality- and Cost-based Selection, 
+which may be used for consultants’ services.  The Procurement Plan shall specify the 
+circumstances under which such methods may be used. 
+
+Procurement Method 
+
+(a) Single-Source Selection  under procedures set forth in paragraphs 3.8 to 3.11 of the 
+ Consultants’ Guidelines 
+ 
+(b) Fixed Budget Selection  
+ 
+(c) Least Cost Selection 
+ 
+(d) Selection based on Consultant Qualification  
+ 
+(e) Selection of Individual Consultants under procedures set forth in paragraphs 5.2, 
+ 5.3 and 5.6 of the Consultant Guidelines  
+
+D. Review by the Bank of Procurement Decisions 
+
+The Procurement Plan shall set forth those contracts which shall be subject to the 
+Bank’s Prior Review.  All other contracts shall be subject to Post Review by the Bank. 
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General   
+ 
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the 
+provisions of Article II of the General Conditions, this Section, and such additional 
+instructions as the Bank shall specify by notice to the Borrower (including the “World 
+Bank Disbursement Guidelines for Projects” dated May 2006, as revised from time to 
+time by the Bank and as made applicable to this Agreement pursuant to such 
+instructions), to finance Eligible Expenditures as set forth in the table in paragraph 2 
+below. 
+ 
+2. The following table specifies the categories of Eligible Expenditures that may be 
+financed out of the proceeds of the Loan (“Category”), the allocation of the amounts of 
+the Loan to each Category, and the percentage of expenditures to be financed for Eligible 
+Expenditures in each Category. 
+
+Category 
+
+Amount of the Loan 
+Allocated 
+
+(expressed in Euro) 
+
+Percentage of 
+Expenditures to be 
+
+Financed 
+
+(1)  Goods, works,   consultants’ 
+ cervices, Training, Technical 
+ Services and Operating 
+ Costs for the Project, 
+ including audit 
+
+14,438,750 88% 
+
+(2) Purchase of office space 
+
+1,000,000 88% 
+
+(3) Refund of the Preparation 
+ Advance 
+
+1,020,000 Amount payable pursuant 
+to Section 2.07 (a) of the 
+General Conditions 
+
+(4) Front-end Fee  41,250 Amount payable pursuant 
+to Section 2.03 of this 
+Agreement in accordance 
+with Section 2.07 (b) of the 
+General Conditions 
+
+TOTAL AMOUNT 16,500,000
+
+B. Withdrawal Conditions; Withdrawal Period   
+ 
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be 
+made: 
+
+(a) for payments made prior to the date of this Agreement, except that 
+withdrawals up to an aggregate amount not to exceed ¼���������� PD\� EH� PDGH� IRU�
+payments made prior to this date but on or after June 2, 2011, for Eligible Expenditures 
+under Category 1; and 
+
+(b) under Category 2, unless the Borrower has presented to the Bank an 
+executed purchase agreement or executed purchase agreements in form and substance 
+satisfactory to the Bank, documenting the purchase of office space in accordance with the 
+provisions of the POM. 
+ 
+2. The Closing Date is October 31, 2015. 
+
+Annex to Schedule 2 
+Additional Provisions for National Competitive Bidding 
+
+For the purposes of following National Competitive Bidding procedures in the 
+
+procurement of goods, services (other than consultants’ services) and works to be 
+financed under the Loan, the following modifications and additions shall apply: 
+ 
+(i) Procedures
+
+The public bidding method shall apply to all contracts.  Invitations to bid shall be 
+advertised in the Borrower’s Official Gazette (Narodne Novine) and in at least one 
+widely circulated national daily newspaper or on the website of the Ministry of Justice 
+and/or the State Geodetic Administration, allowing a minimum of thirty (30) days for the 
+preparation and submission of bids. 
+ 
+(ii) Participation of Government-owned Enterprises
+
+Government-owned enterprises located and operating on the Borrower’s territory 
+shall be eligible to participate in bidding only if they can establish, to the Bank’s 
+satisfaction, that they are legally and financially autonomous, operate under commercial 
+laws and are not a dependent agency of the Borrower’s government.  Said enterprises 
+shall be subject to the same bid and performance security requirements as other bidders. 
+ 
+(iii) Bidding Documents
+
+The Borrower shall use appropriate bidding documents that are acceptable to the 
+Bank. 
+ 
+(iv) Bid Submission, Opening and Evaluation
+
+(1) Bids shall be submitted in a single envelope containing the bidder’s 
+qualification information, technical and price bids, which shall be opened 
+simultaneously at the public bid opening. 
+
+(2) Bids shall be opened in public, immediately after the deadline for 
+
+submission of bids.  The name of the bidder, the total amount of each bid 
+and any discounts offered shall be read aloud and recorded in the minutes 
+of the public bid opening. 
+
+(3) The evaluation of bids shall be done in strict adherence to the monetarily 
+
+quantifiable criteria specified in the bidding documents and a merit point 
+system shall not be used. 
+
+(4) Extension of bid validity shall be allowed once only for not more than 
+thirty (30) days.  No further extensions should be granted without the 
+prior approval of the Bank. 
+
+(5) Contracts shall be awarded to qualified bidders having submitted the 
+
+lowest evaluated substantially responsive bid. 
+
+(6) No preference shall apply under National Competitive Bidding. 
+ 
+(v) Price Adjustment
+
+Civil works contracts of long duration (e.g., more than eighteen (18) months) 
+shall contain an appropriate price adjustment clause.  
+ 
+(vi) Rejection of All Bids
+
+(1) All bids shall not be rejected and new bids solicited without the Bank’s 
+prior written concurrence. 
+
+(2) When the number of bids received is less than two, re-bidding shall not 
+
+be carried out without the Bank’s prior concurrence. 
+ 
+(vii) Securities
+
+Bid securities should not exceed two percent (2%) of the estimated cost of the 
+contract; and performance securities not more than ten percent (10%).  No advance 
+payments shall be made to contractors without a suitable advance payment security.  The 
+wording of all such securities shall be included into the bidding documents and shall be 
+acceptable to the Bank. 
+
+SCHEDULE 3 
+
+Amortization Schedule 
+ 
+1. The following table sets forth the Principal Payment Dates of the Loan and the 
+percentage of the total principal amount of the Loan payable on each Principal Payment 
+Date (“Installment Share”).  If the proceeds of the Loan have been fully withdrawn as of 
+the first Principal Payment Date, the principal amount of the Loan repayable by the 
+Borrower on each Principal Payment Date shall be determined by the Bank by 
+multiplying:  (a) Withdrawn Loan Balance as of the first Principal Payment Date; by (b) 
+the Installment Share for each Principal Payment Date. 
+
+Principal Payment Date 
+Installment Share 
+
+(Expressed as a Percentage) 
+
+On each May 15 and November 15 
+
+Beginning November 15, 2015   
+ through November 15, 2030  
+
+3.13% 
+
+On May 15, 2031 2.97% 
+
+2. If the proceeds of the Loan have not been fully withdrawn as of the first Principal 
+Payment Date, the principal amount of the Loan repayable by the Borrower on each 
+Principal Payment Date shall be determined as follows: 
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of 
+the first Principal Payment Date, the Borrower shall repay the Withdrawn Loan Balance 
+as of such date in accordance with paragraph 1 of this Schedule. 
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be 
+repaid on each Principal Payment Date falling after the date of such withdrawal in 
+amounts determined by the Bank by multiplying the amount of each such withdrawal by 
+a fraction, the numerator of which is the original Installment Share specified in the table 
+in paragraph 1 of this Schedule for said Principal Payment Date (“Original Installment 
+Share”) and the denominator of which is the sum of all remaining Original Installment 
+Shares for Principal Payment Dates falling on or after such date. 
+
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any 
+Principal Payment Date shall, for the purposes solely of calculating the principal amounts 
+payable on any Principal Payment Date, be treated as withdrawn and outstanding on the 
+second Principal Payment Date following the date of withdrawal and shall be repayable 
+
+on each Principal Payment Date commencing with the second Principal Payment Date 
+following the date of withdrawal. 
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if 
+at any time the Bank adopts a due date billing system under which invoices are issued on 
+or after the respective Principal Payment Date, the provisions of such sub-paragraph shall 
+no longer apply to any withdrawals made after the adoption of such billing system.  
+
+APPENDIX 
+
+Section I. Definitions
+
+1. “Agreement on the Implementation of the Integrated Land Administration 
+System Project” means the agreement between the MOJ and the SGA dated May 
+16, 2011, setting forth the relationship and responsibilities of the MOJ and SGA 
+regarding Project preparation and implementation. 
+
+2. “Anti-Corruption Guidelines” means the “Guidelines on Preventing and 
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA 
+Credits and Grants”, dated October 15, 2006 and revised in January 2011. 
+
+3. “Category” means a category set forth in the table in Section IV of Schedule 2 to 
+this Agreement. 
+
+4. “Co-financier” means European Union. 
+ 
+5. “Co-financing” means, for purposes of paragraph 16 of the Appendix to the 
+
+General Conditions, an amount of six million eight hundred thousand Euro to be 
+provided by the Co-financier to assist in financing the Project. 
+
+6. “Co-financing Agreement” means the agreement to be entered into between the 
+
+Borrower and the Co-financier providing for the Co-financing. 
+ 
+7. “Consultant Guidelines” means the “Guidelines: Selection and Employment of 
+
+Consultants under IBRD Loans and IDA Credits and Grants by World Bank 
+Borrowers” published by the Bank in January 2011. 
+
+8. “Environmental Management Framework” means  the framework dated March 
+
+31, 2011, prepared and adopted by the Borrower and satisfactory to the Bank, 
+consisting of: the set of mitigation, monitoring, and institutional measures 
+required for the Project and to be taken to eliminate adverse environmental 
+impacts, offset them, or reduce them to acceptable levels, as well as actions 
+needed to implement said measures, including the measures and information 
+required for the preparation of site-specific environmental management plans; 
+and provisions on physical cultural resources and mitigating measures as required 
+pursuant to the Bank’s OP 4.11. 
+
+9. “General Conditions” means the “International Bank for Reconstruction and 
+Development General Conditions for Loans”, dated July 31, 2010. 
+
+10. “Geoportal” means the online geoportal maintained by SGA. 
+
+11. “JIS” means the Borrower’s Joint Information System for registration and 
+cadastre. 
+
+12. “LRMS” means the Land Registration Management Sector within the Borrower’s 
+
+Ministry of Justice. 
+ 
+13. “LRO” means Land Registry Offices within the Borrower’s municipal courts. 
+ 
+14. “MEPPPC” means the Borrower’s Ministry of Environment Protection, Physical 
+
+Planning and Construction, and includes any successor thereto. 
+ 
+15. “MOF” means the Borrower’s Ministry of Finance, and includes any successor 
+
+thereto. 
+ 
+16. “MOJ” means the Borrower’s Ministry of Justice, and includes any successor 
+
+thereto. 
+ 
+17. “Operating Costs” means expenditures incurred by the Borrower on account of 
+
+the Project implementation for office supplies, utilities, bank charges, 
+communication tools, advertisement fees, translation and interpretation services, 
+transportation, travel costs, car rental and fuel costs, office rental and 
+maintenance, moving expenses, equipment maintenance and repair, printing and 
+publications, and per diem allowances and accommodation costs for PIU, SGA 
+and LRO staff, insurance for goods and salaries for PIU staff, including qualified 
+social charges, but excluding salaries for the Borrower’s civil servants.  
+
+18. “PIP” means the Project Implementation Plan prepared by the Borrower and 
+
+satisfactory to the Bank, setting forth the detailed implementation schedule and 
+arrangements for the Project, as the same may be amended and supplemented 
+from time to time with the Bank’s prior written approval. 
+
+19. “PIU” means the Borrower’s Project Implementation Unit, maintained by the 
+
+Borrower in accordance with Section I.A.3 of Schedule 2 to this Agreement.  
+ 
+20. “POM” or “Project Operational Manual” means the Project Operational Manual 
+
+prepared by the Borrower and satisfactory to the Bank, setting forth the 
+operational and administrative responsibilities, procedures and rules for the 
+implementation of the Project and criteria for the purchase of office space as 
+approved by the Bank's Land Acquisition Committee, and including the 
+Environmental Management Framework, and financial management 
+arrangements for the Project, as the same may be amended and supplemented 
+from time to time with the Bank’s prior written approval. 
+
+21. “Preparation Advance” means the advance referred to in Section 2.07 (a) of the 
+
+General Conditions, granted by the Bank to the Borrower pursuant to the letter 
+
+agreement signed on behalf of the Bank on June 29, 2010 and on behalf of the 
+Borrower on August 3, 2010. 
+
+22. “Procurement Guidelines” means the “Guidelines: Procurement of Goods, Works 
+
+and Non-consulting Services under IBRD Loans and IDA Credits and Grants by 
+World Bank Borrowers” published by the Bank in January 2011. 
+
+23. “Procurement Plan” means the Borrower’s procurement plan for the Project, 
+
+dated June 1, 2011 and referred to in paragraph 1.18 of the Procurement 
+Guidelines and paragraph 1.25 of the Consultant Guidelines, as the same shall be 
+updated from time to time in accordance with the provisions of said paragraphs. 
+
+24. “Project Steering Committee” means the project steering committee established 
+
+pursuant to the Borrower’s decision dated May 16, 2011, and maintained by the 
+Borrower in accordance with Section I.A.4 of Schedule 2 to this Agreement, and 
+comprising representatives of the MEPPPC, MOJ, MOF, Supreme Court and 
+SGA. 
+
+25. “SGA” means the Borrower’s State Geodic Administration, and includes any 
+
+successor thereto. 
+ 
+26. “Supreme Court” means the Borrower’s Supreme Court. 
+ 
+27.  “Technical Services” means services for carrying out cadastre surveying, 
+
+orthophoto mapping, data conversion and digitizing, development of information 
+technology systems, and other technical services to be contracted under the 
+Project on the basis of performance of measurable physical outputs. 
+
+28. “Training” means Project related study tours, training courses, seminars, 
+
+workshops and other training activities, including costs of training materials, 
+space and equipment rental, travel, accommodation and per diem costs of 
+trainees and trainers, trainers’ fees, and other training related miscellaneous 
+costs.

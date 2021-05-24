@@ -1,0 +1,591 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 7537 TU 
+
+Loan Agreement 
+
+(Land Registry and Cadastre Modernization Project) 
+
+between 
+
+REPUBLIC OF TURKEY  
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+Dated June 9, 2008  
+
+LOAN NUMBER 7537 TU 
+
+LOAN AGREEMENT 
+
+Agreement dated June 9, 2008, between REPUBLIC OF TURKEY (“Borrower”) 
+and INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT 
+(“Bank”).  The Borrower and the Bank hereby agree as follows: 
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS 
+ 
+1.01. The General Conditions (as defined in the Appendix to this Agreement) 
+
+constitute an integral part of this Agreement. 
+ 
+1.02. Unless the context requires otherwise, the capitalized terms used in this 
+
+Agreement have the meanings ascribed to them in the General Conditions. 
+
+ARTICLE II - LOAN 
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or 
+referred to in this Agreement, the amount of one hundred thirty-five million Euro 
+(EUR 135,000,000) as such amount may be converted from time to time through 
+a Currency Conversion in accordance with the provisions of Section 2.07 of this 
+Agreement (“Loan”), to assist in financing the project described in Schedule 1 to 
+this Agreement (“Project”). 
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with 
+Section IV of Schedule 2 to this Agreement. 
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one 
+percent (0.25%) of the Loan amount. The Borrower shall pay the Front-end Fee 
+not later than sixty (60) days after the Effective Date. 
+
+2.04. The interest payable by the Borrower for each Interest Period shall be at a rate 
+equal to LIBOR for the Loan Currency plus the Variable Spread provided, that 
+upon a Conversion of all or any portion of the principal amount of the Loan, the 
+interest payable by the Borrower during the Conversion Period on such amount 
+shall be determined in accordance with the relevant provisions of Article IV of 
+the General Conditions. Notwithstanding the foregoing, if any amount of the 
+Withdrawn Loan Balance remains unpaid when due and such non-payment 
+continues for a period of thirty (30) days, then the interest payable by the 
+Borrower shall instead be calculated as provided in Section 3.02 (d) of the 
+General Conditions.
+2.05. The Payment Dates are February 15 and August 15 in each year. 
+
+2.06. The principal amount of the Loan shall be repaid in accordance with the 
+amortization schedule set forth in Schedule 3 to this Agreement. 
+
+2.07. (a) The Borrower may at any time request any of the following Conversions 
+
+of the terms of the Loan in order to facilitate prudent debt management: 
+(i) a change of the Loan Currency of all or any portion of the principal 
+amount of the Loan, withdrawn or unwithdrawn, to an Approved 
+Currency; (ii) a change of the interest rate basis applicable to all or any 
+portion of the principal amount of the Loan from a Variable Rate to a 
+Fixed Rate, or vice versa; and (iii) the setting of limits on the Variable 
+Rate applicable to all or any portion of the principal amount of the Loan 
+withdrawn and outstanding by the establishment of an Interest Rate Cap 
+or Interest Rate Collar on the Variable Rate. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that 
+
+is accepted by the Bank shall be considered a “Conversion”, as defined 
+in the General Conditions, and shall be effected in accordance with the 
+provisions of Article IV of the General Conditions and of the Conversion 
+Guidelines.  
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or 
+
+Interest Rate Collar for which the Borrower has requested that the 
+premium be paid out of the proceeds of the Loan, the Bank shall, on 
+behalf of the Borrower, withdraw from the Loan Account and pay to 
+itself the amounts required to pay any premium payable in accordance 
+with Section 4.05 (c) of the General Conditions up to the amount 
+allocated from time to time for the purpose in the table in Section IV of 
+Schedule 2 to this Agreement. 
+
+ARTICLE III - PROJECT 
+
+3.01. The Borrower declares its commitment to the objectives of the Project.  To this 
+
+end, the Borrower shall carry out the Project through TKGM in accordance with 
+the provisions of Article V of the General Conditions. 
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and 
+
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall 
+ensure that the Project is carried out in accordance with the provisions of 
+Schedule 2 to this Agreement. 
+
+ARTICLE IV - TERMINATION
+4.01 The Effectiveness Deadline is the date one hundred twenty (120) days after the 
+date of this Agreement.
+ARTICLE V - REPRESENTATIVE; ADDRESSES 
+
+5.01. The Borrower’s Representative is the Undersecretary of Treasury.   
+ 
+5.02. The Borrower’s Address is: 
+
+Basbakanlik 
+Hazine Mustesarligi 
+Inonu Bulvari 
+Emek – Ankara 
+Republic of Turkey 
+
+Facsimile: 
+(312) 212-8550 
+
+5.03. The Bank’s Address is: 
+
+International Bank for Reconstruction  
+ and Development 
+1818 H Street, N.W. 
+Washington, D.C. 20433 
+United States of America 
+
+Cable address:  Telex:   Facsimile: 
+INTBAFRAD  248423(MCI) or 1
+477-6391 
+Washington, D.C.  64145(MCI) 
+
+AGREED at Ankara, Republic of Turkey, as of the day and year first above 
+
+written. 
+
+REPUBLIC OF TURKEY 
+
+By: /s/ Memduh Aslan Akçay 
+
+Authorized Representative 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By: /s/ Ulrich Zachau 
+
+Authorized Representative
+SCHEDULE 1 
+
+Project Description 
+
+The objective of the Project is to improve the effectiveness and efficiency of the 
+land registry and cadastre services through: (i) renovating and updating cadastre maps to 
+support digital cadastre and land registry information; (ii) making the digital land registry 
+and cadastre information available to public and private entities; (iii) improving customer 
+services in land registry and cadastre offices; (iv) improving human resources in TKGM; 
+and (v) developing policies and capacity to introduce best international practices in 
+property valuation in Turkey. 
+
+The Project consists of the following parts: 
+
+Part A: Cadastre and Land Registry Renovation and Updating
+
+1. Updating and modernization of the real property cadastre and registry 
+information and systems into an accurate, consistent with site specific requirements, 
+legally valid and maintained digital cadastre system to be a basis for spatial information 
+systems. 
+
+2. Development of new rectified orthophoto maps, production of vector maps and 
+digital data in selected areas. 
+ 
+3. Provision of technical assistance for cadastre renovation supervision, quality 
+control and establishment of spatial data infrastructure. 
+
+Part B: Improved Service Delivery
+
+1. Implementation of the integrated (land registry and cadastre) version of TAKBIS. 
+ 
+2. Design of model office layouts for Cadastre Offices in selected regions to 
+improve service delivery utilizing both integrated workflows and the integrated version 
+of TAKBIS; renovation or construction of selected Cadastre Offices and provision of 
+furniture and equipment; and carrying out policy studies to improve efficiency of the 
+registration system, tenure security and promote development of efficient land and 
+property markets. 
+ 
+3. Establishment and operation of a TAKBIS information dissemination service 
+including an up-to-date web-based version of the cadastre, a web-based registration and 
+cadastre transaction status report and cadastre layer supply and update service for 
+Geographic Information System (GIS) users.
+Part C: Human Resources and Institutional Development
+
+1. Provision of technical assistance to TKGM to develop a human resources 
+strategy to support the effective functioning of the organization in the e-government 
+environment. 
+ 
+2. Provision of technical assistance to TKGM to develop strategic and business 
+plans. 
+ 
+3. Provision of training to TKGM staff and establishment of regional training 
+centers of TKGM. 
+ 
+Part D: Property Valuation
+
+1. Development of policy and institutional options for property valuation function 
+in the Republic of Turkey consistent with the European practices. 
+ 
+2. Development of guidelines and piloting of mass property valuation for local 
+property taxation in two selected municipalities. 
+ 
+3. Provision of training for the development of core capacities for property 
+valuation within TKGM and other central government agencies and in the municipal 
+governments, carrying out seminars and workshops, and postgraduate training of selected 
+individuals from government and stakeholder agencies and selected universities. 
+ 
+Part E: Project Management
+
+Provision of support to TKGM for Project management, including conducting 
+customer’s surveys.
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Implementation Arrangements
+
+1. The Borrower shall assign the overall responsibility for Project implementation 
+to TKGM, which shall maintain during Project execution, a project coordination team 
+with staff, resources and terms of reference satisfactory to the Bank. 
+
+2. Not later than December 31, 2008, TKGM shall complete its strategic plan, 
+including a human resources development plan. 
+
+3. Not later than June 30, 2009, the Borrower shall cause TKGM to develop a 
+policy on data sharing and data pricing in the context of the NSDI and e-government.  
+
+4. The Borrower shall implement Project activities in accordance with the EMP and 
+shall include adequate information on the carrying out of the EMP in the progress reports 
+referred to in paragraph A.1 of Section II of this Schedule.  
+ 
+5. The Borrower shall ensure that the Project is carried out in accordance with the 
+provisions of the Anti-Corruption Guidelines issued by the Bank on October 15, 2006, 
+which are applicable to all IBRD loans and IDA credits and grants. 
+ 
+Section II. Project Monitoring, Reporting and Evaluation
+
+A. Project Reports   
+ 
+1. The Borrower shall monitor and evaluate the progress of the Project and prepare 
+Project Reports in accordance with the provisions of Section 5.08 of the General 
+Conditions and on the basis of indicators agreed with the Bank.  Each Project Report 
+shall cover the period of one calendar semester, and shall be furnished to the Bank not 
+later than one month after the end of the period covered by such report.  
+ 
+2. For purposes of Section 5.08 (c) of the General Conditions, the report on the 
+execution of the Project and related plan required pursuant to that Section shall be 
+furnished to the Bank not later than March 30, 2014.  
+ 
+3. The Borrower shall: (a) prepare, under terms of reference agreed with the Bank, 
+and furnish to the Bank, on or about March 15, 2011, a report  (Mid-Term Report), on the 
+progress achieved in the carrying out of the Project during the period preceding the date 
+of said report and setting out the measures recommended to ensure the efficient carrying 
+out of the Project and the achievement of the objectives thereof during the period 
+following such date; and (b) review with the Bank (Mid-Term Review), by 
+April 15, 2011, or such later date as the Bank shall request, the report referred to in sub-
+paragraph (a) of this paragraph, and, thereafter, take all measures required to ensure the 
+efficient completion of the Project and the achievement of the objectives thereof, based 
+on the conclusions and recommendations of the said report and the Bank’s views on the 
+matter.  
+ 
+B. Financial Management, Financial Reports and Audits   
+ 
+1. The Borrower shall maintain or cause to be maintained a financial management 
+system in accordance with the provisions of Section 5.09 of the General Conditions. 
+ 
+2. Without limitation on the provisions of Part A of this Section, the Borrower shall 
+prepare and furnish to the Bank not later than forty-five (45) days after the end of each 
+calendar, interim unaudited financial reports for the Project covering the quarter, in form 
+and substance satisfactory to the Bank. 
+ 
+3. The Borrower, through TKGM, shall have Financial Statements for the Project 
+audited in accordance with the provisions of Section 5.09 (b) of the General Conditions.  
+Each audit of the Financial Statements shall cover the period of one fiscal year of the 
+Borrower.  The audited Financial Statements for each such period shall be furnished to 
+the Bank not later than six (6) months after the end of such period. 
+
+Section III. Procurement
+
+A. General 
+
+1. Goods, Technical Services and Works.   All goods, technical services and 
+works required for the Project and to be financed out of the proceeds of the Loan shall be 
+procured in accordance with the requirements set forth or referred to in Section I of the 
+Procurement Guidelines, and with the provisions of this Section. 
+ 
+2. Consultants’ Services.  All consultants’ services required for the Project and to 
+be financed out of the proceeds of the Loan shall be procured in accordance with the 
+requirements set forth or referred to in Sections I and IV of the Consultant Guidelines and 
+with the provisions of this Section.   
+ 
+3. Definitions. The capitalized terms used below in this Section to describe 
+particular procurement methods or methods of review by the Bank of particular contracts 
+refer to the corresponding method described in the Procurement Guidelines, or 
+Consultant Guidelines, as the case may be.
+B. Particular Methods of Procurement of Goods, Technical Services and 
+Works 
+
+1. International Competitive Bidding. Except as otherwise provided in paragraph 
+2 below, goods, technical services and works shall be procured under contracts awarded 
+on the basis of International Competitive Bidding.   
+
+2. Other Methods of Procurement of Goods, Technical Services and Works.
+The following table specifies the methods of procurement, other than International 
+Competitive Bidding, which may be used for goods, technical services and works.  The 
+Procurement Plan shall specify the circumstances under which such methods may be 
+used. 
+
+Procurement Method 
+
+(a)  National Competitive Bidding, subject to the additional provisions set forth in 
+the Annex to this Schedule 2 
+
+(b)  Shopping 
+
+(c)  Direct Contracting 
+
+C. Particular Methods of Procurement of Consultants’ Services 
+ 
+1. Quality- and Cost-based Selection. Except as otherwise provided in paragraph 
+2 below, consultants’ services shall be procured under contracts awarded on the basis of 
+Quality and Cost-based Selection. 
+
+2. Other Methods of Procurement of Consultants’ Services. The following table 
+specifies the methods of procurement, other than Quality and Cost-based Selection, 
+which may be used for consultants’ services.  The Procurement Plan shall specify the 
+circumstances under which such methods may be used. 
+
+Procurement Method 
+
+(a)  Quality-Based Selection 
+
+(b)  Least-Cost Selection 
+
+(c)  Selection based on Consultants’ Qualifications 
+
+(d)  Single-Source Selection 
+
+(e)  Individual Consultants
+D. Review by the Bank of Procurement Decisions 
+
+The Procurement Plan shall set forth those contracts which shall be subject to the 
+Bank’s Prior Review.  All other contracts shall be subject to Post Review by the Bank. 
+ 
+Section IV. Withdrawal of Loan Proceeds
+
+A. General   
+ 
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the 
+provisions of Article II of the General Conditions, this Section, and such additional 
+instructions as the Bank shall specify by notice to the Borrower (including the “World 
+Bank Disbursement Guidelines for Projects” dated May 2006, as revised from time to 
+time by the Bank and as made applicable to this Agreement pursuant to such 
+instructions), to finance Eligible Expenditures as set forth in the table in paragraph 2 
+below. 
+ 
+2. The following table specifies the categories of Eligible Expenditures that may be 
+financed out of the proceeds of the Loan (“Category”), the allocation of the amounts of 
+the Loan to each Category, and the percentage of expenditures to be financed for Eligible 
+Expenditures in each Category. 
+
+Category 
+
+Amount of the Loan 
+
+Allocated 
+(Expressed in EUR) 
+
+Percentage of 
+Expenditures to be 
+
+Financed 
+(inclusive of Taxes) 
+
+(1)  Works  8,830,000 100% 
+
+(2)  Goods 450, 000 100% 
+
+(3)   Technical Services 114,890,000 100% 
+
+(4)  Consultants’ Services  
+
+8,220,000 100% 
+
+(5)  Training and Workshops 770,000 100% 
+
+(6)  Operating Costs 
+
+390,000 100% 
+
+(7) Interest Rate Cap or 
+ Collar Premium 
+
+0 Amounts payable 
+pursuant to Section 
+2.07 (c) of this 
+Agreement 
+
+(8) Unallocated 1,450,000  
+
+TOTAL AMOUNT 135,000,000
+For the purposes of this paragraph: 
+
+(a) the term “training” means: (i) the fees of consultants, including 
+educational or other institutions and organizations, that provide training services; and (ii) 
+the cost of study visits and workshops, and related expenditures;  
+
+(b) the term “technical services” means cadastre renovations, orthophoto 
+maps, base mapping, registry, updating and digitalization services; and 
+
+(c) the term “operating costs” means incremental expenses incurred by the 
+Borrower on account of Project implementation, management and monitoring, including 
+transportation of TKGM staff and consultants related to Project monitoring and 
+supervision, leasing of vehicles and other related costs.  
+
+B. Withdrawal Conditions; Withdrawal Period   
+ 
+1. Notwithstanding the provisions of Part A of this Section, no withdrawals shall be 
+made from the Loan Account: 
+
+(a) until the Bank has received payment in full of the Front-end Fee; and  
+
+(b) for payments made prior to the date of this Agreement. 
+
+2. The Closing Date is September 30, 2013.
+ANNEX 
+ TO 
+
+SCHEDULE 2 
+
+Mandatory Provisions for Procurement under Bank-Financed Contracts 
+Subject to National Competitive Bidding 
+
+The Borrower shall use the Bank’s Europe and Central Asia Region National 
+Competitive Bidding documents template for works and goods and apply the following 
+provisions in the carrying out of National Competitive Bidding procedures under the 
+Project: 
+
+A. Eligibility
+
+Bidding shall not be restricted to domestic bidders.  No restriction shall be 
+applied to foreign bidders who wish to submit a bid. 
+
+B. Procedures
+
+Invitations to bid shall be advertised in the Official Gazette and in at least one 
+widely circulated national daily newspaper or in an electronic portal of free access 
+allowing a minimum of thirty (30) days for the preparation and submission of bids. 
+ 
+C. Assessment of Bidders’ Qualifications
+
+In the procurement of goods, technical services and works, where pre-
+qualification is not used, the qualifications of the bidder who is recommended for award 
+of contract shall be assessed by post-qualification, applying minimum experience, 
+technical and financial requirements which shall be explicitly stated in the bidding 
+documents and which shall be determined by a ‘pass/fail’ method, not through use of a 
+merit point system. 
+ 
+D. Participation by Government-owned Enterprises
+
+Government-owned enterprises in the Republic of Turkey shall be eligible to 
+participate in bidding only if they can establish that they are legally and financially 
+autonomous, operate under commercial law and are not a dependent agency of the 
+Government.  Furthermore, they will be subject to the same bid and performance security 
+requirements as other bidders.
+E. Participation by Joint Ventures
+
+Participation shall be allowed from joint ventures on the condition that such joint 
+venture partners will be jointly and severally liable under the Contract. 
+
+F. Bidding Documents
+
+Procuring entities shall use the Bank’s sample National Competitive Bidding 
+documents for Europe and Central Asia Region for works and goods and shall draft 
+contract and conditions of contract acceptable to the Bank. 
+ 
+G. Bid Evaluation
+
+(a) Evaluation of bids shall be made in strict adherence to the monetarily 
+quantifiable criteria declared in the bidding documents and a merit point system shall not 
+be used. 
+
+(b) Extension of bid validity shall be allowed once only for not more than 
+thirty (30) days.  No further extensions should be requested without the prior approval of 
+the Bank. 
+
+(c) Contracts shall be awarded to qualified bidders having submitted the 
+lowest evaluated substantially responsive bid and have met the post-qualification 
+requirements. 
+
+(d) No domestic preference shall apply under National Competitive Bidding. 
+
+H.   Price Adjustment
+
+Civil works contracts of long duration (i.e. more than eighteen (18) months) shall 
+contain an appropriate price adjustment clause. 
+ 
+I. Rejection of All Bids
+
+All bids shall not be rejected and new bids solicited without the Bank’s prior 
+written concurrence.
+SCHEDULE 3 
+
+Amortization Schedule 
+
+1. Subject to the provisions of paragraph 2 of this Schedule, the Borrower shall 
+repay each Disbursed Amount in semiannual installments payable on each February 15 
+and August 15, the first installment to be payable on the eleventh (11th) Interest Payment 
+Date following the Maturity Fixing Date for the Disbursed Amount and the last 
+installment to be payable on the forty-seventh (47th) Interest Payment Date following the 
+Maturity Fixing Date for the Disbursed Amount. Each installment except for the last one 
+shall be equal to one-thirty seventh (1/37th) of the Disbursed Amount.  The last 
+installment shall be equal to the remaining outstanding amount of the Disbursed Amount.  
+ 
+2. If any one or more installments of principal of the Disbursed Amount would, 
+pursuant to the provisions of paragraph 1 of this Schedule, be payable after 
+February 15, 2037, the Borrower shall also pay on such date the aggregate amount of all 
+such installments. 
+ 
+3. The Bank shall notify the Loan Parties of the amortization schedule for each 
+Disbursed Amount promptly after the Maturity Fixing Date for the Disbursed Amount. 
+ 
+4. Notwithstanding the provisions of paragraphs 1 through 3 of this Schedule, in the 
+event of a Currency Conversion of all or any portion of a Disbursed Amount to an 
+Approved Currency, the amount so converted in the Approved Currency that is repayable 
+on any Principal Payment Date occurring during the Conversion Period, shall be 
+determined by the Bank by multiplying such amount in its currency of denomination 
+immediately prior to the Conversion by either: (i) the exchange rate that reflects the 
+amounts of principal in the Approved Currency payable by the Bank under the Currency 
+Hedge Transaction relating to the Conversion; or (ii) if the Bank so determines in 
+accordance with the Conversion Guidelines, the exchange rate component of the Screen 
+Rate.
+APPENDIX 
+
+Definitions 
+
+1. “Anti-Corruption Guidelines” means the “Guidelines on Preventing and 
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA 
+Credits and Grants”, dated October 15, 2006. 
+
+2. “Category” means a category set forth in the table in Section IV of Schedule 2 to 
+this Agreement. 
+
+3. “Consultant Guidelines” means the “Guidelines: Selection and Employment of 
+Consultants by World Bank Borrowers” published by the Bank in May 2004 and 
+revised in October 2006. 
+
+4. “EMP” means the Environmental Management Plan for Project, dated 
+December 9, 2007, and approved by the Bank, describing the environmental 
+issues, mitigation, monitoring and institutional measures for Project 
+implementation. 
+
+5. “General Conditions” means the “International Bank for Reconstruction and 
+Development General Conditions for Loans”, dated July 1, 2005 (as amended 
+through February 12, 2008). 
+
+6. “NSDI” means National Spatial Data Infrastructure. 
+
+7. “Procurement Guidelines” means the “Guidelines: Procurement under IBRD 
+Loans and IDA Credits” published by the Bank in May 2004 and revised in 
+October 2006. 
+
+8. “Procurement Plan” means the Borrower’s procurement plan for the Project, 
+dated March 17, 2008, and referred to in paragraph 1.16 of the Procurement 
+Guidelines and paragraph 1.24 of the Consultant Guidelines, as the same shall be 
+updated from time to time in accordance with the provisions of said paragraphs. 
+
+9. “TAKBIS” means Turkish Computerized Cadastre and Land Registration 
+System. 
+
+10. “TKGM” means General Directorate of Land Registry and Cadastre under the 
+Borrower’s Ministry of Public Works and Settlement.

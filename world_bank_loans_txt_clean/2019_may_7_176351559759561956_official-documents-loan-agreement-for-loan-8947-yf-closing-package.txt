@@ -1,0 +1,899 @@
+World Bank Document
+
+ICIAL i 
+DOCUMENTS 
+
+LOAN NUMBER IBRD 8947-YF 
+
+Loan Agreement 
+
+(Enabling Digital Governance Project) 
+
+between 
+
+REPUBLIC OF SERBIA 
+
+and 
+
+INTERNATIONAL BANK FOR 
+
+RECONSTRUCTION AND DEVELOPMENT 
+
+Za 
+
+LOAN AGREEMENT 
+
+AGREEMENT dated as of the Signature Date between REPUBLIC OF SERBIA 
+(“Borrower”) and INTERNATIONAL BANK FOR RECONSTRUCTION AND 
+
+DEVELOPMENT (“Bank”). The Borrower and the Bank hereby agree as follows: 
+
+ARTICLE I — GENERAL CONDITIONS; DEFINITIONS 
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) apply to 
+
+and form part of this Agreement. 
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement 
+
+have the meanings ascribed to them in the General Conditions or in the Appendix 
+
+to this Agreement. 
+
+ARTICLE II — LOAN 
+
+2.01. The Bank agrees to lend to the Borrower the amount of forty-three million eight 
+
+hundred thousand Euros (€43,800,000), as such amount may be converted from 
+
+time to time through a Currency Conversion (“Loan”), to assist in financing the 
+
+project described in Schedule 1 to this Agreement (‘Project’). 
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section 
+
+Ill of Schedule 2 to this Agreement. 
+
+2.03. The Front-end Fee is one quarter of one percent (0.25%) of the Loan amount. 
+
+2.04. The Commitment Charge is one quarter of one percent (0.25%) per annum on the 
+
+Unwithdrawn Loan Balance. 
+
+2.05. The interest rate is the Reference Rate plus the Fixed Spread or such rate as may 
+
+apply following a Conversion; subject to Section 3.02(e) of the General 
+
+Conditions. 
+
+2.06. The Payment Dates are May 15 and November 15 in each year. 
+
+2.07. The principal amount of the Loan shall be repaid in accordance with Schedule 3 to 
+
+this Agreement.
+
+3.01. 
+
+4.01. 
+
+4.02. 
+
+5.01. 
+
+6.01. 
+
+6.02. 
+
+~D . 
+
+ARTICLE II — PROJECT 
+
+The Borrower declares its commitment to the objectives of the Project. To this end, 
+
+the Borrower, through OITeG, shall carry out the Project in accordance with the 
+
+provisions of Article V of the General Conditions and Schedule 2 to this Agreement. 
+
+ARTICLE IV — REMEDIES OF THE BANK 
+
+The Additional Event of Suspension consists of the following, namely that the Project 
+
+Implementing Entity’s Legislation has been amended, suspended, abrogated, repealed, 
+
+or waived so as to affect materially and adversely the ability of the Project 
+
+Implementing Entity to perform any of its obligations under the Project. 
+
+The Additional Event of Acceleration consists of the following, that the event 
+
+specified in Section 4.01 of this Agreement occurs and is continuing for a period 
+
+of sixty (60) days after notice of the event has been given by the Bank to the 
+
+Borrower. 
+
+ARTICLE V — EFFECTIVENESS; TERMINATION 
+
+The Effectiveness Deadline is the date one hundred and eighty (180) days after the 
+Signature Date. 
+
+ARTICLE VI — REPRESENTATIVE; ADDRESSES 
+
+The Borrower’s Representative, who, inter alia, may agree to modification of the 
+
+provisions of this Agreement on behalf of the Borrower through exchange of letters 
+
+(unless otherwise determined by the Borrower and the Bank), is its Minister of Finance. 
+
+For purposes of Section 10.01 of the General Conditions: (a) the Borrower’s 
+
+address is: 
+
+Ministry of Finance 
+
+20 Kneza Milosa St. 
+
+11000 Belgrade 
+
+Republic of Serbia; and 
+
+(b) the Borrower’s Electronic Address is: 
+
+Facsimile: E-mail: 
+
+(381-11) 3618-961 kabinet @mfin.gov.rs
+6.03. For purposes of Section 10.01 of the General Conditions: (a) the Bank’s address is: 
+
+International Bank for Reconstruction and Development 
+1818 H Street, N.W. 
+
+Washington, D.C. 20433 
+
+United States of America; and 
+
+(b) the Bank’s Electronic Address is: 
+
+Telex: Facsimile: E-mail: 
+
+248423(MCI) or ~—1
+477-6391 sndegwa @worldbank.org 
+64145(MCI) 
+
+AGREED and signed in English as of the Signature Date. 
+
+REPUBLIC OF SERBIA 
+
+By SIZZLE 
+
+[aera Representative 
+
+WAN SA MAL Name: 
+
+Title: M/L/S7ER OF FIANCE 
+
+Date: OF/0S/ 2ZAT 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+
+AND DEVELOPMENT 
+
+By 
+
+Authgrized Representative 
+
+Name: _ J7EPHEA/ W/DEGLVA- 
+
+Title: COUV7RY NMARAGER 
+
+Date: OPF(OS| 2O/9
+SCHEDULE 1 
+
+Project Description 
+
+The objective of the Project is to improve access, quality, and efficiency of selected 
+
+administrative e-government services 
+
+The Project consists of the following parts: 
+
+Component 1. Foundations for Digital Service Delivery 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+Implementation of an interoperability platform as an integrated tool for the safe 
+
+and secure exchange of data between government entities, including, inter alia: 
+
+(i) the conceptualization and design of the interoperability framework; (ii) the 
+
+development and implementation of an interoperability platform; (iii) the design 
+
+and development of E-Trusted Services; and (iv) the development of a platform 
+
+for enabling mobile access to government services. 
+
+Consolidation and interoperability of the most important public registries into one 
+
+meta register through: (i) the consolidation of key registries; and (ii) the carrying 
+
+out of activities required to support the interoperability of the most important 
+
+public registries into one meta register. 
+
+Establishment of the Disaster Recovery Data Center (““DRDC”), through the 
+
+provision of critical equipment to ensure the safety of all information stored and 
+
+maintained in the government’s registries to ensure resilience of government 
+
+business operations, including, inter alia: (i) the acquisition of equipment for the 
+
+DRDC; and (ii) the carrying out of feasibility studies, cost estimations and 
+
+technical specifications, and the acquisition of connectivity equipment and 
+
+systems. 
+
+Provision of support to ensure compliance with the General Data Protection 
+
+Regulation and Personal Data Protection Law and the drafting and implementation 
+
+of required e-government bylaws and secondary regulations, including, inter alia: 
+
+(i) the elaboration of e-government bylaws and secondary regulations; (ii) the 
+
+drafting of a cybersecurity rulebook; (iii) the establishment of a cybersecurity and 
+
+data protection department; and (iv) the establishment of a cybersecurity 
+
+laboratory and training center, including a security operations center and a 
+
+network operations center. 
+
+Component 2. Transforming Services for Citizens, Businesses and Government 
+
+(a) Establishment of methodologies, procedures and guidelines for the collection, 
+storage, management, and use of data and electronic documents, including, inter
+
+(b) 
+
+(c) 
+
+(d) 
+
+_5- 
+
+alia, the implementation of a data and document management system to enable the 
+
+Borrower to make more informed decisions by increasing its data analytics 
+
+capabilities. 
+
+Support the development of a comprehensive administrative service catalogue for 
+
+services to citizens and businesses, including, inter alia, the preparation of the 
+
+administrative service inventory. 
+
+Preparation of at least one hundred and fifty (150) As-Is Process Maps from the 
+
+administrative service inventory, including, inter alia, the development of a 
+
+methodology for their prioritization and the elaboration of To-Be Process Maps 
+
+for at least fifty (50) prioritized services. 
+
+Digitalization of at least thirty (30) selected online services to be offered to 
+
+citizens, businesses and government through the Borrower’s e-government portal 
+
+and mobile applications based on specifications and requirements established in 
+
+an e-portal rulebook and by using predefined application programming interfaces. 
+
+Component 3. Digital Skills Development, Institutional Strengthening and Change 
+
+Management 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Carry out Training for public servants to improve ICT skills and carry out of 
+
+outreach campaigns to promote the uptake of digital services, including, inter alia, 
+
+the elaboration of an ICT and human resources strategy and its associated action 
+
+plan. 
+
+Design of a change management strategy, action plan and communication strategy 
+
+and the development and deployment of citizen engagement tools to collect and 
+respond to citizen feedback and measure citizen satisfaction. 
+
+Establishment and operation of the PIU and provision of technical assistance to 
+
+support the implementation of Project related activities.
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Implementation Arrangements 
+
+A. Institutional Arrangements 
+
+Without limitation to the provisions of Article V of the General Conditions and 
+
+except as the Bank shall otherwise agree, the Borrower shall maintain throughout 
+
+Project implementation, with composition, resources, terms of reference, and 
+functions acceptable to the Bank: 
+
+(a) a Project implementation unit within OITeG (PIU), to be responsible for: 
+
+(i) the overall coordination of all Project implementation activities; 
+
+(ii) ensuring that the requirements, criteria, policies, procedures, and 
+
+organizational arrangements set forth in the Project Operations Manual are 
+
+applied in carrying out the Project; (iii) preparation of all Project 
+
+implementation documents, including Project supervision reports, and 
+
+(iv) monitoring and evaluation of the Project; and 
+
+(b) a Central Fiduciary Unit (CFU), within MoF, to be responsible for the 
+
+procurement and financial management of the Project, as detailed in the 
+
+Project Operations Manual. 
+
+Unless otherwise agreed with the Bank, not later than one (1) month after the 
+
+Effective Date, the Borrower shall establish and thereafter maintain throughout 
+
+Project implementation a Project Steering Committee with responsibilities, 
+
+composition and functions as set forth in the Project Operations Manual. 
+
+The Borrower shall maintain throughout the Project a management committee 
+
+(“Management Committee”) to be responsible for the overall oversight of 
+
+implementation of the Project with detailed responsibilities, composition and 
+
+functions as set forth in the Project Operations Manual. 
+
+Project Operations Manual 
+
+The Borrower, through the PIU and CFU, shall carry out the Project in accordance 
+
+with the provisions of a manual (the Project Operations Manual), in a manner and 
+
+with contents acceptable to the Bank, including inter alia: (a) the indicators to be 
+used in the monitoring and evaluation of the Project; (b) the procedures for Project 
+monitoring, supervision and evaluation, including the format and content of the 
+
+Project Reports; (c) the composition, rules of operation, and responsibilities of the 
+Steering Committee, Management Committee and Coordination Council for 
+
+E-Government; and (d) the procurement and financial management procedures.
+
+Except as the Bank may otherwise agree in writing, the Borrower shall not 
+
+abrogate, amend, suspend, waive, or otherwise fail to enforce the Project 
+Operations Manual or any provision thereof. 
+
+In case of any conflict between the terms of the Project Operations Manual and 
+
+those of this Agreement, the terms of this Agreement shall prevail. 
+
+Safeguards 
+
+The Borrower, through OITeG, shall ensure that: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+the Project is carried out with due regard to appropriate health, safety, 
+
+social, and environmental practices and standards, and in accordance with 
+
+the Safeguards Instruments; 
+
+for each activity under the Project for which the ESMF and the RPF 
+
+provide for the preparation of an ESMP and/or a RAP: 
+
+(i) 
+
+(ii) 
+
+proceed to have such ESMP and RAP as appropriate: (A) prepared 
+
+and disclosed in accordance with the ESMF and the RPF, 
+
+respectively; (B) consulted upon adequately with people affected 
+
+by the Project as per the ESMF and the RPF, respectively, and 
+
+submitted to the Bank for review and approval; and (C) thereafter 
+
+adopted, prior to implementation of the activity; and 
+
+take such measures as shall be necessary or appropriate to ensure 
+
+compliance with the requirements of such ESMP and RAP in a 
+
+manner satisfactory to the Bank; 
+
+all measures are taken to implement the RAPs in a manner and timeframe 
+
+satisfactory to the Bank. To this end, the Borrower shall ensure that: 
+
+(i) 
+
+(ii) 
+
+(ili) 
+
+Funds are made available to cover all the costs of implementing 
+
+the RAPs. 
+
+Prior to carrying out activities which involve displacement, 
+
+Affected Persons shall be compensated at full replacement cost, 
+
+resettled and provided with resettlement assistance in accordance 
+with the Subproject RAPs, as applicable; and 
+
+the implementation, monitoring and evaluation of such RAPs is 
+
+completed and reported in a manner satisfactory to the Bank.
+2. The Borrower, through OITeG, shall ensure that the obligation to comply with the 
+
+relevant Safeguard Instruments is incorporated: (a) in the contracts between the 
+
+Borrower and the relevant contractors and any entity (including any engineer) 
+
+supervising the Project’s civil works; and (b) in the contracts between the relevant 
+contractors and the contractors’ subcontractors. 
+
+3. Except as the Bank shall otherwise agree, the Borrower, through OITeG, shall 
+
+ensure, and cause to ensure, that none of the provisions of the Safeguard 
+
+Instruments is abrogated, amended, repealed, suspended, or waived. In case of any 
+
+inconsistencies between the provisions of any of the Safeguard Instruments and 
+
+the provisions of this Agreement, the provisions of this Agreement shall prevail. 
+
+4. The Borrower, through OITeG, shall ensure that: (a) all consultancies related to 
+
+technical assistance, design and capacity building under the Project, the application 
+
+of whose results could have environmental, social and health and safety 
+
+implications, shall only be undertaken pursuant to terms of reference reviewed and 
+
+found satisfactory by the Bank; and (b) such terms of reference shall require the 
+
+technical assistance, design and capacity building activities to take into account 
+
+the requirements of the applicable Bank Safeguards Policies and EHS Guidelines. 
+
+5. The Borrower, through OITeG, shall maintain, throughout Project implementation, 
+
+and publicize the availability of a grievance redress mechanism, in form and 
+
+substance satisfactory to the Bank, to hear and determine fairly and in good faith 
+
+all complaints raised in relation to the Project, and take all measures necessary to 
+
+implement the determinations made by such mechanism in a manner satisfactory 
+
+to the Bank. 
+
+Section II. Project Monitoring Reporting and Evaluation 
+
+The Borrower shall furnish to the Bank each Project Report not later than 
+
+one (1) month after the end of each calendar semester, covering the calendar semester. 
+
+Section III. Withdrawal of Loan Proceeds 
+
+A. General 
+
+Without limitation upon the provisions of Article II of the General Conditions and 
+
+in accordance with the Disbursement and Financial Information Letter, the Borrower 
+may withdraw the proceeds of the Loan to: (a) finance Eligible Expenditures; and (b) pay 
+the Front-end Fee; in the amount allocated and, if applicable, up to the percentage set forth 
+
+against each Category of the following table:
+
+Amount Percentage of 
+
+iti Loan Expenditures to be 
+
+Category Allocated ' : anand 
+(expressed in (inclusive of Taxes other 
+
+EUR) than Value Added Tax 
+
+and Customs Duties) 
+
+(1) Goods, works, non-consulting 
+
+services, consulting services, 
+
+Training and Operating Costs 48,520,000 ont 
+
+for the Project 
+
+Amount payable pursuant 
+
+to Section 2.03 of this 
+
+(2) Front-end Fee 109,500 Agreement in accordance 
+
+with Section 2.07 (b) of the 
+
+General Conditions 
+
+TOTAL AMOUNT 43,800,000 
+
+B. Withdrawal Conditions; Withdrawal Period 
+
+1. 
+
+Plan. 
+
+2. The Closing Date is June 30, 2024. 
+
+Section IV. Other Undertakings 
+
+For the purpose of this table, the custom duties and value added tax for the 
+
+importation and supply of goods and services, within the Borrower’s territory and for the 
+
+purpose of the implementation of the Project, shall not be financed out of Loan proceeds. 
+
+The Borrower confirms that the importation and supply of goods and services, within the 
+
+Borrower’s territory and for the purpose of the implementation of the Project, shall be 
+
+exempted from customs duties and value added tax. 
+
+Notwithstanding the provisions of Part A above, no withdrawal shall be made for 
+
+payments made prior to the Signature Date, except that withdrawals up to an 
+
+aggregate amount not to exceed Euro 4,000,000 may be made for payments made 
+
+prior to this date but on or after March 11, 2019, for Eligible Expenditures. In 
+accordance with Section 5.13 of the General Conditions, said Eligible 
+
+Expenditures shall be procured in accordance with the requirements set forth or 
+referred to in the Procurement Regulations and the provisions of the Procurement 
+
+The Borrower shall provide promptly as needed during Project implementation, 
+
+an amount equivalent to EUR 4,380,000 as counterpart funds for the Project.
+SCHEDULE 3 
+
+Commitment-Linked Amortization Repayment Schedule 
+
+The following table sets forth the Principal Payment Dates of the Loan and the 
+
+percentage of the total principal amount of the Loan payable on each Principal Payment 
+Date (“Installment Share’’). 
+
+Level Principal Repayments 
+
+Principal Payment Date Installment Share 
+
+On each May 15 and November 15 
+
+Beginning May 15, 2024 5.0% 
+
+through November 15, 2033        
+
+-ll- 
+
+APPENDIX 
+
+Section I. Definitions 
+
+1. “Affected Person” means a person or entity who, on account of the execution of 
+the Project, has experienced or would experience direct economic and social 
+
+impacts caused by: (a) the involuntary taking of land resulting in: (i) relocation or 
+
+loss of shelter; (ii) loss of assets or access to assets; or (iii) loss of income sources 
+
+or means of livelihood, whether or not such person must move to another location; 
+
+or (b) the involuntary restriction of access to legally designated parks and protected 
+
+areas, resulting in adverse impacts on the livelihood of such person; and, “Affected 
+Persons”, means more than one such Affected Person. 
+
+“Anti-Corruption Guidelines” means, for purposes of paragraph 5 of the Appendix 
+
+to the General Conditions, the “Guidelines on Preventing and Combating Fraud 
+
+and Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants”, 
+
+dated October 15, 2006 and revised in January 2011 and as of July 1, 2016. 
+
+“As-Is Process Map” means a process map which reflects the current state of an 
+
+administrative service and identifies all the steps and business processes needed to 
+
+provide said service to the end user. 
+
+“Category” means a category set forth in the table in Section III.A of Schedule 2 
+
+to this Agreement. 
+
+“CFU” means the unit referred to in Section I.A.1(b) of Schedule 2 to this 
+
+Agreement. 
+
+“Coordination Council for E-Government” means the council established pursuant 
+to Government’s Decree No. 02-11209/2017, dated November 20, 2017, which 
+
+shall provide strategic guidance to OITeG, in a manner set forth in the Operational 
+
+Manual. 
+
+“Disaster Recovery Data Center” or “DRDC” means the center referred to in 
+
+Component 1(c) of the Project. 
+
+“EHS Guidelines” means the World Bank Group Environmental, Health and 
+
+Safety Guidelines published on www. ifc.org/ehsguidelines, as said guidelines are 
+
+updated from time to time. 
+
+“Environmental and Social Management Framework” or “ESMF” means the 
+
+environmental and social management framework, prepared by OlITeG, 
+
+satisfactory to the Bank, and disclosed on the Bank’s website on February 22, 2019 
+
+setting out the principles, rules, guidelines, and procedures to screen and assess the 
+
+environmental and social impacts (including health and safety issues) of the
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+19. 
+
+20.
+activities which will be identified and appraised during Project implementation, 
+
+and containing measures and plans to avoid, minimize, mitigate, and/or offset 
+
+adverse impacts and/or reduce said adverse impacts to acceptable levels, and 
+
+enhance positive impacts, provisions for estimating and budgeting the costs of such 
+
+measures, and information on the agency or agencies responsible for addressing 
+
+project impacts, as said instrument may be amended from time to time with the 
+Bank’s prior written agreement. 
+
+“Environmental and Social Management Plan” or “ESMP” means the plans to be 
+
+prepared by the OITeG, as required, satisfactory to the Bank, and to be disclosed 
+
+on the Borrower’s website during the implementation of the Project, which details 
+
+(a) the measures to be taken during the implementation and operation of the Project 
+
+to avoid, minimize, mitigate or offset adverse environmental and social impacts 
+
+(including health and safety issues), or to reduce them to acceptable levels; and 
+
+(b) the actions needed to implement these measures, as said instrument may be 
+
+amended from time to time with the Bank’s prior written agreement. 
+
+“E-Trusted Services” means a service provided by a service provider accredited 
+
+under EU Regulation No. 910/2014, dated July 23, 2014 (Electronic Identification 
+
+and Trust Services for Electronic Transactions in the Internal Market) and 
+
+compliant with EU standards and regulations. 
+
+“EU” means European Union. 
+
+“General Conditions” means the “International Bank for Reconstruction and 
+
+Development General Conditions for IBRD Financing, Investment Project 
+
+Financing”, dated December 14, 2018. 
+
+“General Data Protection Regulation” means EU Regulation No. 2016/679, dated 
+
+May 25, 2018. 
+
+“ICT” means information and communications technology. 
+
+“Implementing Entity” means OITeG (as defined below). 
+
+“Implementing Entity’s Legislation” means the Government Bylaw 05 
+
+No. 110-7109/2017, duly published in the Borrower’s Official Gazette No. 73, 
+
+dated July 28, 2017, as amended. 
+
+“Management Committee” means the committee referred to in Section LA.3 of 
+
+Schedule 2 to this Agreement. 
+
+“oF” means the Borrower’s ministry of finance, or any successor thereto. 
+
+“OITeG” means Office of Information Technologies and e-Government, 
+
+established pursuant to the Implementing Entity’s Legislation.
+
+21, 
+
+22. 
+
+23. 
+
+24. 
+
+25, 
+
+26. 
+
+27. 
+
+28. 
+
+29.
+"Operating Costs" means expenditures incurred by the Borrower, through OITeG, 
+
+on account of the Project implementation, including, inter alia, expenditures for 
+
+office supplies, utilities, communication tools, advertisement fees, translation and 
+
+interpretation services, transportation costs, equipment insurance, printing and 
+
+publications, travel per diem allowances and accommodation costs for PIU and 
+
+CFU staff, and salaries for selected CFU staff, including taxes and social 
+
+contributions, but excluding salaries for the Borrower's civil servants. 
+
+“Personal Data Protection Law” means the law published in the Borrower’s 
+Official Gazette No. 87 on November 13, 2018. 
+
+“PIU” means the Project implementation unit referred to in Section I.A.1(a) of 
+
+Schedule 2 to this Agreement. 
+
+“Procurement Regulations” means, for purposes of paragraph 85 of the Appendix 
+
+to the General Conditions, the “World Bank Procurement Regulations for IPF 
+
+Borrowers’, dated July 2016, revised November 2017 and August 2018. 
+
+“Project Implementing Entity” means OITeG. 
+
+“Project Operations Manual” means the manual referred to in Section I.B of 
+
+Schedule 2 to this Agreement. 
+
+“Resettlement Action Plan” or “RAP” means the instrument to be prepared in 
+
+accordance with the procedures and requirements of the Resettlement Policy 
+
+Framework, which includes the principles, procedures, organizational 
+
+arrangements and budget to implement the resettlement related activities under the 
+
+Subproject, as said resettlement action plan may be revised from time to time with 
+
+the prior written agreement of the Bank and “ RAPs” means, collectively, all such 
+
+RAPs. 
+
+“Resettlement Policy Framework” or “RPF”’ means the resettlement policy 
+
+framework prepared and adopted by OITeG, satisfactory to the Bank, and 
+
+disclosed on the Bank’s website on February 22, 2019, which sets out the 
+
+resettlement principles, organizational arrangements (including consultation and 
+
+budget), and design criteria to be applied to resettlement related Project activities 
+
+to be prepared during Project implementation, as such framework may be amended 
+
+from time to time with the prior written agreement of the Bank. 
+
+“Safeguard Instruments” means collectively, the Environmental and Social 
+Management Framework, Environmental Management Plan and Resettlement 
+
+Actions Plan and Resettlement Policy Framework and “Safeguard Instrument” 
+
+means any of such Safeguards Instruments.
+
+30. 
+
+31. 
+
+32. 
+
+3: 
+
+34.
+“Safeguard Policies” means, the Operational Policies (Ops) and Bank Procedures 
+
+(BPs) of the Bank, namely OP/BP 4.01 (Environmental Assessment), OP/BP 4.11 
+
+(Physical Cultural Resources) and OP/BP 4.12 (Involuntary Resettlement); they 
+
+can be found at https://policies.worldbank.org. 
+
+“Signature Date” means the later of the two dates on which the Borrower and the 
+Bank signed this Agreement and such definition applies to all references to “the 
+
+date of the Loan Agreement” in the General Conditions. 
+
+“Steering Committee” means the committee referred to in Section I.A.2 of 
+
+Schedule 2 to this Agreement. 
+
+“To-Be Process Map” means the process map which identifies the future state of 
+
+the service and the modifications needed to provide an administrative service more 
+
+efficiently. 
+
+"Training" means Project related study tours, training courses, seminars, 
+
+workshops and other training activities, including costs of training materials, space 
+
+and equipment rental, travel, accommodation and per diem costs of trainees and 
+
+trainers, trainers’ fees, and other training related miscellaneous costs.

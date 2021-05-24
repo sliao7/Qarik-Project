@@ -1,0 +1,717 @@
+World Bank Document
+
+CONFORMED COPY 
+
+LOAN NUMBER 7593-IN 
+
+Loan Agreement 
+
+(Additional Financing for Fourth Power System Development Project) 
+
+between 
+
+POWER GRID CORPORATION OF INDIA LIMITED 
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+AND DEVELOPMENT 
+
+Dated January 27, 2009 
+
+LOAN AGREEMENT 
+
+AGREEMENT dated January 27, 2009, between POWER GRID 
+CORPORATION OF INDIA LIMITED (“Borrower”) and INTERNATIONAL BANK 
+FOR RECONSTRUCTION AND DEVELOPMENT (“Bank”) for the purpose of 
+providing additional financing for activities related and additional to the Original Project 
+(as defined in the Appendix to this Agreement).  The Borrower and the Bank hereby 
+agree as follows: 
+
+ARTICLE I – GENERAL CONDITIONS; DEFINITIONS 
+ 
+1.01. The General Conditions (as defined in the Appendix to this Agreement) 
+
+constitute an integral part of this Agreement. 
+ 
+1.02. Unless the context requires otherwise, the capitalized terms used in this 
+
+Agreement have the meanings ascribed to them in the General Conditions or in 
+the Appendix to this Agreement. 
+
+ARTICLE II – LOAN 
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or 
+
+referred to in this Agreement, the amount of four hundred million Dollars 
+($400,000,000) (“Loan”), to assist in financing the project described in  
+Schedule 1 to this Agreement (“Project”). 
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with 
+Section IV of Schedule 2 to this Agreement. 
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one 
+percent (0.25%) of the Loan amount.  The Borrower shall pay the Front-end Fee 
+not later than 60 days after the Effective Date. 
+
+2.04. The interest payable by the Borrower for each Interest Period shall be at a rate 
+equal to LIBOR for the Loan Currency plus the Variable Spread; provided, that 
+upon a Conversion of all or any portion of the principal amount of the Loan, the 
+interest payable by the Borrower during the Conversion Period on such amount 
+shall be determined in accordance with the relevant provisions of Article IV of 
+the General Conditions. Notwithstanding the foregoing, if any amount of the 
+Withdrawn Loan Balance remains unpaid when due and such non-payment 
+continues for a period of thirty (30) days, then the interest payable by the 
+Borrower shall instead be calculated as provided in Section 3.02(d) of the 
+General Conditions. 
+
+2.05. The Payment Dates are February 1 and August 1 in each year. 
+
+2.06. The principal amount of the Loan shall be repaid in accordance with the 
+amortization schedule set forth in Schedule 3 to this Agreement. 
+
+2.07. (a) The Borrower may at any time request any of the following Conversions 
+
+of the terms of the Loan in order to facilitate prudent debt management: 
+(i) a change of the Loan Currency of all or any portion of the principal 
+amount of the Loan, withdrawn or unwithdrawn, to an Approved 
+Currency; (ii) a change of the interest rate basis applicable to all or any 
+portion of the principal amount of the Loan withdrawn and outstanding 
+from a Variable Rate to a Fixed Rate, or vice versa; and (iii) the setting 
+of limits on the Variable Rate applicable to all or any portion of the 
+principal amount of the Loan withdrawn and outstanding by the 
+establishment of an Interest Rate Cap or Interest Rate Collar on the 
+Variable Rate. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that 
+
+is accepted by the Bank shall be considered a “Conversion”, as defined 
+in the General Conditions, and shall be effected in accordance with the 
+provisions of Article IV of the General Conditions and of the Conversion 
+Guidelines.  
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or 
+
+Interest Rate Collar for which the Borrower has requested that the 
+premium be paid out of the proceeds of the Loan, the Bank shall, on 
+behalf of the Borrower, withdraw from the Loan Account and pay to 
+itself the amounts required to pay any premium payable in accordance 
+with Section 4.05(c) of the General Conditions up to the amount 
+allocated from time to time for the purpose in the table in Section IV of 
+Schedule 2 to this Agreement. 
+
+ARTICLE III – PROJECT 
+
+3.01. The Borrower declares its commitment to the objectives of the Project.  To this 
+
+end, the Borrower shall carry out the Project in accordance with the provisions of 
+Article V of the General Conditions. 
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and 
+
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall 
+ensure that the Project is carried out in accordance with the provisions of 
+Schedule 2 to this Agreement. 
+
+ARTICLE IV – REMEDIES OF THE BANK 
+
+4.01. The Additional Event of Suspension consists of the following, namely the 
+Memorandum and Articles of Association shall have been amended, suspended, 
+abrogated, repealed or waived so as to affect materially and adversely the ability 
+of the Borrower to perform any of its obligations under this Agreement.  
+
+4.02. The Additional Event of Acceleration consists of the following, namely that the 
+
+event specified in Section 4.01 of this Agreement occurs. 
+
+ARTICLE V – EFFECTIVENESS; TERMINATION 
+
+5.01. The Effectiveness Deadline is the date ninety (90) days after the date of this 
+Agreement. 
+
+ARTICLE VI – REPRESENTATIVE; ADDRESSES 
+
+6.01. The Borrower’s Representative is the Chairman and Managing Director.   
+ 
+6.02. The Bank’s Address is: 
+
+International Bank for Reconstruction and Development 
+1818 H Street, N.W. 
+Washington, D.C. 20433 
+United States of America 
+ 
+Cable address:  Telex:   Facsimile: 
+
+INTBAFRAD  248423(MCI) or 1
+4776391 
+Washington, D.C.   64145(MCI) 
+
+6.03. The Borrower’s Address is: 
+
+Power Grid Corporation of India Limited 
+B-9, Qutab Institutional Area 
+Katwaria Sarai, New Delhi – 110016 
+
+Facsimile: 
+
+91
+26560054 
+
+AGREED at New Delhi, India, as of the day and year first above written. 
+
+INTERNATIONAL BANK FOR 
+ RECONSTRUCTION AND DEVELOPMENT 
+
+By   /s/ N. Roberto Zagha 
+ Authorized Representative 
+
+POWER GRID CORPORATION OF INDIA    
+ LIMITED 
+
+By   /s/ S. K. Chaturvedi 
+ Authorized Representative 
+
+SCHEDULE 1 
+
+Project Description 
+
+The objective of the Project is to strengthen the transmission system in order to 
+increase reliable power exchange between the regions and States of India.  
+
+The Project consists of the following schemes and activities: 
+
+Transmission System Strengthening Schemes 
+ 
+1. Completion of the East-West Transmission Corridor, specifically supply and 
+
+installation of Fixed and Variable Series Compensation at Raipur Substation for 
+400 kV Raigarh-Raipur double circuit Line. 
+
+2. Completion of the Western Region System Strengthening Scheme-II, 
+
+specifically: (a) construction of Wardha-Parli 400kV double circuit line; (b) 
+construction of Bhadrawati-Parli 400kV double circuit line; (c) construction of 
+Raipur-Wardha 400kV double circuit line; (d) construction of  400 kV Parli 
+substation; (e) extension of 400 kV Bhadrawati, Seoni, Parli, Wardha and Raipur; 
+(f) extension of Raigarh, Karamsad, Limbdi, Zerda, Ranchhodpura and 
+Birsinghpur substations; (g) supply and installation of Shunt Reactor; and (h) 
+supply and installation of Fixed Series Compensation Package at Wardha 
+Substation for 400 kV Wardha-Raipur double circuit line and at Rajgarh 
+substation for 400 kV Raigarh-Karamsad double circuit line. 
+
+3. Completion of the Eastern Region System Strengthening Scheme-I, specifically: 
+
+(a) supply of conductors for the Durgapur-Jamshedpur, Jamshedpur-Baripada, 
+and Baripada-Mendhasal 400 kV double circuit lines; and (b) reconductoring of 
+the 400 kV double circuit Siliguri-Purnea line. 
+
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Implementation Arrangements
+
+A. Institutional Arrangements 
+
+Throughout Project implementation, the Borrower shall establish and maintain an 
+adequate organizational structure, with functions, powers, staff and resources 
+necessary and appropriate for Project implementation, and satisfactory to the 
+Bank, including internal audit structure.  
+
+B. Anti-Corruption 
+
+The Borrower shall ensure that the Project is carried out in accordance with the 
+provisions of the Anti-Corruption Guidelines. 
+
+C. Safeguards 
+
+Throughout Project implementation, the Borrower shall ensure that the Project is 
+carried out in accordance with the terms and conditions, and procedures set forth 
+in the ESPP, and shall ensure that the ESPP is revised, repealed, or not enforced 
+only with the prior approval of the Bank. 
+
+Section II. Project Monitoring, Reporting and Evaluation
+
+A. Project Reports   
+ 
+1. The Borrower shall monitor and evaluate the progress of the Project and prepare 
+
+Project Reports in accordance with the provisions of Section 5.08 of the General 
+Conditions and on the basis of indicators agreed with the Bank.  Each Project 
+Report shall cover the period of one Fiscal Year quarter, and shall be furnished to 
+the Bank not later than forty-five (45) days after the end of the period covered by 
+such report.  
+
+2. Notwithstanding the requirement in Section II.A.1 of this Schedule, by  
+
+April 30, 2010, the Borrower shall carry out a comprehensive mid-term Project 
+review, and shall by June 30, 2010, prepare and furnish to the Bank a mid-term 
+Project progress report, satisfactory to the Bank. 
+
+3. For purposes of Section 5.08(c) of the General Conditions, the report on the 
+execution of the Project and related plan required pursuant to that Section shall 
+be furnished to the Bank not later than January 31, 2015. 
+
+B. Financial Management, Financial Reports and Audits   
+ 
+1. Without limitation upon the provisions of Section 5.09(a) of the General 
+
+Conditions, the Borrower shall maintain a financial management system and 
+prepare financial statements in accordance with consistently applied accounting 
+standards and the Finance Manuals acceptable to the Bank, both in a manner 
+adequate to reflect the operations and financial condition of the Borrower, 
+including the operations, resources and expenditures related to the Project. 
+
+2. Without limitation upon the provisions of Part A of this Section, the Borrower 
+
+shall prepare and furnish to the Bank as part of the Project Reports, not later than 
+thirty (30) days after the end of each month, interim unaudited financial reports 
+for the Project covering the month, in form and substance satisfactory to the 
+Bank. 
+
+3. Without limitation upon the provisions of Section 5.09(b) of the General 
+
+Conditions, the Borrower shall have its financial statements referred to above 
+audited by independent auditors acceptable to the Bank, in accordance with 
+consistently applied auditing standards acceptable to the Bank.  Each audit of 
+these financial statements shall cover the period of one Fiscal Year of the 
+Borrower.  The audited financial statements for each period shall be furnished to 
+the Bank not later than six (6) months after the end of the period. 
+
+Section III. Procurement
+
+A. General 
+
+1. Goods. All goods required for the Project and to be financed out of the proceeds 
+of the Loan shall be procured in accordance with the requirements set forth or 
+referred to in Section I of the Procurement Guidelines, and with the provisions of 
+this Section. 
+
+2. Definitions. The capitalized terms used below in this Section to describe 
+
+particular procurement methods or methods of review by the Bank of particular 
+contracts refer to the corresponding method described in the Procurement 
+Guidelines. 
+
+B. Particular Methods of Procurement of Goods 
+ 
+1. International Competitive Bidding. Except as otherwise provided in  
+
+paragraph 2 below, goods shall be procured under contracts awarded on the basis 
+of International Competitive Bidding procedures.  
+
+2. Other Methods of Procurement of Goods. The following table specifies the 
+methods of procurement, other than International Competitive Bidding, which 
+
+may be used for goods.  The Procurement Plan shall specify the circumstances 
+under which such methods may be used. 
+
+Procurement Method 
+
+(a) National Competitive Bidding, and the additional provisions agreed 
+between the Borrower and the Bank 
+
+(b) Direct Contracting 
+
+C. Review by the Bank of Procurement Decisions 
+
+The Procurement Plan shall set forth those contracts which shall be subject to the 
+Bank’s Prior Review.  All other contracts shall be subject to Post Review by the 
+Bank. 
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General   
+ 
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the 
+
+provisions of Article II of the General Conditions, this Section, and such 
+additional instructions as the Bank shall specify by notice to the Borrower 
+(including the “World Bank Disbursement Guidelines for Projects” dated May 
+2006, as revised from time to time by the Bank and as made applicable to this 
+Agreement pursuant to such instructions), to finance Eligible Expenditures as set 
+forth in the table in paragraph 2 below. 
+
+2. The following table specifies the categories of Eligible Expenditures that may be 
+
+financed out of the proceeds of the Loan (“Category”), the allocation of the 
+amounts of the Loan to each Category, and the percentage of expenditures to be 
+financed for Eligible Expenditures in each Category. 
+
+Category 
+
+Amount of the 
+Loan Allocated 
+(Expressed in 
+
+Dollars) 
+
+Percentage of 
+Expenditures 
+
+to be Financed 
+
+Goods 400,000,000 100% 
+
+TOTAL AMOUNT 400,000,000  
+
+B. Withdrawal Conditions; Withdrawal Period   
+ 
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be 
+
+made: (a) from the Loan Account until the Bank has received payment in full of 
+the Front-end Fee; or (b) for payments made prior to the date of this Agreement, 
+except that withdrawals up to an aggregate amount not to exceed $80,000,000 
+equivalent may be made for payments made prior to this date but on or after 
+April 1, 2008, for Eligible Expenditures.   
+
+2. The Closing Date is July 31, 2014. 
+
+Section V. Other Undertakings
+
+1. Except as the Bank shall otherwise agree, the Borrower shall take all steps 
+necessary to maintain its accounts receivable at a level not exceeding an amount 
+equivalent to the proceeds of its transmission and other regulated services for the 
+three (3) preceding months. 
+
+2. (a) Except as the Bank shall otherwise agree, the Borrower shall take all 
+
+such measures (including, without limitation, adjustments of the structure 
+and levels of its tariffs) as shall be required to produce, starting with the 
+fiscal year beginning April 1, 2008, funds from internal cash generation 
+equivalent to not less than twenty (20) percent of the annual average of 
+the Borrower’s capital expenditures incurred or expected to be incurred 
+during the previous, current and following fiscal year. 
+
+(b) For the purposes of this paragraph 2: 
+
+(i) the term “funds from internal sources” means the difference 
+between: (A) the sum of gross revenues from all sources related 
+to the Borrower’s operations, contributions in aid of 
+construction, net non-operating income, proceeds from sales of 
+bonds issued in lieu of outstanding receivables, and any 
+reduction in non-cash working capital; and (B) the sum of all 
+expenses of the Borrower’s operations, including maintenance 
+and administration (excluding depreciation and other non-cash 
+operating charges), interest and other charges on debt (excluding 
+interest financed under a loan contract), repayment of loans 
+(including sinking fund payments, if any), all taxes or payments 
+in lieu of taxes, all cash dividends and other cash distributions of 
+surplus, increase in non-cash working capital and any other cash 
+outflows other than cash expenditures related to the operations of 
+the Borrower; 
+
+(ii) the term “capital expenditures” means all expenditures incurred 
+on account of fixed or capital assets, including interest charged 
+to construction, related to the operations of the Borrower; 
+
+(iii) the term “gross revenue” means the revenue earned and received 
+
+for the services provided by the Borrower; 
+ 
+(iv) the term “expenses” means the sum of all operating expenses, 
+
+taxes on income and profits, depreciation and interest charged on 
+all debentures, bonds and loans; 
+
+(v) the term “operating expenses” means the cost of operation and 
+
+maintenance, service management and administrative expenses, 
+and all taxes accruing during the financial year, other than taxes 
+on income and profits of the Borrower; 
+
+(vi) the term “taxes on income and profits” consists of income taxes 
+
+and other levies accrued by the Borrower according to the 
+provisions of any legislation or regulation applicable in this 
+respect; 
+
+(vii) the term “depreciation” means the applicable provision on 
+
+depreciation used to prepare the accounts referred to in Section 
+4.01 of this agreement; and  
+
+(viii) the term “interest charged on all debentures, bonds and loans” 
+
+means all interest, excluding interest during construction, 
+accrued by the Borrower during the fiscal year and all other 
+charges on debt. 
+
+3. (a) Except as the Bank shall otherwise agree, the Borrower shall not incur 
+
+any debt, if after the incurrence of such debt the ratio of debt to equity 
+shall be greater than four (4) to one (1). 
+
+(b) For purposes of this paragraph 3: 
+
+(i) The term “debt” means any indebtedness of the Borrower 
+maturing by its terms more than one year after the date on which 
+it is originally incurred. 
+
+(ii) Debt shall be deemed to be incurred: (A) under a loan contract or 
+
+agreement or other instrument providing for such debt or for the 
+modification of its terms of payment, on the date, and to the 
+extent, the amount of such debt has become outstanding pursuant 
+to such contract, agreement or instrument; and (B) under a 
+
+guarantee agreement, on the date of the agreement providing for 
+such guarantee has been entered into but only to the extent that 
+the guaranteed debt is outstanding. 
+
+(iii) The term “equity” means the sum of the total unimpaired paid-up 
+
+capital, retained earnings and reserves of the Borrower not 
+allocated to cover specific liabilities. 
+
+Whenever for the purposes of this Section V it shall be necessary to value, in 
+terms of the currency of the Guarantor, debt payable in another currency, such 
+valuation shall be made on the basis of the prevailing lawful rate of exchange at 
+which such other currency is, at the time of such valuation, obtainable for the 
+purposes of servicing such debt, or, in the absence of such rate, on the basis of a 
+rate of exchange acceptable to the Bank. 
+
+SCHEDULE 3 
+
+Amortization Schedule 
+ 
+1. The following table sets forth the Principal Payment Dates of the Loan and the 
+
+percentage of the total principal amount of the Loan payable on each Principal 
+Payment Date (“Installment Share”).  If the proceeds of the Loan have been fully 
+withdrawn as of the first Principal Payment Date, the principal amount of the 
+Loan repayable by the Borrower on each Principal Payment Date shall be 
+determined by the Bank by multiplying:  (a) Withdrawn Loan Balance as of the 
+first Principal Payment Date; by (b) the Installment Share for each Principal 
+Payment Date, such repayable amount to be adjusted, as necessary, to deduct any 
+amounts referred to in paragraph 4 of this Schedule, to which a Currency 
+Conversion applies. 
+
+Principal Payment Date Installment Share 
+(Expressed as a Percentage) 
+
+February 1, 2013 1.69% 
+August 1, 2013 1.70% 
+
+February 1, 2014 1.71% 
+August 1, 2014 1.72% 
+
+February 1, 2015 1.72% 
+August 1, 2015 1.73% 
+
+February 1, 2016 1.74% 
+August 1, 2016 1.75% 
+
+February 1, 2017 1.76% 
+August 1, 2017 1.77% 
+
+February 1, 2018 1.78% 
+August 1, 2018 1.79% 
+
+February 1, 2019 1.79% 
+August 1, 2019 1.80% 
+
+February 1, 2020 1.81% 
+August 1, 2020 1.82% 
+
+February 1, 2021 1.83% 
+August 1, 2021 1.84% 
+
+February 1, 2022 1.85% 
+August 1, 2022 1.86% 
+
+February 1, 2023 1.87% 
+August 1, 2023 1.88% 
+
+February 1, 2024 1.89% 
+August 1, 2024 1.90% 
+
+February 1, 2025 1.91% 
+August 1, 2025 1.91% 
+
+February 1, 2026 1.92% 
+
+August 1, 2026 1.93% 
+February 1, 2027 1.94% 
+
+August 1, 2027 1.95% 
+February 1, 2028 1.96% 
+
+August 1, 2028 1.97% 
+February 1, 2029 1.98% 
+
+August 1, 2029 1.99% 
+February 1, 2030 2.00% 
+
+August 1, 2030 2.01% 
+February 1, 2031 2.02% 
+
+August 1, 2031 2.03% 
+February 1, 2032 2.04% 
+
+August 1, 2032 2.05% 
+February 1, 2033 2.06% 
+
+August 1, 2033 2.07% 
+February 1, 2034 2.08% 
+
+August 1, 2034 2.09% 
+February 1, 2035 2.10% 
+
+August 1, 2035 2.12% 
+February 1, 2036 2.13% 
+
+August 1, 2036 2.14% 
+February 1, 2037 2.15% 
+
+August 2, 2037 2.16% 
+February 1, 2038 2.17% 
+
+August 1, 2038 2.12% 
+
+2.  If the proceeds of the Loan have not been fully withdrawn as of the first Principal 
+Payment Date, the principal amount of the Loan repayable by the Borrower on 
+each Principal Payment Date shall be determined as follows: 
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of 
+
+the first Principal Payment Date, the Borrower shall repay the 
+Withdrawn Loan Balance as of such date in accordance with paragraph 1 
+of this Schedule. 
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be 
+
+repaid on each Principal Payment Date falling after the date of such 
+withdrawal in amounts determined by the Bank by multiplying the 
+amount of each such withdrawal by a fraction, the numerator of which is 
+the original Installment Share specified in the table in paragraph 1 of this 
+Schedule for said Principal Payment Date (“Original Installment Share”) 
+and the denominator of which is the sum of all remaining Original 
+Installment Shares for Principal Payment Dates falling on or after such 
+date, such amounts repayable to be adjusted, as necessary, to deduct any 
+
+amounts referred to in paragraph 4 of this Schedule, to which a Currency 
+Conversion applies.  
+
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any 
+Principal Payment Date shall, for the purposes solely of calculating the 
+principal amounts payable on any Principal Payment Date, be treated as 
+withdrawn and outstanding on the second Principal Payment Date 
+following the date of withdrawal and shall be repayable on each 
+Principal Payment Date commencing with the second Principal Payment 
+Date following the date of withdrawal. 
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if 
+
+at any time the Bank adopts a due date billing system under which 
+invoices are issued on or after the respective Principal Payment Date, the 
+provisions of such sub-paragraph shall no longer apply to any 
+withdrawals made after the adoption of such billing system.  
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a 
+
+Currency Conversion of all or any portion of the Withdrawn Loan Balance to an 
+Approved Currency, the amount so converted in the Approved Currency that is 
+repayable on any Principal Payment Date occurring during the Conversion 
+Period, shall be determined by the Bank by multiplying such amount in its 
+currency of denomination immediately prior to the Conversion by either: (i) the 
+exchange rate that reflects the amounts of principal in the Approved Currency 
+payable by the Bank under the Currency Hedge Transaction relating to the 
+Conversion; or (ii) if the Bank so determines in accordance with the Conversion 
+Guidelines, the exchange rate component of the Screen Rate.  
+
+5. If the Withdrawn Loan Balance is denominated in more than one Loan Currency, 
+
+the provisions of this Schedule shall apply separately to the amount denominated 
+in each Loan Currency, so as to produce a separate amortization schedule for 
+each such amount. 
+
+APPENDIX 
+ 
+Section I. Definitions
+
+1. “Anti-Corruption Guidelines” means the “Guidelines on Preventing and 
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA 
+Credits and Grants”, dated October 15, 2006. 
+
+2. “Category” means a category set forth in the table in Section IV of Schedule 2 to 
+this Agreement. 
+
+3. “ESPP” means the Environmental and Social Policy and Procedures adopted by 
+the Borrower in April, 2006, satisfactory to the Bank, setting forth, inter alia, the 
+policies and procedures of carrying out environmental and social assessment of 
+activities under the Project, preparing and implementing environmental 
+assessment, mitigation and management plans, and, where applicable, 
+resettlement and rehabilitation action plans, tribal development plans, and other 
+development plans and entitlement frameworks for people adversely affected as a 
+result of the implementation of the Project, carrying out consultations, processing 
+and redressing grievances, and monitoring related impacts, as such document 
+may be revised from time to time with the prior approval of the Bank. 
+
+4. “Finance Manuals” means the manuals approved by the Borrower in  
+
+March, 2006, satisfactory to the Bank, setting forth the overall Project financial 
+management arrangements in respect of Project flow of funds, accounting 
+policies and procedures, chart of accounts, financial and accounting procedures, 
+books of accounts, financial reporting, and internal controls, as the same may be 
+revised from time to time with the prior approval of the Bank. 
+
+5. “Fiscal Year” means the Borrower’s fiscal year, beginning on April 1 of a 
+
+calendar year and ending on March 31 of the following calendar year. 
+ 
+6. “General Conditions” means the “International Bank for Reconstruction and 
+
+Development General Conditions for Loans”, dated July 1, 2005 (as amended 
+through February 12, 2008), with the modifications set forth in Section II of this 
+Appendix. 
+
+7. “Guarantee Agreement” means the agreement between India and the Bank of 
+
+even date herewith, as the same may be amended from time to time, and such 
+term includes all schedules and agreements supplemental to the Guarantee 
+Agreement. 
+
+8. “Memorandum and Articles of Association” means the Memorandum and 
+
+Articles of Association of the Borrower, as amended to the date of this 
+Agreement. 
+
+9. “Original Project” means the project described in Schedule 1 of the Loan 
+Agreement between the Borrower and the Bank, dated March 28, 2008 (Loan 
+No. 4890-IN). 
+
+10. “Powergrid” (or the “Borrower”) means Power Grid Corporation of India 
+
+Limited, a company registered under the Guarantor’s Companies Act (1956), 
+having its registered office at B-9 Qutub Institutional Area, Katwaria Sarai,  
+New Delhi – 110016, India. 
+
+11. “Procurement Guidelines” means the “Guidelines: Procurement under IBRD 
+
+Loans and IDA Credits” published by the Bank in May 2004, and revised in 
+October 2006. 
+
+12. “Procurement Plan” means the Borrower’s procurement plan for the Project, 
+
+dated September 6, 2008, and referred to in paragraph 1.16 of the Procurement 
+Guidelines, as applicable, as the same shall be updated from time to time in 
+accordance with the provisions of said paragraphs. 
+
+Section II.  Modifications to the General Conditions
+
+The modification to the General Conditions is as follows:   
+ 
+Paragraph (l) of Section 7.02 is modified to read: 
+
+“Section 7.02. Suspension by the Bank  
+
+... (l) Ineligibility. The Bank or the Association has declared the Borrower 
+(other than the Member Country) or the Project Implementing Entity ineligible to 
+receive proceeds of any financing made by the Bank or the Association or 
+otherwise to participate in the preparation or implementation of any project 
+financed in whole or in part by the Bank or the Association, as a result of a 
+determination by the Bank or the Association that the Borrower or the Project 
+Implementing Entity has engaged in fraudulent, corrupt, coercive or collusive 
+practices in connection with the use of the proceeds of any financing made by the 
+Bank or the Association.”
