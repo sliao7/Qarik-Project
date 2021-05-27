@@ -59,6 +59,7 @@ for idx, row in iso_codes.iterrows():
     country_code_dict[code3] = country_name
 
 #Some nonstandard codes extracted by hand
+country_code_dict['ma'] = 'Malaysia'
 country_code_dict['yu'] = 'Yugoslavia'
 country_code_dict['cha'] = "China"
 country_code_dict['egt'] = "Egypt"
