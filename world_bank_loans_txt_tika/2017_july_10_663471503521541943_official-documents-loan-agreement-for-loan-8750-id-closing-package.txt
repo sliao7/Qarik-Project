@@ -1,0 +1,1410 @@
+World Bank Document
+
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8750-ID
+
+Loan Agreement
+
+(Social Assistance Reform Program)
+
+between
+
+REPUBLIC OF INDONESIA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+Dated Jul to 2017
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+2 of 21 LN8750-ID
+
+LOAN NUMBER 8750-ID
+
+LOAN AGREEMENT
+
+AGREEMENT dated Jo 10 ,2017, between REPUBLIC OF
+
+INDONESIA ("Borrower") and INTERNATIONAL BANK FOR RECONSTRUCTION AND
+
+DEVELOPMENT ("Bank"). The Borrower and the Bank hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) constitute an integral
+
+part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement have the
+
+meanings ascribed to them in the General Conditions or in the Appendix to this Agreement.
+
+ARTICLE II- LOAN
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or referred 
+to
+
+in this Agreement, the amount of two hundred million United States Dollars
+
+(USD200,000,000) ("Loan"), as such amount may be converted from time to time through a
+
+Currency Conversion in accordance with the provisions of Section 2.08 of this Agreement
+
+("Loan"), to assist in financing the program described in Schedule 1 to this Agreement
+
+("Program").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section 
+IV of
+
+Schedule 2 to this Agreement. All withdrawals from the Loan Account shall be deposited by
+
+the Bank into an account specified by the Borrower and acceptable to the Bank.
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one 
+percent
+
+(0.25%) of the Loan amount. The Borrower shall pay the Front-end Fee not later than sixty
+
+days after the Effective Date.
+
+2.04. The Commitment Charge payable by the Borrower shall be equal to one quarter of one percent
+
+(0.25%) per annum on the Unwithdrawn Loan Balance.
+
+2.05. The interest payable by the Borrower for each Interest Period shall be at a rate 
+equal to the
+
+Reference Rate for the Loan Currency plus the Fixed Spread; provided, however, that 
+the
+
+interest payable shall in no event be less than zero percent (0%) per annum; and provided
+
+furthermore that, upon a Conversion of all or any portion of the principal amount of the Loan,
+
+the interest payable by the Borrower during the Conversion Period on such amount shall 
+be
+
+determined in accordance with the relevant provisions of Article IV of the General Conditions.
+
+Notwithstanding the foregoing, if any amount of the Withdrawn Loan Balance remains unpaid
+
+when due and such non-payment continues for a period of thirty days, then the interest payable
+
+by the Borrower shall instead be calculated as provided in Section 3.02 (e) of the General
+
+Conditions.
+
+2.06. The Payment Dates are May 1 and November I in each year.
+
+
+
+3 of 21 LN8750-ID
+
+2.07. The principal amount of the Loan shall be repaid in accordance with the amortization schedule
+
+set forth in Schedule 3 to this Agreement.
+
+2.08. (a) The Borrower may at any time request any of the following Conversions of the 
+terms
+
+of the Loan in order to facilitate prudent debt management: (i) a change of the Loan
+
+Currency of all or any portion of the principal amount of the Loan, withdrawn or
+
+unwithdrawn, to an Approved Currency; (ii) a change of the interest rate basis
+
+applicable to: (A) all or any portion of the principal amount of the Loan withdrawn and
+
+outstanding from a Variable Rate to a Fixed Rate, or vice versa; or (B) all or any portion
+
+of the principal amount of the Loan withdrawn and outstanding from a Variable Rate
+
+based on a Reference Rate and the Variable Spread to a Variable Rate based on a Fixed
+
+Reference Rate and the Variable Spread, or vice versa; or (C) all of the principal
+
+amount of the Loan withdrawn and outstanding from a Variable Rate based on a
+
+Variable Spread to a Variable Rate based on a Fixed Spread; and (iii) the setting of
+
+limits on the Variable Rate or the Reference Rate applicable to all or any portion of the
+
+principal amount of the Loan withdrawn and outstanding by the establishment of an
+
+Interest Rate Cap or Interest Rate Collar on the Variable Rate or the Reference Rate.
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that is accepted by
+
+the Bank shall be considered a "Conversion", as defined in the General Conditions, and
+
+shall be effected in accordance with the provisions of Article IV of the General
+
+Conditions and of the Conversion Guidelines.
+
+2.09. (a) If on any given day, the Total Exposure exceeds the Standard Exposure Limit 
+(as said
+
+terms are defined in sub-paragraphs (b)(ii) and (b)(iii) of this Section), the Borrower
+
+shall pay to the Bank a surcharge at the rate of one half of one percent (0.5%) per
+
+annum of the Allocated Excess Exposure Amount (as defined in sub-paragraph (b)(i)
+
+of this Section) for each said day ("Exposure Surcharge"). The Exposure Surcharge (if
+
+any) shall be payable semi-annually in arrears on each Payment Date.
+
+(b) For purposes of this Section the following terms have the meanings set forth 
+below:
+
+(i) "Allocated Excess Exposure Amount" means for each 
+day during which the
+
+Total Exposure exceeds the Standard Exposure Limit, the product of: (A) the
+
+total amount of said excess; and (B) the ratio of all (or, if the Bank so
+
+determines, a portion) of the Loan to the aggregate amount of all (or the
+
+equivalent portions) of the loans made by the Bank to the Borrower and to 
+other
+
+borrowers guaranteed by the Borrower that are also subject to an exposure
+
+surcharge, as said excess and ratio are reasonably determined from time to time
+
+by the Bank.
+
+
+
+4 of 21 LN8750-ID
+
+(ii) "Standard Exposure Limit" means the standard limit on the Bank's financial
+
+exposure to the Borrower which, if exceeded, would subject the Loan to the
+
+Exposure Surcharge, as determined from time to time by the Bank.
+
+(iii) "Total Exposure" means for any given day, the Bank's total financial exposure
+
+to the Borrower, as reasonably determined by the Bank.
+
+ARTICLE III - PROGRAM
+
+3.01. The Borrower declares its commitment to the objectives of the Program. To this end, the
+
+Borrower shall carry out the Program through the Ministry of Social Affairs in accordance with
+
+the provisions of Article V of the General Conditions.
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and except as the
+
+Borrower and the Bank shall otherwise agree, the Borrower shall ensure that the Program is
+
+carried out in accordance with the provisions of Schedule 2 to this Agreement.
+
+ARTICLE IV - EFFECTIVENESS; TERMINATION
+
+4.01. The Additional Condition of Effectiveness consists of the following, namely, that the Ministry
+
+of Finance has sent a Letter of Assignment to BPKP to carry out the verification of DLRs
+
+achievement for the Program.
+
+4.02. The Effectiveness Deadline is the date ninety (90) days after the date of this Agreement.
+
+ARTICLE V - REPRESENTATIVE; ADDRESSES
+
+5.01. The Borrower's Representative is its Minister of Finance.
+
+5.02. The Borrower's Address is:
+
+Directorate General of Budget Financing and Risk Management
+
+Ministry of Finance
+Gedung Frans Seda
+
+JI. DR. Wahidin Raya No. 1
+Jakarta 10710 - Indonesia
+
+Facsimile:
++62-21-381-2859
+
+
+
+5 of 21 LN8750-ID
+
+5.03. The Bank's Address is:
+
+International Bank for Reconstruction and Development
+
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+
+Facsimile:
+1-202-477-6391
+
+AGREED at Jakarta, Republic of Indonesia, as of the day and year first above written.
+
+REPUBLIC OF INDONESIA
+
+By
+
+Authorized Representative
+
+Name: OI3ERT PAVPA HAN
+
+VIUXcTOR GENKAL OF 6uVGFT
+Title: FINANCIN6 ANO VISIK IANAGMENT
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By
+
+Repr tative
+
+Name: A
+
+Title: of 4 14 .E;
+I
+
+
+
+6 of 21 LN8750-ID
+
+SCHEDULE 1
+
+Program Description
+
+The objectives of the Program are to support conditional cash transfer program coverage
+
+expansion, strengthen its delivery system and improve its coordination with other complementary
+
+social programs.
+
+The Program consists of the following activities, which form part of the Borrower's conditional
+
+cash transfer program, namely, PKH, as further elaborated in the Borrower's 2015-2019 mid-term
+
+development plan (RPJMN), the Ministry of Social Affairs' 2015-2019 strategic plan and the decree
+
+of the Director General of Social Protection and Security number 12/LJS/09/2016:
+
+1. Strengthening the PKH Delivery System to Improve Efficiency, Transparency and
+
+Accountability. Simplifying business processes, upgrading the information management
+
+system, rolling out electronic payment modalities, implementing an enhanced grievance
+
+redress system, strengthening the monitoring and evaluation system, developing a
+
+communication strategy, managing human resources and developing error, fraud and
+
+corruption detection and control mechanisms.
+
+2. Improving Access to Basic Social Services and Complementary Social Assistance programs
+
+for PKH Beneficiaries. Enrolling PKH families into, among others, RASTRA, PIS and PIP.
+
+3. Expanding Coverage and Improving Inclusivity of PKH. Expanding coverage of PKH
+
+particularly to the underserved areas in the Papua region and remote and border areas as
+
+categorized by the Ministry of Social Affairs.
+
+
+
+7 of 21 LN8750-ID
+
+SCHEDULE 2
+
+Program Execution
+
+Section 1. Implementation Arrangements
+
+A. Program Fiduciary, Environmental and Social Systems
+
+Without limitation on the provisions of Article V of the General Conditions, the Borrower shall
+
+carry out the Program, or cause the Program to be carried out, in accordance with financial
+
+management, procurement and environmental and social management systems acceptable to
+
+the Bank ("Program Fiduciary, Environmental and Social Systems") which are designed to
+
+ensure that:
+
+1. the Loan proceeds are used for their intended purposes, with due attention to the
+
+principles of economy, efficiency, effectiveness, transparency, and accountability; and
+
+2. the actual and potential adverse environmental and social impacts of the Program are
+
+identified, avoided, minimized, or mitigated, as the case may be, all through an
+
+informed decision-making process.
+
+B. Anti-Corruption
+
+Without limitation on the provisions of Part A of this Section, the Borrower shall carry out the
+
+Program, or cause the Program to be carried out, in accordance with the provisions of the Anti-
+
+Corruption Guidelines.
+
+C. Other Program Institutional and Implementation Arrangements
+
+1 . Pro4ram Institutions
+
+Without limitation on the generality of Part A of this Section I, the Borrower shall:
+
+(a) at the national level, maintain, at all times during Program implementation, all with
+
+staff, functions and resources satisfactory to the Bank: (i) the National Coordination
+
+Team, a policy decision-making body advised by the Coordinating Minister of Human
+
+Development and Cultural Affairs, chaired by the Minister of Social Affairs and
+
+consisting of echelon 1 representatives of Ministry of Social Affairs, Ministry of
+
+Health, Ministry of Education and Culture, Ministry of Finance, BAPPENAS, Ministry
+of Religious Affairs, Ministry of Communication and Information Technology,
+Ministry of Home Affairs, Ministry of Manpower, Ministry of Village, Development
+
+of Disadvantaged Regions and Transmigration, Ministry of Women Empowerment and
+
+Child Protection and Statistics Indonesia; (ii) the National Technical Coordination
+
+Team, a policy implementation body chaired by the Director General of Social
+
+Protection and Security and consisting of echelon 2 officials responsible for poverty
+
+reduction, education, health, children, families, the poor, the disabled, the elderlies,
+
+data, information and communication, publication, cooperation, institution, planning,
+
+finance and audit; and (iii) the Directorate of Family Social Security to implement
+
+PKH;
+
+
+
+8 of 21 LN8750-ID
+
+(b) at the Provincial level, maintain, at all times during Program implementation, all with
+
+staff, functions and resources satisfactory to the Bank: (i) Provincial Technical
+
+Coordination Teams, chaired by heads of Provincial BAPPEDA and consisting of,
+
+inter alia, heads of Provincial offices (dinas) responsible for education, health,
+
+statistics, religious affairs, communication and information technology, manpower,
+
+and population and civil registry; and (ii) the Provincial Social Affairs Offices to
+
+implement PKH;
+
+(c) at the District level, maintain, at all times during Program implementation, all with
+
+staff, functions and resources satisfactory to the Bank: (i) District Technical
+
+Coordination Teams, chaired by heads of District BAPPEDA and consisting of, inter
+
+alia, heads of District offices (dinas) responsible for education, health, statistics,
+
+religious affairs, communication and information technology, manpower, and
+
+population and civil registry; and (ii) the District Social Affairs Offices to implement
+
+PKH; and
+
+(d) at the Sub-district level, maintain, at all times during Program implementation, all with
+
+staff, functions and resources satisfactory to the Bank: (i) Sub-district Technical
+
+Coordination Teams chaired by heads of Sub-districts and consisting of, inter alia,
+
+heads of elementary and secondary education technical implementation unit, heads of
+
+health technical implementation unit, PKH facilitators, and heads of Villages; and (ii)
+
+the Sub-district Social Affairs Offices to implement PKH.
+
+2. Program Action Plan
+
+Without limitation on the generality of Section L.A of this Schedule, the Borrower shall:
+
+(a) undertake the actions set forth in the Program Action Plan in a manner satisfactory to
+
+the Bank;
+
+(b) except as the Bank and the Borrower shall otherwise agree in writing, not assign,
+
+amend, abrogate, or waive, or permit to be assigned, amended, abrogated, or waived,
+
+the Program Action Plan, or any provision thereof; and
+
+(c) maintain policies and procedures adequate to enable it to monitor and evaluate, in
+
+accordance with guidelines acceptable to the Bank, the implementation of the Program
+
+Action Plan.
+
+Section II. Excluded Activities
+
+The Borrower shall ensure that the Program excludes any activities which:
+
+A. in the opinion of the Bank, are likely to have significant adverse impacts that are
+
+sensitive, diverse, or unprecedented on the environment and/or affected people; or
+
+
+
+9 of 21 LN8750-ID
+
+B. involve the procurement of: (1) works, estimated to cost seventy five million United
+States Dollars (USD75,000,000) equivalent or more per contract; (2) goods, estimated
+to cost fifty million United States Dollars (USD50,000,000) equivalent or more per
+contract; (3) non-consulting services, estimated to cost fifty million United States
+Dollars (USD50,000,000) equivalent or more per contract; or (4) consulting services,
+estimated to cost twenty million United States Dollars (USD20,000,000) equivalent or
+more per contract.
+
+Section III. Program Monitoring, Reporting and Evaluation; Audits
+
+A. Program Reports
+
+1. The Borrower, through MOSA, shall monitor and evaluate the progress of the Program and
+prepare Program Reports in accordance with the provisions of Section 5.08 of the General
+Conditions. Each Program Report shall cover the period of one calendar semester, and shall
+
+be furnished to the Bank not later than forty-five (45) days after the end of the period covered
+by such report.
+
+2. Not later than June 30, 2019, the Borrower, through MOSA, shall, in conjunction with the
+Bank, carry out a mid-term review of the Program ("Mid-term Review"), covering the progress
+
+achieved in the implementation of the Program. To this end, the Borrower shall prepare and
+
+furnish to the Bank not less than three (3) months prior to the beginning of the Mid-term
+
+Review, a report integrating the results of the Program's monitoring and evaluation activities,
+
+on the progress achieved in the carrying out of the Program during the period preceding the
+
+date of such report, and setting out the measures recommended to ensure the efficient carrying
+
+out of the Program and the achievement of the objective of the Program during the period
+
+following such date. Following the Mid-term Review, the Borrower shall act promptly and
+
+diligently in order to take, or cause to be taken, any corrective action deemed necessary by the
+
+Bank to remedy any shortcoming noted in the carrying out of the Program in furtherance of the
+
+objective of the Project.
+
+B. Program Financial Audits
+
+Without limitation on the generality of Section L.A of this Schedule 2 and Section 5.09 of the
+
+General Conditions, the Borrower shall have the Financial Statements audited in accordance
+
+with the provisions of Section 5.09 (b) of the General Conditions. Unless otherwise agreed
+
+with the Bank, each audit of the Financial Statements shall cover the period of one fiscal year
+
+of the Borrower. The audited Financial Statements for each such period shall be furnished to
+
+the Bank not later than six months after the end of such period.
+
+
+
+10 of 21 LN8750-ID
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General
+
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the provisions of
+Article 1I of the General Conditions, this Section, and such additional instructions as the Bank
+may specify from time to time by notice to the Borrower to finance the results ("Disbursement
+Linked Results" or "DLRs") achieved by the Borrower, as measured against specific indicators
+("Disbursement Linked Indicators" or "DLIs"); all as set forth in the table in paragraph 2 of
+this Part A, respectively.
+
+2. The following table specifies each category of withdrawal of the proceeds of the Loan
+(including the Disbursement Linked Indicators as applicable) ("Category") and the allocation
+of the amounts of the Loan to each Category:
+
+Category Disbursement Linked Result Amount of the Formula
+(including (as applicable) * Loan
+
+Disbursement Linked Allocated
+Indicator as (expressed in
+applicable) USD)
+
+(1) DLI #1: PKH PMIS DLR #1.1: 3,000,000 DLR #1.1:
+enhancements MOSA has developed PKH $3,000,000
+implemented PMIS enhancement action plan
+
+DLR #1.2:
+MOSA has satisfactorily 4,000,000 DLR #1.2:
+implemented PKH PMIS $4,000,000
+enhancement action plan
+
+DLR #1.3:
+MOSA has audited PKH PMIS 1,000,000 DLR #1.3:
+and recommended $1,000,000
+enhancements
+
+DLR #1.4:
+MOSA has implemented 2,000,000 DLR #1.4:
+enhancements recommended in $2,000,000
+the audit report
+
+(2) DLI #2: Share of DLR #2.1: 10,000,000 DLR #2.1:
+Sub-districts with PKH Target: 23% $10,000,000
+beneficiary families (Baseline: 15%)
+having switched to
+cashless payment DLR #2.2: 20,000,000 DLR #2.2
+methods Target: 73% Unit Price:
+
+(Baseline: 23%) $400,000 for each
+percentage point
+(1%) increase
+
+
+
+11 of 21 LN8750-ID
+
+(3) DLI #3: An DLR #3.1: 1,000,000 DLR #3.1:
+
+enhanced GRS rolled MOSA has developed GRS $1,000,000
+
+out after evaluation of enhancement design
+
+pilot
+DLR #3.2: 3,000,000 DLR #3.2:
+MOSA has implemented and $3,000,000
+evaluated GRS enhancement
+pilot
+
+DLR #3.3: 5,000,000 DLR #3.3:
+MOSA has rolled out enhanced $5,000,000
+GRS
+
+DLR #3.4: 1,000,000 DLR #3.4:
+MOSA has produced grievance $1,000,000
+analysis
+
+(4) DLI #4: Share of DLR #4.1: 10,000,000 DLR #4.1:
+PKH beneficiary Target: 50% $10,000,000
+families, for which (Baseline: 40%)
+verification of their
+
+respective DLR #4.2: 20,000,000 DLR #4.2
+
+conditionality is Target: 90% Unit Price:
+
+recorded in PKH PMIS (Baseline: 50%) $500,000 for each
+percentage point
+(1%) increase
+
+(5) DLI #5: Share of DLR #5.1: 8,000,000 DLR #5.1:
+PKH beneficiary Target: 40% $8,000,000
+families receiving other (Baseline: 13.6%)
+social assistance
+program benefits DLR #5.2: 22,000,000 DLR #5.2
+
+Target: 95% Unit Price:
+
+(Baseline: 40%) $400,000 for each
+percentage point
+(1%) increase
+
+(6) DLI #6: Share of DLR #6.1: 4,000,000 DLR #6.1:
+PKH beneficiary Target: 80% $4,000,000
+families whose NIK (Baseline: 73.5%)
+numbers have been
+verified DLR #6.2: 6,000,000 DLR #6.2
+
+Target: 95% Unit Price:
+
+(Baseline: 80%) $400,000 for each
+percentage point
+(1%) increase
+
+
+
+12 of 21 LN8750-ID
+
+(7) DLI #7: Number of DLR #7.1: 10,400,000 DLR #7.1:
+PKH mother groups Target: 32,000 mother groups $10,400,000
+receiving FDS from (Baseline: 7,357 mother
+trained facilitators groups)
+
+DLR #7.2:
+Target: 106,000 mother groups 29,600,000 DLR #7.2
+(Baseline: 32,000 mother Unit Price:
+groups) $400,000 for every
+
+one thousand
+(1,000) increase of
+mother groups
+
+(8) DLI #8: Total DLR #8.1: 10,000,000 DLR #8.1:
+number of PKH Target: 8,000,000 beneficiary $10,000,000
+beneficiary families families
+
+(Baseline: 5,980,000
+beneficiary families)
+
+DLR #8.2: 10,000,000 DLR#8.2:
+Target: 10,000,000 beneficiary Unit Price:
+families $5,000 for every
+(Baseline: 8,000,000 one thousand
+beneficiary families) (1,000) increase of
+
+beneficiary families
+
+(9) DLI #9: Ratio of DLR #9.1: 5,000,000 DLR #9.1:
+number of PKH Target: 60% $5,000,000
+beneficiary families to (Baseline: 48%)
+number of the targeted
+families in areas DLR #9.2: 15,000,000 DLR #9.2:
+categorized by the Target: 85% Unit Price:
+Ministry of Social (Baseline: 60%) $600,000 for each
+Affairs as remote and percentage point
+
+border areas (1%) increase
+
+TOTAL AMOUNT 200,000,000
+
+* All DLRs to be completed by December 31, 2020.
+
+
+
+13 of 21 LN8750-ID
+
+B. Withdrawal Conditions; Withdrawal Period
+
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be made:
+
+(a) from the Loan Account until the Bank has received payment in full of the Front-end
+
+Fee; or
+
+(b) for purposes of Section 2.03 of the General Conditions (renumbered as such pursuant
+
+to paragraph 6 of Section II of the Appendix to this Agreement and relating to Program
+
+Expenditures), for DLRs achieved prior to the date of this Agreement; and
+
+(c) for any DLR until and unless the Borrower has furnished evidence 
+satisfactory to the
+
+Bank that said DLR has been achieved.
+
+2. Notwithstanding the provisions of Part B. 1(c) of this Section, the amount of the Loan to 
+be
+
+withdrawn upon the verified achievement of any DLR shall be calculated in accordance with
+
+the Formula.
+
+3. Notwithstanding the provisions of Part B. 1(c) of this Section, if in the opinion of the Bank any
+
+of the DLRs has not been achieved, the Bank may, at any time, by notice to the Borrower,
+
+decide, in its sole discretion, to:
+
+(a) authorize the withdrawal of such lesser amount of unwithdrawn proceeds 
+of the Loan
+
+then allocated to said Category, which, in the opinion of the Bank, corresponds to the
+
+extent of achievement of said DLR;
+
+(b) withhold all or a portion of the proceeds of the Loan then allocated to said DLR(s) 
+until
+
+such DLR(s) is satisfactorily met;
+
+(c) reallocate all or a portion of the proceeds of the Loan then allocated to said DLR to any
+
+other DLR(s); and/or
+
+(d) cancel all or a portion of the proceeds of the Loan then allocated to said DLR(s).
+
+4. The Closing Date is June 30, 2021.
+
+5. Notwithstanding the foregoing provisions of this Section IV, if at any time after the Closing
+
+Date the Borrower has failed to provide evidence satisfactory to the Bank that the 
+Withdrawn
+
+Loan Balance does not exceed the total amount of Program Expenditures, the Borrower shall,
+
+promptly upon notice from the Bank, refund to the Bank such excess amount 
+of the Withdrawn
+
+Loan Balance. The Bank shall cancel the refunded amount of the Withdrawn Loan Balance.
+
+
+
+14 of 21 LN8750-ID
+
+SCHEDULE 3
+
+Amortization Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the percentage of
+
+the total principal amount of the Loan payable on each Principal Payment Date ("Installment
+
+Share"). If the proceeds of the Loan have been fully withdrawn as of the first Principal
+
+Payment Date, the principal amount of the Loan repayable by the Borrower on each Principal
+
+Payment Date shall be determined by the Bank by multiplying: (a) Withdrawn Loan Balance
+
+as of the first Principal Payment Date; by (b) the Installment Share for each Principal Payment
+
+Date, such repayable amount to be adjusted, as necessary, to deduct any amounts referred to in
+
+paragraph 4 of this Schedule, to which a Currency Conversion applies.
+
+Principal Payment Date Installment Share
+(Expressed as a Percentage)
+
+November 1, 2023 6.05
+
+May 1, 2024 6.20
+
+November 1, 2024 6.36
+
+May 1, 2025 6.52
+
+November 1, 2025 6.68
+
+May 1, 2026 6.85
+
+November 1, 2026 7.02
+
+May 1, 2027 7.19
+
+November 1, 2027 7.37
+
+May 1, 2028 7.56
+
+November 1, 2028 7.75
+
+May 1, 2029 7.94
+
+November 1, 2029 8.14
+
+May 1, 2030 8.37
+
+2. If the proceeds of the Loan have not been fully withdrawn as of the first Principal Payment
+
+Date, the principal amount of the Loan repayable by the Borrower on each Principal Payment
+
+Date shall be determined as follows:
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of the first
+
+Principal Payment Date, the Borrower shall repay the Withdrawn Loan Balance as of
+
+such date in accordance with paragraph I of this Schedule.
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be repaid on each
+
+Principal Payment Date falling after the date of such withdrawal in amounts determined
+
+by the Bank by multiplying the amount of each such withdrawal by a fraction, the
+
+numerator of which is the original Installment Share specified in the table in paragraph
+
+I of this Schedule for said Principal Payment Date ("Original Installment Share") and
+
+the denominator of which is the sum of all remaining Original Installment Shares for
+
+Principal Payment Dates falling on or after such date, such amounts repayable to be
+
+adjusted, as necessary, to deduct any amounts referred to in paragraph 4 of this
+
+Schedule, to which a Currency Conversion applies.
+
+
+
+15 of 21 LN8750-ID
+
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any Principal
+
+Payment Date shall, for the purposes solely of calculating the principal amounts
+
+payable on any Principal Payment Date, be treated as withdrawn and outstanding on
+
+the second Principal Payment Date following the date of withdrawal and shall be
+
+repayable on each Principal Payment Date commencing with the second Principal
+
+Payment Date following the date of withdrawal.
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if at any time
+
+the Bank adopts a due date billing system under which invoices are issued on or after
+
+the respective Principal Payment Date, the provisions of such sub-paragraph shall no
+
+longer apply to any withdrawals made after the adoption of such billing system.
+
+4. Notwithstanding the provisions of paragraphs I and 2 of this Schedule, upon a Currency
+
+Conversion of all or any portion of the Withdrawn Loan Balance to an Approved Currency,
+
+the amount so converted in the Approved Currency that is repayable on any Principal Payment
+
+Date occurring during the Conversion Period, shall be determined by the Bank by multiplying
+
+such amount in its currency of denomination immediately prior to the Conversion by either: (i)
+
+the exchange rate that reflects the amounts of principal in the Approved Currency payable by
+
+the Bank under the Currency Hedge Transaction relating to the Conversion, or (ii) if the Bank
+
+so determines in accordance with the Conversion Guidelines, the exchange rate component of
+
+the Screen Rate.
+
+5. If the Withdrawn Loan Balance is denominated in more than one Loan Currency, the provisions
+
+of this Schedule shall apply separately to the amount denominated in each Loan Currency, so
+
+as to produce a separate amortization schedule for each such amount.
+
+
+
+16 of 21 LN8750-ID
+
+APPENDIX
+
+Section I. Definitions
+
+1. "Anti-Corruption Guidelines" means the Bank's "Guidelines on Preventing and Combating
+
+Fraud and Corruption in Program-for-Results Financing," dated February 1, 2012, and revised
+
+July 10, 2015.
+
+2. "BAPPEDA" means Badan Perencanaan Pembangunan Daerah, the Borrower's agency
+
+responsible for regional development planning, or any successor thereto.
+
+3. "BAPPENAS" means Badan Perencanaan Pembangunan Nasional, the Borrower's ministry
+
+responsible for national development planning, or any successor thereto.
+
+4. "BPKP" means Badan Pengawasan Keuangan dan Pembangunan, the Borrower's agency
+
+responsible for finance and development supervision, or any successor thereto.
+
+5. "Category" means a category set forth in the table in Section IV.A.2 of Schedule 2 to this
+
+Agreement.
+
+6. "Coordinating Minister of Human Development and Cultural Affairs" means the Borrower's
+
+coordinating minister responsible for human development and cultural affairs, or any successor
+
+thereto.
+
+7. "Director General of Social Protection and Security" means the Ministry of Social Affairs'
+
+director general responsible for social protection and assurance, including PKH, or any
+
+successor thereto.
+
+8. "Directorate of Family Social Security" means the Ministry of Social Affairs' directorate
+
+responsible for PKH, or any successor thereto.
+
+9. "Disbursement Linked Indicator" or "DLI" means in respect of a given Category, the indicator
+
+related to said Category as set forth in the tables in Section IV.A.2 of Schedule 2 to this
+
+Agreement.
+
+10. "Disbursement Linked Result" or "DLR" means in respect of a given Category, the result under
+
+said Category as set forth in the table in Section IV.A.2 of Schedule 2 to this Agreement, on
+
+the basis of the achievement of which, the amount of the Loan allocated to said result may be
+
+withdrawn in accordance with the provisions of said Section IV.
+
+11. "District" means an administrative sub-division of a Province.
+
+12. "District Social Affairs Office" means the office responsible for social affairs (dinas sosial) at
+
+a District, or any successor thereto; and "District Social Affairs Offices" means, collectively,
+
+all such offices.
+
+
+
+17 of 21 LN8750-ID
+
+13. "District Technical Coordination Team" means a technical coordination team referred to in
+
+Section I.C. 1 (c)(i) and responsible for technical coordination among District offices, or any
+
+successor thereto; and "District Technical Coordination Teams" means, collectively, all such
+
+District technical coordination teams.
+
+14. "FDS" means a family development session, a learning session for beneficiary groups.
+
+15. "Formula" means the measure for calculating disbursements against DLRs, given by the
+
+product of the DLR Unit Price per the actual target achieved, as determined by the 
+Bank.
+
+16. "General Conditions" means the "International Bank for Reconstruction and Development
+
+General Conditions for Loans", dated March 12, 2012, with the modifications set forth in
+
+Section II of this Appendix.
+
+17. "GRS" means grievance redressal system.
+
+18. "Letter of Assignment" means the letter of assignment to be sent by the Ministry of Finance 
+to
+
+BPKP, providing for the arrangements and terms of reference for the verification of the 
+DLRs
+
+of the Program, acceptable to the Bank.
+
+19. "Ministry of Communication and Information Technology" means the Borrower's ministry
+
+responsible for communication and information technology, or any successor thereto.
+
+20. "Ministry of Education and Culture" means the Borrower's ministry responsible for education
+
+and culture, or any successor thereto.
+
+21. "Ministry of Finance" means the Borrower's ministry responsible for finance, or any successor
+
+thereto.
+
+22. "Ministry of Health" means the Borrower's ministry responsible for health, or any successor
+
+thereto.
+
+23. "Ministry of Home Affairs" means the Borrower's ministry responsible for home affairs, or
+
+any successor thereto.
+
+24. "Ministry of Manpower" means the Borrower's ministry responsible for 
+manpower and
+
+transmigration, or any successor thereto.
+
+25. "Ministry of Religious Affairs" means the Borrower's ministry responsible for religious
+
+affairs, or any successor thereto.
+
+26. "Ministry of Social Affairs" or "MOSA" means the Borrower's ministry responsible 
+for social
+
+affairs, or any successor thereto.
+
+27. "Ministry of Village, Development of Disadvantaged Regions and Transmigration" 
+means the
+
+Borrower's ministry responsible for villages, the development of disadvantaged regions 
+and
+
+transmigration, or any successor thereto.
+
+
+
+18 of 21 LN8750-ID
+
+28. "Ministry of Women Empowerment and Child Protection" means the Borrower's ministry
+
+responsible for women empowerment and child protection, or any successor thereto.
+
+29. "National Coordination Team" means the Borrower's national coordination team referred to in
+
+Section I.C. 1 (a)(i), established and operating pursuant to Director General of Social Protection
+
+and Security Decree number 12/LJS/09/2016, or any successor thereto.
+
+30. "National Technical Coordination Team" means the Borrower's national technical
+
+coordination team referred to in Section I.C. 1 (a)(ii), established and operating pursuant to
+
+Director General of Social Protection and Security Decree number 12/LJS/09/2016, or any
+
+successor thereto.
+
+31. "NIK" means nomor induk kependudukan, the Borrower's civil registry number.
+
+32. "PIP" means Program Indonesia Pintar, the Borrower's education cash assistance program for
+
+poor and vulnerable primary and secondary school students, operating pursuant to the
+
+Borrower's 2015-2019 national mid-term development plan, or any successor thereto.
+
+33. "PIS" means Program Indonesia Sehat, the Borrower's health insurance for the poor program,
+
+operating pursuant to the Borrower's Law No. 40 of 2014, or any successor thereto.
+
+34. "PKH" means Program Keluarga Harapan, the Borrower's conditional cash transfer program
+
+for poor families, operating pursuant to the Borrower's 2015-2019 national mid-term
+
+development plan, the Ministry of Social Affairs' 2015-2019 strategic plan and the decree of
+
+Director General of Social Protection and Security number 12/LJS/09/2016, or any successor
+
+thereto.
+
+35. "PMIS" means Program Management Information System, which: (a) collects, validates,
+
+processes and updates data; (b) determines eligibility and selects beneficiary households; (c)
+
+calculates payment; (d) generates payment list; and (e) redresses and reconciles grievances.
+
+36. "Program Action Plan" means the Borrower's plan dated April 7, 2017 and referred to in
+
+Section I.C.2 of Schedule 2 to this Agreement, as may be amended from time to time with the
+
+agreement of the Bank.
+
+37. "Program Fiduciary and Environmental and Social Systems" means the Borrower's systems
+
+for the Program referred to in Section I.A of Schedule 2 to this Agreement.
+
+38. "Province" means an administrative sub-division of the Borrower's territory at the first level
+
+below the national level.
+
+39. "Provincial Social Affairs Office" means the office responsible for social affairs (dinas social)
+
+at a Province, or any successor thereto; and "Provincial Social Affairs Offices" means,
+
+collectively, all such offices.
+
+
+
+19 of 21 LN8750-ID
+
+40. "Provincial Technical Coordination Team" means a technical coordination team referred to in
+
+Section I.C. 1 (b)(i) and responsible for technical coordination among Provincial offices, or any
+
+successor thereto; and "Provincial Technical Coordination Teams" means, collectively, all
+
+such provincial technical coordination teams.
+
+41. "RASTRA" means Beras untuk Rakyat Sejahtera, the Borrower's rice for the poor program,
+
+operating pursuant to the Borrower's Coordinating Minister of Human Development and
+
+Cultural Affairs' Regulation No. I of 2016, or any successor thereto.
+
+42. "RPJMN" means Rencana Pembangunan Jangka Menengah Nasional, the Borrower's
+
+national medium-term development plan, as regulated in the Borrower's Presidential
+
+Regulation No. 2 of 2015, as amended.
+
+43. "Statistics Indonesia" means the Borrower's institution responsible for statistics, or any
+
+successor thereto.
+
+44. "Sub-district" means an administrative sub-division of a District, and "Sub-districts" means,
+
+collectively, all such Sub-districts.
+
+45. "Sub-district Social Affairs Office" means the office responsible for social affairs of the
+
+Ministry of Social Affairs at a Sub-district, or any successor thereto; and "Sub-district Social
+
+Affairs Offices" means, collectively, all such offices.
+
+46. "Sub-district Technical Coordination Team" means a technical coordination team referred to
+
+in Section I.C. 1 (d)(i) and responsible for technical coordination among Sub-district offices, or
+
+any successor thereto; and "Sub-district Technical Coordination Teams" means, collectively,
+
+all such Sub-district technical coordination teams.
+
+47. "Unit Price" means, in respect of any DLR, the amount set forth in the fourth column of the
+
+table in Section IV.A.2 of Schedule 2 to this Agreement.
+
+Section II. Modifications to the General Conditions
+
+The General Conditions are hereby modified as follows:
+
+1. Wherever used throughout the General Conditions, the term "the Project" is modified to read
+
+"the Program", the term "the Project Agreement" is modified to read "the Program
+
+Agreement", the term "Project Implementing Entity" is modified to read "the Program
+
+Implementing Entity", the term "Project Report" is modified to read "Program Report"; and
+
+the term "Eligible Expenditures" is modified to read "Program Expenditures".
+
+2. In the Table of Contents, the references to Sections, Section names and Section numbers are
+
+modified to reflect the amendments set forth below.
+
+3. Section 2.02, Special Commitment by the Bank, is deleted in its entirety, and the subsequent
+
+Sections in Article II are renumbered accordingly.
+
+
+
+20 of 21 LN8750-ID
+
+4. In Section 2.02 (originally numbered as Section 2.03), the heading "Applications for
+
+Withdrawal or for Special Commitment" is replaced with "Applications for Withdrawal", and
+
+the phrase "or to request the Bank to enter into a Special Commitment" is deleted.
+
+5. The section originally numbered as Section 2.04, Designated Accounts is deleted in its entirety,
+
+and the subsequent Sections in Article II are renumbered accordingly.
+
+6. Paragraph (a) of Section 2.03 (originally numbered as Section 2.05), Eligible Expenditures
+
+(renamed "Program Expenditures" in accordance with paragraph I of this Section II), is
+
+modified to read: "(a) the payment is for the financing of the reasonable cost of expenditures
+
+required for the Program and to be financed out of the proceeds of the Loan in accordance with
+
+the provisions of the Legal Agreements;".
+
+7. The last sentence of Section 2.04 (originally numbered as Section 2.06), Financing Taxes, is
+
+modified to read: "To that end, if the Bank at any time determines that the amount of any such
+
+Tax is excessive, or that such Tax is discriminatory or otherwise unreasonable, the Bank may,
+
+by notice to the Borrower, exclude such amount or such Tax from the Program Expenditures
+
+to be financed out of the proceeds of the Loan, as required to ensure consistency with such
+
+policy of the Bank."
+
+8. Section 2.06 (originally numbered as Section 2.08), Reallocation, is modified to read:
+
+"Notwithstanding any allocation of an amount of the Loan to a withdrawal category under the
+
+Loan Agreement, the Bank may, by notice to the Borrower, reallocate any other amount of the
+
+Loan to such category if the Bank reasonably determines at any time that such reallocation is
+
+appropriate for the purposes of the Program.
+
+9. Section 3.01. (Front-end Fee) is modified to read as follows:
+
+"Section 3.01. Front-end Fee; Commitment Charge
+
+(a) The Borrower shall pay the Bank a front-end fee on the Loan amount at the 
+rate
+
+specified in the Loan Agreement (the "Front-end Fee").
+
+(b) The Borrower shall pay the Bank a commitment charge on the Unwithdrawn Loan
+
+Balance at the rate specified in the Loan Agreement (the "Commitment Charge"). The
+
+Commitment Charge shall accrue from a date sixty days after the date of the Loan Agreement
+
+to the respective dates on which amounts are withdrawn by the Borrower from the Loan
+
+Account or cancelled. The Commitment Charge shall be payable semi-annually in arrears on
+
+each Payment Date."
+
+10. Section 7.01, Cancellation by the Borrower, is modified to read: "The Borrower may, by notice
+
+to the Bank, cancel any amount of the Unwithdrawn Loan Balance."
+
+11. Paragraph (d) of Section 7.03, Cancellation by the Bank, entitled "Misprocurement", is deleted,
+
+and subsequent paragraphs are relettered accordingly.
+
+
+
+21 of 21 LN8750-ID
+
+12. Section 7.04, Amounts Subject to Special Commitment not Affected by Cancellation or
+
+Suspension by the Bank, is deleted in its entirety, and subsequent Sections in Article VII and
+
+references to such Sections are renumbered accordingly.
+
+13. In the Appendix, Definitions, all references to Section numbers and paragraphs are modified,
+
+as necessary, to reflect the modifications set forth above.
+
+14. A new paragraph 19 is inserted with the following definition of "Commitment Charge", and
+
+the remaining paragraphs are renumbered accordingly:
+
+"19. "Commitment Charge" means the commitment charge specified in the Loan
+
+Agreement for the purpose of Section 3.01(b)."
+
+15. In the renumbered paragraph 49 (originally paragraph 48) of the Appendix, the definition of
+
+"Front-end Fee" is modified by replacing the reference to Section 3.01 with Section 3.01 (a).
+
+16. In the renumbered paragraph 68 (originally paragraph 67) of the Appendix, the definition of
+
+the term "Loan Payment" is modified to read as follows:
+
+"68. "Loan Payment" means any amount payable by the Loan Parties to the Bank pursuant
+
+to the Legal Agreements or these General Conditions, including (but not limited to) any amount
+
+of the Withdrawn Loan Balance, interest, the Front-end Fee, the Commitment Charge, interest
+
+at the Default Interest Rate (if any), any prepayment premium, any transaction fee for a
+
+Conversion or early termination of a Conversion, the Variable Spread Fixing Charge (if any),
+
+any premium payable upon the establishment of an Interest Rate Cap or Interest Rate Collar,
+
+and any Unwinding Amount payable by the Borrower."
+
+17. In the renumbered paragraph 73 (originally paragraph 72) of the Appendix, the definition of
+
+"Payment Date" is modified by deleting the word "is" and inserting the words "and
+
+Commitment Charge are" after the word "interest".
+
+18. Renumbered paragraph 88 (originally paragraph 87) of the Appendix, setting forth the
+
+definition of "Special Commitment" is deleted in its entirety, and all subsequent paragraphs
+
+are renumbered accordingly.

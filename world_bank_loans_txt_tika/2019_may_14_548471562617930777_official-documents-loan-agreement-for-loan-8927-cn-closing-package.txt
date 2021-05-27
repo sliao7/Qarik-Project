@@ -1,0 +1,846 @@
+World Bank Document
+
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8927-CN
+
+Loan Agreement
+(Guizhou Aged Care System Development Program)
+
+between
+
+PEOPLE'S REPUBLIC OF CHINA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+LOAN AGREEMENT
+
+AGREEMENT dated as of the Signature Date between PEOPLE'S REPUBLIC OF
+CHINA ("Borrower") and INTERNATIONAL BANK FOR RECONSTRUCTION AND
+DEVELOPMENT ("Bank"). The Borrower and the Bank hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) apply to and form
+part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement have
+the meanings ascribed to them in the General Conditions or in the Appendix to this
+Agreement.
+
+ARTICLE II - LOAN
+
+2.01. The Bank agrees to lend to the Borrower the amount of three hundred five million seven
+hundred thousand Euro (E305,700,000), as such amount may be converted from time to
+time through a Currency Conversion ("Loan"), to assist in financing the program described
+in Schedule 1 to this Agreement ("Program").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section IV of
+Schedule 2 to this Agreement. All withdrawals from the Loan Account shall be deposited
+by the Bank into an account specified by the Borrower and acceptable to the Bank.
+
+2.03. The Front-end Fee is one quarter of one percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge is one quarter of one percent (0.25%) per annum on the
+Unwithdrawn Loan Balance.
+
+2.05. The interest rate is the Reference Rate plus the Variable Spread; or such rate as may apply
+following a Conversion; subject to Section 3.02(e) of the General Conditions.
+
+2.06. The Payment Dates are April 1 and October 1 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with Schedule 3 to this
+Agreement.
+
+2.08. (a) If on any given day, the Total Exposure exceeds the Standard Exposure Limit (as
+said terms are defined in sub-paragraphs (b)(ii) and (b)(iii) of this Section), the Borrower
+shall pay to the Bank a surcharge at the rate of one half of one percent (0.5%) per annum
+of the Allocated Excess Exposure Amount (as defined in sub-paragraph (b)(i) of this
+Section) for each said day ("Exposure Surcharge"). The Exposure Surcharge (if any) shall
+be payable semi-annually in arrears on each Payment Date.
+
+
+
+(b) For purposes of this Section the following terms have the meanings set forth below:
+
+(i) "Allocated Excess Exposure Amount" means for each day during which the Total
+Exposure exceeds the Standard Exposure Limit, the product of: (A) the total
+amount of said excess; and (B) the ratio of all (or, if the Bank so determines, a
+portion) of the Loan to the aggregate amount of all (or the equivalent portions) of
+the loans made by the Bank to the Borrower and to other borrowers guaranteed by
+the Borrower that are also subject to an exposure surcharge, as said excess and
+ratio are reasonably determined from time to time by the Bank.
+
+(ii) "Standard Exposure Limit" means the standard limit on the Bank's financial
+exposure to the Borrower which, if exceeded, would subject the Loan to the
+Exposure Surcharge, as determined from time to time by the Bank.
+
+(iii) "Total Exposure" means for any given day, the Bank's total financial exposure to
+the Borrower, as reasonably determined by the Bank.
+
+ARTICLE III - PROGRAM
+
+3.01. The Borrower declares its commitment to the objective of the Program. To this end, the
+Borrower shall cause the Program to be carried out by the Program Implementing Entity
+in accordance with the provisions of Article V of the General Conditions and the Program
+Agreement.
+
+ARTICLE IV - EFFECTIVENESS; TERMINATION
+
+4.01. The Additional Condition of Effectiveness is that the Co-financing Agreement has been
+executed and delivered and all conditions precedent to its effectiveness or to the right of
+the Borrower to make withdrawals under it (other than the effectiveness of this Agreement)
+have been fulfilled.
+
+4.02. The Effectiveness Deadline is the date ninety (90) days after the Signature Date.
+
+ARTICLE V - REPRESENTATIVE; ADDRESSES
+
+5.01. The Borrower's Representative is its Minister of Finance.
+
+5.02. For purposes of Section 10.01 of the General Conditions: (a) the Borrower's address is:
+
+-2-
+
+
+
+Ministry of Finance
+Sanlihe
+Xicheng District
+Beijing 100820
+People's Republic of China; and
+
+(b) the Borrower's Electronic Address is:
+
+Facsimile:
+
+(86-10) 6855-2077
+
+5.03. For purposes of Section 10.01 of the General Conditions: (a) the Bank's address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America; and
+
+(b) the Bank's Electronic Address is:
+
+Facsimile:
+
+1-202-477-6391
+
+-3 -
+
+
+
+AGREED as of the Signature Date.
+
+PEOPLE'S REPUBLIC OF CHINA
+
+By:
+
+Authorized Representative
+
+Name:
+
+Title: /2= ,, 7 ,L
+
+Date: ~~i6
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By:
+
+Au rized Representative
+
+Name: 1 Sa.
+
+Title: ,9
+
+Date:
+
+-4-
+
+
+
+SCHEDULE 1
+
+Program Description
+
+The objective of the Program is to increase equitable access to a basic package of aged care
+services and to strengthen the quality of services and the efficiency of the aged care system.
+
+The Program consists of the following activities:
+
+A. Expanding Coverage of Basic Aged Care Services for the Elderly
+
+1. Developing a needs assessment toolkit for measuring, inter alia, the functional limitations
+of the elderly and carrying out needs assessments at the district/county level.
+
+2. Defining the basic package of aged care services and level of subsidy for the basic package.
+
+3. Defining the eligibility criteria for the elderly accessing the basic package of aged care
+services based on individual functional needs and income/assets test.
+
+4. Delivering the basic package of aged care services in urban and rural areas covering three
+tiers of home- and community-based care, and institutional care, with an emphasis on
+home- and community-based care.
+
+B. Enhancing Quality of Aged Care Services for the Elderly
+
+1. Improving and implementing aged care quality standards for facilities and services.
+
+2. Introducing case management and promoting coordination of aged care and health care
+services at the home, community, and institutional levels.
+
+3. Enhancing and expanding aged care skills by providing, inter alia: (a) training to wage
+and family caregivers, professionals, managers, and government officials; (b) job subsidies
+to wage caregivers; and (c) financial subsidies and respite services to family caregivers.
+
+4. Establishing a provincial cloud platform for service delivery, quality enhancement, and
+public financial management.
+
+-5-
+
+
+
+C. Strengthening Efficiency of Aged Care Financing for the Elderly
+
+1. Enhancing the planning and utilization of public financial resources in the aged care sector
+by introducing a zero-based budget reform.
+
+2. Refining the decision-making process for new infrastructure investment activities in the
+aged care sector to comply with the provincial investment management guidelines.
+
+3. Enhancing the service delivery and management of public aged care facilities, through the
+promotion of institutional reforms, and enabling the participation of private providers and
+operators in the aged care sector.
+
+4. Establishing a monitoring and evaluation system, including setting up a provincial
+monitoring and evaluation framework, collecting quality data and carrying out evaluations.
+
+-6-
+
+
+
+SCHEDULE 2
+
+Program Execution
+
+Section I. Implementation Arran2ements
+
+A. Financing Arrangements
+
+1. For the purposes of carrying out of the Program, the Borrower shall make available the
+proceeds of the Loan to the Program Implementing Entity, under terms and conditions
+acceptable to the Bank, including the following principal terms:
+
+(a) The principal amount shall be made available in Euro or any other Currency as the
+Loan may be converted from time to time through a Currency Conversion of the
+value of the currency or currencies so withdrawn (such principal amount
+determined on the date, or respective dates, of withdrawal from the Loan Account).
+
+(b) The principal amount so made available (including an amount equal to the fee paid
+pursuant to Section 2.03 of this Agreement) shall be recovered over a period of
+thirty-four (34) years, inclusive of a grace period of six (6) years.
+
+(c) Interest shall be charged on such principal amount withdrawn and outstanding
+from time to time at a rate equal to the rate of interest applicable from time to time
+to the Loan pursuant to the provisions of Section 2.05 of this Agreement.
+
+(d) A Commitment Charge shall be charged equal to one quarter of one percent
+(0.25%) per annum on the Unwithdrawn Loan Balance.
+
+2. The Borrower shall cause the Program Implementing Entity to: (a) manage, operate,
+monitor, transfer and reconcile the proceeds of the Loan made available to it pursuant to
+paragraph 1 above in accordance with arrangements and procedures acceptable to the
+Bank; (b) take all required actions, including provision of timely consents and approvals
+as may be necessary, to facilitate the utilization of said Loan proceeds and the
+implementation of the Program and, to enable the Program Implementing Entity to comply
+with its undertakings under the Program Agreement; and (c) maintain all relevant records
+and documents related to the Loan and the Program and provide promptly such documents
+and records, including all other information related to the Loan and the Program, as may
+be requested by the Borrower or the Bank from time to time.
+
+-7-
+
+
+
+B. Program Action Plan
+
+The Borrower shall take, and shall cause the Program Implementing Entity to take, all
+
+measures necessary to comply with, or all measures necessary to enable the Program
+
+Implementing Entity to comply with the provisions of Section I.B.2 of the Schedule to the
+
+Program Agreement.
+
+Section II. Excluded Activities
+
+The Borrower shall ensure that the Program excludes any activities which:
+
+A. in the opinion of the Bank, are likely to have significant adverse impacts that are sensitive,
+diverse, or unprecedented on the environment and/or affected people; or
+
+B. involve the procurement of: (1) works, estimated to cost $75 million equivalent
+
+or more per contract; (2) goods, estimated to cost $50 million equivalent or more per
+
+contract; (3) non-consulting services, estimated to cost $50 million equivalent or more
+
+per contract; or (4) consulting services, estimated to cost $20 million equivalent or more
+
+per contract.
+
+Section III. Pro2ram Monitoring, Reporting and Evaluation
+
+The Borrower shall cause the Program Implementing Entity to furnish to the Bank each
+
+Program Report not later than sixty (60) days after the end of each calendar semester,
+
+covering the calendar semester.
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General
+
+1. Without limitation upon the provisions of Article II of the General Conditions and in
+
+accordance with the Disbursement and Financial Information Letter, the Borrower may
+
+withdraw the proceeds of the Loan to: (a) pay the Front-end Fee; (b) pay interest and
+
+Commitment Charge; (c) pay each Interest Rate Cap or Interest Rate Collar premium; and
+
+(d) finance Program Expenditures, on the basis of the results ("Disbursement Linked
+
+Results" or "DLRs") achieved by the Program Implementing Entity, as measured against
+
+specific indicators ("Disbursement Linked Indicators" or "DLIs"); all as set forth in the
+
+table in paragraph 2 of this Part A.
+
+2. The following table specifies each category of withdrawal of the proceeds of the Loan
+
+(including the Disbursement Linked Indicators as applicable) ("Category"), the
+
+-8-
+
+
+
+Disbursement Linked Results for each Category (as applicable), and the allocation of the
+
+amounts of the Loan to each Category:
+
+Category Disbursement Linked Amount of the Disbursement
+(including Disbursement Result (as applicable) Loan Calculation
+
+Linked Indicator as Allocated Formula (as
+applicable) (expressed in applicable)
+
+EUR)
+(1) DLI #1: Development DLR #1.1: DOCA has 5,732,000 n/a
+of the Needs Assessment developed the Needs
+Toolkit and number of Assessment Toolkit
+Program Districts/
+Program Counties where DLR #1.2: 22,928,000 EUR 477,666.67
+Implementation of the Implementation of the per each Program
+Needs Assessment Toolkit Needs Assessment District/ Program
+has occurred Toolkit has occurred in County
+
+48 Program Districts/
+Program Counties
+
+(2) DLI #2: Development DLR #2.1: DOCA has 5,732,000 n/a
+of the Basic Package of developed the Basic
+Aged Care Services and Package of Aged Care
+number of Program Services
+Districts/ Program
+Counties where DLR #2.2: 22,928,000 EUR 477,666.67
+Implementation of the Implementation of the per each Program
+Basic Package of Aged Basic Package of Aged District/ Program
+Care Services has Care Services has County
+occurred occurred in 48 Program
+
+Districts/Program
+Counties
+
+(3) DLI #3: Number of DLR #3: 402,000 57,320,000 EUR 142.59 per
+Eligible Elderly receiving Eligible Elderly each Eligible
+the Basic Package of Aged receiving the Basic Elderly
+Care Services Package of Aged Care
+
+Services
+(4) DLI #4: Development DLR #4.1: DOCA has 17,196,000 n/a
+of the Aged Care Quality developed the Aged
+Standards and number of Care Quality Standards
+Aged Care Facilities
+complying with the Aged
+Care Quality Standards
+
+-9-
+
+
+
+DLR #4.2: 1,500 Aged 40,124,000 EUR 26,749.34
+Care Facilities per each Aged
+complying with the Care Facilities
+Aged Care Quality complying with
+Standards Aged Care
+
+Quality
+Standards
+
+(5) DLI #5: Number of DLR #5: 19,000 Wage 28,660,000 EUR 1508.43 per
+Wage Caregivers receiving Caregivers receiving each Wage
+training and certification in training and Caregiver
+the age care sector certification in the age receiving training
+
+care sector and certification
+in the age care
+sector
+
+(6) DLI #6: Development DLR #6.1: DOCA has 17,196,000 n/a
+of the Zero-based Aged developed the Zero-
+Care Budget Planning and based Aged Care
+Allocation Guidelines and Budget Planning and
+number of Program Allocation Guidelines
+Districts/ Program
+Counties where DLR #6.2: 40,124,000 EUR 835,916.67
+Implementation of the Implementation of the per each Program
+Zero-based Aged Care Zero-based Aged Care District/ Program
+Budget Planning and Budget Planning and County
+Allocation Guidelines has Allocation Guidelines
+occurred has occurred in 48
+
+Program Districts
+/Program Counties
+
+(7) DLI #7: Development DLR #7.1: DOCA has 5,732,000 n/a
+of the Operational developed the
+Management Guidelines Operational
+for public aged care Management
+facilities and number of Guidelines for public
+Program Districts/ aged care facilities
+Program Counties where
+Implementation of the DLR #7.2: 22,928,000 EUR 477,666.67
+Operational Management Implementation of the per each Program
+Guidelines for public aged Operational District/ Program
+care facilities has occurred Management County
+
+Guidelines for public
+aged care facilities has
+occurred in 48 Program
+Districts/ Program
+Counties
+
+(8) Front-end Fee to be 764,250
+paid pursuant to Section
+2.03 of this Agreement in
+
+- 10-
+
+
+
+accordance with Section
+2.05 (b) of the General
+Conditions
+(9) Interest and 18,335,750
+Commitment Charge on
+the Loan accrued on or
+before the last Payment
+Date immediately
+preceding the Closing
+Date, to be paid pursuant
+to Sections 2.05 and 2.04
+of this Agreement,
+respectively, in
+accordance with Section
+2.07 (c) of the General
+Conditions
+(10) Interest Rate Cap or 0
+Interest Rate Collar
+premium to be paid
+pursuant to Section 4.05
+(c) of the General
+Conditions
+
+TOTAL AMOUNT 305,700,000
+
+B. Withdrawal Conditions; Withdrawal Period
+
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be made:
+
+(a) on the basis of DLRs achieved prior to the Signature Date;
+
+(b) for any DLR (except DLR #4.2) under Categories (1), (2), (4), (6) and (7), until
+and unless the Program Implementing Entity has furnished evidence in accordance
+with the provisions of the Verification Protocol and acceptable to the Bank
+showing that said DLR has been achieved; and
+
+(c) for DLRs #3, #4.2 and #5 under Categories (3), (4) and (5), until and unless the
+Program Implementing Entity has furnished evidence in accordance with the
+provisions of the Verification Protocol and acceptable to the Bank showing that
+the Minimum DLR, and thereafter any DLR above the Minimum DLR, has been
+achieved.
+
+2. Notwithstanding the provisions of Part B.1(b) and (c) of this Section, the Borrower may
+withdraw an amount not to exceed E76,425,000 as an advance; provided, however, that if
+the DLRs in the opinion of the Bank, are not achieved (or only partially achieved) by the
+Closing Date, the Borrower shall refund such advance (or the portion thereof corresponding
+
+- 11 -
+
+
+
+to the extent of partial achievement of the DLRs, said portion to be calculated in accordance
+with the Formula (if applicable)) to the Bank promptly upon notice thereof by the Bank.
+Except as otherwise agreed with the Borrower, the Bank shall cancel the amount so
+refunded. Any further withdrawals requested as an advance under any Category shall be
+
+permitted only on such terms and conditions as the Bank shall specify by notice to the
+Borrower.
+
+3. Notwithstanding the provisions of Part B. 1(b) and (c) of this Section, the amount of the
+Loan to be withdrawn upon the verified achievement of any DLR by the end of each
+calendar year (or such other period as agreed with the Bank), shall be calculated, in
+
+accordance with the Formula.
+
+4. Notwithstanding the provisions of Part B. 1(b) and (c) of this Section, if any of the DLRs
+has not been achieved by the date by which the said DLR is set to be achieved, the Bank
+may, by notice to the Borrower: (a) only with respect to DLRs #1.2, #2.2, #3, #4.2, #5, #6.2
+and #7.2, authorize the withdrawal of such lesser amount of the unwithdrawn proceeds of
+the Loan then allocated to said Category which, in the opinion of the Bank, corresponds to
+the extent of achievement of said DLR, said lesser amount to be calculated in accordance
+with the Formula; (b) reallocate all or a portion of the proceeds of the Loan then allocated
+to said DLR to any other DLR; and/or (c) cancel all or a portion of the proceeds of the Loan
+
+then allocated to said DLR.
+
+5. The Closing Date is December 31, 2024.
+
+6. For purposes of, inter alia, Section 2.03 and 7.04 of the General Conditions, the term
+"Program Expenditures" means those expenditures incurred by the Program Implementing
+Entity under its budget codes 208 and 229 (or such other codes as may be notified to the
+Bank from time to time) and the expenditures financed out of the Loan proceeds, but
+
+excluding any expenditures associated with the Excluded Activities.
+
+- 12 -
+
+
+
+SCHEDULE 3
+
+Commitment-Linked Amortization Repayment Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the percentage of the
+total principal amount of the Loan payable on each Principal Payment Date ("Installment Share").
+
+Level Principal Repayments
+
+Principal Payment Date Installment Share
+
+On each April l and October 1
+
+Beginning April 1, 2025 through April 1, 2052 1.79%
+
+On October 1, 2052 1.55%
+
+- 13 -
+
+
+
+APPENDIX
+
+Definitions
+
+1. "Aged Care Facilities" means various institutional facilities established and operating in
+Guizhou for delivering aged care services, including urban community daycare centers,
+rural happiness homes, rural and urban welfare homes, nursing homes, residential homes,
+aged care service centers, and rehabilitation centers.
+
+2. "Aged Care Quality Standards" means the Program Implementing Entity's set of standards
+for the quality of age care facilities and services, acceptable to the Bank, setting forth,
+inter alia the core standards and specifications for aged care infrastructure, equipment,
+service delivery, human resources, management and governance at the home, community
+and institutional levels, as the same may be revised from time to time with the prior written
+agreement of the Bank.
+
+3. "Aged Care Leading Group" means Guizhou's leading group, comprising a provincial
+representative as chair and representatives of DOCA, key line departments, or any
+successors thereto, and referred to in Section I.B.1 (a) (i) of the Schedule to the Program
+Agreement.
+
+4. "Anti-corruption Guidelines" means, for purposes of paragraph 5 of the Appendix to the
+General Conditions, the Bank's "Guidelines on Preventing and Combating Fraud and
+Corruption in Program-for-Results Financing," dated February 1, 2012, and revised July
+10,2015.
+
+5. "Basic Package of Aged Care Services" means the Program Implementing Entity's set of
+publicly financed aged care services comprising three tiers of home, community and
+institutional care, acceptable to the Bank, as the same may be revised from time to time
+with the prior written agreement of the Bank.
+
+6. "Category" means a category set forth in the table in Section IV.A.2 of Schedule 2 to this
+Agreement.
+
+7. "Co-financier" means Agence Franqaise de Developpement.
+
+8. "Co-financing" means, for purposes of paragraph 16 of the Appendix to the General
+Conditions, an amount of Euro 100,000,000 to be provided by the Co-financier to assist in
+financing the Program.
+
+9. "Co-financing Agreement" means the agreement to be entered into between the Borrower
+and the Co-financier providing for the Co-financing.
+
+- 14 -
+
+
+
+10. "Disbursement Linked Indicator" or "DLI' means in respect of a given Category, the
+indicator related to said Category as set forth in the table in Section IV.A.2 of Schedule 2
+to this Agreement.
+
+11. "Disbursement Linked Result" or "DLR" means in respect of a given Category, the result
+under said Category as set forth in the table in Section IV.A.2 of Schedule 2 to this
+Agreement, on the basis of the achievement of which, the amount of the Loan allocated to
+
+said result may be withdrawn in accordance with the provisions of said Section IV.
+
+12. "DOCA" means Guizhou's department of civil affairs, or any successor thereto.
+
+13. "Eligible Elderly" means elderly (above 60 years) who meet the eligibility criteria for
+accessing to the Basic Package of Aged Care Services, as said criteria are determined based
+on the functional needs and economic needs of the elderly in the respective Program
+District/Program County.
+
+14. "Excluded Activities" means the activities that are referred to in Section II of Schedule 2
+
+to this Agreement and Section II of the Schedule to the Program Agreement.
+
+15. "Formula" means in respect of DLRs #1.2, #2.2, #3, #4.2, #5, #6.2 and #7.2, the
+disbursement calculation formula set forth in the fourth column of the table in Section
+IV.A.2 of Schedule 2 to this Agreement.
+
+16. "General Conditions" means the "International Bank for Reconstruction and Development
+General Conditions for IBRD Financing, Program-for-Results Financing", dated
+December 14, 2018.
+
+17. "Guizhou" means the Borrower's province of the same name, or any successor thereto.
+
+18. "Guizhou Aged Care Office" means the office established by DOCA, on July 11, 2017,
+responsible for supporting the implementation and coordination of the Program, or any
+
+successor thereto, and referred to in Section I.B. 1 (a) (iii) of the Schedule to the Program
+Agreement.
+
+19. "Implementation" means the set of specific actions to be carried out by each Program
+District or Program County with respect to each of DLIs 1, 2, 6 and 7 and the corresponding
+DLRs #12, #2.2, #6.2 and #7.2, as set forth in the Program Operations Manual, and verified
+in accordance with the Verification Protocol.
+
+20. "Minimum DLR" means with respect to: (i) DLR #3, 500 Eligible Elderly receiving the
+Basic Package of Aged Care Services; (ii) DLR #4.2, 100 Aged Care Facilities complying
+
+- 15 -
+
+
+
+with the Aged Care Quality Standards; and (iii) DLR #5.2, 625 Wage Caregivers receiving
+training and certification in the age care sector.
+
+21. "Needs Assessment Toolkit" means the Program Implementing Entity's toolkit for
+assessing functional limitations in the access of aged care services, acceptable to the Bank,
+setting forth inter alia, methodologies and assessment instruments for measuring the
+degree of the elderly independence and their living environment, as the same may be
+revised from time to time with the prior written agreement of the Bank.
+
+22. "Operational Management Guidelines" means the Program Implementing Entity's
+guidelines for operational management of public aged care facilities, acceptable to the
+Bank, setting forth, inter alia, rules, procedures and specific requirements to manage and
+oversee the operations of public aged care facilities, including those that are publicly
+owned and operated and those that are the publicly owned and privately operated ones, as
+the same may be revised from time to time with the prior written agreement of the Bank.
+
+23. "Program Action Plan" means Program Implementing Entity's plan dated
+January 31, 2019 and referred to in Section I.B of Schedule 2 to this Agreement and Section
+I.B.2 of the Schedule to the Program Agreement, as may be amended from time to time
+with the agreement of the Bank.
+
+24. "Program Counties" means Guizhou's counties of Kaiyang, Xifeng, Xiuwen, Shuicheng,
+Tongzi, Suiyang, Zhengan, Fenggang, Meitan, Yuqing, Xishui, Daozhen, Wuchuan, Libo,
+Guiding, Wengan, Pingtang, Luodian, Changshun, Longli, Huishui, Dushan, Sandu,
+Xingren, Puan, Qinglong, Anlong, Wangmo, Zhenfeng, Ceheng, or any successors thereto.
+
+25. "Program Districts" means Guizhou's districts of Nanming, Yunyan, Huaxi, Wudang,
+Baiyun, Guanshanhu,Qingzhen, Zhongshan, Liuzhi, Panzhou, Honghuagang, Huichuan,
+Bozhou, Chishui, Renhuai, Duyun, Fuquan, Xingyi, or any successors thereto.
+
+26. "Program Prefectures" means Guizhou's prefectures of Guiyang, Liupanshui, Qiannan,
+Qianxinan and Zunyi, or any successors thereto.
+
+27. "Program Implementing Entity" means Guizhou.
+
+28. "Program Operations Manual" means the Program Implementing Entity's manual, referred
+to in Section I.B.3 of the Schedule to the Program Agreement, describing: (i) institutional
+and implementation arrangements; (ii) procurement procedures, and procedures for
+reporting allegations of fraud and corruption; (iii) a financial management manual,
+including guidelines on financial management, internal controls, accounting procedures,
+fund and asset management and withdrawal application procedures; (iv) the procedures for
+
+managing the actual and potential adverse environmental and social impacts of the Program
+
+- 16-
+
+
+
+(v) monitoring, evaluation and reporting procedures, including the Verification Protocol;
+
+(vi) a sub-manual on land acquisition; and (vii) a sub-manual of public consultation and
+
+grievance procedures; as the same may be amended from time to time with the prior written
+
+agreement of the Bank, and such term includes any annexes or schedules thereto.
+
+29. "Signature Date" means the later of the two dates on which the Borrower and the Bank
+
+signed this Agreement and such definition applies to all references to "the date of the Loan
+
+Agreement" in the General Conditions.
+
+30. "Verification Protocol" means the protocol setting forth the actions and mechanism
+
+required for verification of DLRs, agreed with the Bank, dated January 31, 2019, and
+
+referred to in Section IV.B. 1(b) and (c) of Schedule 2 to this Agreement, as the same may
+
+be amended from time to time with the prior written agreement of the Bank.
+
+31. "Wage Caregivers" means wage workers in the age care sector, including nurses, therapists
+
+and rehabilitators at aged care facilities or such other type of wage worker as may be set
+
+form in the Program Operations Manual, but excluding supporting and managerial staff,
+
+professionals, and family caregivers.
+
+32. "Zero-based Aged Care Budget Planning and Allocation Guidelines" means the Program
+
+Implementing Entity's guidelines for budget planning, execution, and monitoring,
+
+acceptable to the Bank, setting forth inter alia, a budgeting process with zero as its base,
+
+and budget planning, execution and monitoring arrangements incorporating actual local
+
+needs from market analysis and gaps identified for the aged care system development, as
+
+the same may be revised from time to time with the prior written agreement of the Bank.
+
+- 17 -

@@ -1,0 +1,840 @@
+World Bank Document
+
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8751-IN
+
+Loan Agreement
+
+(Innovate in India for Inclusiveness Project)
+
+between
+
+INDIA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+Dated A?k1L 24 ,2018
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+LOAN NUMBER 8751-IN
+
+LOAN AGREEMENT
+
+Agreement dated A IL , 2018, between INDIA ("Borrower") and
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+("Bank"). The Borrower and the Bank hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) constitute
+an integral part of this Agreement
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement
+have the meanings ascribed to them in the General Conditions or in the Appendix
+to this Agreement.
+
+ARTICLE 1 - LOAN
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions set forth or
+referred to in this Agreement, the amount of one hundred twenty-five million
+United States dollars (USD125,000,000), as such amount may be converted from
+time to time through a Currency Conversion in accordance with the provisions of
+,Section 2.08 of this Agreement ("Loan"), to assist in financing the pruject
+described in Schedule 1 to this Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section
+IV of Schedule 2 to this Agreement.
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter of one
+percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge payable by the Borrower shall be equal to one quarter of
+one percent (0.25%) per annum on the Unwithdrawn Loan Balance.
+
+2.05. The interest payable by the Borrower for each Interest Period shall be at a rate
+equal to the Reference Rate for the Loan Currency plus the Variable Spread
+provided, however, that the interest payable shall in no event be less than zero
+percent (0/6) per annum; and provided further, that upon a Conversion of all or
+any portion of the principal amount of the Loan, the interest payable by the
+Borrower during the Conversion Period on such amount shall be determined in
+accordance with the relevant provisions of Article IV of the General Conditions.
+Notwithstanding the foregoing, if any amount of the Withdrawn Loan Balance
+
+
+
+remains unpaid when due and such non-payment continues for a period of thirty
+
+days, then the interest payable by the Borrower shall instead be calculated as
+
+provided in Section 3.02 (e) of the General Conditions.
+
+2.06. The Payment Dates are May 15 and November 15 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with the
+
+amortization schedule set forth in Schedule 3 to this Agreement.
+
+2.08. (a) The Borrower may at any time request any of the following Conversions
+of the terms of the Loan in order to facilitate prudent debt management:
+(i) a change of the Loan Currency of all or any portion of the principal
+amount of the Loan, withdrawn or unwithdrawn, to an Approved
+Currency; (ii) a change of the interest rate basis applicable to: (A) all or
+any portion of the principal amount of the Loan withdrawn and
+
+outstanding from a Variable Rate to a Fixed Rate, or vice versa; or (B) all
+
+or any portion of the principal amount of the Loan withdrawn and
+
+outstanding from a Variable Rate based on a Reference Rate and the
+Variable Spread to a Variable Rate based on a Fixed Reference Rate and
+the Variable Spread, or vice versa; or (C) all of the principal amount of the
+Loan withdrawn and outstanding from a Variable Rate based on a Variable
+Spread to a Variable Rate based on a Fixed Spread, and (iii) the setting of
+
+limits on the Variable Rate or the Reference Rate applicable to all or any
+
+portion of the principal amount of the Loan withdrawn and outstanding by
+the establishment of an Interest Rate Cap or Interest Rate Collar on the
+
+Variable Rate or the Reference Rate.
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that is
+accepted by the Bank shall be considered a "Conversion", as defined in
+
+the General Conditions, and shall be effected in accordance with the
+provisions of Article IV of the General Conditions and of the Conversion
+
+Guidelines.
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or Interest
+
+Rate Collar for which the Borrower has-requested that the premium be
+
+paid out of the proceeds of the Loan, the Bank shall, on behalf of the
+
+Borrower, withdraw from the Loan Account and pay to itself the amounts
+required to pay any premium payable in accordance with Section 4.05 (c)
+
+of the General Conditions up to the amount allocated from time to time for
+
+the purpose in the table in Section IV of Schedule 2 to this Agreement.
+
+2.09. (a) If on any given day, the Total Exposure exceeds the Standard Exposure
+Limit (as said terms are defined in sub-paragraphs (bXii) and (b)(iii) of
+
+
+
+-3-
+
+this Section), the Borrower shall pay to the Bank a surcharge at the rate of
+one half of one percent (0.5%) per annum of the Allocated Excess
+Exposure Amount (as defined in sub-paragraph (b)(i) of this Section) for
+each said day ("Exposure Surcharge"). The Exposure Surcharge (if any)
+shall be payable semi-annually in arrears on each Payment Date.
+
+(b) For purposes of this Section the following terms have the meanings set
+forth below:
+
+(i) "Allocated Excess Exposure Amount" means for each day during
+which the Total Exposure exceeds the Standard Exposure Limit,
+the product of: (A) the total amount of said excess; and (B) the
+ratio of all (or, if the Bank so determines, a portion) of the Loan
+to the aggregate amount of all (or the equivalent portions) of the
+loans made by the Bank to the Borrower and to other borrowers
+guaranteed by the Borrower that are also subject to an exposure
+surcharge, as said excess and ratio are reasonably determined from
+time to time by the Bank.
+
+(ii) "Standard Exposure Limit" means the standard limit on the
+Bank's financial exposure to the Borrower which, if exceeded.
+would subject the Loan to the Exposure Surcharge, as determined
+from time to time by the Bank.
+
+(iii) "Total Exposure" means for any given day, the Bank's total
+financial exposure to the Borrower, as reasonably determined by
+the Bank.
+
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objectives of the Project To this
+end, the Borrower shall cause BIRAC to carry out the Project in accordance with
+the provisions of Article V of the General Conditions and the Project Agreement.
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement and
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall
+ensure that the Project is carried out in accordance with the provisions of Schedule
+2 to this Agreement.
+
+ARTICLE IV - REMEDIES OF THE BANK
+
+4.01. The Additional Event of Suspension consists of the following: BIRAC's
+Legislation has been amended, suspended, abrogated, repealed or waived so as to
+
+
+
+-4-
+
+affect materially and adversely the ability of BIRAC to perform any of its
+obligations under the Project Agreement.
+
+4.02. The Additional Event of Acceleration consists of the following: the event specified
+in Section 4.01 of this Agreement occurs and is continuing for a period of sixty
+(60) days after notice of the event has been given by the Bank to the Borrower.
+
+ARTICLE V - EFFECTIVENESS; TERMINATION
+
+5.01. The Effectiveness Deadline is the date ninety (90) days after the date of this
+Agreement
+
+ARTICLE VI - REPRESENTATIVE; ADDRESSES
+
+6.01. The Borrower's Representative is any of the following: Secretary, Additional
+Secretary, Joint Secretary, Director, Deputy Secretary or Under Secretary of the
+Department of Economic Affairs in the Ministry of Finance of the Borrower.
+
+6.02. The Borrower's Address is:
+
+Secretary
+Department of Economic Affairs
+Ministry of Finance, Government of India
+North Block
+New Delhi 110001, India
+
+Facsimile:
+
+91-11-2309 2247
+
+6.03. The Bank's Address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+
+Cable address: Telex: Facsimile:
+
+INTBAFRAD 248423(MCI) or 1-202-477-6391
+Washington, D.C. 64145(MCI)
+
+
+
+-5-
+
+AGREED at ,India, as of the day and year first above written.
+
+INDIA
+
+By
+
+e-Authorized Representative
+
+Name: g A": ex--g
+
+Title: /r
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By
+
+Au o Representative
+
+Name: 14l1 k&b)
+
+Title: A /A (O,AjTxy ht4cmdR, /AblA
+
+
+
+-6-
+
+SCHEDULE 1
+
+Project Description
+
+The objective of the Project is to facilitate innovation in biopharmaceutical
+products and medical devices that address public health priorities in India.
+
+The Project consists of the following parts:
+
+Part 1: Strengthening the pilot-to-market innovation ecosystem
+
+1 Provision of Shared Facility Grants to: (a) upgrade and expand the know-how of
+existing validation and reference facilities for developing, inter alia, vaccines.,
+biopharmaceuticals and/or diagnostics and medical devices; (b) set-up and/or
+upgrade chemistry, manufacturing and controls facilities for supporting early
+
+stage manufacturing of vaccines and/or biopharmaceuticals; and (c) upgrade
+
+existing institutions into national cell-line repositories for allowing ready-access
+
+to quality-controlled cell-lines across different stages of validation processes of
+
+vaccines and/or biopharmaceuticals.
+
+2. Provision of Scientific Research Grants to develop new scientific research tools
+
+and techniques such as biomarkers, assays, cell-tines and technologies for
+
+lowering the cost of validation and early stage manufacturing of, inter alia,
+
+vaccines, biopharmaceuticals and/or diagnostics and medical devices.
+
+3. Provision of Clinical Trial Network Grants to: (a) establish a clinical trial network
+
+for connecting clinical sites together for providing ready access to a wide
+
+population sample across India, (b) establish and maintain compliance with good
+
+clinical and participatory practices; and (c) develop shared support services across
+
+clinical sites such as data management.
+
+4. Provision of Training Grants to: (a) allow existing academic institutions to
+
+develop training programs for filling scientific. business and research and
+
+development knowledge; (b) enable suitable human resources needed under Part
+
+1 and 2 of the Project; (c) generate a next generation of trainers; and (d) train next
+
+generation of scientists for interdisciplinary skills across product development
+
+value chains.
+
+5. Provision of Technology Transfer Grants to acquire specialized technical skills
+
+and institutional knowledge, network and know-know for establishing technology
+
+transfer offices.
+
+
+
+-7-
+
+Part 2: Accelerating the pilot-to-market process for specific products
+
+Provision of Product Development Grants to accelerate the development of
+selected low-cost products which address public health priorities, have market
+potential and are already in the critical validation to early bio-manufacturing stages
+such as: (a) vaccines; (b) biosimilars; and (c) medical devices (i.e. instruments and
+diagnostics).
+
+Part 3: Project Management and Monitoring & Evaluation
+
+Carrying out of Project management and monitoring, supervision and evaluation
+activities, including, inter alia, stakeholder and scientific consultations, clinical
+data auditing and clinical research oversight and validation.
+
+
+
+-8-
+
+SCHEDULE 2
+
+Project Execution
+
+Section L Implementation Arrangements
+
+A. Institutional Arrangements
+
+To facilitate the carrying out of the Project, the Borrower shall make the proceeds
+of the Loan available to BIRAC through its Department of Biotechnology, in
+accordance with the Borrower's standard arrangements for development assistance
+in India. The Borrower shall protect the interests of the Bank to accomplish the
+purposes of the Loan.
+
+B. Anti-Corruption
+
+The Borrower shall ensure that the Project is carried out in accordance with the
+provisions of the Anti-Corruption Guidelines.
+
+Section EL Project Mouitorine Reportine and Evaluation
+
+A. Project Reports
+
+The Borrower shall monitor and evaluate the progress of the Project and shall cause
+t BIRAC to prepare Project Reports in accordance with the provisions of Section
+
+5.08 of the General Conditions and on the basis of indicators acceptable to the
+Bank. Each Project Report shall cover the period of one calendar quarter, and shall
+be furnished to the Bank not later than forty-five (45) days after the end of the
+period covered by such report.
+
+B. Financial Management, Financial Reports and Audits
+
+1. The Borrower shall cause to be maintained a financial management system in
+accordance with the provisions of Section 5.09 of the General Conditions.
+
+2. Without limitation on the provisions of Part A of this Section, the Borrower shall
+cause BIRAC to prepare and furnish to the Bank not later than forty-five (45) days
+after the end of each semester, interim unaudited financial reports for the Project
+covering the semester, in form and substance satisfactory to the Bank.
+
+3. The Borrower shall cause BIRAC to have the Financial Statements audited in
+accordance with the provisions of Section 5.09 (b) of the General Conditions. Each
+audit of the Financial Statements shall cover the period of one fiscal year of the
+
+
+
+-9-
+
+Borrower. The audited Financial Statements for each such period shall be
+furnished to the Bank not later than nine (9) months after the end of such period.
+
+Section WH. Procurement
+
+All goods, works, non-consulting services and consulting services required for the
+Project and to be financed out of the proceeds of the Loan shall be procured in
+accordance with the requirements set forth or referred to in the Procurement
+Regulations and the provisions of the Procurement Plan.
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General
+
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the
+provisions of Article II of the General Conditions, this Section. and such additional
+instructions as the Bank shall specify by notice to the Borrower (including the
+"Disbursement Guidelines for Investment Project Financing" dated February
+2017, as revised from time to time by the Bank and as made applicable to this
+Agreement pursuant to such instructions), to finance Eligible Expenditures as set
+forth in the table in paragraph 2 below.
+
+2. The following table specifies the categories of Eligible Expenditures that may be
+financed out of the proceeds of the Loan ("Category"), the allocation of the
+amounts of the Loan to each Category, and the percentage of expenditures to be
+financed for Eligible Expenditures in each Category.
+
+Category Amount of the Percentage of
+Loan Allocated Expenditures to be
+
+(expressed in USD) Financed
+(inclusive of Taxes)
+
+(1) Shared Facility Grants,
+Scientific Research Grants,
+Clinical Trial Network Grants,
+Training Grants and Technology
+Transfer Grants under Part I of the 124,687,500 50%
+Project; Product Development
+Grants under Part 2 of the Project;
+and Goods, non-consulting
+services, consultant services,
+Incremental Operating Costs and
+
+
+
+-10-
+
+Training under Part 3 of the
+Project
+
+Amount payable
+pursuant to Section
+
+312,500 2.03 of this Agreement
+(2) Front-end Fee in accordance with
+
+Section 2.07 (b) of the
+General Conditions
+
+(3) Interest Rate Cap or Interest Amount due pursuant
+nteolare rtemim C0 to Section 2.08(c) of
+
+this Agreement
+
+TOTAL AMOUNT 125,000,000
+
+B. Withdrawal Conditions; Withdrawal Period
+
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be
+made for payments made prior to the date of this Agreement, except that
+withdrawals up to an aggregate amount not to exceed USD 25,000,000 may be made
+for payments made prior to this date but on or after April 1, 2017, for Eligible
+Expenditures under Category (1), excluding Product Development Grants, Shared
+Facility Grants, Scientific Research Grants, Clinical Trial Network Grants, Training
+Grants, and Technology Transfer Grants.
+
+2. The Closing Date is June 30, 2023.
+
+
+
+-11-
+
+SCHEDULE 3
+
+Amortization Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the
+percentage of the total principal amount of the Loan payable on each Principal
+Payment Date ("Installment Share'. If the proceeds of the Loan have been fully
+withdrawn as of the first Principal Payment Date, the principal amount of the Loan
+repayable by the Borrower on each Principal Payment Date shall be determined by
+the Bank by multiplying: (a) Withdrawn Loan Balance as of the first Principal
+Payment Date; by (b) the Installment Share for each Principal Payment Date, such
+repayable amount to be adjusted, as necessary, to deduct any amounts referred to
+in paragraph 4 of this Schedule, to which a Currency Conversion applies.
+
+Principal Payment Date Installment Share
+(Expressed as a Percentage)
+
+On each May 15 and November 15
+
+Beginning November 15, 2023 4.35%
+through May 15, 2034
+
+On November 15, 2034 4.3%
+
+2. If the proceeds of the Loan have not been fully withdrawn as of the first Principal
+Payment Date, the principal amount of the Loan repayable by the Borrower on
+each Principal Payment Date shall be determined as follows:
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of the
+first Principal Payment Date, the Borrower shall repay the Withdrawn
+Loan Balance as of such date in accordance with paragraph I of this
+Schedule.
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be
+repaid on each Principal Payment Date falling after the date of such
+withdrawal in amounts determined by the Bank by multiplying the amount
+of each such withdrawal by a fraction, the numerator of which is the
+original Installment Share specified in the table in paragraph I of this
+Schedule for said Principal Payment Date ("Original Installment Share")
+and the denominator of which is the sum of all remaining Original
+Installment Shares for Principal Payment Dates falling on or after such
+date, such amounts repayable to be adjusted, as necessary, to deduct any
+amounts referred to in paragraph 4 of this Schedule, to which a Currency
+Conversion applies.
+
+
+
+-12-
+
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any
+Principal Payment Date shall, for the purposes solely of calculating the
+
+principal amounts payable on any Principal Payment Date, be treated as
+
+withdrawn and outstanding on the second Principal Payment Date
+
+following the date of withdrawal and shall be repayable on each Principal
+
+Payment Date commencing with the second Principal Payment Date
+
+following the date of withdrawal.
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if
+
+at any time the Bank adopts a due date billing system under which invoices
+
+are issued on or after the respective Principal Payment Date, the provisions
+
+of such sub-paragraph shall no longer apply to any withdrawals made after
+
+the adoption of such billing system.
+
+4. Notwithstanding the provisions of paragraphs I and 2 of this Schedule, upon a
+
+Currency Conversion of all or any portion of the Withdrawn Loan Balance to an
+
+Approved Currency, the amount so converted in the Approved Currency that is
+
+repayable on any Principal Payment Date occurring during the Conversion Period.
+
+shall be determined by the Bank by multiplying such amount in its currency of
+
+denomination immediately prior to the Conversion by either (i) the exchange rate
+
+that reflects the amounts of principal in the Approved Currency payable by the
+
+Bank under the Currency Hedge Transaction relating to the Conversion; or (ii) if
+
+the Bank so determines in accordance with the Conversion Guidelines, the
+
+,exchange rate component of the Screen Rate.
+
+5. If the Withdrawn Loan Balance is denominated in more than one Loan Currency,
+
+the provisions of this Schedule shall apply separately to the amount denominated
+
+in each Loan Currency, so as to produce a separate amortization schedule for each
+
+such amount.
+
+
+
+-13-
+
+APPFNDIX
+
+Section L Definitin
+
+1. "Anti-Corruption Guidelines" means the "Guidelines on Preventing and
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA
+Credits and Grants", dated October 1S, 2006, and revised in January 2011 and as
+of July 1, 2016.
+
+2. "BIRAC" means Biotechnology Industry Research Assistance Council, an entity
+registered as a non-profit company under the India Company Act of 2013, which
+is the Project Implementing Entity.
+
+3. "BIRAC's Legislation" means BIRAC's by-laws dated March 20. 2012. as
+amended from time to time.
+
+4. "Category" means a category set forth in the table in Section IV of Schedule 2 to
+this Agreement.
+
+5. "Clinical Trial Network Grant" means a grant to be provided to a Grantee to
+finance the cost of goods, works and/or services, as the case maybe, for the
+carrying out of activities under Part 1.3 of the Project.
+
+6. "CRVMF" means the clinical research validation and management framework.
+dated April 10, 2017, for the Project adopted by BIRAC and acceptable to the
+Bank, setting for the guiding principles, standards and procedures for- (a) obtaining
+informed consent of participants in clinical trials; (b) identifying potential losses
+of income and/or disability cases; and (c) identifying adequate compensation and
+follow-up health care measures; as such framework may be revised, updated or
+supplemented from time to time with the prior written agreement between the Bank
+and BIRAC.
+
+7. "EMF" means the environmental management framework for the Project dated
+February 2017, adopted by and disclosed at BIRAC's website on March 9, 2017
+and re-disclosed on April 13, 2017; setting forth the guiding principles, standards
+and procedures for: (a) screening of all Project activities and the identification of
+any adverse or positive environmental impacts caused, or expected to be caused,
+on account of their implementation; and (b) preparing their prescribed
+environmental impact assessments and/or environmental management plans as
+required; as such framework may be revised, updated or supplemented from time
+to time with the prior written agreement between the Bank and BIRAC.
+
+
+
+-14-
+
+8. "General Conditions" means the "International Bank for Reconstruction and
+Development General Conditions for Loans", dated March 12, 2012, with the
+modifications set forth in Section 11 of this Appendix.
+
+9. "Grant Agreement" means an agreement entered between BIRAC and a Grantee
+pursuant to the terms and conditions set forth in Section C of the Schedule to the
+Project Agreement.
+
+10. "Grantee" means the beneficiary of a Clinical Trial Network Grant, a Product
+Development Grant, a Scientific Research Grant, a Shared Facilities Grant, a
+Technology Transfer Grant and/or a Training Grant meeting the eligibility criteria
+acceptable to the Bank and included in the Project Implementation Manual.
+
+I1. "Incremental Operating Costs" means the reasonable costs of incremental
+operating expenditures incurred during the implementation of the Project, which
+expenditures would not have been incurred absent the Project, including, inter alia:
+office space rental and utilities; office maintenance and repair office consumables,
+vehicles rental, operation and maintenance; communication, printing and/or
+publication expenses; staff per diems, field allowances, travel expenses; bank
+charges; insurance premia; and salaries of civil servants on full-time deputation.
+
+12. "Procurement Plan" means the Borrower's procurement plan for the Project, dated
+April 10, 2017, and provided for under Section IV of the Procurement Regulations,
+as the same may be updated from time to time in agreement with the Bank.
+
+13. "Procurement Regulations" means the "World Bank Procurement Regulations for
+Borrowers under Investment Project Financing", dated July 1, 2016.
+
+14. "Product Development Grant" means a grant to be provided to a Grantee to finance
+the cost of goods, works and/or services, as the case maybe, for the carrying out of
+activities under Part 2 of the Project.
+
+15. "Project Implementation Manual" means the manual dated April 10, 2017, adopted
+by BIRAC in a manner satisfactory to the Bank; setting forth the policies, terms,
+conditions and procedures for Project implementation as such manual may be
+revised, updated or supplemented from time to time with the prior written
+agreement between the Borrower and the Bank.
+
+16. "Project Implementing Entity" means BIRAC.
+
+17. "Scientific Research Grant" means a grant to be provided to a Grantee to finance
+the cost of goods, works and/or services, as the case maybe, for the carrying out of
+activities under Part 1.2 of the Project.
+
+
+
+-15-
+
+18. "Shared Facility Grant" means a grant to be provided to a Grantee to finance the
+cost of goods, works and/or services, as the case maybe, for the carrying out of
+activities under Part 1.1 of the Project.
+
+19. "Technology Transfer Grant" means a grant to be provided to a Grantee to finance
+the cost of goods, works and/or services, as the case maybe, for the carrying out of
+activities under Part 1.5 of the Project.
+
+20. "Training" means the reasonable costs of training, workshops and conferences
+conducted in the territory of the Recipient and/or overseas;, subject to the Bank's
+prior agreement, which costs include, inter alia, training institutions' and courses'
+fees, logistics expenses, rental of training facilities, purchase and publication of
+training materials, and travel and subsistence allowances for trainers and/or
+trainees.
+
+21. "Training Grant" means a grant to be provided to a Grantee to finance the cost of
+goods, works and/or services, as the case maybe, for the carrying out of activities
+under Part 1.4 of the Project.
+
+Section IL Modifications to the General Conditions
+
+The General Conditions are hereby modified as follows:
+
+1. ,In the Table of Contents, the references to Sections. Section names and Section
+numbers are modified to reflect the modifications set forth in the paragraphs below
+
+2. Section 3.01. (Front-end Fee) is modified to read as follows:
+
+"Section 3.01. Front-end Fee: Commitment Charge
+
+(a) The Borrower shall pay the Bank a front-end fee on the Loan amount at
+the rate specified in the Loan Agreement (the "Front-end Fee").
+
+(b) The Borrower shall pay the Bank a commitment charge on the
+Unwithdrawn Loan Balance at the rate specified in the Loan Agreement (the
+"Commitment Charge"). The Commitment Charge shall accrue from a date sixty
+days after the date of the Loan Agreement to the respective dates on which amounts
+are withdrawn by the Borrower from the Loan Account or cancelled. The
+Commitment Charge shall be payable semi-annually in arrears on each Payment
+Date."
+
+
+
+-16-
+
+3. In the Appendix, Definitions, all relevant references to Section numbers and
+paragraphs are modified, as necessary, to reflect the modification set forth in
+paragraph 2 above.
+
+4. The Appendix is modified by inserting a new paragraph 19 with the following
+definition of "Commitment Charge", and renumbering the subsequent paragraphs
+accordingly:
+
+"19. "Commitment Charge" means the commitment charge specified in the
+Loan Agreement for the purpose of Section 3.01(b)."
+
+5. In the renumbered paragraph 49 (originally paragraph 48) of the Appendix, the
+definition of "Front-end Fee" is modified by replacing the reference to Section
+3.01 with Section 3.01 (a).
+
+6. In the renumbered paragraph 68 (originally paragraph 67) of the Appendix, the
+definition of the term "Loan Payment" is modified to read as follows in order to
+include "surcharge":
+
+"68. 'Loan Payment' means any amount payable by the Loan Parties to the
+Bank pursuant to the Legal Agreements or these General Conditions, including
+(but not limited to) any amount of the Withdrawn Loan Balance, interest, the Front-
+end Fee, interest at the Default Interest Rate (if any), the Commitment Charge, any
+surcharge, any prepayment premium, any transaction fee for a Conversion or early
+termination of a Conversion, the Variable Spread Fixing Charge (if any), any
+premium payable upon the establishment of an Interest Rate Cap or Interest Rate
+Collar, and any Unwinding Amount payable by the Borrower."
+
+7. In the renumbered paragraph 73 (originally paragraph 72) of the Appendix, the
+definition of "Payment Date" is modified by deleting the word "is" and inserting
+the words "and Commitment Charge are" after the word "interest".

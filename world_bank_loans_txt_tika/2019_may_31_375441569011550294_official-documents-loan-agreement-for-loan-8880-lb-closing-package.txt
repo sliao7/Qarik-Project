@@ -1,0 +1,632 @@
+World Bank Document
+
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8880-LB
+
+Loan Agreement
+(Land Administration System Modernization Project)
+
+between
+
+THE LEBANESE REPUBLIC
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+LOAN NUMBER 8880-LB
+
+LOAN AGREEMENT
+
+AGREEMENT dated as of the Signature Date between the LEBANESE REPUBLIC
+("Borrower") and INTERNATIONAL BANK FOR RECONSTRUCTION AND
+DEVELOPMENT ("Bank"). The Borrower and the Bank hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) apply to and form
+part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement have
+the meanings ascribed to them in the General Conditions or in the Appendix to this
+Agreement.
+
+ARTICLE II - LOAN
+
+2.01. The Bank agrees to lend to the Borrower the amount of forty-three million Dollars
+(US$43,000,000), as such amount may be converted from time to time through a Currency
+Conversion ("Loan"), to assist in financing the project described in Schedule 1 to this
+Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section III of
+Schedule 2 to this Agreement.
+
+2.03. The Front-end Fee is one quarter of one percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge is one quarter of one percent (0.25%) per annum on the
+Unwithdrawn Loan Balance.
+
+2.05. The interest rate is the Reference Rate plus the Fixed Spread or such rate as may apply
+following a Conversion; subject to Section 3.02(e) of the General Conditions.
+
+2.06. The Payment Dates are April 1 and October 1 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with Schedule 3 to this
+Agreement.
+
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objective of the Project. To this end, the
+Borrower shall carry out the Project through the General Directorate of Land Registration
+and Cadastre ("GDLRC") in accordance with the provisions of Article V of the General
+Conditions and Schedule 2 to this Agreement.
+
+
+
+-2-
+
+ARTICLE IV -EFFECTIVENESS; TERMINATION
+
+4.01. The Effectiveness Deadline is the date one hundred and eighty (180) days after Signature
+Date.
+
+ARTICLE V- REPRESENTATIVE; ADDRESSES
+
+5.01. The Borrower's Representative is its Minister responsible for Finance.
+
+5.02. For purposes of Section 10.01 of the General Conditions: (a) the Borrower's address is:
+
+Ministry of Finance
+Riad El-Solh Square
+Beirut
+Lebanese Republic; and
+
+(b) the Borrower's Electronic Address is:
+
+Facsimile:
+
++961 1 642 762
+
+5.03. For purposes of Section 10.01 of the General Conditions: (a) the Bank's address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America; and
+
+(b) the Bank's Electronic Address is:
+
+Telex: Facsimile:
+
+248423(MCI) or 1-202-477-6391
+64145(MCI)
+
+
+
+-3-
+
+AGREED as of the Signature Date.
+
+LEBANESE REPqBL C
+
+By
+
+Authorized Representative
+
+Name: i assaiy kkal \
+Title:Qa- e
+
+Date: OID 19
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By -&4,- gk.LJ
+
+Authorized Representative
+
+Name: gKLWk
+
+Title: __ _ __ _
+
+Date: d
+
+
+
+-4-
+
+SCHEDULE 1
+
+Project Description
+
+The objective of the Project is to improve access to land use and value data, property rights
+data, and geospatial information through the Land Registry and.Cadastre System modernization.
+
+The Project, consists of the following parts:
+
+Part 1: Modernization of the Dizital Land Reeistry and Cadastre System
+
+Implementing a program of activities designed to modernize the digital land registry and
+cadastre system, including: (a) developing, implementing and maintaining a new integrated Land
+Registry and Cadastre System incorporating critical land information management systems and
+provision of training to key users, administrators and developers for the purpose; (b) acquiring
+national and regional hardware (such as servers, racks, data storage systems, tape libraries, switches
+and routers) as well as software infrastructure; including back up and security solutions for said
+Land Registry and Cadastre System; (c) developing new e-services system for said land Registry
+and Cadastre System and enabling linkages to appropriate external databases and systems;
+(d) establishing of a digital archives system including, inter alia, the development of an appropriate
+strategy, preparation of technical specifications and scanning methodology undertaking selective
+mass digitizing, verification of data and quality control and migration of said data to the said Land
+Registry and Cadastre System; (e) digitalizing and geo-referencing selected/old paper maps into
+said land Registry and Cadastre System; and (f) upgrading and/or establishing priority data center
+and disaster recovery center premises as well as a key land registry and cadastre office.
+
+Part 2: National Spatial Data Infrastructure
+
+Implementing a program of activities designed to enhance the identification, storage,
+usage, sharing and exchanging of geospatial data and services, including: (a) developing and
+operationalizing a national spatial data infrastructure (NSDI) strategy and implementation plan;
+(b) upgrading critical NSDI and technologies consistent with said NSDI strategy and
+implementation plan; (c) supporting identification, production and linking of core geospatial
+datasets to said NSDI (including development of a seamless base map of the Borrower's territory);
+(d) supporting creation, collection and harmonization of the Borrower's geospatial data for
+integration into said NSDI; and (e) developing electronic services and implementing linkages of
+said NSDI to the Borrower's E-government System.
+
+Part 3: Property Valuation and Taxation
+
+Implementing a program of activities designed to establish a Mass Valuation System for
+developed and undeveloped properties (including land), including: (a) developing and piloting
+mass valuation models for the property market as well as valuation approaches for specialized and
+other high value properties; (b) designing and implementing a property valuation data collection
+plan focusing on all developed and undeveloped properties (including land); and (c) preparing a
+mass valuation system strategy and implementation plan focusing on, inter alia, urban areas.
+
+
+
+-5-
+
+Part 4: State Land Inventory and Management
+
+Implementing a program of activities designed to improve data quality on state lands in
+said digital land registry and cadastre system as well as enhance the capacity of the GDLRC for
+state land management, including: (a) developing and implementing of an appropriate
+comprehensive strategy and action plan on state land management, incorporating key
+functionalities such as maintenance of public land asset inventories, state land archives and
+document flow management, public state land records, state land identification, delineation, and
+surveys, public auctions for leases and sales of government land, rent roll for public land leases,
+acquisition and expropriation of land assets for public purposes, and valuation of public land assets,
+among others; (b) undertaking a comprehensive review of state land management systems and
+processes with a view to making recommendations for improvement; (c) improving quality of state
+land registration data; (d) expanding the coverage of the unified database of state lands within
+GDLRC, through, inter alia, integrating or linking state lands data from other public institutions
+with GDLRC's said unified database; and (e) upgrading the Borrower's state land management
+ICT system.
+
+Part 5: Institutional Development, Capacity Buildin2 and Project Management
+
+Implementing a program of activities designed to strengthen the institutional and technical
+capacity of the GDLRC and support implementation and management of Project activities,
+including (a) conducting a functional review of the GDLRC's organizational structure and capacity
+with a view to developing and implementing an institutional development vision, strategy, citizen
+service charter and roadmap for GDLRC and implementing structures to enhance the accountability
+of GDLRC to key stakeholders; (b) developing and implementing public outreach activities,
+periodical customer surveys and grievance redress mechanism; (c) undertaking technical analyses
+of the policy, legal and regulatory frameworks for administration of public and private land so as
+to identify gaps and make recommendations for improvement, and conducting social impact
+assessment; (d) carrying out a training needs assessment for the sub-sector as well as developing
+and implementing a comprehensive curriculum and training program on land registry and cadastre
+system management; (e) developing and implementing capacity building and knowledge transfer
+activities in areas including but not limited to ICT, NSDI, state land management, property
+valuation and public sector governance; and (f) establishing and operationalizing a Project
+Management Unit for day-to-day implementation, coordination and overall supervision of Project
+activities.
+
+
+
+-6-
+
+SCHEDULE 2
+
+Project Execution
+
+Section I. Institutional and Implementation Arrangements
+
+A. Project Management Unit
+
+1. In order to ensure proper and efficient implementation of the Project, the Borrower shall,
+through GDLRC, establish no later than four (4) months after the Effective date and
+thereafter maintain, at all times during Project implementation, a Project Management Unit
+("PMU") within the GDLRC, with a mandate, staffing and other resources satisfactory to
+the Bank. To this end, the Borrower, shall no later than four (4) months, through the
+GDLRC, recruit and thereafter maintain a Project Director, Financial Management
+Specialist and Procurement specialist; all under terms of reference acceptable to the Bank.
+
+2. The PMU shall be responsible for day-to-day implementation, coordination and overall
+supervision of Project activities all in accordance with the provisions of the Project
+Operational Manual.
+
+B. Project Operational Manual
+
+1. The Borrower shall, through GDLRC, prepare no later than one (1) month after the
+Effective Date, in accordance with terms of reference acceptable to the Bank, an
+operational manual, containing detailed arrangements and procedures for.
+(a) administration, institutional coordination and day-to-day execution of the Project;
+(b) monitoring, evaluation, reporting and communication; (c) financial management
+arrangements including accounting, financial reporting, and auditing procedures;
+(d) procurement arrangements including application of STEP for preparation of
+procurement plans; and (e) such other administrative, financial, technical and
+organizational arrangements and procedures as shall be required for purposes of
+implementation of the Project.
+
+2. The Borrower shall, through GDLRC, afford the Bank a reasonable opportunity to review
+such operational manual, and shall thereafter adopt said manual as shall have been
+approved by the Bank ("Project Operational Manual" or "POM").
+
+3. The Borrower shall, through GDLRC, carry out the Project in accordance with the POM
+and shall not amend, abrogate, waive or permit to be amended, abrogated or waived, the
+POM, or any provision thereof, without the prior written consent of the Bank.
+
+4. In the event of any inconsistency between this Agreement and the POM the provisions of
+this Agreement shall prevail.
+
+
+
+-7-
+
+C. Annual Work Plan
+
+1. The Borrower shall, through GDLRC, prepare, in accordance with terms of reference
+acceptable to the Bank, and furnish to the Bank no later than November 30 of each fiscal
+year throughout the implementation of the Project, a work plan of activities proposed for
+inclusion in the Project for the next calendar year, together with a budget for such activities
+and a timetable for their implementation.
+
+2. The Borrower shall through GDLRC: (a) afford the Bank a reasonable opportunity to
+exchange views with the Borrower on such proposed work plan; and, thereafter; and
+(b) carry out such work plan during the period covered by said plan, according to such
+budget, both as shall have been approved by the Bank ("Annual Work Plan").
+
+3. Only such activities as shall have been included in the Annual Work Plan shall be eligible
+for inclusion in the Project and for financing out of the proceeds of the Loan.
+
+D. Safeguards
+
+1. The Borrower shall ensure that the Project is carried out in accordance with the provisions
+of the EMP.
+
+2. Without limitation upon its other reporting obligations under this Agreement, the Borrower
+shall, through GDLRC, regularly collect, compile and submit to the Bank every calendar
+semester, reports, in form and substance satisfactory to the Bank, on the status of
+compliance with the EMP, giving details of:
+
+(a) measures taken in furtherance of such EMP;
+
+(b) conditions, if any, which interfere or threaten to interfere with the smooth
+implementation of the EMP;
+
+(c) remedial measures taken or required to be taken to address such conditions; and
+
+(d) any changes to the Project that will require the EMP to be amended to reflect and
+address such changes.
+
+3. The Borrower shall ensure, and shall cause the GDLRC to ensure, that: (a) all consultancies
+related to technical assistance, design and capacity building under the Project, the
+application of whose results could have environmental or social implications, shall only be
+undertaken pursuant to terms of reference reviewed and found satisfactory by the Bank;
+and (b) such terms of reference shall duly incorporate the requirements of the Bank's
+applicable safeguards policies and procedures then in force and shall require the technical
+assistance, design and capacity building activities to take into account the requirements of
+said policies.
+
+4. The Borrower shall not amend, abrogate, repeal, suspend, waive, or otherwise fail to
+enforce, or permit to be amended, abrogated, repealed, suspended or waived any of the
+
+
+
+-8-
+
+EMP or any provision thereof without the prior written approval of the Bank. In case of
+inconsistency between this Agreement and any of the EMP, the terms of this Agreement
+shall prevail.
+
+E. Other Financial Arrangements.
+
+1. To facilitate the efficient management of the financial management system, the Borrower
+shall, through the MoF, channel the proceeds of the Loan from the loans treasury account
+in the Loan Currency at BDL to the Designated Account of the Project by a letter signed
+by both the Head of Treasury and the Central Treasury Cashier of the MoF. Upon each
+withdrawal of the proceeds of the Loan the Borrower shall, through the MoF, open
+Additional Budget Lines (budget classification numbers 2/8/4/123/126/3/1,
+2/8/4/123/128/2/1, and 2/8/4/123/229/1/1) equivalent to the amount of such withdrawal of
+the Loan proceeds, provided that the total amount allocated to all such Additional Budget
+Lines during the life of the Project up until the disbursement deadline date (as defined in
+the Disbursement Guidelines and the additional instructions of the Bank referred to in
+Section 111.1 of Schedule 2 to this Agreement) shall not exceed the amount of the Loan.
+For the purposes of this Loan, said Additional Budget Lines could be opened in the budget
+of a specific year up until January 31 of the following year and those contracted or not
+contracted are carried forward per the request of the Borrower.
+
+2. For the purposes of the Loan, transfer of funds between different budget lines shall be
+carried out and approved by the Minister of Finance.
+
+3. The Borrower shall, through the MoF, open an account for the Loan in its Chart of
+Accounts to record all disbursement amounts that are channeled to the Designated Account
+mentioned in Paragraph I above. The said account shall be settled periodically based on
+expenditures statements in the Loan currency signed by GDLRC and provided to the MoF
+before the end of each fiscal year for expenditures incurred up to October 31 of said Fiscal
+Year, and before the end of January 31 of the following year for expenditures incurred in
+November and December of the previous Fiscal Year
+
+Section II. Project Monitoring Reportine and Evaluation
+
+The Borrower, through the GDLRC, shall furnish to the Bank each Project Report not later
+than one month after the end of each calendar semester, covering the calendar semester.
+
+Section JI. Withdrawal of Loan Proceeds
+
+1. Without limitation upon the provisions of Article II of the General Conditions and in
+accordance with the Disbursement and Financial Information Letter, the Borrower may
+withdraw the proceeds of the Loan to: (a) finance Eligible Expenditures; and (b) pay:
+(i) the Front-end Fee; and (ii) each Interest Rate Cap or Interest Rate Collar premium; in
+the amount allocated and, if applicable, up to the percentage set forth against each Category
+of the following table:
+
+
+
+-9-
+
+Category Amount of the Loan Percentage of Expenditures
+Allocated to be financed
+
+(expressed in USD) (inclusive of Taxes)
+(1) Goods, works, non- 42,892,500 100%
+
+consulting services, and
+consulting services,
+Operating Costs and
+Training for the Project
+
+(2) Front-end Fee 107,500 Amount payable pursuant to
+Section 2.03 of this
+Agreement in accordance
+with Section 2.07 (b) of the
+General Conditions
+
+(3) Interest Rate Cap or 0 Amount due pursuant to
+Interest Rate Collar Section 4.05 (c) of the
+premium General Conditions
+
+TOTAL AMOUNT 43,000.000
+
+2. Notwithstanding the provisions of paragraph I above, no withdrawal shall be made for
+payments made prior to the Signature Date; except that withdrawals up to an aggregate
+amount not to exceed $4,300,000 may be made for payments made prior to this date but
+on or after May 1, 2018, for Eligible Expenditures under Category (1).
+
+3. The Closing Date is December 31, 2023.
+
+Section IV. Other Undertakings
+
+A. In order to ensure the effective implementation of the Project, the Borrower shall ensure
+that the seamless base map developed under Part 2 of the Project is made accessible to
+public and private users in accordance with national laws.
+
+
+
+-10-
+
+SCHEDULE 3
+
+Commitment-Linked Amortization Repayment Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the percentage of the
+total principal amount of the Loan payable on each Principal Payment Date ("Installment Share").
+
+Level Principal Repayments
+
+Principal Payment Date Installment Share
+On each April l and October 1
+
+Beginning October 1, 2024 7.14%
+through October 1, 2030
+
+On April 1, 2031 7.18%
+
+
+
+-11-
+
+APPENDIX
+
+Section I. Definitions
+
+1. "Additional Budget Line" means any budget line opened after publication of the
+Borrower's Budget, as an addition to the initial budget lines established under said Budget,
+all in accordance with the Public Accountancy Law number 14969 of the year 1963 and
+other relevant national legislations.
+
+2. "Annual Work Plans" means the plans that will be prepared each fiscal year by the
+Borrower setting out activities proposed for inclusion in the Project for the next calendar
+year, together with a budget for such activities in accordance with Section I.C of
+Schedule 2 to this Agreement.
+
+3. "Anti-Corruption Guidelines" means, for purposes of paragraph 5 of the Appendix to the
+General Conditions, the "Guidelines on Preventing and Combating Fraud and Corruption
+in Projects Financed by IBRD Loans and IDA Credits and Grants", dated October 15, 2006,
+and revised in January 2011, and as of July 1, 2016.
+
+4. "BDL" means the Banque du Liban, or its legal successor.
+
+5. "Category" means a category set forth in the table in Section III.1 of Schedule 2 to this
+Agreement.
+
+6. "Chart of Accounts" means the Borrower's chart of accounts established and operating
+pursuant to Lebanese legislation.
+
+7. "Environmental Management Plan" or "EMP" means the document prepared, adopted and
+disclosed by the Borrower on June 16, 2017, pursuant to the provisions of Section I.D of
+Schedule 2 to this Agreement, setting forth a set of mitigation, monitoring, and institutional
+measures to be taken during the implementation and operation of the activities under the
+Project to eliminate adverse environmental impacts, offset them, or reduce them to
+acceptable levels, and including the actions needed to implement these measures., as the
+same may be amended from time to time with the Bank's prior written approval.
+
+8. "General Conditions" means the "International Bank for Reconstruction and Development
+General Conditions for IBRD Financing, Investment Project Financing", dated
+July 14, 2017.
+
+9. "GDLRC" means the General Directorate of Land Registration and Cadastre established
+under the Borrower's Ministry of Finance, in charge of services related to land registration
+and cadastre.
+
+10. "Land Registry and Cadastre System" means a system within the GDLRC in which
+information on land and cadastre are recorded, processed and maintained in a digital form.
+
+
+
+-12-
+
+11. "Mass Valuation System" means a system that values group of properties on their market
+value as of a given date using common data, standardized methods and statistical analysis.
+
+12. "Minister of Finance" means the Borrower's minister in charge of finance at the time or
+any successor thereto.
+
+13. "MoF" means the Borrower's ministry of finance or any successor thereto.
+
+14. "NSDI" means system defining national spatial data infrastructure.
+
+15. "Operating Costs" means incremental costs incurred on account of the Project
+coordination, implementation and monitoring, including expenditures for vehicle operation
+and maintenance, audit fees, legal fees (as required), maintenance of equipment, office
+supplies and consumables, utilities, communication, translation and interpretation, bank
+charges, Project-related travel, including per diem and accommodation, and other
+miscellaneous costs directly associated with the Project implementation and salaries of
+Project staff but excluding salaries of the Borrower's civil servants, meeting allowances,
+other sitting allowances, salary top ups and all honoraria.
+
+16. "Project Management Unit" or "PMU" means the Borrower's unit referred to in Section
+I.A of Schedule 2 to this Agreement.
+
+17. "Project Operational Manual" or "POM" means the manual to be prepared and adopted by
+the Borrower pursuant to the provisions of Section I.B. of Schedule 2 to this Agreement.
+
+18. "Procurement Regulations" means, for purposes of paragraph 85 of the Appendix to the
+General Conditions, the "World Bank Procurement Regulations for Borrowers under
+Investment Project Financing", dated July 1, 2016, and updated in November 2017.
+
+19. "Signature Date" means the latest of the two dates on which the Borrower and the Bank
+signed this Agreement and such definition applied to all references to "the date of the Loan
+Agreement" in the General Conditions.
+
+20. "STEP" means Systematic Tracking of Exchanges in Procurement.
+
+21. "Training" means the training of persons involved in Project-supported activities such term
+including scholarships, seminars, workshops, and study tours, and costs associated with
+such activity including local and international travel and subsistence costs for training
+participants, per diems, costs associated with securing the services of trainers, rental of
+training facilities, preparation and reproduction of training materials, and other costs
+directly related to training preparation and implementation.

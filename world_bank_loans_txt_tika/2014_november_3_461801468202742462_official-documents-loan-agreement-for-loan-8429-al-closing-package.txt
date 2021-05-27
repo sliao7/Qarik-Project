@@ -1,0 +1,1818 @@
+World Bank Document
+
+
+Pu
+bl
+ic
+ 
+D
+i
+s
+c
+l
+o
+s
+u
+r
+e
+ 
+A
+u
+t
+h
+o
+r
+i
+z
+e
+d
+ 
+
+Pu
+bl
+ic
+ 
+D
+i
+s
+c
+l
+o
+s
+u
+r
+e
+ 
+A
+u
+t
+h
+o
+r
+i
+z
+e
+d
+ 
+
+    
+
+  
+
+OFFICIAL      
+
+et
+e 
+
+Ra EEL te > LOAN NUMBER 8429-AL 
+
+Loan Agreement 
+
+(Albania Power Recovery Project) 
+
+between 
+
+REPUBLIC OF ALBANIA 
+
+and 
+
+INTERNATIONAL BANK FOR RECONSTRUCTION 
+
+AND DEVELOPMENT 
+
+Dated Ne O VEIBER 3, 2014 
+
+  
+ 
+
+
+
+LOAN NUMBER 8429-AL 
+
+LOAN AGREEMENT 
+
+Agreement dated Ne ovemser 3 , 2014, between the 
+REPUBLIC OF ALBANIA (“Borrower”) and the INTERNATIONAL BANK FOR 
+RECONSTRUCTION AND DEVELOPMENT (“Bank”). The Borrower and the Bank 
+
+hereby agree as follows: 
+
+1.01. 
+
+1.02. 
+
+2.01 
+
+2.02. 
+
+2.03. 
+
+2.04. 
+
+2.05. 
+
+ARTICLE I — GENERAL CONDITIONS; DEFINITIONS 
+
+The General Conditions (as defined in the Appendix to this Agreement) 
+constitute an integral part of this Agreement. 
+
+Unless the context requires otherwise, the capitalized terms used in this 
+Agreement have the meanings ascribed to them in the General Conditions or in 
+the Appendix to this Agreement. 
+
+ARTICLE IT — LOAN 
+
+The Bank agrees to lend to the Borrower, on the terms and conditions set forth or 
+
+referred to in this Agreement, the amount of one hundred and twelve million a 
+
+hundred thousand Euros (€112,100,000) as such amount may be converted from 
+
+time to time through a Currency Conversion in accordance with the provisions of 
+
+Section 2.07 of this Agreement (“Loan”), to assist in financing the project 
+
+described in Schedule 1 to this Agreement (“Project”). 
+
+The Borrower may withdraw the proceeds of the Loan in accordance with 
+
+Section IV of Schedule 2 to this Agreement. 
+
+The Front-end Fee payable by the Borrower shall be equal to one quarter of one 
+percent (0.25%) of the Loan amount. 
+
+The interest payable by the Borrower for each Interest Period shall be at a rate 
+
+equal to the Reference Rate for the Loan Currency plus the Fixed Spread; 
+
+provided, that upon a Conversion of all or any portion of the principal amount of 
+the Loan, the interest payable by the Borrower during the Conversion Period on 
+such amount shall be determined in accordance with the relevant provisions of 
+Article IV of the General Conditions. Notwithstanding the foregoing, if any 
+amount of the Withdrawn Loan Balance remains unpaid when due and such non- 
+
+payment continues for a period of thirty (30) days, then the interest payable by 
+the Borrower shall instead be calculated as provided in Section 3.02(e) of the 
+
+General Conditions. 
+
+The Payment Dates are May 15 and November 15 in each year.
+
+
+
+2.06. 
+
+2.07. 
+
+3.01. 
+
+3.02. 
+
+The principal amount of the Loan shall be repaid in accordance with the 
+
+amortization schedule set forth in Schedule 3 to this Agreement. 
+
+(a) The Borrower may at any time request any of the following Conversions 
+of the terms of the Loan in order to facilitate prudent debt management: 
+(i) a change of the Loan Currency of all or any portion of the principal 
+
+amount of the Loan, withdrawn or unwithdrawn, to an Approved 
+
+Currency; (ii) a change of the interest rate basis applicable to: (A) all or 
+
+any portion of the principal amount of the Loan withdrawn and 
+outstanding from a Variable Rate to a Fixed Rate, or vice versa; or (B) 
+
+all or any portion of the principal amount of the Loan withdrawn and 
+outstanding from a Variable Rate based on a Reference Rate and the 
+
+Variable Spread to a Variable Rate based on a Fixed Reference Rate and 
+
+the Variable Spread, or vice versa; or (C) all of the principal amount of 
+
+the Loan withdrawn and outstanding from a Variable Rate based on a 
+
+Variable Spread to a Variable Rate based on a Fixed Spread; and (iii) the 
+setting of limits on the Variable Rate or the Reference Rate applicable to 
+
+all or any portion of the principal amount of the Loan withdrawn and 
+
+outstanding by the establishment of an Interest Rate Cap or Interest Rate 
+
+Collar on the Variable Rate or the Reference Rate. 
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that 
+
+is accepted by the Bank shall be considered a “Conversion”, as defined 
+
+in the General Conditions, and shall be effected in accordance with the 
+
+provisions of Article IV of the General Conditions and of the Conversion 
+
+Guidelines. 
+
+ARTICLE II — PROJECT 
+
+The Borrower declares its commitment to the objectives of the Project. To this 
+end, the Borrower shall carry out Part 4 of the Project through MoEI and shall 
+cause Part 1 of the Project to be carried out by KESh, Part 2 of the Project to be 
+carried out by OShEE and Part 3 of the Project to be carried out by OST 
+
+(collectively, the “Project Implementing Entities”) in accordance with the 
+
+provisions of Article V of the General Conditions and the relevant Project 
+Agreements. 
+
+Without limitation upon the provisions of Section 3.01 of this Agreement, and 
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall 
+ensure that the Project is carried out in accordance with the provisions of 
+Schedule 2 to this Agreement.
+
+
+
+4.01. 
+
+4.02. 
+
+5.01. 
+
+5.02. 
+
+5.03. 
+
+6.01. 
+
+ARTICLE IV — REMEDIES OF THE BANK 
+
+The Additional Event of Suspension consists of the following, namely that any 
+one of the Project Implementing Entity’s Legislation has been amended, 
+
+suspended, abrogated, repealed or waived so as to affect materially and adversely 
+
+the ability of said Project Implementing Entity to perform any of its obligations 
+
+under its respective Project Agreement. 
+
+The Additional Event of Acceleration consists of the following, namely the event 
+
+specified in Section 4.01 of this Agreement occurs. 
+
+ARTICLE V — EFFECTIVENESS; TERMINATION 
+
+The Additional Conditions of Effectiveness consist of the following: 
+
+(a) The Borrower through MoEI has prepared and adopted a Project 
+
+Operations Manual satisfactory to the Bank. 
+
+(b) The Borrower through MoEI has: (i) established a PMU and caused the 
+
+Project Implementing Entities to each establish PIUs and, (ii) recruited 
+for the PMU and caused the Project Implementing Entities to recruit for 
+
+the PIUs, staff with qualifications, experience and resources satisfactory 
+
+to the Bank. 
+
+(c) The Subsidiary Loan Agreements have been executed on behalf of the 
+
+Borrower and the Project Implementing Entities. 
+
+The Additional Legal Matter consist of the following, namely, the Subsidiary 
+Agreements have been duly authorized or ratified by the Borrower and each 
+
+respective Project Implementing Entity and each Subsidiary Agreement is 
+
+legally binding upon the Borrower and each respective Project Implementing 
+Entity in accordance with its terms. 
+
+The Effectiveness Deadline is the date ninety (90) days after the date of this 
+
+Agreement. 
+
+ARTICLE VI — REPRESENTATIVE; ADDRESSES 
+
+The Borrower’s Representative is its Minister for Finance.
+
+
+
+6.02. 
+
+6.03. 
+
+The Borrower’s Address is: 
+
+Ministry of Finance 
+
+No. 3 Bulevardi “Deshmoret e Kombit” 
+
+Tirana 
+
+Albania 
+
+Facsimile: 
+
+355 42228494 
+
+The Bank’s Address is: 
+
+International Bank for Reconstruction and Development 
+
+1818 H Street, N.W. 
+
+Washington, D.C. 20433 
+
+United States of America 
+
+Cable address: Telex: Facsimile: 
+
+INTBAFRAD 248423(MCI) or 1-202-477-6391 
+
+Washington, D.C. 64145(MCI)
+
+
+
+AGREED at Tirana, Republic of Albania, as of the day and year first above written. 
+
+REPUBLIC OF ALBANIA 
+
+By ‘ 
+
+( Dxthorized Representative 
+
+Name: SHKEZQIM CAM) 
+
+  
+
+  
+
+Title: AWWNW/O7TER OF FINANCE 
+  
+
+INTERNATIONAL BANK FOR 
+
+RECONSTRUCTION AND DEVELOPMENT 
+
+By elhrce.. bapa 
+
+Authorized Representative 
+
+Name: TAHSE SAYES 
+
+Title: Cop iRY Hani t@ ee. 
+
+  
+
+  
+
+ 
+
+
+
+Part |. 
+
+Part 2. 
+
+Part 3. 
+
+SCHEDULE 1 
+
+Project Description 
+
+The objective of the Project is to improve reliability of supply and financial 
+
+viability of the power sector. 
+
+The Project consists of the following parts: 
+
+Short-Term Complementary Power Import Support 
+
+Providing support to the Borrower to purchase short term complementary power 
+
+imports to meet the power shortage resulting from KESh’s reduced power 
+generation capacity as a result of the turbines rehabilitation work. 
+
+Upgrading Distribution Infrastructure 
+
+Assisting the Borrower to reduce power losses, improve cash collection and 
+reliability of power supply through: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+supplying and installing transformers and ancillary equipment at selected 
+substations in Tirana; 
+
+providing targeted investments in the medium voltage grid including 
+cable lines, concrete poles, metal clad switchgears, power distribution 
+cabins and associated metering equipment; 
+
+supplying and installing power meters to cater for customers who have 
+
+no or damaged meters; and 
+
+upgrading the billing and collection system and providing any necessary 
+training to utilize it. 
+
+Transmission Meter/Data Center Upgrade 
+
+Strengthening the capacity of OST to transmit power, including: 
+
+(a) 
+
+(b) 
+
+providing power meters and upgrading a data center; and 
+
+supplying and installing an information technology system for the OST 
+data center and providing technical assistance for developing procedures 
+for the establishment of a market platform, for independent power 
+
+producers and eligible customers among others.
+
+
+
+Part 4. Supporting Power Sector Reforms and Project Implementation 
+
+(a) Carrying out priority power sector reforms to facilitate the recovery of 
+the power sector and improve the management of the distribution 
+company, through the provision of technical advisory services for: 
+
+(i) revising the power market model to introduce more competition 
+in the sector and reduce the Borrower’s power supply obligation 
+as per the relevant EU directives; 
+
+(ii) revising the renewable energy law to ensure sustainability of 
+
+independent power producers; 
+
+(iii) introducing a new cost-recovery tariff methodology to reflect 
+
+updates in the power market model; 
+
+(iv) updating the Borrower’s current energy strategy; and 
+
+(v) designing implementation and monitoring of social outreach 
+
+programs targeting electricity consumers and key stakeholders. 
+
+(b) Supporting a Project Management Unit within MoEI through the 
+
+provision of goods, Operating Costs, Training, and technical advisory 
+
+services. 
+
+(c) Recruiting specialized advisory services to support the implementation 
+
+and monitoring of the OShEE Performance Management Program. 
+
+(d) Carrying out a risk management study to mitigate the impact of weather 
+
+volatility in the power sector.
+
+
+
+SCHEDULE 2 
+
+Project Execution 
+
+Section I. Implementation Arrangements 
+
+A. Institutional Arrangements 
+
+1. Project Management Unit 
+
+The Borrower through MoEI shall establish and maintain throughout the 
+implementation of the Project, a Project Management Unit, which will be 
+managed by a Project Coordinator appointed by MoEI with key staff with 
+
+functions and responsibilities acceptable to the Bank, including the following 
+additional responsibilities: (a) preparing the Project Operations Manual, together 
+with PIUs, to be approved by the Minister of Energy and Industry; ( b) assisting 
+PIUs in developing bidding documents; (c) assisting the Borrower, through the 
+MoE! in the establishment of Bid Evaluation Committees, comprising of staff 
+
+from PMU and PIUs, as appropriate, according to the Project Operations Manual; 
+(d) supporting coordination in the design and monitoring of social outreach 
+
+programs; (e) carrying out implementation oversight including supervision, as 
+appropriate; and (f) providing periodic monitoring and evaluation of Project 
+
+implementation. 
+
+Project Implementation Units   
+
+(a) The Borrower through MoEI shall cause the Project Implementing 
+
+Entities to establish and maintain throughout implementation of the 
+
+Project, PIUs with key staff including project coordinators, procurement 
+
+specialists, financial management specialists and other needed technical 
+
+specialists with functions and responsibilities acceptable to the Bank. 
+
+(b) The PIUs shall meet at least bi-annually and shall be responsible for the 
+
+day to day implementation of the Project Implementing Entities’ 
+
+Respective Parts of the Project, including the preparation and submission 
+of the relevant budgets to the PMU for processing. 
+
+Implementation Arrangements 
+
+Project Operations Manual 
+
+Without limitation to the provisions of Article V of the General Conditions, the 
+Borrower shall through MoEI ensure that:
+
+
+
+(a) 
+
+(b) 
+
+the Project is carried out in accordance with the Project Operations 
+
+Manual; and 
+
+the Project Operational Manual or any part thereof is not amended, 
+waived, suspended or abrogated without the Bank’s prior written 
+
+concurrence, and in case of any inconsistency between the provisions of 
+
+the Project Operational Manual and those of this Agreement, the 
+provisions of this Agreement shall prevail. 
+
+Subsidiary Loan Agreements   
+
+(a) 
+
+(b) 
+
+To facilitate the carrying out of the Project Implementing Entities’ 
+Respective Parts of the Project, the Borrower shall lend the proceeds of 
+
+the Loan allocated to Part 1 of the Project to KESh, the proceeds of the 
+
+Loan allocated to Part 2 of the Project to OShEE and the proceeds of the 
+Loan allocated to Part 3 of the Project to OST under subsidiary 
+agreements (“Subsidiary Loan Agreements’) between the Borrower and 
+
+each of the Project Implementing Entities, under terms and conditions 
+
+approved by the Bank, including the following: 
+
+(i) the proceeds of the Subsidiary Loan Agreements shall be 
+denominated and repayable in LEK; 
+
+(il) the Borrower shall charge interest on the principal amount 
+
+withdrawn and outstanding from time to time at the rate of three 
+quarters of one percent (0.75%) per annum; and 
+
+(iii) the Subsidiary Loans shall be repayable over a period not 
+
+exceeding twenty-two and a half (22.5) years from the date of 
+the Subsidiary Loan Agreement, inclusive of a grace period not 
+
+exceeding seven (7) years. 
+
+(iv) OShEE will contribute ten percent (10%) of the contract value 
+
+under Category 2 and OST twenty percent (20%) of the contract 
+value under Category 3 respectively as set forth in the table in 
+Section V of Schedule 2 to this Agreement; and ensure that all 
+
+the relevant contracts are procured in accordance with the 
+applicable World Bank procurement guidelines. 
+
+The Borrower shall exercise its rights under each respective Subsidiary 
+
+Loan Agreement in such manner as to protect the interests of the 
+
+Borrower and the Bank and to accomplish the purposes of the Loan. 
+Except as the Bank shall otherwise agree in writing, the Borrower shall 
+not assign, amend, abrogate or waive any Subsidiary Loan Agreement or 
+any of its provisions.
+
+
+
+3. 
+
+Cc. 
+
+Power Service Contracts 
+
+(a) 
+
+(b) 
+
+(c) 
+
+In implementing Part 4(a) of the Project, the Borrower shall, not later 
+than October 31, 2014, ensure that the Project Implementing Entities 
+
+enter into agreements (the “Power Service Contracts”), satisfactory to the 
+
+Bank, comprising: 
+
+(1) the PSC between KESh and OShEE (the “KESh/OShEE PSC”) 
+setting out OShEE’s obligation to purchase power generated by 
+
+KESh; 
+
+(ii) the PSC between KESh and OST (the “KESh/OST PSC”) setting 
+
+out OST’s obligations to transmit the power generated by KESh; 
+and 
+
+(iii) the PSC between OShEE and OST (the “OShEE/OST PSC”) 
+setting out OST’s obligations to transmit power purchased by 
+
+OShEE. 
+
+The Borrower shall ensure that the PSCs contain information on: (i) daily 
+
+scheduling, deviations and accounting; (ii) monthly energy balance; (iii) 
+
+monthly energy and financial settlement based on methodology 
+
+monitored and established by the market operator and OST; and (iv) the 
+
+monthly payments and guarantees through commercial banks. 
+
+The Borrower shall ensure that the Power Service Contracts are not 
+
+assigned, amended, abrogated or waived without the Bank’s prior 
+
+approval in writing. 
+
+Anti-Corruption 
+
+The Borrower shall ensure that the Project is carried out in accordance with the 
+
+provisions of the Anti-Corruption Guidelines. 
+
+D. 
+
+1. 
+
+Safeguards 
+
+In implementing Parts 2 and 3 of the Project, the Borrower shall cause OShEE 
+
+and OST to ensure that their Respective Parts of the Project are carried out in 
+
+accordance with the Safeguard Frameworks and Safeguard Instruments. To that 
+
+end, the Borrower shall cause OShEE and OST to take the following actions in a 
+manner acceptable to the Bank: 
+
+(a) if any Project activity, pursuant to the Environmental and Social 
+Management Framework (“ESMF”): 
+
+-10-
+
+
+
+(i) 
+
+(ii) 
+
+requires the carrying out of an Environmental and Social Impact 
+
+Assessment (“ESIA”): (A) carry out an ESIA in accordance with 
+
+the requirements of the ESMF and furnish said ESIA to the Bank 
+for review and approval; and (B) disclose said ESIA as required 
+by the ESMF and approved by the Bank; and 
+
+requires the preparation of an Environmental and Social 
+Management Plan (“ESMP”): (A) prepare an ESMP in 
+
+accordance with the ESMF and furnish said ESMP to the Bank 
+
+for review and approval; and (B) disclose said ESMP as required 
+
+by the ESMF and approved by the Bank; and 
+
+  
+
+(b) if a Resettlement Action Plan (“RAP”) is required for any Project 
+activity under OShEE’s or OST’s Respective Part of the Project, on the 
+
+basis of the Resettlement Policy Framework (“RPF”): 
+
+(i) prepare said RAP in accordance with the requirements of the 
+RPF, disclose it locally and furnish it to the Bank for review and 
+
+approval; and 
+
+(ii) ensure that no activity in which land acquisition involving 
+resettlement of any persons shall be commenced until all 
+
+measures required to be taken under said RAP prior to the 
+initiation of said activity have been taken. 
+
+Section I. Project Monitoring Reporting and Evaluation 
+
+A. Project Reports 
+
+The Borrower shall monitor and evaluate the progress of the Project and prepare Project 
+
+Reports in accordance with the provisions of Section 5.08 of the General Conditions and 
+
+on the basis of indicators acceptable to the Bank. Each Project Report shall cover the 
+period of one calendar semester, and shall be furnished to the Bank not later than one 
+month after the end of the period covered by such report. 
+
+B. 
+
+1, 
+
+Financia] Management, Financial Reports and Audits 
+
+The Borrower shall maintain or cause to be maintained a financial management 
+
+system in accordance with the provisions of Section 5.09 of the General 
+
+Conditions. 
+
+The Borrower shall prepare and furnish to the Bank not later than forty-five (45) 
+
+days after the end of each calendar quarter, interim unaudited financial reports 
+for the Project covering the quarter, in form and substance satisfactory to the 
+Bank. 
+
+-|1-
+
+
+
+The Borrower shall have its Financial Statements audited in accordance with the 
+
+provisions of Section 5.09(b) of the General Conditions. Each audit of the 
+
+Financial Statements shall cover the period of one fiscal year of the Borrower, 
+commencing with the fiscal year in which the first withdrawal was made. The 
+
+audited Financial Statements for each such period shall be furnished to the Bank 
+
+not later than six (6) months after the end of such period. 
+
+Section III. Procurement 
+
+General 
+
+Goods and Non-consulting Services. All goods and non-consulting services 
+
+required for the Project and to be financed out of the proceeds of the Loan shall 
+be procured in accordance with the requirements set forth or referred to in 
+
+Section I of the Procurement Guidelines, and with the provisions of this Section. 
+
+Consultants’ Services. All consultants’ services required for the Project and to 
+
+be financed out of the proceeds of the Loan shall be procured in accordance with 
+
+the requirements set forth or referred to in Sections I and IV of the Consultant 
+Guidelines and with the provisions of this Section. 
+
+Definitions. The capitalized terms used below in this Section to describe 
+
+particular procurement methods or methods of review by the Bank of particular 
+contracts refer to the corresponding method described in Sections II and III of the 
+
+Procurement Guidelines, or Sections II, III, IV and V of the Consultant 
+
+Guidelines, as the case may be. 
+
+Particular Methods of Procurement of Goods and Non-consulting Services 
+
+International Competitive Bidding. Except as otherwise provided in paragraph 
+
+2 below, goods and non-consulting services shall be procured under contracts 
+
+awarded on the basis of International Competitive Bidding. 
+
+Other Methods of Procurement of Goods and Non-consulting Services. The 
+
+following methods, other than International Competitive Bidding, may be used 
+
+for procurement of goods and non-consulting services for those contracts 
+
+specified in the Procurement Plan: (a) National Competitive Bidding; (b) 
+Shopping; (c) Direct Contracting and (d) procurement of commodities, following 
+
+the procedures set forth in para 2.68 of the Procurement Guidelines. 
+
+Modifications to the Borrower’s National Competitive Bidding Procedures. 
+
+The National Competitive Bidding procedures (“NCB”) shall be based on the 
+
+Open Tendering procedures as defined in the Public Procurement Law (“PPL”) 
+
+of Albania (Law No. 9643 dated November 20, 2006, as amended), provided, 
+however, that such procedure shall be subject to the provisions of Section I and 
+
+-12-
+
+
+
+Paragraphs 3.3 and 3.4 of the Procurement Guidelines and the following 
+
+additional provisions: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+) 
+
+(k) 
+
+©) 
+
+“Open Tendering” procedures as defined in the PPL of Albania shall 
+apply to all contracts financed by the Bank. 
+
+Foreign bidders shall not be precluded from bidding and no preference 
+of any kind shall be given to national bidders in the bidding process. 
+Government-owned enterprises in Albania shall be permitted to bid only 
+if they are legally and financially autonomous and operate under 
+
+commercial law of the Borrower. Registration shall not be used to 
+assess bidders’ qualifications. 
+
+Bids shall be opened in public in one location, immediately after the 
+deadline for submission of bids in the presence of the representatives 
+
+who choose to attend. 
+
+The procuring entities shall use sample bidding documents as approved 
+
+by the Bank. 
+
+In case of higher bid prices compared to the official estimate, all bids 
+
+shall not be rejected without the prior concurrence of the Bank. 
+
+A single-envelope procedure shall be used for the submission of bids. 
+
+Post-qualification shall be conducted only on the lowest evaluated 
+bidder; no bid shall be rejected at the time of bid opening on 
+qualification grounds. 
+
+Bidders in the form of a joint venture shall be held jointly and severally 
+liable. 
+
+Before rejecting all bids and soliciting new bids, the prior concurrence 
+
+of the Bank shall be obtained. 
+
+Contracts shall be awarded to the lowest evaluated, substantially 
+
+responsive bidder who is determined to be qualified to perform in 
+
+accordance with pre-defined and pre-disclosed evaluation criteria. 
+
+Post-bidding negotiations shall not be allowed with the lowest evaluated 
+or any other bidders. 
+
+Contracts of long duration (more than 18 months) shall contain 
+
+appropriate price adjustment provisions. 
+
+-13-
+
+
+
+D. 
+
+(m) Bid and contract guarantees shall be in the format included in the 
+
+bidding documents. The bid guarantee shall be valid for twenty-eight 
+
+(28) days beyond the original validity period of the bid, or beyond any 
+period of extension if requested. No advance payments shall be made to 
+
+without a suitable advance payment guarantee. 
+
+(n) The bidding document and contract as deemed acceptable by the Bank 
+
+shall include provisions stating the Bank’s policy to sanction firms or 
+individuals, found to have engaged in fraud and corruption as defined in 
+
+the Procurement Guidelines. 
+
+(0) In accordance with the Procurement Guidelines, each bidding document 
+
+and contract financed out of the proceeds of the Loan shall provide that 
+bidders, suppliers and contractors, and their subcontractors, agents, 
+
+personnel, consultants, service providers, or suppliers, shall permit the 
+
+Bank to inspect all accounts, records, and other documents relating to 
+
+the submission of bids and contract performance, and to have them 
+audited by auditors appointed by the Bank. Acts intended to materially 
+
+impede the exercise of the Bank’s inspection and audit rights provided 
+for in the Procurement Guidelines constitute an obstructive practice as 
+defined in the Procurement Guidelines. 
+
+Particular Methods of Procurement of Consultants’ Services 
+
+Quality- and Cost-based Selection. Except as otherwise provided in paragraph 
+2 below, consultants’ services shall be procured under contracts awarded on the 
+
+basis of Quality and Cost-based Selection. 
+
+Other Methods of Procurement of Consultants’ Services. The following 
+
+methods, other than Quality and Cost-based Selection, may be used for 
+
+procurement of consultants’ services for those contracts which are specified in 
+
+the Procurement Plan: (a) Quality-based Selection; (b) Selection based on 
+
+Consultants’ Qualifications; (c) Single-source Selection of consulting firms; (d) 
+
+Procedures set forth in paragraphs 5.2 and 5.3 of the Consultant Guidelines for 
+
+the Selection of Individual Consultants; and (e) Single-source procedures for the 
+Selection of Individual Consultants. 
+
+Review by the Bank of Procurement Decisions 
+
+The Procurement Plan shall set forth those contracts which shall be subject to the Bank’s 
+Prior Review. All other contracts shall be subject to Post Review by the Bank. 
+
+-|4-
+
+
+
+Section IV. 
+
+A. 
+
+1. 
+
+Other Undertakings 
+
+Revenue Escrow Account 
+
+The Borrower shall: 
+
+(a) not later than December 31, 2014, cause OShEE to open a Revenue 
+
+Escrow Account in a financial institution satisfactory to the Bank and 
+deposit its monthly revenues to pay for the transmission and energy 
+purchase costs in accordance with the following schedule: 
+
+(i) for each of the first twelve (12) months, pay eight-five percent 
+
+(85%) of the monthly energy purchase invoice to KESh and 
+
+eight-five percent (85%) of the monthly transmission fees 
+
+invoice to OST; 
+
+(ii) for each of the next twenty-four (24) months, pay ninety-five 
+
+percent (95%) of the monthly energy purchase invoice to KESh 
+
+and ninety-five percent (95%) of the monthly transmission fees 
+
+invoice to OST; 
+
+(iii) for each of the next thirty-six (36) months, pay one hundred 
+
+percent (100%) of the monthly energy purchase invoice to KESh 
+
+and one hundred percent (100%) of the monthly transmission 
+
+fees invoice to OST; and 
+
+(iv) thereafter pay one hundred and five percent (105%) of the 
+
+monthly energy purchase invoice to KESh and 105% of the 
+
+monthly transmission fees invoice to OST until such time as the 
+
+revenue arrears of each Project Implementing Entity are fully 
+
+amortized. 
+
+(b) ensure that any of OShEE’s residual funds remaining after paying KESh 
+
+and OST are transferred to OShEE on a monthly basis; and 
+
+(c) cause OShEE to subject the Revenue Escrow Account to an annual audit 
+
+satisfactory to the Bank. 
+
+Debt Equity Ratio 
+
+Except as the Bank shall otherwise agree, the Borrower shall ensure that OST 
+
+and KESh do not incur any debt if, after the incurrence of such debt, the ratio of 
+
+debt to equity shall be greater than sixty (60) to forty (40). 
+
+For purposes of this Section: 
+
+-15-
+
+
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+The term “debt” means any indebtedness of KESh or OST maturing by 
+its terms more than one year after the date on which it is originally 
+
+incurred. 
+
+Debt shall be deemed to be incurred: (i) under a loan contract or 
+
+agreement or other instrument providing for such debt or for the 
+
+modification of its terms of payment on the date of such contract, 
+agreement or instrument; and (ii) under a guarantee agreement, on the 
+
+date the agreement providing for such guarantee has been entered into. 
+
+The term “equity” means the sum of the total unimpaired paid-up capital, 
+
+retained earnings and reserves of the OST or KESh not allocated to cover 
+
+specific liabilities. 
+
+Whenever for the purposes of this Section it shall be necessary to value, 
+
+in terms of the currency of the Borrower, debt payable in another 
+
+currency, such valuation shall be made on the basis of the prevailing 
+lawful rate of exchange at which such other currency is, at the time of 
+
+such valuation, obtainable for the purposes of servicing such debt, or, in 
+
+the absence of such rate, on the basis of a rate of exchange acceptable to 
+
+the Bank. 
+
+Debt Service Coverage 
+
+Except as the Bank shall otherwise agree in writing, the Borrower shall take all 
+
+the necessary steps to ensure: 
+
+(a) 
+
+(b) 
+
+that OST and KESh shall not incur any debt unless a reasonable forecast 
+
+of the revenues and expenditures of OST and KESh shows that the 
+estimated net revenues of OST and KESh for each fiscal year during the 
+
+term of the debt to be incurred shall be at least one (1.0 ) for the first 
+
+thirty-six (36) months and thereafter one and six tenths (1.6) times the 
+
+estimated debt service requirements of the relevant Project Implementing 
+
+Entity in such year on all debt of the OST and KESh, including the debt 
+
+to be incurred. 
+
+that a reasonable forecast of OShEE’s net revenues and expenditures 
+
+demonstrates that the ratio of estimated net revenue to debt service 
+
+requirements is as follows: 
+
+(i) within thirty-six (36) months of the Effective Date, six tenths 
+
+(0.6); 
+
+(ii) within the subsequent thirty-six (36) months, one (1.0); and 
+
+-16-
+
+
+
+(iii) thereafter, one and six tenths (1.6). 
+
+For the purposes of this Section: 
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+The term “debt” means any indebtedness of the Project Implementing 
+Entities maturing by its terms more than one year after the date on which 
+
+it is originally incurred. 
+
+Debt shall be deemed to be incurred: (i) under a loan contract or 
+agreement or other instrument providing for such debt or for the 
+
+modification of its terms of payment on the date of such contract, 
+agreement or instrument; and (i) under a guarantee agreement, on the 
+date the agreement providing for such guarantee has been entered into. 
+
+The term “net revenues” means the difference between: 
+
+(1) the sum of revenues from all sources related to operations and 
+net non-operating income; and 
+
+(11) the sum of all expenses related to operations including 
+administration, adequate maintenance, taxes and payments in 
+lieu of taxes, but excluding provision for depreciation, other non- 
+
+cash operating charges and interest and other charges on debt. 
+
+The term “net non-operating income” means the difference between: 
+
+(i) revenues from all sources other than those related to operations; 
+
+and 
+
+(ii) expenses, including taxes and payments in lieu of taxes, incurred 
+
+in the generation of revenues in (i) above. 
+
+The term “debt service requirements” means the aggregate amount of 
+
+repayments (including sinking fund payments, if any) of, and interest and 
+
+other charges on, debt. 
+
+The term “reasonable forecast” means a forecast prepared by the 
+respective Project Implementing Entity not earlier than twelve months 
+
+prior to the incurrence of the debt in question, which both the Bank and 
+
+the Borrower accept as reasonable and as to which the Bank has notified 
+
+the Borrower of its acceptability, provided that no event has occurred 
+
+since such notification which has, or may reasonably be expected in the 
+future to have, a material adverse effect on the financial condition or 
+
+future operating results of the applicable Project Implementing Entity. 
+
+-17-
+
+
+
+D. 
+
+(g) Whenever for the purposes of this Section it shall be necessary to value, 
+
+in terms of the currency of the Borrower, debt payable in another 
+
+currency, such valuation shall be made on the basis of the prevailing 
+lawful rate of exchange at which such other currency is, at the time of 
+
+such valuation, obtainable for the purposes of servicing such debt, or, in 
+
+the absence of such rate, on the basis of a rate of exchange acceptable to 
+
+the Bank. 
+
+Business Plans 
+
+The Borrower shall cause each Project Implementing Entity to prepare and submit to the 
+Bank and the Borrower no later than December 31 of each year, a five year business plan 
+including associated financial projections, in form and substance satisfactory to the Bank. 
+
+E. 
+
+1. 
+
+F. 
+
+Power Sector Financial Recovery Plan 
+
+The Borrower shall, no later than October 30, 2014, submit to the Bank a Power 
+
+Sector Financial Recovery Plan, satisfactory to the Bank and including, but not 
+
+limited to, sources of funding for: (a) power imports not financed by the Project; 
+(b) retail power subsidies; (c) payments made to private power producers; and (d) 
+
+projected financial deficits for the power sector. 
+
+Except as the Bank shall otherwise agree in writing, the Borrower shall not 
+
+assign, amend, abrogate or waive the Power Sector Financial Recovery Plan or 
+any of its provisions. 
+
+OShEE Debt Service Obligations and Restructuring 
+
+The Borrower shall take all measures necessary to ensure that all OShEE’s debt service 
+
+obligations are met and shall inform and consult with the Bank on any proposed 
+restructuring of OShEE and thereafter only undertake such restructuring as shall have 
+
+been agreed in writing with the Bank. 
+
+Section V. Withdrawal of Loan Proceeds 
+
+A. 
+
+1. 
+
+General 
+
+The Borrower may withdraw the proceeds of the Loan in accordance with the 
+
+provisions of Article II of the General Conditions, this Section, and such 
+
+additional instructions as the Bank shall specify by notice to the Borrower 
+(including the “World Bank Disbursement Guidelines for Projects” dated May 
+
+2006, as revised from time to time by the Bank and as made applicable to this 
+
+Agreement pursuant to such instructions), to finance Eligible Expenditures as set 
+
+forth in the table in paragraph 2 below. 
+
+-18-
+
+
+
+2. The following table specifies the categories of Eligible Expenditures that may be 
+
+financed out of the proceeds of the Loan (“Category”), the allocation of the 
+
+amounts of the Loan to each Category, and the percentage of expenditures to be 
+financed for Eligible Expenditures in each Category. 
+
+  
+
+Amount of the Loan 
+
+Allocated 
+
+Percentage of 
+
+Expenditures to be 
+
+financed 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+        
+
+Category (expressed in Euros) (exclusive of Taxes) 
+
+(1) Short Term Power 22,419,750 100% 
+
+Purchases under Part | of 
+
+the Project 
+(2) Goods, Consulting 69,500,000 90% 
+services, non-consulting 
+
+services, and Training 
+under Part 2 of the Project 
+(3) Goods, Consulting 14,950,000 80% 
+
+services, and non- 
+
+consulting services under 
+Part 3 of the Project 
+(4) Goods, consulting 4,950,000 100% 
+
+services, non-consulting 
+
+services, Training, and 
+
+Operating Costs under Part 
+4 of the Project 
+
+(5) Front-end Fee 280,250 Amount payable pursuant 
+
+to Section 2.03 of this 
+
+Agreement in accordance 
+
+with Section 2.07(b) of the 
+
+General Conditions 
+
+TOTAL AMOUNT 112,100,000 
+  
+
+B. Withdrawal Conditions; Withdrawal Period 
+
+1, Notwithstanding the provisions of Part A of this Section, no withdrawal shall be 
+
+made for payment made prior to the date of this, except that withdrawals up to an 
+
+aggregate amount not to exceed €100,000 equivalent may be made for payments 
+
+made prior to this date but on or after September 29, 2013, for Eligible 
+
+Expenditures under Category 4. 
+
+2. The Closing Date is November 30, 2019. 
+
+-19- 
+
+ 
+
+
+
+SCHEDULE 3 
+
+The following table sets forth the Principal Payment Dates of the Loan and the 
+percentage of the total principal amount of the Loan payable on each Principal 
+Payment Date (“Installment Share”). If the proceeds of the Loan have been fully 
+
+withdrawn as of the first Principal Payment Date, the principal amount of the 
+Loan repayable by the Borrower on each Principal Payment Date shall be 
+
+determined by the Bank by multiplying: (a) Withdrawn Loan Balance as of the 
+
+first Principal Payment Date; by (b) the Installment Share for each Principal 
+
+Payment Date, such repayable amount to be adjusted, as necessary, to deduct any 
+
+amounts referred to in paragraph 4 of this Schedule, to which a Currency 
+Conversion applies. 
+
+  
+
+  
+
+    
+
+Installment Share 
+
+. (Expressed as a 
+Principal Payment Date Percentage) 
+
+On each November 15 and May 15 3.23% 
+
+Beginning November 15 , 2021 
+through and including May 15, 2036 
+
+On November 15, 2036 3.1%     
+  
+
+If the proceeds of the Loan have not been fully withdrawn as of the first Principal 
+Payment Date, the principal amount of the Loan repayable by the Borrower on 
+
+each Principal Payment Date shall be determined as follows: 
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of 
+
+the first Principal Payment Date, the Borrower shal] repay the 
+Withdrawn Loan Balance as of such date in accordance with paragraph 1 
+
+of this Schedule. 
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be 
+
+repaid on each Principal Payment Date falling after the date of such 
+withdrawal in amounts determined by the Bank by multiplying the 
+amount of each such withdrawal by a fraction, the numerator of which is 
+
+the original Installment Share specified in the table in paragraph 1 of this 
+Schedule for said Principal Payment Date (“Original Installment Share’) 
+
+and the denominator of which is the sum of all remaining Original 
+Installment Shares for Principal Payment Dates falling on or after such 
+
+date, such amounts repayable to be adjusted, as necessary, to deduct any 
+
+-20-
+
+
+
+(a) 
+
+(b) 
+
+amounts referred to in paragraph 4 of this Schedule, to which a Currency 
+
+Conversion applies. 
+
+Amounts of the Loan withdrawn within two calendar months prior to any 
+
+Principal Payment Date shall, for the purposes solely of calculating the 
+principal amounts payable on any Principal Payment Date, be treated as 
+
+withdrawn and outstanding on the second Principal Payment Date 
+following the date of withdrawal and shall be repayable on each 
+
+Principal Payment Date commencing with the second Principal Payment 
+
+Date following the date of withdrawal. 
+
+Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if 
+at any time the Bank adopts a due date billing system under which 
+
+invoices are issued on or after the respective Principal Payment Date, the 
+
+provisions of such sub-paragraph shall no longer apply to any 
+withdrawals made after the adoption of such billing system. 
+
+Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a 
+
+Currency Conversion of all or any portion of the Withdrawn Loan Balance to an 
+
+Approved Currency, the amount so converted in the Approved Currency that is 
+
+repayable on any Principal Payment Date occurring during the Conversion 
+Period, shall be determined by the Bank by multiplying such amount in its 
+
+currency of denomination immediately prior to the Conversion by either: (1) the 
+exchange rate that reflects the amounts of principal in the Approved Currency 
+
+payable by the Bank under the Currency Hedge Transaction relating to the 
+
+Conversion; or (ii) if the Bank so determines in accordance with the Conversion 
+
+Guidelines, the exchange rate component of the Screen Rate. 
+
+-21-
+
+
+
+APPENDIX 
+
+Definitions 
+
+“Anti-Corruption Guidelines” means the “Guidelines on Preventing and 
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA 
+
+Credits and Grants”, dated October 15, 2006 and revised in January 2011. 
+
+“Bid Evaluation Committees” means the committees to be established by the 
+
+Borrower in consultation with MoEI comprising members of the PMU and the 
+
+PIUs to evaluate the Project bidding documents and referred to in Section 
+
+1.A.1(c) of Schedule 2 to this Agreement. 
+
+“Category” means a category set forth in the table in Section IV of Schedule 2 to 
+this Agreement. 
+
+“CEZ Shperndarje” or “CEZ Sh” means a power distribution company 
+
+established and operating pursuant to the law on the Establishment of the 
+
+Distribution System Operator JSC dated June 8, 2007, or its legal successor. 
+
+“Consultant Guidelines” means the “Guidelines: Selection and Employment of 
+Consultants under IBRD Loans and IDA Credits and Grants by World Bank 
+
+Borrowers” dated January 2011, and revised July 2014. 
+
+“Displaced Persons” means persons who, on account of the execution of the 
+
+Project would suffer direct economic and social impacts resulting in: (a) the 
+involuntary taking of land resulting in: (i) relocation or loss of shelter; (ii) loss of 
+
+assets or access to assets; and (iii) loss of income sources or means of livelihood, 
+
+whether or not the affected persons must move to another location; or (b) the 
+
+involuntary restriction of access to legally designated parks and protected areas 
+
+resulting in adverse impacts on the livelihoods of said persons. 
+
+“Environmental and Social Impact Assessment” or “ESIA” means, with respect 
+
+to each activity under Parts 2 and 3 of the Project pursuant to which the ESMF 
+
+requires an environmental and social impact assessment, such assessment carried 
+
+out to this Agreement, in accordance with the ESMF; and “ESIAs” means more 
+
+than one ESIA. 
+
+“Environmental and Social Management Framework” or “ESMF” means the 
+
+environmental and social framework prepared by the OShEE and disclosed 
+locally on OShEE website on April 23, 2014 and on the Bank’s Infoshop on 
+April 25, 2014, setting forth the modalities for environmental screening and 
+
+procedures for the preparation and implementation of environmental and social 
+
+impact assessments and environmental and/or social management plans under 
+
+-22-
+
+
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+Parts 2 and 3 of the Project, and such term includes all schedules and annexes to 
+the ESMF. 
+
+“Environmental and Social Management Plan” or “ESMP” means, with respect 
+
+to each activity under Part 2 of the Project pursuant to which the ESMF and the 
+
+ESIA of said activity requires an environmental and social management plan, 
+
+such plan prepared in accordance with the ESMF and ESIJA pursuant to the 
+
+provisions of Section I.D of Schedule 2 to this Agreement, and “ESMPs” means 
+more than one ESMP. 
+
+“General Conditions” means the “International Bank for Reconstruction and 
+
+Development General Conditions for Loans”, dated March 12, 2012. 
+
+“Korporata Elektroenergjetike Shqiptare” or “KESh” means a power generation 
+
+company, established and operating pursuant the law on Establishment of 
+
+Albanian Power Corporation JSC dated October 10, 1995, or its legal successor 
+
+thereto. 
+
+“KESh/ OShEE PSC” means a Power Service Contract between KESh and the 
+
+OShEE referred to in Section I.B.3 (a) (i) of Schedule 2 to this Agreement. 
+
+“KESh/OST PSC” means a Power Service Contract between KESh and OST 
+
+referred to in Section I.B.3 (a) (it) of Schedule 2 to this Agreement. 
+
+“LEK” means the Borrower’s local currency. 
+
+“Medium Voltage Consumers” means the customers connected in 35/20/10/6 kV 
+
+distribution network. 
+
+“MoEI” means the Borrower’s Ministry of Energy and Industry or its legal 
+
+successor thereto. 
+
+“Operating Costs” means incremental operating costs incurred on account of 
+Project implementation, management, monitoring and supervision (as such 
+
+expenditures are set forth in the PMUs annual budget), including office supplies, 
+office equipment maintenance, software/user license fees, communication, local 
+
+travel, vehicles operation and maintenance and salaries of the PMU staff (but 
+excluding the salary of civil servants of the Borrower). 
+
+“Operatori i Sistemit té Transmetimit” or “OST” means a joint stock power 
+
+transmission company, established and operating pursuant the law on the 
+
+Establishment of Transmission System Operator JSC dated April 12, 2003 or its 
+
+legal successor thereto. 
+
+-23-
+
+
+
+19. 
+
+20. 
+
+21. 
+
+22, 
+
+23. 
+
+24, 
+
+25. 
+
+26, 
+
+27. 
+
+28. 
+
+“OShEE” or “Operatori i Shperndarjes se Energjise Elektrike” means a joint 
+
+stock power distribution company and legal successor to CEZ Sh. 
+
+“OShEE Performance Management Program” means an action plan comprising a 
+
+set of measures undertaken by MoEI and OShEE for the purpose of improving 
+the performance of OShEE and as a basis for a results-based contract with 
+OShEE’s management. 
+
+“OShEE/OST PSC” means the Power Service Contract between OShEE and 
+
+OST referred to in Section [.B.2 (a) (iti) of Schedule 2 to this Agreement. 
+
+“Power Sector Financial Recovery Plan” means the plan to be prepared and 
+approved by the Council of Ministers, setting out the actions required to, among 
+others, improve efficiency, reduce losses, improve cash collection, and cover 
+unfunded deficits, in order for the power sector to become a self-sustaining 
+sector. 
+
+“Power Service Contract” or “PSC” means the OShHEE/OST PSC, KESh/OShEE 
+
+PSC and the KESh/OST PSC referred to in Section I.B.3 of Schedule 2 to this 
+
+Agreement. 
+
+“Procurement Guidelines” means the “Guidelines: Procurement of Goods, Works 
+
+and Non-consulting Services under IBRD Loans and IDA Credits and Grants by 
+World Bank Borrowers” dated January 2011, and revised July 2014. 
+
+“Procurement Plan” means the Borrower’s procurement plan for the Project, 
+
+dated August 1, 2014 and referred to in paragraph 1.18 of the Procurement 
+
+Guidelines and paragraph 1.25 of the Consultant Guidelines, as the same shall be 
+updated from time to time in accordance with the provisions of said paragraphs. 
+
+“Project Implementing Entities” means KESh, OShEE, and OST, and Project 
+
+Implementing Entity means each one of them. 
+
+“Project Implementing Entities’ Legislation” means all the relevant legislation in 
+connection with the establishment and operation of the Project Implementing 
+Entities including the laws on: (a) Establishment of Albanian Power Corporation 
+
+JSC dated October 17, 1995; (b) Establishment of Transmission System Operator 
+JSC dated April 12, 2003; and (c) Establishment of the Distribution System 
+
+Operator JSC dated June 8, 2007. 
+
+“Project Implementing Units’ means the units to be established within each 
+
+Project Implementing Entity pursuant to an order to be issued by MOEI and 
+
+referred to in Section 1.A.2 of Schedule 2 to this Agreement. 
+
+-24-
+
+
+
+29. 
+
+30. 
+
+31. 
+
+32. 
+
+33. 
+
+34. 
+
+35. 
+
+36. 
+
+37. 
+
+“Project Management Unit” means a unit to be established within MoEI pursuant 
+
+to an order to be issued by MoEI including key staff to be recruited for the 
+Project and referred to in Section I.A.1 of Schedule 2 to this Agreement 
+
+“Project Operations Manual” means the manual prepared in accordance with 
+
+Section 1.B.1 of Schedule 2 to this Agreement and confirmed to be satisfactory by 
+the Bank and adopted by the Borrower, describing and setting forth procedures for 
+
+implementation of the Project and institutional arrangements, consistent with the 
+provisions of this Agreement and with applicable laws and regulations and 
+including, inter alia, timetables of actions required to be carried out under the 
+
+Project, the respective roles and responsibilities of the Project Implementing 
+
+Entities and MoE] involved in the implementation of the Project as the same may 
+be amended from time to time. 
+
+“Resettlement Action Plan” or “RAP” means, for any Project activity under Parts 
+2 and 3 of the Project involving Displaced Persons, a resettlement action plan for 
+such activity prepared and implemented in accordance with the RPF pursuant to 
+the provisions of Section I.D of Schedule 2 too this Agreement. 
+
+“Resettlement Policy Framework” or “RPF” means the framework of the 
+Borrower dated and disclosed locally on April 24, 2014, setting forth the 
+modalities for resettlement and compensation of Displaced Persons under Parts 2 
+
+and 3 of the Project. 
+
+“Revenue Escrow Account” means the account referred to in Section IV.B.1 of 
+
+Schedule 2 to this Agreement. 
+
+“Risk Management Strategy” means a study to be carried out by the Borrower 
+under Part 4 (d) of the Project for the purpose of mitigating weather volatility and 
+its impact in the power sector. 
+
+“Safeguard Framework” means the ESMF or RPF as the context may require; 
+and “Safeguard Frameworks” means, collectively, both of said frameworks. 
+
+“Safeguard Instrument” means an ESIA, ESMP or a RAP for a Project activity 
+under Parts 2 and 3 of the Project, as the context may require; and “Safeguard 
+Instruments” means, collectively, all such assessments or plans for Parts 2 and 3 
+
+of the Project. 
+
+“Subsidiary Loan Agreement” means the agreement referred to in Section I.B.2 
+
+of Schedule 2 to this Agreement pursuant to which the Borrower shall make a 
+part of the proceeds of the Loan available to the respective Project Implementing 
+
+Entities. 
+
+-25-
+
+
+
+38. 
+
+39. 
+
+“Transmission Meter/Data Center” means the facility that is responsible for data 
+acquisition, metering for Medium Voltage Customers, feeders and independent 
+
+power producers. 
+
+“Training” means the reasonable costs associated with local and international 
+
+training, workshop and study tour of personnel involved in Project activities, as 
+
+specified in the Annual Work Plan and Budget including, said costs to consist of 
+
+travel, accommodation and subsistence for training, workshop and study tour 
+participants, costs associated with securing the services of trainers, rental of 
+
+training and workshop facilities, preparation and reproduction of training and 
+workshop materials, and other costs directly related to training course, workshop 
+or study tour preparation and implementation (but excluding costs of consulting 
+
+services). 
+
+-26-

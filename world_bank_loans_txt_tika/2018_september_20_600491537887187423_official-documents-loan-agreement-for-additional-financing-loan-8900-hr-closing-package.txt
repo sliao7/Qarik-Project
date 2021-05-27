@@ -1,0 +1,614 @@
+World Bank Document
+
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8900-HR
+
+Loan Agreement
+
+(Additional Financing for the Integrated Land Administration System Project)
+
+between
+
+REPUBLIC OF CROATIA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+LOAN AGREEMENT
+
+AGREEMENT dated as of the Signature Date between REPUBLIC OF CROATIA
+("Borrower") and INTERNATIONAL BANK FOR RECONSTRUCTION AND
+DEVELOPMENT ("Bank") for the purpose of providing additional financing for the activities
+related to the Original Project (as defined in the Appendix to this Agreement). The Borrower and
+the Bank hereby agree as follows:
+
+ARTICLE I - GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) apply to and form
+part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used in this Agreement have
+the meanings ascribed to them in the General Conditions or in the Appendix to this
+Agreement.
+
+ARTICLE II- LOAN
+
+2.01. The Bank agrees to lend to the Borrower the amount of nineteen million seven hundred
+thousand Euro (EUR 19,700,000), as such amount may be converted from time to time
+through a Currency Conversion ("Loan"), to assist in financing the project described in
+Schedule 1 to this Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance with Section fI of
+Schedule 2 to this Agreement
+
+2.03. The Front-end Fee is one quarter of one percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge is- one quarter of one percent (0.25%) per annum on the
+Unwithdrawn Loan Balance.
+
+2.05. The interest rate is the Reference Rate plus the Fixed Spread or such rate as may apply
+following a Conversion; subject to Section 3.02(e) of the General Conditions.
+
+2.06. The Payment Dates are May 15 and November 15 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with Schedule 3 to this
+Agreement.
+
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objective of the Project. To this end, the
+Borrower shall carry out the Project in accordance with the provisions of Article V of the
+General Conditions and Schedule 2 to this Agreement.
+
+
+
+ARTICLE IV - EFFECTIVENESS; TERMINATION
+
+4.01. The Additional Condition of Effectiveness consists of the following, namely that the
+Borrower through MOJ and SGA, shall update the Project Operational Manual, in a
+manner satisfactory to the Bank.
+
+4.02. The Effectiveness Deadline is the date ninety (90) days after the Signature Date.
+
+4.03. For purposes of Section 9.05(b) of the General Conditions, the date on which the
+obligations of the Borrower under this Agreement (other than those providing for payment
+obligations) shall terminate twenty years after the Signature Date.
+
+ARTICLE V - REPRESENTATIVE; ADDRESSES
+
+5.01. The Borrower's Representative is its minister in charge of finance o any successor thereto.
+
+5.02. For purposes of Section 10.01 of the General Conditions:
+
+(a) the Borrower's address is:
+
+Ministry of Finance
+Katandi6eva 5
+10000 Zagreb
+Republic of Croatia
+; and
+
+(b) the Borrower's Electronic Address is:
+
+Facsimile:
+(385-1) 4922-598
+
+5.03. For purposes of Section 10.01 of the General Conditions: (a) the Bank's address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America; and
+
+(b) the Bank's Electronic Address is:
+
+Telex: Facsimile:
+
+248423(MCI) or 1-202-477-6391
+64145(MCI)
+
+
+
+-3-
+
+AGREED as of the Signature Date.
+
+REPUBLIC OF CROATIA
+
+By
+C-
+
+u oi(h d Representative
+
+Name: Z'DP-AVk90 ,4AVC
+
+Title: O/~1T,~FrP4AC
+
+Date: 56 7e4 & 6-1- 2Qj4
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By
+
+thorized Representative
+
+Name: fL/5A B77A CAk'we-
+
+Title: COvr4e y yAdnA a'A6g-nr
+
+Date: SCP r A 6-12- 2 O9.0 2 fOW?
+
+
+
+-4-
+
+SCHEDULE 1
+
+Project Description
+
+The objective of the Project is to modernize the land administration and management
+system to improve the efEciency, transparency and cost effectiveness of government services.
+
+The Project consists of the following parts:
+
+Part A. Land Registration System Development
+
+1. Provision of hardware and software to MOJ to store and manage its scanned data, and to
+manage the location and retrieval processes for the paper records.
+
+2. Tecluical preparation and renovation (including supervision of works) of a building to
+establish MOs central analogue archive for registration records; and provision of scanners,
+furniture. shelving and other archive and office equipment for such archive.
+
+3. Provision of scanning equipment for all LROs so that incoming documents can be scanned
+on arrival and included within the JIS.
+
+4. Technical preparation and renovation (including supervision of works) of a building to
+relocate the Zagreb LRO: provision of furniture and equipment for the new Zagreb LRO; and
+binding of land registry documents.
+
+5. Support to LROs to improve their operational efficiency.
+
+Part B. Spatial Information and Cadastre System Modernization
+
+I. Scanning and indexing of cadastre documents, through the provision of works, goods and
+consultants' services; preparation of a study on optimization of the SGA digital archive system;
+and provision of equipment for the SGA data conversion centers.
+
+2. Completion of the renovation of SGA's regional office in Sisak; upgrade of the SGA data
+center to ensure continuity of operation in the case of power outages. improve the SGA human
+resource management system; and support to cadastral offices through the provision of consultants'
+services.
+
+3. Upgrade of SGA's control center for the Croatian Positioning System Lhrough the
+provision of equipment and software.
+
+4. Transformation of different types of infrastructure elaborates into a standard compliant
+with the newly designed infrastructure cadastre; compilation of an initial dataset for the building
+register; preparation of the documents required to procure the building register system; and
+development of a cartographic database.
+
+
+
+-5 -
+
+Part C. Improving Digital Services
+
+I. Cadastral field surveys, public displays of cadastral surveys, and harmonization 
+of
+
+cadastral and land registry data.
+
+2. Development of new e-services and changes to business processes.
+
+3. Support the implementation of MOJ's and SGA's joint cadastre and land registration
+
+strategy.
+
+Part D. Project Management, Training and Public Awareness
+
+1. Support to the PIU for the implementation of the Project, through the provision of goods,
+
+consultants' services, Training and Operating Costs, including audit.
+
+2. Carrying out of annual training programs for SGA and MOJ staff.
+
+3. Improving public awareness of the real property registration and cadaster system reform
+
+and carrying out of a customer satisfaction survey.
+
+
+
+-6-
+
+SCHEDULE 2
+
+Project Execution
+
+Section 1. Implementation Arrangements
+
+A. Institutional Arrangements
+
+1. The MOJ shall be solely responsible for implementation of Part A of the Project and shall
+have joint responsibility, together with the SGA, for implementation of Parts C and D of the
+Project, as further specified in the Project Implementation Plan. A Project coordinator within the
+MOJ shall be responsible for day-to-day coordination, flow of information and decision-making
+related to the activities under the Project for which MOJ is responsible. To this end, the Borrower
+shall, through the MOJ, ensure that the Project coordinator position within the MOJ is filled and
+adequately fanded throughout the duration of the Project, in a manner acceptable to the Bank.
+
+2. The SGA shall be responsible for implementation of Part B of the Project and shall have
+joint responsibility, together with MOJ, for Parts C and D of the Project, as further specified in the
+Project Implementation Plan. A Project coordinator within the SGA shall be responsible for day-
+to-day coordination, flow of information and decision making related to the activities under the
+Project for which SGA is responsible. To this end, the Borrower shall, through SGA. ensure that
+the Project coordinator position within the SGA is filled and adequately funded throughout the
+duration of the Project, in a manner acceptable to the Bank.
+
+1 The Borrower shall, through MOJ and SGA, throughout the duration of the Project,
+maintain the PIU, with a composition, funding resources and terms of reference acceptable to the
+Bank. The PIU shall be responsible for overseeing the procurement, financial management,
+disbursement, monitoring and evaluation, safeguards compliance and technical aspects (including
+oversight of works) related to the implementation of the Project..
+
+4. The Borrower shall, though MOJ and SGA, throughout the duration of the Project,
+maintain the Project Steering Committee with a composition and terms of reference acceptable to
+the Bank and ensure that the Project Steering Committee meets at least twice a year. The Project
+Steering Committee shall be responsible for inter-ministerial coordination and strategic and policy
+decisions related to Project implementation.
+
+B. Implementation Arrangements
+
+. The Borrower shall, through MOJ and SGA, ensure that the Project is implemented in
+accordance with the terms of the Agreement on the Implementation of the Integrated Land
+Administration System Project, the Project Implementation Plan and the Project Operational
+Manual, and shall not amend, suspend, abrogate, repeal or waive any provision in the Agreement
+on the Imp:ementation of the Integrated Land Administration System Project, the Project
+Implementation Plan or the Project Operational Manual without prior written approval by the
+Bank. In case ofany conflict between the Agreement on the Implementation of the Integrated Land
+Administration System Project, the Project Implementation Plan and the Project Operational
+Manual, and the provisions of this Agreement shall prevail
+
+
+
+2. The Borrower shall, through MOJ and SGA, maintain a permanent management
+organization for the ITS, in a manner satisfactory to the Bank.
+
+3. The Borrower shall, through the PIU, on December I of each year, starting on December
+', 2018. submit to the Bank for review and approval an annual training plan for the Project for the
+following calendar year.
+
+4. The Borrower shall, through the PRU, by not later than September 1, 2018, or such later
+date to be agreed with the Bank, submit to the Bank for review and approval the plan for public
+displays of cadastral surveys referred to in Part C. 1 of the Project in Schedule 1 of the Agreement.
+
+5. The Borrower shall, through the PIU, by not later than November 30, 2018, or such later
+date agreed with the Bank, submit to the Bank for review and approval the joint cadastre and land
+registration strategy referred to in Part C.3 of the Project in Schedule I of the Agreement.
+
+C. Annual Work and Financial Plans
+
+I. The Borrower, through the PI: (i) shall prepare and furnish to the Bank not later than
+July 15, 2018 and then September 30 of each year during the implementation of the Project for its
+approval within forty-five (45) calendar days, an Annual Work and Financial Plan containing all
+eligible Project activities and expenditures for the Project that are planned for the following fiscal
+year of the Borrower (for each such expenditures, with the source of funds and its corresponding
+percentage of financing), as well as a cashiflow and disbursement forecast; and (ii) shall ensure
+that the Project is implemented in accordance with the approved annual work and financial plans
+(provided, however, that in case of any conflict between the annual work and :Tnancial plans and
+the provisions of this Agreement, the provisions of this Agreement shall prevail).
+
+2. The Borrower, through the PIU, shall not make or allow to be made any change to the
+approved annual work and financial plan without prior approval in writing by the Bank.
+
+D. Safeguards
+
+I. The Borrower shall, through MOJ and SGA, carry out the Project in accordance with the
+Environmental and Social Management Framework and shall not amend, suspend, abrogate, repeal
+or waive any provision of the Environmental and Social Management Framework without the prior
+approval by the Bank.
+
+2 The Borrower shall, through the MOJ and SGA, for purposes of Parts A.2, A.- and B.2 of
+the Project and
+
+(a) prior to the bidding of any works contracts, furnish to Bank evidence satisfactory
+to the Bank that updates satisfactory to the Bank of the ESMF have been made,
+consulted and disclosed; and
+
+(b) pror to the commencement of works on each proposed site, submit to the Bank
+for the Bank's approval: (i) the site-specific environmental and social management
+plan and checklist, said site specific plan and checklist to be in form and substance
+satisfactory to the Bank; and (ii) the proposed contract for said works in order to
+ensure that the provisions of the site specific environmental and social
+management plan and checklist are adequately included in the respective contract.
+
+
+
+-8-
+
+Section I. Project Monitoring Reporting and Evaluation
+
+The Borrower shall, through MOJ and SGA, furnish to the Bank each Project Report not
+later than one month after the end of each quarter, covering the quarter.
+
+Section I1I. Withdrawal of Loan Proceeds
+
+A. General.
+
+Without limitation upon the provisions of Article II of the General Conditions and in
+accordance with the Disbursement and Financial Information Letter, the Borrower may withdraw
+the proceeds of the Loan to finance Eligible Expenditures in the amount allocated and, if applicable,
+up to the percentage set forth against the Category of the following table:
+
+Amount of the Loan 1 Percentage of Expenditures
+Allocated to be financed
+
+Category (expressed in EUR) (inclusive of Taxes)
+Goods, works, non-consulting 19,700,000 100%
+services, consulting services,
+Technical Services, Training
+and Operating Costs for the
+Project
+
+TOTAL AMOUNT 19,700,000
+
+B. Withdrawal Conditions; Withdrawal Period.
+
+1. Notwithstanding the provisions of Part A above, no withdrawal shall be made for payments
+made prior to the Signature Date except that withdrawals up to an aggregate amount not to exceed
+EUR 865,000 may be made for payments made prior to this date but on or after February 23, 2018,
+for Eligible Expenditures.
+
+2. The Closing Date is July 15, 2021.
+
+
+
+-9-
+
+SCHEDULE 3
+
+Commitment-Linked Amortization Repayment Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the percentage of the
+total principal amount of the Loan payable on each Principal Payment Date ("Installment Share").
+
+Level Principal Repayments
+Principal Payment Date Installment Share 1
+
+On each May 15 and November 15
+Beginning November 15, 2021
+through November 15, 2027 7.14%
+
+_nMay 15, 2028 7.18%
+
+
+
+- 10-
+
+APPENDIX
+
+Section 1. Definitions
+
+1. "Agreement on the Implementation of the Integrated Land Administration System Project"
+means the agreement between the MOJ and the SGA dated May 16, 2011, setting forth the
+relationship and responsibilities of the MOJ and SGA regardng Project preparation and
+implementation.
+
+2. "Annual Work and Financial Plan" means the work plan and budget prepared annually by
+the Borrower, through the PIU, and approved by the Bank in accordance with Section I.C
+of Schedule 2 to this Agreement; "Annual Work and Financial Plans" means more than
+one such Annual Work and Financial Plan.
+
+3. "Anti-Corraption Guidelines" means, for purposes of paragraph 5 of the Appendix to the
+General Conditions, the "Guidelines on Preventing and Combating Fraud and Corruption
+in Projects Financed by IBRD Loans and IDA Credits and Grants", dated October 15, 2006
+and revised in January 2011 and as of July 1, 2016.
+
+4. "Category" means the category set forth in the table in Section ILLA of Schedule 2 to this
+Agreement.
+
+5. "Croatian Positioning System" or "CROPOS" means the Croatian system for satellite
+positioning.
+
+6. "Environmental and Social Management Framework" means the framework dated March
+31, 2011 to be updated, consulted and disclosed as set forth in Section FD 2(a) of Schedule
+2 to this Agreement and consisting of: the environmental procedures guiding review and
+assessments of impacts, and the set of mitigation, monitoring, and institutional measures
+required for the Project and to be taken to eliminate adverse environmental impacts, offset
+them, or reduce them to acceptable lccls, as well as actions needed to implement said
+measures, including the measures and information required for the preparation of site-
+specific environmental management plans; and provisions on physical cultural resources
+and mitigating measures as required pursuant to the Bank's OP 4.11.
+
+7. "General Conditions" means the "International Bank for Reconstruction and Development
+General Conditions for IBRD Financing, Investment Project Financing", dated July 14,
+2017.
+
+8. IS" means the Bon-ower's Joint Information System for registrdtionr and cadastre.
+
+9. "LRO" means Land Registry Offices within the Borrower's municipal courts.
+
+10. "MOF" means the Borrower's Ministry of Finance, and includes any successor thereto.
+
+11. "MOJ" means the Borrower's Ministry of Justice. and includes any successor thereto.
+
+12. "Original Loan" means the loan made pursuant to the terms of the Loar- Agreement.
+
+
+
+- 11 -
+
+13. "Original Loan Agreement" means the loan agreement for the Integrated Land
+Administration Project between the Borrower and the Bank, dated August 17, 2011 as
+amended on January 17, 2014, August 13, 2015 and April 14, 2017 (Loan Number 8086-
+HR).
+
+14. "Original Project" means the Project described in Schedule I to the Original Loan
+Agreement.
+
+15. "Operating Costs" means expenditures incurred by the Borrower on account of the Project
+implementation for office supplies, utilities, bank charges, communication tools,
+advertisement fees, translation and interpretation services, transportation, car rental and
+fuel costs, office rental and maintenance, moving expenses, equipment maintenance and
+repair, printing and publications, travel costs (including per diem allowances and
+accommodation costs) for PTU, SGA, LRO and MOJ staff, , insurance for goods and
+salaries for PlU staff, including qualified social charges, but excluding salaries for the
+Borrower's civil servants.
+
+16. "Performance Indicators" means the indicators to be used for purposes of monitoring the
+progress of the Project agreed between the Borrower and the Bank on March 28, 2018.
+
+17. "Procurement Regulations" means, for purposes of paragraph 85 of the Appendix to the
+General Conditions, the "World Bank Procurement Regulations for IPF Borrowers", dated
+July 2016, revised November 2017.
+
+18. "PIP" means the Project Implementation Plan prepared by the Borrower and satisfactory
+to the Bank, setting forth the detailed implementation schedule and arrangements for the
+Project, as the same may be amended and supplemented from time to time with the Bank's
+prior written approval.
+
+19. "PrU" means the Borrower's Project Implementation Unit, maintained by the Borrower in
+accordance with Section I.A.3 of Schedule 2 to this Agreement.
+
+20 "Project Operational Manual" or "POM" means the Project Operational Manual prepared
+by the Borrower and satisfactory to the Bank, setting forth the operational and
+administrative responsibilities, procedures and rules for the implementation of the Project
+and criteria for the purchase of office space as approved by 'he Bank's Land Acquisition
+Committee, and including the Environmental and Social Management Framework, the
+Performance Indicators and the financial management arrangements for the Project, as the
+same may be amended and supplemented from time to time with the Bank's prior written
+approval.
+
+21. "Project Steering Committee" means the project steering committee established pursuant
+to the Borrower's decisions dated May 16, 2011 as updated, and maintained by the
+Borrower in accordance with Section I.A.4 of Schedule 2 to this Agreement, and
+comprising representatives of the Ministry of Economy Entrepreneurship and Crafts
+Miristry of Construction and Physical Planning, Ministry of Public Administration. MOJ,
+MOF, the Supreme Court and SGA.
+
+22, "SGA" means the Borrower's State Geodic Administration, and includes any successor
+thereto.
+
+
+
+-12-
+
+23. "Signature Date" means the later of the two dates on which the Borrower and the Bank
+signed this Agreement and such definition applies to all references to "the date of the
+Loan Agreement" in the General Conditions.
+
+24. "Supreme Court" means the Borrower's Supreme Court.
+
+25. "Technical Services" means services for carrying out cadastre surveying, orthophoto
+mapping, data conversion and digitizing, development of information technology systems,
+and other technical services to be contracted under the Project on the basis of performance
+of measurable physical output
+
+26. "Training" means Project related study tours, training courses, seminars, workshops and
+other training activities, including costs of training materials, space and equipment rental,
+travel, accommodation and per diem costs of trainees and trainers, trainers' fees, and other
+training related miscellaneous costs.

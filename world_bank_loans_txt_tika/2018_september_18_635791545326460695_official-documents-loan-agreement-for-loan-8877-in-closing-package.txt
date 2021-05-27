@@ -1,0 +1,1334 @@
+World Bank Document
+
+
+OFFICIAL
+DOCUMENTS
+
+LOAN NUMBER 8877-IN
+
+Loan Agreement
+
+(Uttarakhand Workforce Development Project)
+
+between
+
+INDIA
+
+and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION
+AND DEVELOPMENT
+
+Dated , l 2018
+
+P
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+P
+
+u
+b
+lic
+
+ D
+is
+
+cl
+o
+su
+
+re
+ A
+
+u
+th
+
+o
+ri
+ze
+
+d
+
+
+
+LOAN AGREEMENT
+
+Agreement dated /I2018, between INDIA ("Borrower") and
+
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+("Bank"). The Borrower and the Bank hereby agree as follows:
+
+ARTICLE I- GENERAL CONDITIONS; DEFINITIONS
+
+1.01. The General Conditions (as defined in the Appendix to this Agreement) 
+constitute
+
+an integral part of this Agreement.
+
+1.02. Unless the context requires otherwise, the capitalized terms used 
+in this Agreement
+
+have the meanings ascribed to them in the General Conditions or in the 
+Appendix
+
+to this Agreement.
+
+ARTICLE II- LOAN
+
+2.01. The Bank agrees to lend to the Borrower, on the terms and conditions 
+set forth or
+
+referred to in this Agreement, the amount of seventy four million United 
+States
+
+Dollars (USD74,000,000), as such amount may be converted from time to 
+time
+
+through a Currency Conversion in accordance with the provisions of Section 
+2.08
+
+of this Agreement ("Loan"), to assist in financing the project described 
+in Schedule
+
+1 to this Agreement ("Project").
+
+2.02. The Borrower may withdraw the proceeds of the Loan in accordance 
+with Section
+
+IV of Schedule 2 to this Agreement.
+
+2.03. The Front-end Fee payable by the Borrower shall be equal to one quarter 
+of one
+
+percent (0.25%) of the Loan amount.
+
+2.04. The Commitment Charge payable by the Borrower shall be equal 
+to one quarter of
+
+one percent (0.25%) per annum on the Unwithdrawn Loan Balance.
+
+2.05. The interest payable by the Borrower for each Interest Period shall 
+be at a rate
+
+equal to the Reference Rate for the Loan Currency plus the Variable 
+Spread;
+
+provided, however, that the interest payable shall in no event be less than 
+zero
+
+percent (0%) per annum; and provided furthermore that, upon a Conversion of all
+
+or any portion of the principal amount of the Loan, the interest payable 
+by the
+
+Borrower during the Conversion Period on such amount shall be determined 
+in
+
+accordance with the relevant provisions of Article IV of the General Conditions.
+
+Notwithstanding the foregoing, if any amount of the Withdrawn Loan 
+Balance
+
+remains unpaid when due and such non-payment continues for a period 
+of thirty
+
+days, then the interest payable by the Borrower shall instead be calculated 
+as
+
+provided in Section 3.02 (e) of the General Conditions.
+
+
+
+-2-
+
+2.06. The Payment Dates are June 15 and December 15 in each year.
+
+2.07. The principal amount of the Loan shall be repaid in accordance with the
+amortization schedule set forth in Schedule 4 to this Agreement.
+
+2.08. (a) The Borrower may at any time request any of the following Conversions
+of the terms of the Loan in order to facilitate prudent debt management:
+(i) a change of the Loan Currency of all or any portion of the principal
+amount of the Loan, withdrawn or unwithdrawn, to an Approved
+Currency; and (ii) a change of the interest rate basis applicable to: (A) all
+or any portion of the principal amount of the Loan withdrawn and
+outstanding from a Variable Rate to a Fixed Rate, or vice versa; or (B) all
+or any portion of the principal amount of the Loan withdrawn and
+outstanding from a Variable Rate based on a Reference Rate and the
+Variable Spread to a Variable Rate based on a Fixed Reference Rate and
+the Variable Spread, or vice versa; or (C) all of the principal amount of the
+Loan withdrawn and outstanding from a Variable Rate based on a Variable
+Spread to a Variable Rate based on a Fixed Spread; and (iii) the setting of
+limits on the Variable Rate or the Reference Rate applicable to all or any
+portion of the principal amount of the Loan withdrawn and outstanding by
+the establishment of an Interest Rate Cap or Interest Rate Collar on the
+Variable Rate or the Reference Rate.
+
+(b) Any conversion requested pursuant to paragraph (a) of this Section that is
+accepted by the Bank shall be considered a "Conversion", as defined in
+the General Conditions, and shall be effected in accordance with the
+provisions of Article IV of the General Conditions and of the Conversion
+Guidelines.
+
+(c) Promptly following the Execution Date for an Interest Rate Cap or Interest
+Rate Collar for which the Borrower has requested that the premium be
+paid out of the proceeds of the Loan, the Bank shall, on behalf of the
+Borrower, withdraw from the Loan Account and pay to itself the amounts
+required to pay any premium payable in accordance with Section 4.05 (c)
+of the General Conditions up to the amount allocated from time to time for
+the purpose in the table in Section IV of Schedule 2 to this Agreement.
+
+2.09. (a) If on any given day, the Total Exposure exceeds the Standard Exposure
+Limit (as said terms are defined in sub-paragraphs (b)(ii) and (b)(iii) of
+this Section), the Borrower shall pay to the Bank a surcharge at the rate of
+one half of one percent (0.5%) per annum of the Allocated Excess
+Exposure Amount (as defined in sub-paragraph (b)(i) of this Section) for
+each said day ("Exposure Surcharge"). The Exposure Surcharge (if any)
+shall be payable semi-annually in arrears on each Payment Date.
+
+
+
+-3-
+
+(b) For purposes of this Section the following terms have the meanings set
+forth below:
+
+(i) "Allocated Excess Exposure Amount" means for each day during
+which the Total Exposure exceeds the Standard Exposure Limit,
+the product of: (A) the total amount of said excess; and (B) the
+ratio of all (or, if the Bank so determines, a portion) of the Loan
+to the aggregate amount of all (or the equivalent portions) of the
+loans made by the Bank to the Borrower, and to other borrowers
+guaranteed by the Borrower that are also subject to an exposure
+surcharge, as said excess and ratio are reasonably determined from
+time to time by the Bank.
+
+(ii) "Standard Exposure Limit" means the standard limit on the
+Bank's financial exposure to the Borrower which, if exceeded,
+would subject the Loan to the Exposure Surcharge, as determined
+from time to time by the Bank.
+
+(iii) "Total Exposure" means for any given day, the Bank's total
+financial exposure to the Borrower, as reasonably determined by
+the Bank.
+
+ARTICLE III - PROJECT
+
+3.01. The Borrower declares its commitment to the objectives of the Project. To this
+end, the Borrower shall cause the Project to be carried out by the Project
+Implementing Entity in accordance with the provisions of Article V of the General
+Conditions and the Project Agreement.
+
+3.02. Without limitation upon the provisions of Section 3.01 of this Agreement, and
+except as the Borrower and the Bank shall otherwise agree, the Borrower shall
+ensure that the Project is carried out in accordance with the provisions of Schedule
+2 to this Agreement.
+
+ARTICLE IV - REMEDIES OF THE BANK
+
+4.01. The Additional Event of Suspension consists of the following, namely, that the
+UKSDM Legal Framework has been amended, suspended, terminated, abrogated,
+repealed or waived so as to affect materially and adversely the ability of the Project
+Implementing Entity to perform any of its obligations under the Project Agreement
+in respect of Component 2 of the Project
+
+4.02. The Additional Event of Acceleration consists of the following, namely that the
+event specified in Section 4.01 of this Agreement occurs and is continuing for a
+
+
+
+-4-
+
+period of thirty (30) days after notice of the event has been given by the Bank to
+the Borrower and the Project Implementing Entity.
+
+ARTICLE V - EFFECTIVENESS; TERMINATION
+
+5.01. The Effectiveness Deadline is the date ninety (90) days after the date of this
+Agreement.
+
+ARTICLE VI - REPRESENTATIVE; ADDRESSES
+
+6.01. The Borrower's Representative is any of the following officials acting severally:
+the Secretary, Additional Secretary, Joint Secretary, Director, Deputy Secretary,
+or Under Secretary of the Department of Economic Affairs of the Borrower's
+Ministry of Finance.
+
+6.02. The Borrower's Address is:
+
+Secretary
+Department of Economic Affairs
+Ministry of Finance
+Government of India
+North Block
+New Delhi 110 001, India
+
+Facsimile:
+
++91-11-23095071
+
+6.03. The Bank's Address is:
+
+International Bank for Reconstruction and Development
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+
+Facsimile:
+
+1-202-477-6391
+
+
+
+-5-
+
+AGREED at 1, India, as of the day and year first above written.
+
+INDIA
+
+By
+
+orized Representative
+
+Name:
+
+Title:
+
+INTERNATIONAL BANK FOR
+RECONSTRUCTION AND DEVELOPMENT
+
+By
+
+Authorized Representative
+
+Name: bo 4g A. COA PASA
+
+Title: ACefJlKi A OC;N17 /Recype /'IA
+
+
+
+-6-
+
+SCHEDULE 1
+
+Project Description
+
+The objectives of the Project are to improve the quality and relevance of
+training at Priority Industrial Training Institutes and to increase the number of
+labor-market-relevant workers through short-term training in Uttarakhand.
+
+The Project consists of the following parts:
+
+Component 1: Improving the Quality and Relevance of ITI Training
+
+1 . Comprehensive improvement of quality and relevance of Priority ITIs:
+Operationalizing a new mode of service delivery at Priority ITIs, through the
+preparation and implementation of Master Plans aimed at: (a) upgrading ITIs'
+equipment and facilities to comply with National Council for Vocational Training
+("NCVT") requirements; (b) converting trades from State Council for Vocational
+Training ("SCVT") to NCVT; (c) rationalization of trade courses pursuant to
+discussions with industry and stakeholders consultations; and (d) increasing
+enrollment capacity of Priority ITIs by opening new labor-marked demanded
+trades, and/or introducing new shifts.
+
+2. Professional development of ITI teachers and staff: (a) Establishing at least two
+in-service training centers at the premises of Priority ITIs for institutionalizing
+recurrent professional development training; and (b) designing and implementing
+professional training opportunities for principals, foremen and teachers in all
+public ITIs, including: (i) domain specific training (both theoretical and practical);
+(ii) pedagogical and management training; (iii) soft skills training; (iv) industry-
+based training; and (v) competency-based teachers training for selected trades.
+
+3. Strengthening industry linkages: (a) Developing a partnership framework with
+industry and private sector entities in order to encourage cooperation through: (i)
+input-focused engagements such as private sector provision of teachers training,
+guest lecturers, and infrastructure and equipment for training providers; (ii)
+advisory engagements, on skills demand, trades prioritization and quality of
+Priority ITIs' training; and (iii) output-focused engagements including campus
+recruitments, apprenticeships, on-the-job training and revenue-generating
+activities; and (b) establishing an industry-linkage cell in each Priority ITI.
+
+4. Institutional capacity development ofthe skills development system: Strengthening
+the institutional capacity of the ITI system and overall skills systems through
+increasing ITIs' financial autonomy.
+
+
+
+-7-
+
+Component 2: Increasing the Number of Skilled Workers Certified under NSOF-
+Compliant Short-Term Trainin
+
+Providing nationally recognized NSQF-compliant short-term training by the
+Uttarakhand Skills Development Mission to approximately 32,000 uneducated or
+unskilled persons.
+
+Component 3: Policy and Institutional Development and Project Management
+
+1 . Technical Assistance for Institutional Strengthening: Strengthening the
+institutional capacity of the DSDE for the implementation of skills development
+sector programs by:
+
+(a) establishing labor market driven skills development system through: (i)
+the provision of technical assistance to develop job-portals and job-
+placement/matching services, carrier counseling and social networking
+services; (ii) the provision of business start-up support services/trainings
+to potential entrepreneurs; (iii) the improvement/strengthening of ITIs'
+and training systems accountability mechanisms; and (iv) the
+strengthening of district management committees, carrying out of business
+demand studies and industry consultations in order to inculcate industry-
+led decision making procedures;
+
+(b) instituting a program for the recognition of prior learning of existing
+workforce;
+
+(c) developing Uttarakhand's skills development policy, carrying out the
+Department of Training and Education's institutional assessment and
+implementing automated business management systems at DSDE,
+including human resources management, student administration,
+procurement, logistics and inventory management, and electronic-based
+decision making systems; and
+
+(d) carrying out a communication and awareness campaign, using public
+broadcasting, newspapers and or social networking services to educate the
+general public on training opportunities, particularly for women.
+
+2. Monitoring and evaluation, and Project management: Strengthening DSDE's
+institutional capacity to implement the Project and perform monitoring and
+evaluation activities thereunder, including: (a) the operation of the State Project
+Implementation Unit ("SPIU"); (b) the carrying out of baselines surveys, skills
+demand assessments, tracers studies and Project impact evaluations; and (c) the
+monitoring, and third party validation/accreditation, of the achievement of
+Disbursement-Linked Results.
+
+
+
+-8-
+
+SCHEDULE 2
+
+Project Execution
+
+Section I. Implementation Arran2ements
+
+A. On-Lending Arrangements
+
+1. To facilitate Project Implementing Entity's carrying out of the Project, the
+Borrower shall make the proceeds of the Loan available to the Project
+Implementing Entity in accordance with the Borrower's standard arrangements for
+development assistance to the States of India.
+
+2. Notwithstanding paragraph I above, in the event that any provision of this
+Agreement, including the instructions that the Bank shall have specified by notice
+to the Borrower pursuant to Section IV.A.1 of this Schedule, were to be found
+inconsistent with the Borrower's standard arrangements for development
+assistance to the States of India, the provisions of this Agreement and related
+instructions shall govern.
+
+3. The Borrower shall at all times protect its own rights and the interest of the Bank
+to accomplish the purposes of the Loan.
+
+B. Anti-Corruption
+
+The Borrower shall ensure that the Project is carried out in accordance with the
+provisions of the Anti-Corruption Guidelines.
+
+Section II. Project Monitoring Reporting and Evaluation
+
+A. Project Reports
+
+1. The Borrower shall monitor and evaluate, and cause the Project Implementing
+Entity to monitor and evaluate, the progress of the Project and prepare Project
+Reports in accordance with the provisions of Section 5.08 of the General
+Conditions and on the basis of indicators agreed with the Bank. Each Project
+Report shall cover the period of one calendar semester, and shall be furnished to
+the Bank not later than forty five (45) days after the end of the period covered by
+such report.
+
+
+
+-9-
+
+B. Financial Management, Financial Reports and Audits
+
+1. The Borrower shall maintain or cause to be maintained a financial management
+system in accordance with the provisions of Section 5.09 of the General
+Conditions.
+
+2. Without limitation on the provisions of Part A of this Section, the Borrower shall
+cause the Project Implementing Entity to prepare and furnish to the Bank not later
+than sixty (60) days after the end of each calendar semester, interim unaudited
+financial reports for the Project covering the semester, in form and substance
+satisfactory to the Bank.
+
+3. The Borrower shall have, and cause the Project Implementing Entity to have, the
+Project's Financial Statements audited in accordance with the provisions of
+Section 5.09 (b) of the General Conditions. Each audit of the Financial Statements
+shall cover the period of one fiscal year of the Borrower and the Project
+Implementing Entity, commencing with the fiscal year in which the first
+withdrawal was made. The audited Financial Statements for each such period shall
+be furnished to the Bank not later than nine (9) months after the end of such period.
+
+Section HI. Procurement
+
+A. General
+
+1. Goods, Works and Non-consulting Services. All goods, works and non-
+consulting services required for the Project and to be financed out of the proceeds
+of the Loan shall be procured in accordance with the requirements set forth or
+referred to in Section I of the Procurement Guidelines, and with the provisions of
+this Section.
+
+2. Consultants' Services. All consultants' services required for the Project and to
+be financed out of the proceeds of the Loan shall be procured in accordance with
+the requirements set forth or referred to in Sections I and IV of the Consultant
+Guidelines and with the provisions of this Section.
+
+3. Definitions. The capitalized terms used below in this Section to describe particular
+procurement methods or methods of review by the Bank of particular contracts
+refer to the corresponding method described in Sections II and III of the
+Procurement Guidelines, or Sections II, III, IV and V of the Consultant Guidelines,
+as the case may be.
+
+
+
+-10-
+
+B. Particular Methods of Procurement of Goods, Works and Non-consulting
+Services
+
+1. National Competitive Bidding. Except as otherwise provided in paragraph 2
+below, goods, works and non-consulting services shall be procured under contracts
+awarded on the basis of National Competitive Bidding procedures subject to the
+additional provisions agreed upon from time to time between the Borrower and the
+Bank and set forth in the Procurement Plan.
+
+2. Other Methods of Procurement of Goods, Works and Non-consulting
+Services. The following methods, other than National Competitive Bidding, may
+be used for procurement of goods, works and non-consulting services for those
+contracts specified in the Procurement Plan: (a) Limited International Bidding; (b)
+Shopping; (c) procurement under Framework Agreements in accordance with
+procedures which have been found acceptable to the Bank; (d) Direct Contracting;
+(e) Force Account; and (f) Procurement from a United Nations agency.
+
+C. Particular Methods of Procurement of Consultants' Services
+
+1 . Quality- and Cost-based Selection. Except as otherwise provided in paragraph
+2 below, consultants' services shall be procured under contracts awarded on the
+basis of Quality and Cost-based Selection.
+
+2. Other Methods of Procurement of Consultants' Services. The following
+methods, other than Quality and Cost-based Selection, may be used for
+procurement of consultants' services for those contracts which are specified in the
+Procurement Plan: (a) Quality-based Selection; (b) Selection under a Fixed
+Budget; (c) Least Cost Selection; (d) Selection based on Consultants'
+Qualifications; (e) Single-source Selection of consulting firms; (f) Procedures set
+forth in paragraphs 5.2 and 5.3 of the Consultant Guidelines for the Selection of
+Individual Consultants; and (g) Single-source procedures for the Selection of
+Individual Consultants.
+
+D. Review by the Bank of Procurement Decisions
+
+The Procurement Plan shall set forth those contracts which shall be subject to the
+Bank's Prior Review. All other contracts shall be subject to Post Review by the
+Bank.
+
+
+
+-11 -
+
+Section IV. Withdrawal of Loan Proceeds
+
+A. General
+
+1. The Borrower may withdraw the proceeds of the Loan in accordance with the
+provisions of Article II of the General Conditions, this Section, and such additional
+instructions as the Bank shall specify by notice to the Borrower (including the
+"World Bank Disbursement Guidelines for Projects" dated May 2006, as revised
+from time to time by the Bank and as made applicable to this Agreement pursuant
+to such instructions), to finance Eligible Expenditures as set forth in the table in
+paragraph 2 below.
+
+2. The following table specifies the categories of Eligible Expenditures that may be
+financed out of the proceeds of the Loan ("Category"), the allocation of the
+amounts of the Loan to each Category, and the percentage of expenditures to be
+financed for Eligible Expenditures in each Category.
+
+Amount of the Percentage of
+Loan Expenditures to be
+
+Category Allocated financed
+(expressed in USD) (inclusive of Taxes)
+
+(1) Eligible Expenditures Program
+under Components 1 and 2 of the 66,000,000 80%
+Project
+
+(2) Goods, non-consulting services,
+consultants' services,
+Incremental Operating Costs, and 7,815,000 80%
+Training and Workshops under
+Component 3 of the Project
+
+Amount payable
+pursuant to Section
+2.03 of this Agreement
+
+(3) Front-end Fee 185,000 i. or thmn accordance with
+Section 2.07 (b) of the
+General Conditions
+
+Amount due pursuant
+(4) Interest Rate Cap or Interest Rate 0oSet 20( of
+
+Collr prmium0 to Section 2.08(c) of
+this Agreement
+
+TOTAL AMOUNT 74,000,000
+
+
+
+- 12 -
+
+B. Withdrawal Conditions; Withdrawal Period
+
+1. Notwithstanding the provisions of Part A of this Section, no withdrawal shall be
+made:
+
+(a) for payments made prior to the date of this Agreement, except that
+withdrawals up to an aggregate amount not to exceed USD 14,800,000
+may be made for payments made prior to this date but on or after January
+1, 2018 for Eligible Expenditures; or
+
+(b) under Categories (1) and (2) unless and until the Project Implementing
+Entity has prepared and adopted a Project Implementation Plan acceptable
+to the Bank; or
+
+(c) under Category (1) unless and until the Project Implementing Entity has:
+
+(i) complied with the additional instructions referred to in Section
+IV.A.1 of this Schedule, including the submission to the Bank of
+the applicable IUFR detailing the expenditures incurred under the
+EEP up to the date of the applicable withdrawal application; and
+
+(ii) furnished evidence, satisfactory to the Bank of the Project
+Implementing Entity's achievement of the DLR(s) set forth in
+Schedule 3 to this Agreement, for which the payment(s) of the
+respective Allocated Amounts has/have been requested.
+
+2. If the Bank determines in its sole discretion that one or more of the DLRs set forth
+in Schedule 3 to this Agreement has/have not been achieved, or were no longer
+achievable by the respective due date(s) and/or the Closing Date, then, the Bank
+shall withhold the Allocated Amounts for such unmet DLR(s) and, at its sole
+discretion, may:
+
+(a) authorize partial releases of the Allocated Amounts so withheld/to be
+withheld, if and when the Bank is satisfied that: (i) the non-fulfillment of
+such DLR(s) is due to an event of force majeure; and/or (ii) in the sole
+opinion of the Bank, the Project Implementing Entity has made reasonable
+efforts to remedy any situation preventing the achievement of said
+DLR(s);
+
+(b) authorize, at a later date, the full release of the Allocated Amounts so
+withheld, if and when the Bank is satisfied that the respective DLR(s)
+has/have been achieved; and/or
+
+
+
+- 13 -
+
+(c) at any time, by notice to the Borrower and the Project Implementing
+Entity, cancel the amount(s) so withheld/to be withheld, and/or reallocate
+it/them, whether in full or in part, to any other Category and/or DLR(s).
+
+3. The Closing Date is June 30, 2023.
+
+
+
+SCHEDULE 3
+
+Disbursement-Linked Indicators, Disbursement-Linked Results and Allocated Amounts
+
+DISBURSEMENT-LINKED RESULTS
+DISBURSEMENT-
+
+LINKED RESULTS TO BE RESULTS TO BE RESULTS TO BE RESULTS TO BE RESULTS TO BE
+
+INDICATORS ACHIEVED IN FY2018/19 ACHIEVED IN FY2019/20 ACHIEVED IN FY2020/21 ACHIEVED IN FY2021/22 ACHIEVED IN FY2022/23
+(YEAR 1) (YEAR 2) (YEAR 3) (YEAR 4) (YEAR 5)
+
+1. Increasing the The Steering Committee has (i) Priority ITIs have (i) Priority ITIs have (i) Priority ITIs have (i) Priority ITIs have
+quality of approved Master Plans for completed the upgrade of completed the upgrade of completed the upgrade of completed the upgrade of
+training and all Priority ITIs.* at least five percent (5%) at least twenty five at least fifty percent at least ninety five percent
+enrollment in of trade courses identified percent (25%) of trade (50%) of trade courses (95%) of trade courses
+Priority ITIs. in the approved Master courses identified in the identified in the approved identified in the approved
+
+Plans;* and approved Master Plans;* Master Plans;* and Master Plans;* and
+
+(ii) Priority ITIs have and (ii) Priority ITIs have (ii) Priority ITIs have
+achieved an increase in (ii) Priority ITIs have achieved an increase in achieved an increase in
+enrolments of at least five achieved an increase in enrolments of at least enrolments of at least fifty
+percent (5%) in NCVT enrolments of at least twenty five percent (25%) percent (50%) in NCVT
+Courses in FY2019/20 fifteen percent (15%) in in NCVT Courses in Courses in FY2022/23
+compared to baseline. NCVT Courses in FY2021/22 compared to compared to baseline.
+
+FY2020/21 compared to baseline.
+baseline.
+
+USDI,600,000 for DLR (i) USDI,800,000 for DLR (i)
+above to be topped up with above, to be topped up with
+
+USDI,600,000 for DLR (i) an additional USD 800,000 an additional USD 800,000 USD2,000,000 for DLR (i)
+Allocated USD2,400,000 above; and USDI,600,000 if the DLR (i) target is if the DLR(i) target is above; and USD2,000,000
+Amounts for DLR (ii) above effectively achieved in or effectively achieved in or for DLR (ii) above
+
+before FY2020/21; and before FY 2021/22; and
+USDI,600,000 for DLR (ii) USDI,800,000 for DLR (ii)
+
+above above
+
+2. Continuous DSDE has approved, a At least fifty percent (50%) At least seventy percent At least ninety percent (90%) At least ninety five percent
+professional Professional Development of teachers and staff in all (70%) of teachers and staff of teachers and staff in all (95%) of teachers and staff in
+development of Plan ("PDP") for public public ITIs have completed in all public ITIs have public ITIs have completed all public ITIs have
+all ITI teachers ITIs' teachers and staff.* at least one (1) annually held completed at least one (1) at least one (1) annually held completed at least one (1)
+and staff professional training program annually held professional professional training program annually held professional
+
+
+
+-15-
+
+DISBURSEMENT-LINKED RESULTS
+DISBURSEMsEN4T-
+
+LINKED RESULTS TO BE RESULTS TO BE RESULTS TO BE RESULTS TO BE RESULTS TO BE
+
+INDICATORS ACHIEVED IN FY2018/19 ACHIEVED IN FY2019/20 ACHIEVED IN FY2020/21 ACHIEVED IN FY2021/22 ACHIEVED IN FY2022/23
+(YEAR 1) (YEAR 2) (YEAR 3) (YEAR 4) (YEAR 5)
+
+contemplated in the PDP training program contemplated in the PDP training program
+during Year 2. contemplated in the PDP during Year 4. contemplated in the PDP
+
+during Year 3. during Year 5.
+
+Allocated USD 1,200,000 upon USD 1,200,000 upon USD 1,200,000 upon USD 1,200,000 upon
+mounts achievement of 70% of achievement of 70% of achievement of 70% of achievement of 70% of
+
+USD2,400,000 targeted percentage; and targeted percentage; and targeted percentage; and targeted percentage; and
+USD1,200,000 upon full USD1,200,000 upon full USD1,200,000 upon full USD1,200,000 upon full
+
+achievement of result achievement of result achievement of result achievement of result
+
+3. Improving (i) Priority ITIs have (i) Priority ITIs have (i) Priority ITIs have
+employment achieved an increase of achieved an increase of achieved an increase of
+outcomes ofITI graduates in at least three graduates in at least five graduates at least fifteen
+graduates. percent (3%) in NCVT percent (5%) in NCVT percent (15%) in NCVT
+
+Courses in FY2020/21 Courses in FY2021/22 Courses in FY2022/23
+compared to baseline; and compared to baseline; and compared to baseline; and
+
+(ii) At least twenty seven (ii) At least twenty nine (ii) At least thirty two percent
+percent (27%) of students percent (29%) of students (32%) of students
+completing their training completing their training completing their training
+in FY2019/20 in Priority in FY2020/21 in Priority in FY2021/22 in Priority
+ITIs are placed in jobs ITIs are placed in jobs ITIs are placed in jobs
+within six (6) months of within six (6) months of within six (6) months of
+their training completion. their training completion. their training completion.
+
+USD1,600,000 for DLR (i) USD1,600,000 for DLR (i) USD1,600,000 for DLR (i)
+Aot iabove; and USD2,400,000 above; and USD2,400,000 above; and USD2,400,000
+
+for DLR (ii) above for DLR (ii) above for DLR (ii) above
+
+4. Strengthening DoF has approved a new At least five (5) Priority ITIs At least fifteen (15) Priority At least twenty (20) Priority At least twenty-five (25)
+financial policy providing for an have carried out revenue ITIs have carried out revenue ITIs have carried out revenue Priority ITIs have carried out
+management additional allocation to ITIs generating activities in Year generating activities in Year generating activities in Year revenue generating activities
+capacity of ITIs. equivalent to the amount of 2. 3. 4. in Year 5.
+
+any revenue obtained
+through revenue generating
+activities.*
+
+
+
+- 16-
+
+DISBURSEMENT-LINKED RESULTS
+DISBURSEMENT-
+
+LINKED RESULTS TO BE RESULTS TO BE RESULTS TO BE RESULTS TO BE RESULTS TO BE
+
+INDICATORS ACHIEVED IN FY2018/19 ACHIEVED IN FY2019/20 ACHIEVED IN FY2020/21 ACHIEVED IN FY2021/22 ACHIEVED IN FY2022/23
+(YEAR 1) (YEAR 2) (YEAR 3) (YEAR 4) (YEAR 5)
+
+USD400,000 upon USD400,000 upon USD400,000 upon USD400,000 upon
+achievement of 60% of achievement of 53% of achievement of 50% of achievement of 52% of
+
+Allocatd USD800,000 targeted number; and targeted number; and targeted number; and targeted number; and
+USD400,000 upon full USD400,000 upon full USD400,000 upon full USD400,000 upon full
+achievement of result achievement of result achievement of result achievement of result
+
+5. Increasing the (i) At least six thousand four (i) At least twelve thousand (i) At least nineteen (i) At least twenty five three (i) At least thirty two
+number of hundred (6,400) trainees eight hundred (12,800) thousand two hundred thousand six hundred thousand (32,000)
+trainees have been certified under trainees have been (19,200) trainees have (25,600) trainees have trainees have been
+certified under NSQF-Level 3 (or above) certified under NSQF- been certified under been certified under certified under NSQF-
+NSQF Short Term Training;* Level 3 (or above) Short NSQF-Level 3 (or above) NSQF-Level 3 (or above) Level 3 (or above) Short
+Compliant Short and Term Training;* and Short Term Short Term Training;* Term Training;* and
+Term Training (ii) At least three thousand (ii) At least six thousand four Training;*and and (ii) At least seventeen
+by UKSDM. one hundred (3,100) hundred (6,400) trainees (ii) At least nine thousand (ii) At least thirteen thousand thousand six hundred
+
+trainees certified under certified under NSQF- seven hundred (9,700) five hundred (13,500) (17,600) trainees certified
+NSQF- Level 3 (or Level 3 (or above) Short trainees certified under trainees certified under under NSQF-Level 3 (or
+above) Short Term Term Training are NSQF-Level 3 (or above) NSQF-Level 3 (or above) above) Short Term
+Training are women.* women.* Short Term Training are Short Term Training, are Training are women.*
+
+women.* women.*
+
+USD3,000,000 for DLR (i) USD3,000,000 for DLR (i) USD3,000,000 for DLR (i) USD3,000,000 for DLR (i) USD3,000,000 for DLR (i)
+Allocatd above; and USD1,000,000 above; and USD1,000,000 above; and USD1,000,000 above; and USD1,000,000 above; and USD1,000,000
+Amounts for DLR (ii) above for DLR (ii) above for DLR (ii) above for DLR (ii) above for DLR (ii) above
+
+*These DLRs are not time-bound. The Fiscal Years in which they are expected to be achieved as per this schedule are strictly proposed for
+indicative purposes. These DLRs can accordingly be met up and until the Closing Date.
+
+
+
+SCHEDULE 4
+
+Amortization Schedule
+
+The following table sets forth the Principal Payment Dates of the Loan and the
+percentage of the total principal amount of the Loan payable on each Principal
+Payment Date ("Installment Share"). If the proceeds of the Loan have been fully
+withdrawn as of the first Principal Payment Date, the principal amount of the Loan
+repayable by the Borrower on each Principal Payment Date shall be determined by
+the Bank by multiplying: (a) Withdrawn Loan Balance as of the first Principal
+Payment Date; by (b) the Installment Share for each Principal Payment Date, such
+repayable amount to be adjusted, as necessary, to deduct any amounts referred to
+in paragraph 4 of this Schedule, to which a Currency Conversion applies.
+
+Principal Payment Date Installment Share
+
+(Expressed as a Percentage)
+
+December 15, 2023 3.09%
+
+June 15, 2024 3.17%
+
+December 15, 2024 3.25%
+
+June 15, 2025 3.33%
+
+December 15, 2025 3.41%
+
+June 15, 2026 3.50%
+
+December 15, 2026 3.58%
+
+June 15, 2027 3.67%
+
+December 15, 2027 3.77%
+
+June 15, 2028 3.86%
+
+December 15, 2028 3.96%
+
+June 15, 2029 4.05%
+
+December 15, 2029 4.16%
+
+June 15, 2030 4.26%
+
+December 15, 2030 4.37%
+
+June 15, 2031 4.48%
+
+December 15, 2031 4.59%
+
+June 15, 2032 4.70%
+
+December 15, 2032 4.82%
+
+June 15, 2033 4.94%
+
+December 15, 2033 5.06%
+
+
+
+- 18-
+
+June 15, 2034 5.19%
+
+December 15, 2034 5.32%
+
+June 15, 2035 5.47%
+
+2. If the proceeds of the Loan have not been fully withdrawn as of the first Principal
+Payment Date, the principal amount of the Loan repayable by the Borrower on
+each Principal Payment Date shall be determined as follows:
+
+(a) To the extent that any proceeds of the Loan have been withdrawn as of the
+first Principal Payment Date, the Borrower shall repay the Withdrawn
+Loan Balance as of such date in accordance with paragraph 1 of this
+Schedule.
+
+(b) Any amount withdrawn after the first Principal Payment Date shall be
+repaid on each Principal Payment Date falling after the date of such
+withdrawal in amounts determined by the Bank by multiplying the amount
+of each such withdrawal by a fraction, the numerator of which is the
+original Installment Share specified in the table in paragraph I of this
+Schedule for said Principal Payment Date ("Original Installment Share")
+and the denominator of which is the sum of all remaining Original
+Installment Shares for Principal Payment Dates falling on or after such
+date, such amounts repayable to be adjusted, as necessary, to deduct any
+amounts referred to in paragraph 4 of this Schedule, to which a Currency
+Conversion applies.
+
+3. (a) Amounts of the Loan withdrawn within two calendar months prior to any
+Principal Payment Date shall, for the purposes solely of calculating the
+principal amounts payable on any Principal Payment Date, be treated as
+withdrawn and outstanding on the second Principal Payment Date
+following the date of withdrawal and shall be repayable on each Principal
+Payment Date commencing with the second Principal Payment Date
+following the date of withdrawal.
+
+(b) Notwithstanding the provisions of sub-paragraph (a) of this paragraph, if
+at any time the Bank adopts a due date billing system under which invoices
+are issued on or after the respective Principal Payment Date, the provisions
+of such sub-paragraph shall no longer apply to any withdrawals made after
+the adoption of such billing system.
+
+4. Notwithstanding the provisions of paragraphs 1 and 2 of this Schedule, upon a
+Currency Conversion of all or any portion of the Withdrawn Loan Balance to an
+Approved Currency, the amount so converted in the Approved Currency that is
+repayable on any Principal Payment Date occurring during the Conversion Period,
+shall be determined by the Bank by multiplying such amount in its currency of
+
+
+
+- 19 -
+
+denomination immediately prior to the Conversion by either: (i) the exchange rate
+that reflects the amounts of principal in the Approved Currency payable by the
+Bank under the Currency Hedge Transaction relating to the Conversion; or (ii) if
+the Bank so determines in accordance with the Conversion Guidelines, the
+exchange rate component of the Screen Rate.
+
+5. If the Withdrawn Loan Balance is denominated in more than one Loan Currency,
+the provisions of this Schedule shall apply separately to the amount denominated
+in each Loan Currency, so as to produce a separate amortization schedule for each
+such amount.
+
+
+
+- 20 -
+
+APPENDIX
+
+Section . Definitions
+
+1. "Allocated Amounts" means the amounts allocated to each individual DLR, as
+such amount might be increased, reallocated and/or cancelled (whether partially or
+in its entirety) by the Bank, from time to time as the case may be, in accordance
+with the provisions of Section IV.B.2 of Schedule 2 to this Agreement.
+
+2. "Anti-Corruption Guidelines" means the "Guidelines on Preventing and
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and IDA
+Credits and Grants", dated October 15, 2006 and revised in January 2011.
+
+3. "Category" means a category set forth in the table in Section IV of Schedule 2 to
+this Agreement.
+
+4. "Component" means each of the sets of activities grouped under an individual title
+in Schedule 1 (Project Description) to this Agreement.
+
+5. "Consultant Guidelines" means the "Guidelines: Selection and Employment of
+Consultants under IBRD Loans and IDA Credits and Grants by World Bank
+Borrowers" dated January 2011 (revised July 2014).
+
+6. "Director of Training" means the civil servant who acts as the head of DSDE.
+
+7. "Disbursement-Linked Indicator" and the acronym "DLI" mean each of the
+disbursement-linked indicators numbered 1 through 5 and set forth in the first
+column of the table provided in Schedule 3 to this Agreement.
+
+8. "Disbursement-Linked Result" and the acronym "DLR" mean each of the
+disbursement-linked targets/results set forth in Schedule 3 to this Agreement in the
+columns entitled "Results to be Achieved in FY2018/19 (Year 1)", "Results to be
+Achieved in FY2019/20 (Year 2)", "Results to be Achieved in FY2020/21 (Year
+3)", Results to be Achieved in FY2021/22 (Year 4)" or "Results to be Achieved in
+FY2022/23 (Year 5)", as applicable.
+
+9. "Displaced Persons" means persons who, on account of the execution of the
+Project, have experienced or would experience direct economic and social impacts
+caused by: (a) the involuntary taking of land, resulting in: (i) relocation or loss of
+shelter; (ii) loss of assets or access to assets; or (iii) loss of income sources or
+means of livelihood, whether or not such persons must move to another location;
+or (b) the involuntary restriction of access to legally designated parks and protected
+areas, resulting in adverse impact on the livelihoods of such persons.
+
+10. "DoF" means Uttarakhand's Department of Finance or any successor thereto.
+
+
+
+-21 -
+
+11. "DSDE" means Uttarakhand's Department of Skills Development and
+Employment, or any successor thereto.
+
+12. "Eligible Expenditures Program" and the acronym "EEP" mean collectively all
+expenditures incurred by Project Implementing Entity under the budget lines 2230-
+03-001-01 "Directorate"; 2230-03-003-03 "Plan and Non-Plan"; and 2230-03-
+800-01-01 "Skill Development" and/or any other budget line that the Bank may
+agree in writing from time to time.
+
+13. "EA&EMF" means Uttarakhand's environment assessment and environment
+management framework dated March 2016 and disclosed on the Project
+Implementing Entity's website and in the Bank's Infoshop on April 23, 2016,
+setting forth: (a) the procedures for the screening of Project activities and the
+identification of any adverse or positive environmental impacts caused, or
+expected to be caused, on account of their implementation; and, if needed; (b) the
+preparation of their prescribed environmental impact assessments and EMPs
+therefor; as such framework may be revised, updated or supplemented from time
+to time with the prior written concurrence of the Bank.
+
+14. "EMP" means each of the ITI-specific environmental management plans to be
+prepared by Uttarakhand pursuant to Section I.F.2 of the Schedule to the Project
+Agreement, in accordance with the provisions of the EA/EMF, in each case setting
+out mitigation, enhancement, monitoring and institutional measures, including
+capacity building through training, required to: (i) eliminate adverse environmental
+impacts of activities to be implemented under the Project; (ii) offset them, or
+reduce them to acceptable levels; (iii) enhance any positive impacts thereof; and/or
+(iv) ensure Uttarakhand's compliance with statutory environmental requirements
+consistent with the EA/EMF, as each such plan may be revised, updated or
+supplemented from time to time with the prior written concurrence of the Bank.
+
+15. "Fiscal Year" means the Borrower's and Uttarakhand's fiscal year, which begins
+on April 1 of each calendar year and ends on March 31 of the next calendar year.
+
+16. "FY2018/19" means the Fiscal Year commencing on April 1, 2018 and concluding
+on March 31, 2019.
+
+17. "FY2019/20" means the Fiscal Year commencing on April 1, 2019 and concluding
+on March 31, 2020.
+
+18. "FY2020/21" means the Fiscal Year commencing on April 1, 2020 and concluding
+on March 31, 2021.
+
+19. "FY2021/22" means the Fiscal Year commencing on April 1, 2021 and concluding
+on March 31, 2022.
+
+
+
+- 22 -
+
+20. "FY2022/23" means the Fiscal Year commencing on April 1, 2022 and concluding
+on March 31, 2023.
+
+21. "General Conditions" means the "International Bank for Reconstruction and
+Development General Conditions for Loans", dated March 12, 2012, with the
+modifications set forth in Section II of this Appendix.
+
+22. "GESI Guidelines" means the gender equality and social inclusion guidelines
+incorporated into, and publicly disclosed with, the SSDP, setting out actions to: (i)
+ensure equal participation of women and men benefitting from the Project without
+discrimination; and (ii) better outreach to women, and other vulnerable groups.
+
+23. "Incremental Operating Costs" means the reasonable costs of incremental
+expenditures incurred by Uttarakhand on account of Project implementation,
+management and monitoring, including, inter alia: (i) costs of incremental staff
+salaries (other than consultants); (ii) dissemination of Project related information;
+(iii) office rental and leasing operation and maintenance of equipment; (iv) office
+supplies and utilities; (v) travel and boarding/lodging allowances; (vi) leasing,
+operation and maintenance of vehicles; (vii) advertising and communication
+expenses; and (viii) bank charges.
+
+24. "Industrial Training Institute" and the acronym "ITI" mean industrial training
+institutes within Uttarakhand jurisdiction.
+
+25. "IUFR" means the interim unaudited financial reports to be prepared by
+Uttarakhand pursuant to Section II.B.2 of the Schedule to the Project Agreement.
+
+26. "Master Plans" means the plans to be prepared by each Priority ITI pursuant to
+DLI #1, for purposes of improving the quality and relevance of their training, as
+well as their institutional capacity for the delivery thereof, which plans shall
+include, inter alia: (i) the assessment of current facilities, equipment and needs to
+meet NCVT standards; (ii) female and disadvantage population participation
+enhancement plans; and (iii) infrastructure/equipment expansion plans, as such
+plans might be amended, revised, updated or supplemented from time to time.
+
+27. "National Council for Vocational Training" and the acronym "NCVT" mean the
+Borrower's National Council for Vocational Training (formerly known as the
+National Council for Training in Vocational Trades) established in 1956, which
+council has been entrusted with the responsibilities of prescribing standards and
+curricula for craftsmen training, advising the Government of India on the overall
+trades policy and programs, conducting "all-India trade tests," and awarding
+"national trade certificates," or any successor thereto.
+
+28. "NCVT Courses" means ITIs' training courses vetted by NCVT and awarding
+national trade certificates.
+
+
+
+- 23 -
+
+29. "NSDC" means the Borrower's National Skill Development Corporation; i.e. a
+public private partnership initiative under the Borrower's Ministry of Skill
+Development and Entrepreneurship, for purposes of promoting skills development
+and catalyzing the establishment of vocational training institutes through, inter
+alia: (a) financing enterprises, companies or individuals providing vocational
+training; (b) guaranteeing quality assurance support; (c) creation of trainers
+academies; and/or (d) developing appropriate models to enhance, support and
+coordinate private sector initiatives for vocational training.
+
+30. "NSQF" means the National Skills Qualifications Framework", a quality assurance
+framework of the Borrower, approved and notified by the Borrower on December
+27, 2013, pursuant to notification number 8/6/2013-Invt, which lays down
+nationally recognized competency standards for all qualifications.
+
+31. "NSQF-Level 3 (or above) Short Term Training" means short term training
+corresponding to level 3 or above as indicated in the NSQF having a duration of
+two hundred (200) to six hundred (600) hours of course attendance.
+
+32. "Priority ITI" means a subset list of approximately twenty five (25) public ITIs,
+selected and agreed with the Bank, pursuant to criteria reflected in the Project
+Implementation Plan, for purposes of receiving packaged interventions for the
+improvement of the quality, relevance and seating capacity of their training
+courses, as such lists of ITIs might be amended, revised, updated or supplemented
+from time to time with the prior written concurrence of the Bank.
+
+33. "Procurement Guidelines" means the "Guidelines: Procurement of Goods, Works
+and Non-consulting Services under IBRD Loans and IDA Credits and Grants by
+World Bank Borrowers" dated January 2011 (revised July 2014).
+
+34. "Procurement Plan" means the Project Implementing Entity's procurement plan
+for the Project, dated May 8, 2018 and referred to in paragraph 1.18 of the
+Procurement Guidelines and paragraph 1.25 of the Consultant Guidelines, as the
+same shall be updated from time to time in accordance with the provisions of said
+paragraphs.
+
+35. "Professional Development Plan" and the acronym "PDP" mean the plan to be
+prepared and adopted by DSDE for purposes of providing continued professional
+development opportunities to teachers and staff of public ITIs, which plan shall
+include, inter alia: (i) lists of competencies, partners, costs and timelines for the
+provision of professional training; (ii) mechanisms for the stakeholder
+consultations/feedback on trainings provided; and (iii) monitoring and evaluation
+protocols for assessing the outcome of such trainings, as such plan might be
+amended, revised, updated or supplemented from time to time.
+
+36. "Project Implementing Entity" means Uttarakhand.
+
+
+
+- 24 -
+
+37. "Project Implementation Plan" means the Project Implementing Entity's
+implementation manual to be prepared pursuant to Section I.B of the Schedule to
+the Project Agreement, in a manner and substance satisfactory to the Bank, for
+purposes of carrying out the Project, which plan/manual shall comprise, inter alia:
+(a) the Project implementation arrangements, including detailed operational
+guidance and allocation of responsibilities among implementing agencies and
+staff; (b) identification of key relevant staff, including SPIU critical staffing and
+the Steering Committee's composition; (c) fiduciary standards, procedures and
+requirements to be enforced/complied with during Project implementation; (d)
+selection criteria for the identification of Priority ITIs; (e) list of revenue
+generating activities eligible for implementation by Priority it is; (f) the
+DLIs/DLRs verification protocols and arrangements, and the terms of reference
+for the verification agents to be hired pursuant to Section I.D of Schedule to the
+Project Agreement; and (g), monitoring and evaluation requirements and reporting
+forms, as such manual/plan might be amended from time to time with the prior
+written concurrence of the Bank.
+
+38. "Safeguard Documents" means collectively the EA&EMF, the SSDP, the GESI
+Guidelines, and the EMP(s).
+
+39. "Scheduled Castes and Scheduled Tribes" means any distinct, vulnerable, social
+and cultural group within the territory of Uttarakhand, that: (a) (i) self-identifies as
+such and claims, and is recognized by others as, having a distinguishable cultural
+identity; (ii) has collective attachment to geographically distinct habitats or
+ancestral territories in the Project area, and to the natural resources in these habitat
+and territories; (iii) has customary cultural, economic, social and political
+institutions that are separate from those of the dominant society and culture; and
+(iv) has an indigenous language, often different from the official language(s) of the
+Borrower and/or Uttarakhand; or (b) are defined as such in the Constitution of
+India.
+
+40. "State Council of Vocational Training" and the acronym "SCVT" means the
+Uttarakhand's State Council of Vocational Training established pursuant to Govt.
+Order No. 1334/ID/2001 -110 Industry/2001, dated February 28, 2002 under the
+aegis of the Government of Uttarakhand.
+
+41. "SSDP" means the Scheduled Castes, Scheduled Tribe Development Plan dated
+April 2016, developed by Uttarakhand and disclosed on the Project Implementing
+Entity's website and in the Bank's Infoshop on April 23, 2016 setting forth: (i)
+measures designed to ensure meaningful consultation with, and informed
+participation of, Scheduled Castes and Scheduled Tribes and their communities in
+the design and implementation of the Project activities, their participation in the
+envisioned culturally appropriate and socially inclusive benefits thereof, and/or
+any mitigation and adaptive measures to offset, reduce to acceptable levels, or
+eliminate, any adverse social impact to these communities under the Project; and
+
+
+
+- 25 -
+
+(ii) the GESI Guidelines, as such plan may be amended from time to time with the
+prior written concurrence of the Bank.
+
+42. "State Project Implementation Unit" and the acronym "SPIU" mean the unit
+established within DSDE and referred to in Section I.A. 1(b) of the Schedule to the
+Project Agreement.
+
+43. "Steering Committee" means the inter-departmental committee to be established
+pursuant to Section I.A. 1(a) of the Schedule to the Project Agreement.
+
+44. "Training and Workshops" means the reasonable costs of trainings, seminars,
+workshops, conferences and study tours, conducted in India and/or overseas
+including: (a) the fees of training institutions and courses; (b) domestic and
+international travel costs, lodging costs, and subsistence/per diem allowances both
+for trainers and trainees; (c) the rental of training facilities; and (d) preparation,
+purchase or reproduction of training materials.
+
+45. "UKSDM Legal Framework" means UKSDM's Articles of Association and By-
+laws as amended to the date of this Agreement.
+
+46. "Uttarakhand" means the Borrower's State of Uttarakhand.
+
+47. "Uttarakhand Skills Development Mission" and the acronym "UKSDM" mean a
+society established in Uttarakhand in 2013 under the Society Registration Act 1980
+pursuant to Registration No.: 326/2012-2013, dated February 5, 2013.
+
+48. "Year 1" means FY2018/19.
+
+49. "Year 2" means FY2019/20.
+
+50. "Year 3" means FY2020/21.
+
+51. "Year 4" means FY2021/22.
+
+52. "Year 5" means FY2022/23.
+
+Section II. Modifications to the General Conditions
+
+The General Conditions are hereby modified as follows:
+
+1. In the Table of Contents, the references to Sections, Section names and Section
+numbers are modified to reflect the modifications set forth in the paragraphs below.
+
+2. Section 3.01. (Front-end Fee) is modified to read as follows:
+
+"Section 3.01. Front-end Fee; Commitment Charge
+
+
+
+- 26 -
+
+(a) The Borrower shall pay the Bank a front-end fee on the Loan amount at
+the rate specified in the Loan Agreement (the "Front-end Fee").
+
+(b) The Borrower shall pay the Bank a commitment charge on the
+Unwithdrawn Loan Balance at the rate specified in the Loan Agreement
+(the "Commitment Charge"). The Commitment Charge shall accrue from
+a date sixty days after the date of the Loan Agreement to the respective
+dates on which amounts are withdrawn by the Borrower from the Loan
+Account or cancelled. The Commitment Charge shall be payable semi-
+annually in arrears on each Payment Date."
+
+3. In the Appendix, Definitions, all relevant references to Section numbers and
+paragraphs are modified, as necessary, to reflect the modification set forth in
+paragraph 2 above.
+
+4. The Appendix is modified by inserting a new paragraph 19 with the following
+definition of "Commitment Charge", and renumbering the subsequent paragraphs
+accordingly:
+
+"19. "Commitment Charge" means the commitment charge specified in the
+Loan Agreement for the purpose of Section 3.01(b)."
+
+5. In the renumbered paragraph 49 (originally paragraph 48) of the Appendix, the
+definition of "Front-end Fee" is modified by replacing the reference to Section
+3.01 with Section 3.01 (a).
+
+6. In the renumbered paragraph 68 (originally paragraph 67) of the Appendix, the
+definition of the term "Loan Payment" is modified to read as follows:
+
+"68. "Loan Payment" means any amount payable by the Loan Parties to the
+Bank pursuant to the Legal Agreements or these General Conditions, including
+(but not limited to) any amount of the Withdrawn Loan Balance, interest, the Front-
+end Fee, the Commitment Charge, interest at the Default Interest Rate (if any), any
+surcharge, any prepayment premium, any transaction fee for a Conversion or early
+termination of a Conversion, the Variable Spread Fixing Charge (if any), any
+premium payable upon the establishment of an Interest Rate Cap or Interest Rate
+Collar, and any Unwinding Amount payable by the Borrower."
+
+7. In the renumbered paragraph 73 (originally paragraph 72) of the Appendix, the
+definition of "Payment Date" is modified by deleting the word "is" and inserting
+the words "and Commitment Charge are" after the word "interest".
