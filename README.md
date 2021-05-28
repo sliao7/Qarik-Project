@@ -25,3 +25,12 @@ With cleaned full-text extracted, we set about finding features that could be co
 The World Bank has a [database of information about projects](http://search.worldbank.org/api/v2/projects) which is accessible via an API. However, the loan agreements are not linked to the entries in this database. We were able to match many of the agreements to projects with high confidence by using fuzzy string matching on the project names, and from the project database find the economic sector corresponding to these agreements. However, many more documents remained unmatched. This provided an opportunity to build a model that uses information from the agreements themselves to predict the project sector. 
 
 ## Results
+
+### Sector Classification
+We built models to classify agreements by their primary sector, [as categorized by the World Bank](https://projects.worldbank.org/en/projects-operations/project-sector). Our initial models were unsupervised, and predicted the sector based on computed similarities between embeddings of the project name and description, and embeddings of the sector and subsector names. The best of these models used pretrained Word2Vec embeddings of the relevant words in the documents, and computed the average similarity between words in the project description and name and words in the sector name. It attained an accuracy, based on the matched data from the World Bank database, of 47% over 11 classes, significantly better than chance, but still wrong more often than not.
+
+We also used the subset of projects we were able to match with the World Bank database to train a supervised model. These models used features produced by simple document embeddings of the project names and descriptions. We constructed tf-idf vectors for each document, and built a [latent semantic indexing (LSI)](https://en.wikipedia.org/wiki/Latent_semantic_analysis#Latent_semantic_indexing) model to reduce the vectors to a topic space that identifies some correlations between words. We then used these embeddings as inputs to a number of simple classifier models. An ensemble of three classifiers (a random forest, a logistic regression, and a kernel support vector machine) was able to achieve 76% accuracy over 10 classes on a held-out test set. (One class only had 6 labeled examples, so we dropped it from the model.)
+
+![Confusion matrix for the ensemble model](/classification/confusion_matrix.png)
+
+### Data Analysis
