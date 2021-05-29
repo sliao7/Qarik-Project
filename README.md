@@ -1,6 +1,5 @@
-# Qarik-Project
+# Qarik-Project ([slides](https://github.com/xushuo0/Qarik-Project/blob/main/TEAM%2042%20Moonstone.pdf))
 ### Authors: Xiaoyan Ding, Jakob Hansen, Shasha Liao, Shuo Xu
-
 ## Actionable Insights
 
 See our [executive summary](https://docs.google.com/document/d/103wyjY1yCgHlta1DPt_mIkyS_IjtCZd1y-twFFdCzpI/edit?usp=sharing) for a brief overview of what we've done and why you should care.
@@ -45,7 +44,13 @@ One major signal we found in the data was a marked increase in the total amount 
 ![Total loan amounts by sector from 1999-2019](/visualizations/sector_agreement_amounts.png)
 
 
-Code to generate plots is in the folder `visualizations`.
+We applied Named Entity Analysis tools from [Google Cloud Platform](https://cloud.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1009892&utm_content=text-ad-none-any-DEV_c-CRE_491414382407-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Storage%20~%20Cloud%20Storage_Cloud_General-KWID_43700060017821810-aud-388092988201%3Akwd-49842666111&utm_term=KW_clouds%20google-ST_clouds%20google&gclid=CjwKCAjwqcKFBhAhEiwAfEr7zdP85mX9Sk3-02psGvLuCkLVrrydkAIToS5RbBGBJj6yJBLhMT_U2hoCsuYQAvD_BwE&gclsrc=aw.ds) and extracted the total amount of the loans with the corresponding currency and then converted all the loan amounts into the current US dollars. This allowed us to compare the total amount of loans of different borrower countries. 
+![Loan Amount Map](https://github.com/xushuo0/Qarik-Project/blob/main/visualizations/total_loan_amounts_world_map.png)
 
+It is also interesting to see if these loans really helped the developing countries increase their economy. We downloaded the time series GDP data from the [World Bank Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and compared it with the total loan amounts for the top 10 borrower countries. The plot showes a positive correlation between the loan amounts and total GDPs.
+<p align="center">
+  <img src="https://github.com/xushuo0/Qarik-Project/blob/main/visualizations/loan_amounts_and_total_GDP.png" alt="Sublime's custom image"/>
+</p>
 
+Code to generate plots can be find [here](https://github.com/xushuo0/Qarik-Project/tree/main/visualizations).
 
